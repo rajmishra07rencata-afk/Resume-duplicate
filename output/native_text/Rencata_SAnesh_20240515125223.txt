@@ -1,0 +1,210 @@
+Name: S.Anesh
+Email: anesh_aoi@hotmail.com 
+Mobile: 9940088428
+
+Objective
+
+To become a part of a dynamic and reputed organization that offers challenging opportunities.
+To focus my work towards understanding and development of software.
+
+Career Summary
+
+Result oriented professional with 7+ years of software development on Microsoft Technologies.
+
+Programming Techniques and Language Known
+
+C#
+Asp.net 4.5
+Asp.net MVC-4/Entity Framework-6/LinQ
+JQuery
+SQL Server 2016
+WebServices/WCF
+SVN/TeamFoundationService
+
+Companies Worked With:
+
+Company 1-CodeMantra pvt ltd
+
+Working with codemantra pvt ltd from july 13 2016 to till date as Senior Software Engineer
+
+Client: Bloomsbury Publishing
+
+Client Profile:
+
+Bloomsbury India upholds Bloomsbury Publishing’s tradition of publishing books of the highest quality in Fiction, Non-Fiction, Children’s, Academic, Business, and Education by both Indian and international authors. Bloomsbury Products include,
+
+Berg Fashion Library
+Bloomsbury Collections
+Bloomsbury Fashion Central
+Churchill Archive
+Cooked
+Drama Online
+
+
+Roles:
+
+Work in a development team to develop integrated ASP.NET MVC-4 applications.
+
+Perform design and development of web based services and applications.
+
+Work closely with quality assurance team to ensure delivery of high quality and reliable web applications.
+
+Develop databases including queries, triggers and stored procedures.
+
+Monitor application performance at post-deployment stage and make necessary changes if needed.
+
+Interact with customers to define project features and requirements.
+
+Research and develop prototypes of complicated design solutions.
+
+Perform code reviews and provide necessary corrections.
+
+Develop coding guidelines for the ASP.Net development team.
+
+Perform application design, development and deployment based on industry’s best practices.
+
+Resolve application defects and issues in a timely manner.
+
+Prepare technical documents as per established project standards.
+
+Conduct application testing based on test cases and test plans.
+
+Works collaboratively with Project Manager to ensure timely delivery of project.
+
+Coordinate with Business Analysts and Test Analysts to ensure that the developed application meets technical requirements and client needs.
+
+Gather customer software requirements and develop related software applications and programs.
+
+Research and evaluate software related technologies and products.
+
+Design and develop testing and maintenance procedures and activities.
+
+Develop and write high quality coding that meets customer requirements.
+
+Create software documentation and update existing documentation.
+
+Design, develop and implement critical applications in a .Net environment.
+
+Assist and support other team members on multiple projects.
+
+Drive team members to keep up with projects deadlines and within the clients’ budgets.
+
+Implement best practices, standards and procedures including quality and delivery methodologies.
+
+Ensure compliance with the documented software processes and procedures throughout the life cycle of software products.
+
+Develop and document design, source base and architecture.
+
+Maintain and manage existing source bases.
+
+Design, develop and implement solutions to users’ needs and requirements.
+
+Review and improvise code.
+
+Run tests and fix bugs.
+
+Coordinate with architects and business analysts to determine functionalities.
+
+Develop technical solutions to complex business problems.
+
+Design and develop technical solutions for enterprise-level projects.
+
+Design and develop data analysis solutions.
+
+Design and develop logical and physical data models that meet application requirements.
+
+Tools and Framework used:
+
+C#,Asp.net MVC-4,EntityFramework-6,JQuery,LinQ,WCF,WebServices,SQL Server 2016,SVN
+
+Company 2 – PERI  Software Solution (Payroll)
+
+Client : GOVERNMENT DATA CENTRE
+
+Worked with Government Data Centre from July 2012 to May 2016 as Assistant Programmer.
+
+Client Profile:
+
+The main objective is analysis of financial data and Central Budget Data Processing.
+
+It provides Management Information System for the following functions -
+Contributory Pension Scheme ,Processing of results for the examinations conducted by the Directorate of Government
+
+Roles:
+
+Understand and evaluate SQL and or Data Modeling.
+
+Design and develop T-SQL procedures, query performance tunings .
+
+Develop underlying data models and databases.
+
+Develop, manage and maintain data dictionary and or metadata.
+
+Ensure compliance of standards and conventions in developing programs.
+
+Design, develop and implement complete life cycle of data warehouses.
+
+Translate business requirements into software applications and models.
+
+Resolve and troubleshoot complex issues.
+
+Perform and execute data extraction, transformation and loading using ETL tools.
+
+Maintain and manage all versions of data models for production, testing and developing databases.
+
+Help write and optimize in-application SQL statements
+
+Ensure performance, security, and availability of databases
+
+Prepare documentations and specifications
+
+Handle common database procedures such as upgrade, backup, recovery, migration, etc.
+
+Profile server resource usage, and optimize and tweak as necessary
+
+Collaborate with other team members and stakeholders
+
+Tools and Framework used:
+
+C#,Asp.net 4.5,LinQ,WCF,WebServices,SQL Server 2016,Crystal Report,Javascript
+
+
+Company 3 – QUANTAS SYSTEMS
+
+Worked with Quantas Systems from Jun 2009 to Jun 2012 as Junior System Analyst.
+
+Roles:
+
+Perform analysis, design and develop computer programs and applications.
+
+Perform unit testing and maintain software programs and applications.
+
+Perform coding data acquisition routines and access issues.
+
+Develop custom reports for large data sets.
+
+Assist and support in integration of GIS analysis applications.
+
+Develop and deploy unit testing, load testing and tracking system software support.
+
+Configure, maintain and support production databases.
+
+Develop and implement application to application data feeds.
+
+Configure and maintain multi-site data processes and issues including synchronization.
+
+Academic Profile:
+
+Bachelor of Technology in Information Technology from Dr.M.G.R University in 2008
+HSC in Kingsley Matric Hr.Sec School in 2004
+SSLC in DonBosco Matric School in 2002
+
+Personal Information
+
+DOB: 23rd March, 1985 
+Languages known: English,Tamil
+
+
+Date:                                                                                                                                
+
+Place:

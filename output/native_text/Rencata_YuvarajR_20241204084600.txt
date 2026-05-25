@@ -1,0 +1,122 @@
+Yuvaraj R
+Junior Developer
+An experienced Junior developer with a demonstrated history of working in the information technology with expertise in
+Asp.net, C# and ADO.NET, Mysql Development. Having experience of almost 2 years. Have been actively involved in taking
+responsibilities of various activities and completes them within short span of timeframe and have been in various flavors
+of development activities.
+yuvarajrum@gmail.com
+(+91) 8946084190
+Chennai
+WORK EXPERIENCE
+LEADTECH SOLUTIONS PVT LTD
+November 2021 – Present.
+Freight Forwarding
+
+The Project deals with the online freight forwarding business. Freight
+forwarding is done by Ocean Imports and Exports, Air Imports and
+Exports.
+
+The users can generate Quotation, Booking, Job, Invoice, Our BL, Liner
+BL, BL Release, Outstanding, Cargo and Containers.
+
+One can easily take monthly reports, volume and revenue by customer
+wise and by port wise and many more.
+
+The main aim of developing this project is to bring the users online from
+various branches, and store the data in one single location.
+November 2021 – Present.
+Technology : ASP.NET, C#, ADO.NET, Mysql .
+WareHouse
+
+Planning of inbound and outbound operations and assigning request
+resources of ensure no deviations from agreed through put time.
+
+Handling of product with proper stacking as per stacking norms
+shipping marks, binding with tapes without damage to product cartons
+and putaway.
+
+Planning of outbound movement as per guidelines and with due
+considerations for customer priorities, appointment schedule and
+adhering to order specific requirements.
+November 2021 – Present.
+Technology : ASP.NET, C#, ADO.NET, MYSQL.
+PROJECTS
+
+Client
+:
+Logistics
+
+Duration
+:
+2 Years
+
+Project
+:
+iFACT – Integrated Freight forwarding, Agency and
+Cargo, WareHouse.
+
+Role
+:
+Junior Developer
+PROJECT DESCRIPTION
+
+Freight forwarders check that all freight contains the proper items and
+material before giving the shipping company permission to begin its
+delivery route.
+They act as the point of communication for companies to contact with
+shipping questions regarding their delivery of manufactured goods.
+
+A Warehouse Worker prepares and receives orders as well as moves,
+stocks, scans and records product inventory.
+They can work internally for a company or outside company to help
+ensure the delivery of products to customers or businesses.
+TECHINICAL SKILLS
+
+Language
+:
+HTML5, CSS3, JQuery, ASP.NET, C#, ADO.NET, MYS
+
+Framework/Library
+:
+Visual Studio 2022
+
+Version control
+:
+Git / GitHub
+EDUCATION
+MCA(Master of Computer Applications)
+SASTRA DEEMED UNIVERSITY
+2018 – 2020
+PERSONAL DETAILS
+
+DOB
+:
+14th May, 1998
+
+Father Name
+:
+Rajendran K
+
+Gender
+:
+Male
+
+Nationality
+:
+Indian
+
+Language Known
+:
+Tamil, English
+
+Address
+:
+G1, Rose Enclave Apartment, TNGO
+Colony 1st street, Adampakkam, Chennai
+-600088.
+DECLARATION
+I hereby declare that the above mentioned information is true to best of my knowledge and I bear the responsibility for the comments of the above mentioned
+particulars.
+Date:
+Place:
+( R YUVARAJ )

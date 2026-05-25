@@ -1,0 +1,75 @@
+8825960915
+https://www.linkedin.com/in/
+monikasivasankar/
+monika.s18@wipro.com
+SKILLS 
+Python Scripting
+RoboQATS Framework
+Robot Framework
+LINUX
+C++
+HTML,CSS
+LANGUAGES
+English
+French
+Tamil [Native]
+MONIKA .S
+AUTOMATION TEST ENGINEER
+PROFILE
+Self - Motivated and Hardworking professional with
+overall 2 years of hands-on experience in Python Scripting
+using RoboQATS Framework. Seeking a challenging role
+where I can use my skills to the advantage of the company
+while having the scope to develop my own skills
+WORK EXPERIENCE
+Automation Test Engineer
+WIPRO, Chennai, India
+Designed and implemented performance tests and
+scripts according to the test plan given by the customer.
+Worked in Routing Protocols like OSPF,ISIS,MPLS.
+Scripted using Yaml and Robot file.
+Executed 
+using 
+MobaXterm 
+with 
+RoboQATS
+framework.
+Have good knowledge and experience in handling
+traffic tool such as IXIA, Wireshark and Spirent
+TestCenter
+Expert in handling tools like JIRA and Gerrit.
+CERTIFICATIONS
+Puducherry, India.
+“C and C++ Programming Language” from ocean
+academy
+Robot Framework 2022 Test Automation – Level 1
+(Selenium) by Bryan Lamb on Udemy.
+Introduction to Artificial Intelligence - IBM (cousera)
+Cybersecurity & Cybersecurity essentials - Cisco(online)
+EDUCATION
+B.TECH - Electronics and Communication Engineering
+Manakula Vinayagar Institute of Technology.
+[Affiliated to Pondicherry University].
+2017 - 2021
+CGPA - 7.74
+HSC
+St. Joseph of Cluny, Puducherry.
+2017
+81.33%
+SSLC
+St. Joseph of Cluny, Puducherry.
+2015
+96.6%
+PROJECT
+FACIAL EMOTION DETECTION USING CONVOLUTIONAL NEURAL NETWORKS
+With a CNN, an input image is filtered through convolution layers to produce a
+feature map. This map is then input to fully connected layers, and the facial
+expression is recognized as belonging to a class based on the output of the FE
+classifier.
+Domain : Image Processing
+DECLARATION
+I hereby certify that the above given information is true and correct to the best
+of my knowledge and belief.
+Place: Puducherry
+Date: 29/11/2023 
+Monika .S

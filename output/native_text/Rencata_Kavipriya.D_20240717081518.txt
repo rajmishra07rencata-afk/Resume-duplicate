@@ -1,0 +1,113 @@
+Contact 
+Phone 
+9176856122 
+Email 
+kavipriya20009@gmail.com 
+Address 
+No.2/666, Mogappair West, 
+Chennai - 37 
+ 
+Education 
+2018-2021 - 75% 
+B.Sc - Computer Science 
+Shri Krishanaswamy College for Women 
+ 
+2016-2018 - 60% 
+HSC 
+Government Girl’s Hr. Sec. School 
+ 
+Skills 
+MSSQL (SSMS), MYSQL Database 
+PostgreSQL, PLSQL 
+SQL Server 
+Database Design 
+Databae Troubleshooting 
+Problem-solving 
+Query Optimization 
+Documentation 
+Data Migration & Upgrades 
+Database Management 
+Software Installation 
+ 
+Programming Languages: 
+Knowledge HTML,CSS, 
+Java script, Vueify, Elixir (Basics 
+Operating Systems: 
+Windows, Linux. 
+Tools: 
+MySQL Workbench, MSSQL, 
+PostgreSQL, DBeaver, SQL Server. 
+ 
+Language 
+Tamil 
+English 
+ 
+Hobbies 
+ 
+Music 
+Drawing 
+Dress Stitching 
+Typing 
+Kavipriya. D 
+Software Engineer 
+I am a results-oriented SQL Developer with 2 years and 6 months of experience in 
+designing, developing, and optimizing databases. I am actively seeking a dynamic role as a SQL 
+Developer where I can apply my robust analytical abilities and proficiency in SQL programming, 
+database administration, and performance enhancement to make a valuable contribution to an 
+organization's achievements. 
+Experience 
+ 
+ 
+Aug 2021- May 2023 
+Align Associate -Ashok Nagar, Chennai 
+MySQL Database Developer & MSSQL Support 
+I have over 2 years of practical experience in designing and maintaining databases using MS 
+SQL and MySQL. 
+I possess strong analytical and problem-solving abilities, enabling me to analyze complex 
+business requirements and create effective database solutions. 
+I also have experience in developing applications with MSSQL, MySQL, and PostgreSQL, and I 
+excellent in using tools like SSMS for problem-solving. 
+I'm proficient in writing queries, functions, and stored procedures in SQL Server and MySQL 
+Workbench. 
+Additionally, I have experience in software development using MySQL Workbench 8.0 and am 
+skilled in writing joins and sub-queries. 
+ 
+ 
+Project Experience 
+ 
+1. ESCON - LIFT PROJECT 
+I possess a wealth of experience in crafting intricate SQL queries, adeptly utilizing Joins, Subqueries, set 
+operators, and various functions. 
+In addition, I have a proven track record of creating and managing database objects, including Tables, Views, 
+and Database Links, tailored to meet specific business needs. 
+I've also developed custom Packages to address unique requirements, written diverse SQL queries, and 
+stored procedures and functions. 
+When constructing complex SQL queries, I routinely employ Analytic functions, Aggregate functions, and 
+Case Statements to ensure optimal data manipulation and retrieval. 
+ 
+2. KML- KRISHNA MARUTHILIMITED 
+I oversee the monthly data flow within the SAP Server, ensuring the smooth transfer and management of 
+information. 
+Additionally, I’ve developed procedures specifically designed to fetch data for front-end applications. 
+My responsibilities also encompass crafting both Data Definition Language (DDL) and Data Manipulation 
+Language (DML) commands for the creation of new database objects. 
+ 
+3. JEWELLERY – DASHBOARDBOTS (Support) 
+I provide assistance to the Oops team by effectively addressing and resolving application issues. 
+My expertise extends to a strong grasp of relational database concepts, and I excel in SQL programming, with 
+a focus on monthly data retrieval in MSSQL. 
+ 
+July 2023- Present 
+Cognitive Platform Solutions - Kodambakkam, Chennai 
+Software Engineer 
+Designed and maintained database schemas, ensuring data integrity and efficient data retrieval. 
+Developed complex SQL queries to extract and manipulate data for reporting and analysis. 
+Conducted performance tuning of SQL queries to improve database efficiency. 
+Provided production support and resolved database – related issues in a timely manner. 
+ 
+ 
+CERTIFICATION 
+ 
+Completed Certification in DCTT (Diploma Computer Teacher Training) with First Class. 
+Certificate in English Typing Senior with First Class. 
+Certificate in Tamil Typing Junior with First Class.

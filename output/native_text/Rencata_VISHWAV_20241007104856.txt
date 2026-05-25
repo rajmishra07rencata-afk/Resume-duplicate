@@ -1,0 +1,98 @@
+VISHWA  V                                                             
+      
+ 
+ 
+SUMMARY 
+Highly dedicated entry-level professional seeking an opportunity to utilize the knowledge of Software skills, 
+creating and Designing of software in test driven  Environment. Ability to translate business requirements 
+into innovative software solutions. Excellent teamwork, interpersonal and communication skills. Looking 
+to start a career as an entry-level professional with a reputed company. 
+ 
+ 
+ EDUCATION 
+ 
+BACHELOR OF ENGINEERING , COMPUTER SCIENCE AND ENGINEERING           Jul 2018 - Aug 2022 
+ANNAMALAI UNIVERSITY,CHIDAMBARAM  
+Percentage: 85% 
+OGPA :  8.52 
+ 
+HSC, BIOLOGY-MATHS 
+Jun 2017 - Apr 2018 
+DHAVA AMUDHAM MATRIC HR.SEC SCHOOL,SRIMUSHNAM 
+Percentage: 77% 
+ 
+SSLC, GENERAL 
+Jun 2015 - Apr 2016 
+DHAVA AMUDHAM MATRIC HR.SEC SCHOOL,SRIMUSHNAM 
+Percentage: 89% 
+ 
+SKILLS 
+Programming languages 
+ C,C++,Python,HTML,CSS,C#,OOPS,Data Structure and Algorithm 
+ 
+Databases  
+ SQL, MySql, Firebase, AWS, Google cloud 
+ 
+ Computer  Networking 
+ Knowledge of WAN/LAN Technologies,TCP/IP 
+ 
+Professional Skills 
+Problem Solving and Logical Thinking,Written and Verbal Communication Skills, People Management, Time 
+management,Team Player, and interpersonal Skills 
+ 
+Documentation & Presentation  
+  MS( Oﬃce,Word,Excel) ,Microsoft Powerpoint ,Google Docs,Sheets,Slides,Canva 
+ 
+Technical   &  Non-Technical   
+  VsCode, Software Development Lifecycle(SDLC), ERP, Customer Relationship 
+ 
+ 
+ 
+ 
+CONTACT DETAILS 
+Mail ID    vishwasrm777@gmail.com  
+Mobile      +91 6379110147   
+Address : 
+Srimushnam,Cuddalore,Tamilnadu-608703,India  
+Linkedin: linkedin.com/in/vishwa-v-288081217  
+Github: github.com/Vishwajr 
+ 
+PROJECTS 
+ 
+IoT BASED HOME AUTOMATION SYSTEM USING VOICE CONTROL 
+ 
+  In this project the system intended to control electrical appliances and devices in house by Voice and Switch 
+mode Control to assist and provide support in order to full fill the needs of elderly and disabled in home.It also   
+used in Small oﬃce,malls,homes. 
+ 
+FIRE ALARM INDICATOR USING ARDUINO IN IoT 
+ 
+A flame sensor is a kind of detector it detect the occurrence of fire or flame.It includes an alarm system,natural 
+gas line,fire suppression system. 
+      
+ This sensor is used in industry boilers,malls,restaurants.This sensor detects flame more faster than other  
+techniques. 
+ 
+ EXTRA-CURRICULAR  ACTIVITIES 
+Campus Ambassador 
+Feb 2022 - Jun 2022 
+IMUN Programme Network 
+ 
+Volunteer(EAC) 
+Jan 2020 - Feb 2020 
+Entrepreneurship Awareness Camp,Dept.of CSE,Annamalai University 
+ 
+ 
+  
+COURSES 
+Software Testing 
+Sep 2021 - Dec 2021 
+Software Testing and Core Java(Online),Besant Technologies,Chennai 
+ 
+Computer Network 
+Oct 2022 - Dec 2022 
+Networking(Online)-Cisco Networking Academy 
+ 
+LANGUAGE KNOWN 
+Languages 
+TAMIL,ENGLISH, (BEGINEER IN HINDI AND MALAYALAM)

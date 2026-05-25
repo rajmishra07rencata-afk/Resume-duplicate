@@ -1,0 +1,102 @@
+SecurityAnalyst
+
+
+Profile Summary
+Having 6+ Years of IT experience, which includes 1+ Years of experience as a Network administrator and 4+ Years in Cyber Security Operations Center and Incident Response
+Monitoring organization’s network and host activity for security breaches and violations.
+Collaborates with technical and threat intelligence analysts to provide indications and warnings, and contributes to predictive analysis of malicious activity
+Perform Log Analysis/ investigation (Malware, N/W intrusions, Phishing & spam mail) of security incident.
+Feasibility engagements with business groups to ensure security requirements are discussed and incorporated early in the process. 
+Analysis work involves performing basic monitoring, correlation and investigation on detected events, escalating events to appropriate teams for further investigations.
+Root causes analysis for the infection (Network/Host Malware investigation) and providing mitigation.
+Analyze vulnerability management reports / external threats and recommend remediation actions based on application risk profile and environment. 
+Responsible for management of information security strategy, solutions, and ongoing technology refresh and enhancements 
+Develop and maintain measurable security metrics program, Access performance to ensure that it meets the present and future needs of the business
+Providing support for issues/incidents reported on end user machines in order to avoid the misuse of resources/network being compromised.
+Assesses risks and identifies issues and solutions to timely and efficiently achieve program goals or project objectives while maintaining security standards. 
+Maintain an awareness of business, technical, architecture, infrastructure, and end user support issues and act as sounding board to aid in the development of creative solutions.
+Incident assignment and response using JIRA, Service Now, Global incident response ticketing system
+Monitoring Data Loss Protection/Customer data protection incidents based on run book analysis
+Performing reviews of query’s and fine tuning based on the requirements.
+Good in Vendor and client management.
+Willingness/flexibility to work in different shift timings to support customers at different parts of the world.
+Worked with 24x7 production control support and on-call support.
+
+
+
+Work Experience
+Currently working as Security Analyst with Capgemini from Dec 2017 to till Date.
+Worked as Security Analyst with Qualcomm India Pvt ltd from Oct 2016 to Nov 2017
+Worked as Network Admin with Tech Mahindra from Aug 2015 to Oct 2016
+
+Academic Qualification
+
+B. Tech from N.I.E Macherla in 2010
+
+
+
+
+   Areas of Expertise
+
+Technical Skills:
+
+SIEM                              : ArcSight 6.8c.6.11, Qradar.
+Proxy Server                 : McAfee Web gateway, Web Sense
+Endpoint                       : Symantec Endpoint Protection, Defender ATP.
+IPS/IDS                           : Checkpoint, Sourcefire
+Ticketing Tool	             : BMC Remedy, Jira, ServiceNow
+Email Gateway             : Proofpoint
+Other Tools                   : Arbor (DDOS mitigation), Cisco Umbrella, O365 S&C, Mimecast
+
+Professional Experience
+
+Organization Name: Capgemini Pvt Ltd, Bangalore
+Designation: Security Analyst 
+Duration:  Dec 2017 to present 	
+
+Roles & Responsibilities:
+Handle the complete incident management framework cycle right from incident identification, incident containment, performing root cause analysis, suggestion and implementation of preventive and corrective controls and perform network analysis as needed on a case to case basis
+ Defining and assigning cases to required alerts.
+ Filtering the events by defining and applying Filters at different levels of an events.
+Analysis of Phishing Mails and Spam related activities and notifying to the users.
+Escalating to client based on suspicious traffic.
+Checking the Computer status and risk logs for client on regular basis, and scheduling scans. Configuring and deploying HIPS policies in SEPM.
+Ability to drive change through innovation & process improvement, and to manage projects and drive action items with customers and cross-functional peers.
+And blocking malicious URLs and sender recipients in Cisco Umbrella and Mimecast
+ Raising Incidents if found any suspicious or illegitimate and notifying to Client.
+ Updating SOPs as per modifications.
+Develop and validate related flows matrices and configuration standards for each provided technology with support of provider.
+Daily check on malicious IOC's shared by Cyber Threat Intelligence.
+ Providing 24x7 and L-1 on-call support and coordinating with required Teams to resolve the high severity issues.
+Displaying the event data in different layouts by defining Dash Boards and Data Monitors.
+Defining the Reports using Queries, Report Template and running the reports.
+Checking the overall system health and reporting it to the Admin Team on daily basis.
+Working on Real time network traffic by analyzing the logs from IDS and Firewalls through SIEM tool
+  Checking   Connectors health status and reporting it to the Admin team
+Identifying the detailed analysis of various security related events like Phishing events, Spoofing events, DOS-DDOS events, SQL Injections events, Ransom ware attacks
+Blocking Malicious URLs and domains in Cisco Umbrella to protect the environment from suspicious activities
+Worked on O365 alerts and Defender ATP alerts.
+ 
+
+
+Organization Name:  Qualcomm
+Designation: Security Analyst
+Duration: OCT 2016 to Nov 2017
+
+Roles & Responsibilities:
+Providing tuning recommendations for rules sets for policies based on findings during investigations or threat information reviews.
+Coordination with respective team for remediating the infected systems.
+Identifying and respond to cyber security incidents, including analysis of event data, to identify and validate security breaches.
+Involves communicating with IT team and making sound recommendations on mitigation and prevention techniques.
+Scanning host systems for vulnerabilities & patching them to maintain the compliance level.
+Security Incident Response and closure of Incidents within SLA using Service Now & Service Desk
+Device troubleshooting for the non-reporting devices and coordination with respective team.
+ Monitors security blogs, articles, and reports and remains current on the ability to predict, detect, and respond to the latest security risks, threats, and technology trends.
+Been responsible for providing the appropriate teams with guidance on security issues that need to be remediated.
+Working in Offshore SOC team. Monitoring of SOC events, detecting and preventing the Intrusion attempts. 
+
+
+Declaration 
+I hereby declare that all the statements given by me are true & correct to the best of my knowledge and belief
+Place:                                                                                                                    Bharath Kumar
+Date:

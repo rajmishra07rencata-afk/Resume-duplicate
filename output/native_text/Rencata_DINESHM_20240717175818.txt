@@ -1,0 +1,108 @@
+No.11, Thiruvethiamman kovil
+street, Thiruvanmiyur, chennai-41.
+DINESH M
+i O S  D e v e l o p e r
++91 8122620276
+dineshm19990212@gmail.com
+CONTACT
+Looking for a growth oriented organisation that will utilize my
+skill and knowledge. I am working a position driven by challenges
+which provide an environment to be more creative, to work both
+independently and as a part of a team so that I can utilize and
+expand my knowledge and skill
+PERSONAL INFO
+TECHNICAL SKILLS:
+Knowledge in Notification (Push &
+Local) .
+Api, REST API, postman, google
+location.
+Knowledge in Appstore Submission.
+Git and GitHub.
+Good knowledge on UI designs.
+SOFTWARE EXPOSURE: 
+Programming Language: C and
+Swift.
+IDE: Xcode.
+Framework: Cocoa Touch. 
+Web services: JSON Parser. 
+Database: SQLite
+Operating System: MAC OS
+WORK EXPERIENCE
+Fort InfoCorp
+iOS Developer (July/2021 - Till Now)
+Developed and maintained iOS Application using
+swift.following best coding practices and design principles.
+Collaborated with the design and product teams to understand
+project requirements.
+Integrated REST APIs for data Retrieval and updated,
+ensuring seamless communication with backend services.
+Implemented Tableview, Collectionview, location access,
+TabBar. 
+Implemented user interface using builder and programmed
+custom ui components as needed.
+Performed thorough testing and debugging to identify and fix
+bugs, ensuring the stability and performance of the application.
+Optimized app performance by identifying and resolving
+bottlenecks related to memory management, network requests,
+and database queries.
+Maintained clear and Detailed Documentation for future
+reference and knowledge sharing.
+Responsibilities:
+PERSONAL SKILLS:
+Willingness to pick up any new project-related techniques.
+Decision making, team management, and project management
+are all important skills to have. 
+Writing clean, efficient, and reusable code.
+PROJECT 1:
+Zillion - Rewards & Loyalty program
+DESCRIPTION
+Zillion a Multi Branded Loyalty program that
+Enable you to earn Redeem Coins at Multiple
+categories and brands with a wide range of
+Offline and Online partners.
+Device :- iPhone
+Environment & Tool: Swift Storyboard 
+Home Foodi - Food Order App
+DESCRIPTION
+Home Food is authentic and Traditional Home
+food, made by the finest home chefs , taste,
+health, hygiene, and cleanliness, variety of
+cuisines and Recipes for food, cakes and sweets.
+Device :- iPhone
+Environment & Tool: Swift Storyboard 
+PROJECT 2:
+DINESH M
+DATE:
+PROFESSIONAL SUMMARY
+Highly motivated and results-driven iOS Developer
+with 2+ years. 
+Experience in the development and delivery of high-
+quality iOS applications. Skilled in Swift with a deep
+understanding of iOS frameworks, architecture, and
+design patterns. 
+Proven ability to translate project requirements into
+efficient and scalable code, while adhering to coding
+standards and best practices. 
+Strong collaboration and communication skills,
+working effectively with cross-functional teams to
+ensure the successful execution of projects. 
+Passionate about staying updated with the latest
+trends and technologies in iOS development,
+continuously expanding skillset and seeking
+opportunities for professional growth. 
+Committed to delivering exceptional user
+experiences through clean, well-structured code and
+intuitive app interfaces. 
+Excited to contribute to dynamic and challenging
+projects that push the boundaries of mobile app
+development.
+App link: 
+https://apps.apple.com/in/app/zillion/id6447864577
+App link: 
+https://apps.apple.com/in/app/homefoodi-homemade-
+food-app/id1492850345
+Dhanraj Baid Jain College (Affiliated to Madras
+University) with 74% 
+(2017-2020)
+EDUCATION
+B.SC COMPUTER SCIENCE

@@ -1,0 +1,120 @@
+VISHNUPRIYA  GOKULRAJ 
+ 
+ 
+ 
+ 
+            Mobile: 8925949989 
+ 
+ 
+ 
+ 
+ 
+ 
+                                         vishnupriyag1506@gmail.com  
+ 
+ 
+Professional Summary 
+ 
+o 5.6 Years of industry experience in Software Manual & Automation testing  
+o Experience in the entire Software Development Life Cycle (SDLC) and Software Testing Life 
+Cycle (STLC) Methodologies 
+o Good Experience in Agile-Scrum Methodologies. 
+o Good knowledge in Regression testing and Functional testing.  
+o Experience in Defect rising tool JIRA. 
+o Having knowledge in Mobile application testing using GigaFox tool. 
+o Good experience in testing application compatibility on different browsers.  
+o Participated in Peer Reviews of functional specification and test plans/test cases. 
+o Experience in developing, executing, and maintaining Test Cases based on requirements.  
+o Knowledge in Defect management & Traceability Matrix. 
+o Good knowledge in UI, Functional, Re-Testing and Regression Testing. 
+o Involved in preparing Weekly Status Reports and Daily Status Reports. 
+ 
+Work Experience: 
+ 
+o Currently working as Senior Software Engineer in Photon Interactive Private Limited  
+ 
+o Worked as Software Test Engineer in Oriana Inforamtion Technologies LLP (July 2016 to 
+OCT 2020). 
+ 
+Academic Qualification: 
+ 
+Graduated M Sc (Software Systems) from Sree Saraswathi Thiyagaraja College on 2016, 
+Coimbatore. 
+ 
+Project Details #1 
+ 
+Company Name 
+: Photon Interactive Private Limited 
+Client            
+: Toyota Financial services - KintoLink 
+Role              
+: Senior Software Engineer 
+Technology     
+: QA Manual & Automation (TALOS – UI ) Supporting  Role  
+ 
+ 
+Description : 
+KINTO operates "Mobility Market", which is a website that offers a diverse range of mobility 
+services, including the KINTO ONE car subscription service, which conveniently combines various 
+car-related expenses such as automobile insurance and automobile taxes in a single, fixed-sum 
+monthly fee. "KINTO ONE" allows customers to drive one Toyota-brand vehicle over a three-year 
+period, and "KINTO SELECT" allows customers to drive six models of Lexus-brand vehicles over a 
+three-year period 
+Responsibilities : 
+o Analyses the User Stories and Acceptance criteria. 
+o Performed Manual Testing according to software requirement 
+o Prepare the quality checklist based on the project specification. 
+o Identifying end-to-end scenario, created manual Test cases in QTEST tool 
+o Involved in developing test planning as well. 
+o Categories the test cases as part of Smoke, Sanity, and Regression etc. 
+o Prepare the automation UI scripts TALOS. 
+o Raise and track defects until closure. Updating and maintaining test cases in test management 
+tool JIRA. 
+Project Details #2 
+Company Name 
+: Oriana information Technologies LLP 
+Client            
+:  Aegean Airlines 
+Role              
+: Software Test Engineer 
+Technology     
+: QA Manual & Automation  
+ 
+Description : 
+o Understanding and analysing the user stories. 
+o Prepare test scenarios and test data for different user stories. 
+o Identifying end to end scenario test cases and executed it manually. 
+o Evaluated and documented actual test results against expected results. 
+o Participate in scrum ceremonies such as sprint planning, daily scrum meeting, 
+review and retrospective. 
+o Reviewing the failures on daily build and prepare a document with screenshot 
+of the issue reported and send to client. 
+o Raise and track the defects until its closures. 
+ 
+ Project Details #3 
+Company Name 
+: Oriana information Technologies LLP 
+Client            
+:  RaboBank 
+Role              
+: Software Test Engineer 
+Technology     
+: QA Manual   
+ 
+Description : 
+o Understanding and analysing the user stories. 
+o Prepare test scenarios and test data for different user stories. 
+o Identifying end to end scenario test cases and executed it manually. 
+o Evaluated and documented actual test results against expected results. 
+o Participate in scrum ceremonies such as sprint planning, daily scrum meeting, 
+review and retrospective. 
+o Reviewing the failures on daily build and prepare a document with screenshot 
+of the issue reported and send to client. 
+o Raise and track the defects until its closures. 
+ 
+I hereby declare that all the above stated information is true to the best of my knowledge. 
+ 
+(VISHNUPRIYA GOKULRAJ) 
+ 
+Date :  
+Place :

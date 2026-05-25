@@ -1,0 +1,68 @@
+Career Objective
+To become part of the Challenging Organization that provides opportunities to work with diverse group of people thereby enhancing my knowledge in the field of Network Security 
+
+Professional Summary
+Have 6 Years of comprehensive experience in Planning, Designing, Deploying and Managing of Infrastructure Security Devices & Technology
+Experience on deploying and maintaining Firewall, web gateway, mail gateway and VPN Technologies
+Extensive experience in delivering projects, conducting business analysis to determine requirements, and planning for security implementation at the enterprise scale
+
+Professional Experience: 
+
+Company    :  Capgemini Technology                        			 Period  :  Mar 2021 -- Till
+Designation:  Security Consultant
+
+Working as a Firewall SME in the Industrial Cyber Security team
+Fine Tuning of the Firewall rule configuration as per the Cybersecurity standards and best practices
+Troubleshooting in the Firewall related issues which involves coordination with various stakeholders’ team
+
+
+Company     :  Accenture Technologies                      			 Period  :  Dec 2018 – Mar 2021
+Designation :  Security Delivery Analyst
+
+Worked in Shared environment and had opportunities to service multiple clients of different Organizational Unit
+Involved in Configuration/Modification, Troubleshooting of Existing Network connectivity in Firewalls and Endpoint Security hosted in the Public Cloud 
+Involved in Troubleshooting and upgradation of Trend Micro Deep Security Manger hosted in Microsoft Azure
+Worked in Upgradation of the PAN OS in the Palo Alto Firewalls to the recent version
+Assisted New joiners in terms of Technical and process for project delivery
+
+Company     :  Wipro Technologies                      			 Period  :  June 2016 – Dec 2018
+Designation :  Project Engineer
+	
+Currently working in GSMC - Shared environment as a Security Administrator 
+Configuring / Modifying Policies, Routes, NAT & other configuration in the devices as per the customer request
+Volunteered in improving network security by identifying and downsizing the vulnerabilities in pre-existing configuration
+Accomplished IOS upgradation and patch upgradation on security devices
+Analyzing & Fine-Tuning Pre-Existing Device configuration to improve the performance
+Develop and implement security backup and recovery plans to maintain reliable operations.
+
+Key Result Areas: 
+Worked towards the achievement with operational objectives of the group in a 7x24x365 environment
+Responsible for Configuring & Maintenance of Security Devices like Firewall, Mail Gateway & Proxy
+Maintaining SLA Norms based on the customer perspective & categorizing the incidents based on priority to restore the Normal service.
+Mentoring New Joiners and providing KT in the team to increase the overall performance
+
+Technical Skills: 
+Firewall :    CISCO ASA 5550, Fortinet - 620 D, 3600 C , Checkpoint- 4200, 15400, Palo Alto-3020, PA VM 300,  Cisco FTD 1140
+Trend Micro Deep Security 
+Mail Gateway: Cisco ESA, Symantec 
+Microsoft Azure Administration
+AWS Solution Architect Associate
+Certification:
+Palo Alto Certified Network Security Engineer (PCNSE)
+Certified Ethical Hacker (CEHv10)
+AWS Solution Architect Associate
+
+Academic Qualification
+
+
+Personal Details
+Father’s Name        :  Nagarajan P 
+Date of Birth           :  07-09-1994 
+Languages Known :  English,  Tamil 
+Marital Status         :  Single 
+Nationality              :  India
+
+Declaration: 
+I, hereby declare that all the above information provided is true to the best of my knowledge.
+
+PARAMASIVAN N

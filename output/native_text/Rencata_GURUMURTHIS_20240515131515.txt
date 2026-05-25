@@ -1,0 +1,129 @@
+GURUMURTHI S - 9943841842 - gurumurthisekar@gmail.com
+CAREER OBJECTIVE
+Seeking a position to utilize my skills and abilities in the Information Technology Industry that offers opportunities for professional growth with scope for innovation and creativity.
+PROFESSIONAL SUMMARY
+Over 5.7years of experience in software development with a solid background in a wide range of .NET development aspects in a business application context. My expertise includes all development stages, from initial analysis through design and execution. I am proficient in a variety of platforms and systems. In addition to my technical skills, I am a good communicator ,quick learner and team player. My ability to communicate well enables me to work effectively with clients to identify objectives and requirements for applications. Good Knowledge in Web API.
+TECHNICAL SKILLS
+Experience
+Working Details  :	
+Junior Software Developer in Power Technology solutions Pvt Ltd from April 2014 to  Jan 2018.
+Software Engineer in Magic Clothing Pvt Ltd from Jan 2018 to Till date.
+ Roles & Responsibilities	
+Analyse Project specific requirements.
+Responsible for front end design and development of  web application
+Developed web based asp.net, MVC with bootstrap
+Code maintenance in tortoise SVN 
+Deploying applications in web server(IIS)
+Production support and maintenance of web applications
+Communicate with the clients for requirements gathering, enhancement,knowledge transfer and project integration.
+
+
+
+
+
+
+
+Key Projects
+Project 1: Machinery
+Machinery module was developed to effectively manage the machineries in the garment industry, This is a web based Application, The objective of the project is to improve traceability and utilization of inhouse machineries and reduce rental machinery purchase, The projects aims to plan in advance for planning with the  the inhouse machineries and plan maintanance in advance.
+            Client			:     ACL - Chennai, Sparrow Apparels – Bangladesh, and  Tusker Apparels
+            Title			:     Machinery
+            Role			:     Software Developer 
+            Software proficiency		:     Visual Studio - 2012, MVC 5, Angular Js, SQL Server 2012
+            Team			:     3
+
+Responsibilities
+Writing the code using ASP.NET MVC 5
+Writing LINQ queries and SQL procedures
+Scripting using  JQuery 
+Client side and server side validation
+Done ingratiation testing and functional testing
+Code review before hosting in IIS.
+Production support.
+
+Project 2: BMC
+      	Description: This is core project, which provides the functionality for order processing and management. It provides an excellent option for registering and managing the each order given by the different clients. Includes supports for estimate the cost of each required material. Option for Delivery details based on the delivery date, destination and Price. Material Requirement Chart for estimate the material requirement, based on the consumption and stock checking process. It includes option for raising PO for PI from Imports and PO for Local Items. Status of the material can be alerted to each order responsible persons, through email and pop- up block. Providing option for generating the BOM for each order, which shows the Current order status including material order status, PO process status, material in-house information, up to date production status, present shipment status..Etc. Also provided lot of useful automatic alerts, reports, and auto-mail to all the order responsible and team and heads to complete the order process on-time and make the shipment without any delay.
+
+            Client			:     ACL - Chennai, Sparrow Apparels – Bangladesh, and  Tusker Apparels
+            Title			:     Business Management Centre (BMC).
+            Role			:     Software Developer 
+            Software proficiency  	:     Visual Studio - 2012, MVC 5,  SQL Server 2012
+            Team			:     4
+
+Responsibilities
+Writing the code using ASP.NET MVC 
+Using Entity framework and write LINQ queries
+Writing Queries and Procedures 
+Involved in project deployment Bug fixing and code optimization.
+ 
+
+Project 3: Hotel Management System
+HMS has been developed for hotel management System. This is web based application  The objective of the project is to computerize system of the hotel, Hotel management is the project not only keeps the record of various people like customers, managers etc. But as well as it reduce the extensive paper work in the present system. It wills maker the system more versatile and user friendly. It also calculates the proper billing slip of high level and middle level customers. We have designed the billing process. This consist of the following two application.
+Title			:     Hotel Management System
+Role			:     Software Developer 
+Software proficiency	:     Visual Studio - 2010, SQL Server 2008, MVC
+Team		       :     4
+
+Responsibilities
+Creating the login page based on user role.
+Design the UI Interface and sales Module in windows application 
+Writing LINQ Queries and Procedures 
+Done ingratiation testing and functional testing.
+Using Crystal Reports, generate Customer Bill.
+
+ 
+Project 4: Clinic management and data analysis system
+      This is a web based system, Can maintain various departments in the clinic like Reception desk, laboratory, doctor desk, dietician desk and pharmacy. It operates for Patient registration, appointment maintenance, patient medical data capture, Doctor's Rx print out, pharmacy stock maintenance and billing for all the departments. Data analysis system used for extracting the patient data based on doctors needed. It is helpful for medical research and business development. Daily account maintenance, payment reports, Revenue analysis.
+Title			:     Clinic management and data analysis system
+Role		       :     Software Developer 
+Software proficiency	:     Visual Studio - 2010, SQL Server 2008, Asp.net
+Team		       :     5
+
+Responsibilities
+Involved in developing the laboratory module, dietician desk , appointment maintenance 
+Involved in writing stored procedures and tuning the query for the performance
+Involved in project deployment
+
+
+ACADEMICS
+B.E(Computer Science) from SKR Engineering with an aggregate of 
+64% in 2013
+DCE(Computer Science) from MAM Polytechnic College with an aggregate of 
+83% in 2010.
+
+
+
+
+
+
+
+PERSONEL PROFILE											
+
+Name			           :	Gurumurthi
+Date of Birth/Age/Sex		:	11-04-1989/30/Male
+Father’s Name			:	Sekar K
+Mother’s Name	           :          Vembu S 
+Nationality		           :	Indian
+Marital Status			:	Married
+Languages known to write	:	Tamil, English.
+Languages known to speak	:          Tamil, English.    
+Permanent Address		:	1/92, Middle street,
+Thiruppattur(po), 
+Mannachanallur (TK),  
+Trichy(Dt),  TamilNadu(621105).   
+           
+Contact Address		:	34 Rajiv street,
+Deivanayagi Nagar,
+Thiruverkadu,
+Chennai- 600077.
+
+
+
+
+
+DECLARATION
+
+I hereby declare that the above particulars are true to the best of my knowledge. 
+
+Place: Chennai								    Yours truly,
+Date:										    Gurumurthi S

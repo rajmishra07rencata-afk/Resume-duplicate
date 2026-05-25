@@ -1,0 +1,121 @@
+Ajay Mahajan
+QA Engineer
+Dedicated IT professional with history of meeting company goals utilizing consistent and organized practices.
+Skilled in working under pressure and adapting to new situations and challenges to best enhance the
+organizational brand. Proven skills in completing black box ,functional , Non-functional , Sanity , Regression ,
+Re-testing tests. Background writing and implementing test cases , and identifying use cases. Fully versed in
+complete SDLC and STLC.
+Work History
+2020-12
+-
+Current
+Quality Analyst Engineer
+Avaya India Pvt. Ltd, Bangalore
+Education
+2017- 2020
+Bachelor of Engineering
+Testing Skills
+Over 2.9 years of IT industry experience in Software Testing with
+Manual and Automation.
+Proficient in Manual Testing from Test Design to Test Summary
+Reports. Hands on experience with Project management tool such as
+Jira. Excellent understanding of Defect Life Cycle, Defect Reporting.
+Good knowledge of Software Development Life Cycle (SDLC).
+Experienced in all phases of Software Testing Lifecycle (STLC) with
+expertise in the Sanity Testing, Functional Testing, Regression
+Testing, Retesting, Database Testing.
+Experienced on various types of Testing Documents like Test
+Scenarios, Test Cases, Defect Reports and Status Reports.
+Strong in various levels of Software Test Execution like Sanity
+Testing, Re-Testing and Regression Testing.
+Participate in scrum meeting regularly to discuss about project
+progress.
+Implemented Agile Methodology process in the project.
+Good understanding of Build Automation tool i.e. Maven for Data
+Driven Framework.
+Prepared mapping sheet of SRS and test case
+Knowledge of Defect management tool i.e JIRA
+Able to Implement and customize Suitable Framework for Regression
+Contact
+Address
+Bangalore India
+Phone
+7757834909
+E-mail
+Mahajanajay0096@gmail.com
+Skills
+Languages
+:
+JAVA
+and
+SQL
+DBMS : MY SQL Server
+Manual
+test
+case
+preparation
+and
+Test
+implementation
+Documentation skills
+Testing tools : Selenium
+WebDriver,JIRA
+Tool,API
+using POSTMAN Tool
+Test Automation.
+Good on Hybrid Framework like the Combination of POM and Data
+Driven Framework.
+Good Knowledge on Selenium Web Driver and TestNG.
+Extensive experience in test design and execution.Experience in
+defect logging, management and tracking.
+Experience of Automation Testing with the help of Selenium
+Webdriver through core JAVA.
+Good experience of OOPS concepts, Collection framework,
+Arrays and String Class in JAVA.
+Extensive experience of creating POM and Test classes for the
+framework.
+Extensively used TestNG framework for the development of the
+Test classes.
+Experienced of assertions and Annotations in TestNG framework.
+Experience in executing the test scripts in parallel for IE, Firefox and
+Chrome.
+Good knowledge in API testing.
+Experience
+in
+designing,
+implementing
+and
+maintaining
+automated test scripts .
+Knowledge in writing SQL Queries against database for data
+verification.
+Projects
+Project Name : TM Xplora
+Roles and Responsibilities:
+Co-coordinating Test team members and Development team in order to
+resolve the issues.
+Analyzed test scenarios, design test cases, review test cases ,Execute
+test case and defect analysis .
+Identify the test cases for Automation.
+Designing POM Classes and Test Classes
+Performed Sanity, Functional, System Integration, Retesting, Regression
+testing.
+Identification of defects, registering them in JIRA and reporting them to
+the onsite lead.
+Experience in Designing and implementation of TestNG framework
+with Webdriver.
+Performed parameterization to implement Data Driven framework.
+Participate in scrum meeting to discuss about project progress report
+every day.
+Languages
+
+English
+
+Hindi
+
+Marathi
+Declaration
+I hereby declare that the above written particulars are true to the
+best of my knowledge and belief.
+Name of Candidate :
+Place:

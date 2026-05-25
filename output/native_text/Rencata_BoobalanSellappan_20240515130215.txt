@@ -1,0 +1,27 @@
+Boobalan Sellappan
+.Net Developer (Full stack)
+Phone: (+91)98430-52670 								Email: toboobalan@gmail.com
+
+Professional Summary
+Having 8 Years of experience in analysis, design and development of web applications and web services in Microsoft Visual Studio .Net IDE using ASP.Net, C#.Net, VB.Net, ADO.Net and SQL Server.
+Extensive experience in Database design, T-SQL, stored procedures, functions, views, triggers and cursor in Microsoft SQL Server.
+Extensive knowledge in Project Life Cycle Development including requirement analysis, design, development, testing and support.
+Very good experience in SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS).
+Strong in SQL query tuning and complex stored procedures
+Good in Database programming with ADO.NET (MS SQL Server, DB2).
+Proficient in Object Oriented Programming (OOPS), Web Services, Web API, XML, CSS, HTML, AJAX, JavaScript and JQuery.
+Knowledge in HTML5, CSS3 and Bootstrap.
+Working knowledge of source control systems (VSS, TFS).
+Involved in UAT/production deployment
+A strong team player having excellent communication, presentation and organizing abilities with adequate leadership skills.
+Effective in working independently and collaboratively within multiple teams.
+Experience in handling clients in terms of gathering requirement and update the project status. 
+Experience in handling small team.
+
+Technical Experience
+
+
+Work Experience
+
+
+Education

@@ -1,0 +1,118 @@
+KASHIF MEHDI
+SECURITY OPERATIONS ENGINEER
+beingcool7867@gmail.com
++91 7795368576
+Bangalore , Karnataka IN
+https://www.linkedin.com/in/kashif-mehdi-156a5aa3/
+SUMMARY
+Security Operations Engineer with 2 years of experience in managing and implementing security
+solutions. Proven ability to reduce risks and improve security posture. Experienced in incident response,
+threat analysis, and vulnerability management.Specialized in proactive network monitoring of SIEM (Azure
+Sentinel)
+SKILLS
+Cyber Security
+Network Security
+Ethical Hacking
+Azure Sentinel- SIEM
+OSI Model /TCP IP
+Protocol
+EXPERIENCE
+DXC Technology Mar 2021 - Present
+Microsoft Security Operations Engineer
+Incident Response: Identify potential security incidents through monitoring and reporting all
+incidents.
+Assess identified incidents to determine the appropriate next steps for mitigating the risk. Respond to
+the incident by containing, investigating, and resolving it 
+Identity and Access Management - (Azure Active Directory – AAD) 
+Threat Protection - (Advanced Threat Analytics, Windows Defender Advanced Threat Protection, Office
+365 • Threat Protection and Threat Intelligence), Information Protection - (Azure Information Protection,
+Office 365 Data Loss Prevention, Microsoft Cloud App
+Security, Office 365 Advanced Security Management, Microsoft Intune) Security Management - (Azure
+Security Centre, Office 365 Security and Compliance Centre, Windows Defender Advanced Security
+Centre).
+Experience with Azure AD Connect, including configuration of sync scopes, hybrid Azure AD join,
+group writeback, password writeback and password synchronization models 
+Hands on experience with executing bulk operations against the Microsoft cloud using PowerShell
+scripting 
+Endpoint Security with Windows Process Checking, Protected Workspace and Firewalls
+Good verbal and written communication skills, including ticket documentation, incident reporting and
+escalations
+Knowledge of network devices, firewalls, IDS/IPS, TCP/IP protocols, and general network architecture
+Strong technical understanding of network fundamentals and common Internet protocols, specifically
+DNS, HTTP, HTTPS / TLS, and SMTP
+A good knowledge of various security technologies such as SIEM (Sentinel), Email Analysis, Malware
+analysis, network (routers and Switches) and application firewalls (WAF), host intrusion prevention,
+EDR (next Gen anti-virus) and anti-virus)
+Responsible for Monitoring, Fine tuning, reviewing & maintenance of cyber security tools and SIEM
+tool - Azure Sentinel, EDR – Microsoft EDR tools, Email Security- Abnormal security, Azure Security
+Center.
+Event Source Management & Log collection
+Troubleshoot Log collector / event source issues and alerts
+www.resumekraft.com
+g
+Worked in SOC 24/7 team.
+Hewlett Packard Enterprise Dec 2018 - Feb 2021
+Technical Solutions Consultant
+Good communication skills with the ability to use it effectively and persuasively and be able to
+respond professionally to customers’ queries.   
+Providing Level 1 Generalist Enterprise technical support to HPE Customers for Network products   
+Excellent written and verbal communication skills, with an ability to empathize with customers with
+varying levels of technical ability.   
+Handling escalation calls / emails of clients to provide the Service Delivery per SLA, engaging relevant
+TAM, ASM and AGM when required for priorities tickets/ cases.   
+Escalating tickets to the regional ASM's or TAM's based on scope of support and based on escalation
+matrix to avoid any SLA breach.   
+Excellent organizational and interpersonal skills.   
+Proved successful working within tight deadlines and fast-paced atmosphere.   
+Worked flexible hours, night, weekend, and holiday shifts.   
+Created plans and communicated deadlines to ensure projects were completed on time.  
+Demonstrated respect, friendliness, and willingness to help wherever needed.   
+Conducted research, gathered information from multiple sources and presented results.   
+Identified issues, analyzed information, and provided solutions to problems.   
+Drove operational improvements which resulted in savings and improved profit margins. 
+EDUCATION
+East West Institute of technology May 2012 - Jul 2016
+Bachelor of Engineering
+Electronics & Communication Engineer, Bangalore, Karnataka, July 2016
+Shri Bhagwan Mahaveer Jain College Jun 2010 - May 2012
+Pre-University College
+Science PCMB, Bangalore, Karnataka, May 2012
+CERTIFICATION
+EC Council 2022-04-23
+Certified Ethical Hacker Essentials – EC Council
+Microsoft 2022-09-23
+Microsoft Security Operations Analyst Certified – SC-200
+Microsoft Security Operations Analyst Certified – SC-200
+COURSES
+Simplilearn Mar 2019 - Mar 2021
+Fundamentals of CISSP - Security Assessment / Testing and Security Operation
+Simplilearn Aug 2020 - Apr 2022
+Basics of Cloud Security Professional
+LANGUAGES
+English
+Kannada
+Hindi
+www.resumekraft.com
+AWARDS
+Microsoft 2022-09-05
+Quarter Champ Award
+Award the Quarter Champ Award by Client Microsoft - DXC Collaboration Award.
+PERSONAL SKILLS
+Cloud Platforms – Azure
+& AWS, basics of GCP •
+Security, Risk and
+Compliance – IAM •
+Docker, Kubernetes,
+ECS, EKS •
+Infrastructure-as-Code -
+Terraform or
+CloudFormation
+• Network Security •
+PowerShell Scripting •
+Python & Java
+Programming
+CUSTOM
+Declaration
+I hereby declare that the above furnished information is true to the best of my knowledge, and I am
+confident of my ability to work in a technically proficient team/organization.   
+www.resumekraft.com

@@ -1,0 +1,77 @@
+{
+}
+#Flood  Colin (matt.rowe)
+Resume for programmers
+// C++ Specialist - Database Engineer
+// mail@example.com
+// t: 0123-456-789
+About Me {
+Informatics graduate with work experience a complete 
+software development package.Created 15+ projects on 3 
+small teams and looking a software developer role where
+I can develop my programming skills.
+}
+Education {
+B.S Computer Science, Carnegie Mellon University
+2014-2018 Years
+Pittsburgh, PA
+}
+Education {
+B.S Computer Science, University of Alabama
+2018-2020 Years
+Tuscaloosa, Al
+}
+Work Experience {
+Title: “Programmer”
+Company Name: “Sipes-Collins”
+Date: 2025 - Current
+Developed software throughout the finance side 
+which
+increased analyst productivity by 27%
+}
+Work Experience {
+Title: “It Technician”
+Company Name: “Auer PLC”
+Date: 2023 - 2025
+Integrated & implemented new technologies reducing
+15% of IT costs throughout the company.
+}
+Work Experience {
+Title: “Web Developer”
+Company Name: “Kirlin, Schinner and Schuppe”
+Date: 2022 - 2023
+Worked with testing teams to end tests and make
+winning variations live
+}
+Work Experience {
+Title: “Web Developer”
+Company Name: ”Conn and Goyette”
+Date: 2020 - 2022
+Updated upsells and cross-sells in upsel
+application, boosting sales by 14%
+}
+Awards and Honors {
+Winner National Programming Competition 2015
+}
+Skills {
+“JavaScript”
+“REST APIs”
+“React.js”
+“SQL”
+“Angular.js”
+“JavaScript”
+“HTML/CSS”
+“Jest”
+“Eclipse”
+“Django”
+}
+Interests {
+“Cooking”
+“Writing”
+“Reading”
+}
+Links {
+Linkedin: “https://linkedin.com/in/”
+behance: “https://behance.net/”
+Linkedin: “github.com/”
+}

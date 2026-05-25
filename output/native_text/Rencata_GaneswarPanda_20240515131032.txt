@@ -1,0 +1,112 @@
+CURRICULUM VITAE
+
+
+Name : Ganeswar Panda                                      	E-Mail : sipun331@gmail.com
+H. No : 66, Kubera Nagar 3rd Road extn,                       Mobile(1):+91-7022236557                        
+Madipakkam, Chennai-600091                                      Mobile(2):+91-8249004812 
+              
+
+PROFESSIONAL SUMMARY:
+Main responsibilities include understanding of client requirement and develop the solutions, Application Support, enhancement, Production Support, Team building, and Architecture of application based on Microsoft Technologies (.Net) and ORACLE.
+4.4+ years of prolific experience in Dot Net technology that includes technical Exposure in .Net skills including C# ASP.Net, JavaScript, HTML, CSS, MVC and Oracle.
+Currently working in AstraZeneca India Pvt.Ltd. as a software engineer from May 2016 to till now.
+Worked with YuvaIT solution pvt. Ltd. from June 2014 to August 2015 as Software developer.
+Experienced in developing and implementation of Repository system which can consume data from multiple publisher, merge according to the business need, validate it and push back to the downstream systems based on certain filters.
+Knowledge in using XML, HTML, UNIX Scripts, Web service on Web applications.
+Experience in database modeling and experience in developing stored procedures, functions, indexers, package, triggers in ORACLE.
+Knowledge of SOAP UI tool and Web services testing using SOAPUI.
+Effective communication with the business and interpersonal skills with strong organizational and problem-solving abilities.
+Very flexible and can adapt to any working environment with other global services.
+Understanding the technical and functional specifications and maintaining the application as per the business logic.
+
+Technical Skills (SOFTWARE AND TOOLS):
+
+
+Programming Languages      : 	C#, Java script, JQuery, HTML
+Tools                                  : 	Visual Studio.Net3.5/4.0, Soap UI, Winscp, putty
+Web Technologies                : Asp.Net MVC, Asp.net, Web Services, Ajax
+Databases                           : 	ORACLE 11G, SQL Server2008
+Version Control Systems       : 	MS visual source safe, SourceTree
+
+Academic Qualification:
+
+B.Tech in Computer science & Eng. from Biju Pattanaik University, Odisha. 
+Inter from Council of Higher Secondary Education, Odisha.
+10th from Higher Secondary Education, Odisha.   
+       
+
+Projects Profile:
+
+1) Project Name: RACental 
+
+Resource Allocation Central is a repository of resource and territory details. It provides consistent data for resource allocation needs for all channels used in North America. The availability of correct data is important for functioning of critical applications. It has several features like publishing data for different subject areas, consumes data from multiple systems merge them with the business logic validate it and publish it for all downstream. It also includes tools like specialist lookup, Product portfolio, Resource territory management which is used by various business users.
+
+Work involves fixing the change requests raised by the business and enhancements to the existing application. 
+Worked along with ZS Pharma for structural changes in the existing system.
+Involved in production support and fixed the defects immediately.
+Involved in the Analysis, Development, Design and Testing phases of the project.
+Test execution for upcoming changes and results analysis and coordinate with business on daily basis.
+Understanding the technical and functional specifications and maintaining the application without reoccurring issues.
+Train the new members in the team and getting them productive quickly, Involved in Sprint Planning, Daily Stand up meetings, Requirement Discussions, Team Meeting
+I was part of project like HR integration, OneKey, MAPs, Always On where I have worked independently to enhance the system to handle new scenarios.
+Excellent communication with business and got several appreciations from business for the project deliverables excellent communication skills and for the productive support. 
+Have taken responsibilities in cross team meetings to figure out issues and finding solution for the same.
+Providing 24*7 support to the application.
+
+
+Title		              	 :  RACentral  
+
+Period	          	 : Since May 2016
+
+Languages		 : C#, ASP.Net4.5, ORACLE 11G
+
+Tools Used           	 :  Microsoft Visual studio 2008, SOAP UI, Winscp, Putty, 				    Oracle developer.
+
+Role  		            : Support Engineer.
+
+
+2) Project Name: Resource Territory Management 
+RTM is a UI which allows business user to assign territory to a particular user based on the performance. It has multiple functionalities like creating report check the user history, territory movement, user current role with reporting hierarchy. It was initiated by the business to avoid dependency on HR and prepare flexible solution for the market.   
+
+Language Used   	 : C#.
+
+Tools Used           	: Visual Studio 2012, Oracle Developer
+
+Front End Tool     	: Asp.net.
+
+Role  		        	: Support Engineer
+
+3) Project Name: Social Website 
+Social website is a communication and sharing platform for educational institutions. Using this application, Institutions and their teachers can build interest & engagement among their students in a collaborative learning environment and this application is used by, Graduate and Post Graduate Institutions, K-12 Schools, Kindergartens, Activity & Hobby Centers & Tutorials & Examination Coaching Centers.
+
+Language Used   	 : C#.
+
+Tools Used           	: Visual Studio 2012, Sql server 2008
+
+Front End Tool     	: Asp.net.
+
+Organization        	: Gandhi Group.
+
+Role  		        	: Developer
+
+   
+Personal Information:
+
+	Name		   	    : 	Ganeswar Panda
+	Father Name		    : 	Ashok Kumar Panda		
+	Date of birth		    : 	July 16th 1992. 
+	Marital Status		    : 	Single 
+	Nationality		    : 	Indian	
+	Languages known  	    : 	Odiya, Hindi, Bengali, English.
+	Passport 		    : 	Yes, Valid till 2028
+
+        
+Declaration:
+	I hereby declare that the information given above is true to the best of my 	knowledge.
+
+
+
+
+
+
+Date									Ganeswar Panda

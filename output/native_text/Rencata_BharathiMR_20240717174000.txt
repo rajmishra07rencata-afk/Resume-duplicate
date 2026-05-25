@@ -1,0 +1,91 @@
+Bharathi M R
+Address (T) 	: NO L-72, POONGANAGAR, RAJAGOPALAPURAM (POST),PUDUKKOTTAI-622003.
+Mobile		: 7708784265
+Email		: bharathiimmortal0442@gmail.com 
+Objective
+To enhance my software testing skills in a challenging project that will allow me to apply my analytical and research skills in rendering a significant contribution to the Quality of the product. 
+Professional Experience
+Job Title | Company | Dates From - To
+Working as Quality Test Engineer in RENCATA, Pondicherry, for 1.8 years.
+Professional Summary
+Associated test engineer with RENCATA.
+1.8 year of experience in Manual (Test complete domain). 
+Tested different methodology, like STLC& Bug life cycle.
+Involved in preparing test cases and test report.
+Experience in writing and executing test cases based on the requirements specification.
+Experience in System Software Reliability Testing, LUI Functional Testing, Regression Testing, Functional and Non-functional testing, and windward form testing.
+Experience in Logging the defect and tracking the defect in using JIRA, AZURE DEVOPS.
+Ability to modify test case according to the new requirement changes.
+Education
+Degree | Date Earned | SCHOOL.
+BE– Civil Engineering, Shanmuganathan Engineering college, Pudukkottai. With 74% passed out in 2017.
+Technical Proficiency
+
+
+
+
+Additional Course Complete Certification
+Certified Software Test Associate. (CSTA 2.0)
+Experience Summary
+COMPANY|CLIENT
+Company 	:  RENCATA, SSG Consulting.pvt.ltd
+Client	:  CORNERSTONE HOME LENDING, USA                        
+Address         :  No.11,vignesh complex, salai vinayagar kovil street(45feet road),pudhucherry-605001.phone – 0413 4208774.
+                         
+Project Experience
+PROJECT 1#
+Project Name   	: SANDSTAR (web application), SANDSTAR(mobile application) –  Software Quality Assurance
+Tools Used         	:  JIRA, AZURE DEVOPS, WINDWARD.
+Environment     	: EFI server, FFPS Server.
+Role			: QA Test Engineer.
+Team Size           	: FIVE
+Duration             	: 8 months
+
+Description	Involved in testing to identify functional and compatibility issues in web and Mobile application software of SANDSTAR. Worked in Mobile Application to identify functional and compatibility issue in a effective and real time manner.
+
+Roles & Responsibilities
+Performed Functional testing for web and mobile application.
+Involved in Test case writing with ZURE DEVOPS tool and execute the same testcase and logged defects effectively with all required information.
+Involved in test environment setup and configuring the devices with network.
+Prepared test execution status reports, defects report and daily communicating test status to technical lead through mail.
+
+ADDITONAL TASK DONE IN THIS PROJECT
+Involved in preparation Test cases design & Test reports. 
+Reporting bugs in AUZURE DEVOPS, updating the Daily Defect Report, and mailing to Client and manager.
+Analyzing the Test Cases prepared by other team members.
+Providing technical support and resolving the issues at the earliest whenever teammates face issues.
+
+
+
+
+PROJECT 2#
+Project Name	:  CORNERSTONE HOME LENDING (DARTH VADER) – WEB Application and WINDWARD form testing.
+	(Manual Testing-Software Reliability Testing & Feature Testing)
+Role			:  Associate Test Engineer.
+Feature & Module	:  web and windward form testing.
+Environment	:  Windward.
+Tools used		:  JIRA AND AZURE DEVOPS and WINDWARD.
+Team Size		: 11
+Duration                       : 1 year
+
+Description		: CHL Origence is the web application which helps Borrowers to avail different    type of Mortgage loans and have various roles like Loan Officer, Processor, Underwriter etc. to maintain    and track the application in various staging of Loan applications.  
+
+Responsible for providing solution on downloading various types of forms from the website with    necessary loan information. It includes Form design, Windward Mapping of Loan information from SQL Views to word template using Windward Tool.
+    Worked in Cornerstone Home Lending for deploying Mortgage Loan onboarding software. This involved development based on business requirements and customization of software based on integrations with other applications. Worked in Web based Application testing in various Functionalities of Origence Application, Worked in Windward and Template manager Technology to Produce Form Outputs Generated from Application to Realtime Printout system. Tested Form in real time manner and made sure the mapping from UI to Real time Form matches the Requirements. Involved in various aspects of testing to find the Design and mapped values of the Form meets the Requirement.
+
+
+Roles & Responsibilities
+Analyzed the requirements & feature spec Documents.
+Writing Test cases for each assigned module and executed the test cases with all possible scenarios and reported to test results to Technical lead &Onsite Manger.
+Performed Functional testing, Web UI testing & Regression testing on critical CWIS features and mapping of UI to WINDWARD Form testing.
+Analyzed issues in previous builds & in other OS platforms to find root cause Reported to Onsite Manager.
+Verified defects and fixes in subsequent firmware build.
+
+Personal Details
+Fathers Name	: MARIYAPPAN A
+Nationality		: Indian  
+Address(P)		: NO 72, POONGANAGAR, RAJAGOPALAPURAM(Post), Pudukkottai-622003.
+Date of Birth		: 27.05.1995
+Known Languages	: English and Tamil. 
+
+(BHARATHI M R)

@@ -1,0 +1,222 @@
+JOVIN KULANDAISAMY
+josamy1995@gmail.com
+9894241064
+CAREER OBJECTIVE
+Looking for an organization where I can enhance my knowledge, give my best from my skill 
+sets, and achieve the goals of the organization.
+PROFILE SUMMARY
+•
+A result oriented professional with 7+ years of experience in Angular 8+
+•
+Insightful knowledge in Angular, NodeJS, ExpressJS, NGINX
+•
+Proficient in developing web applications using NGXS
+•
+A keen communicator with clients and supporting them by solving application related 
+issues.
+TECHNICAL SKILLS
+Languages
+: JavaScript, Angular 8+, Typescript, ExpressJS
+Web Technology
+: HTML, CSS, Bootstrap,Ag-grid-angular, Angular Material, 
+ng-bootstrap, ngx-bootstrap, prime-ng, NGXS
+Server
+: Nginx, NodeJS
+Methodology
+: Agile
+Repository
+: Git, Bitbucket
+Other Tools
+: VSTS, Service Now, Share Point, Visual Studio code, Jira, GitHub 
+Desktop, Browser Stack, Confluence, Sauce Labs
+Open Source               : BigBluebutton, JMeter, Jenkins, Portainer
+Database                     : MongoDB using Mongoose ORM, PostgreSQL
+EDUCATION
+B.E (Mechanical Engineering) from VelTech Engineering College in 2016 with 6.1 CGPA.
+Class 12th from S.R.V Matriculation Higher Secondary School with 9.1 CGPA.
+PROFESSIONAL EXPERIENCE
+Technical Lead at TATA Consultancy Services, Chennai (2023 - till now)
+Senior Analyst at Infosys Limited, Bangalore (2021 – 2023)
+Software Engineer at Tech Mahindra, Chennai (2017-2021)
+CERTIFICATIONS
+1. DevOps Practices and Principles
+2. Agile Methodology
+PROJECT DETAILS
+Project#1:
+Title 
+: Global Car Configurator
+Duration 
+: January 2017 – April, 2019
+Business area 
+: Car configuration management system
+Language
+: Java
+Client 
+: Volvo Cars
+Description                 : 
+Global Car Configurator (GCC) is the engine for building car 
+configurations that are correct according to business rules and market 
+specific setups. It provides detailed information about models, variants, 
+packages, options, prices, description etc. It is integrated with various 
+External Systems such as; CIS, VISTA, CPAM, VMR, VBS. The 
+Sales Company (Market) uses the GCC Admin Tool to modify texts, 
+prices VBS aspects. The Consumers use the VBS to build their desired 
+Car as they wish, over the Internet and according to the available 
+Factory specifications.
+Roles: Involved in minor new developments, managing all the environments as Environment 
+Manager and supporting Java based web application.
+Key Result Areas:
+•
+Communication with clients to get their requirements, expectations, and provided 
+solutions accordingly.
+•
+Creating and managing project release plans and estimations and delivering them 
+within the deadlines.
+•
+Identifying complex issues and reporting to clients with solutions as a part of service 
+improvement and indicator of quality.
+•
+Worked on connectivity between applications through MQ to transfer and process the 
+files received.
+•
+Followed unit/functional test coverages and maintained proper documentation of all 
+activities.
+•
+Cooperating with other teams across the organization for efficient work progress.
+•
+Providing support to clients and problem solving.
+•
+Reviewing service level targets and ensuring timely closure of tickets.
+ 
+ Project#2:
+Title 
+: Ekt – Transition Tool
+Duration 
+: May, 2019 – May, 2020
+Business area 
+: Knowledge Transition Tool
+Language
+: MEAN Stack
+Client 
+: Tech Mahindra
+Description                 : 
+eKT is a inhouse Transition Planning and Tracking tool where our 
+internal team along with the incumbent and customer can prepare the 
+Knowledge Transition plan, execute and track the progress of the 
+transition plan at any given point in time.
+Roles: Involved in Planning phase, story/feature discussion, development and Deployment 
+activities
+Key Result Areas:
+•
+Communication with clients to get their requirements, expectations, and provided 
+solutions accordingly.
+•
+Professionally interacting with customers, vendors, superiors and peers.
+•
+Managing the software build, release and deployment process.
+•
+Able to adapt to changing project conditions.
+•
+Involved in new implementation discussion
+Project#3:
+Title 
+: SNapp online
+Duration 
+: May, 2020 – Feb, 2021
+Business area 
+: Newspaper and magazine wholesaler platform
+Language
+: JavaScript, Typescript, Angular
+Client 
+: Smith News
+Description                 : 
+SNapp Online lets you manage your newspaper and magazine business 
+with Smiths News your way, when you like. All alongside the ability 
+to check your current orders instantly, order extras, make alterations 
+and claims as well as access the most up to date information on how to 
+work with Smiths News to grow your business
+Roles: Involved in Scrum call as Team member, Discussion in implementation, Development
+Key Result Areas:
+•
+Communication with clients to get their requirements, expectations, and provided 
+solutions accordingly.
+•
+Coordinates with QA team to help create test plans and resolve bugs
+•
+Used JSON for accessing data from angular services to Node.js APIs
+•
+Used Karma for Unit testing
+•
+Compodoc (Documentation)
+•
+Had experience in Multiple Device Testing using Browser Stack
+Project#4:
+Title 
+: Meridian Meet
+Duration 
+: July, 2021 – March, 2023
+Business area 
+: Meeting collaborative platform
+Language
+: Angular, JavaScript, Typescript
+Client 
+: Infosys Limited (ETA)
+Description                 : 
+Meridian is the remote and sentient Enterprise Collaborative 
+Workplace Available anytime, anywhere, any device without any 
+installation, needing only internet connectivity. Don't just meet, 
+collaborate! It includes Personal room, schedule meetings, sharing 
+notes, chats, email invite, join links for internal and external 
+participants, etc.
+Roles: Involved in Scrum call as Team member, Discussion in implementation, Development
+Key Result Areas:
+•
+Communication with clients to get their requirements, expectations, and provided 
+solutions accordingly.
+•
+Customizing Bigbluebutton response based on Client requirement
+•
+Generating Attendance, recordings, meeting artifacts,etc
+•
+Coordinates with Support team to resolve client facing issues
+•
+Used Redis cache
+•
+Used Protractor for Unit testing
+•
+Had experience in Multiple Device Testing using Browser Stack and Sauce Labs
+Project#5:
+Title 
+: Securities Processing Application
+Duration 
+: March, 2023 – Till Now
+Business area 
+: financial services company providing clearing and settlement services 
+to the financial markets.
+Language
+: Angular 12, Ag-grid-angular,ng-bootstrap,ngx-bootstrap
+Client 
+: The Depository Trust and Clearing Corporation (DTCC)
+Description                 : 
+It performs the exchange of securities on behalf of buyers and sellers 
+and functions as a central securities depository by providing central 
+custody of securities. System interacts with product and Agents where 
+they have control on activation, Approval, Billing, user management, 
+etc
+Roles: Involved in Scrum call as Team member, Grooming session, Technical discussions, 
+Development, documentation, deployment pipeline in Jenkins and sprint retrospective
+Key Result Areas:
+•
+Communication with product owner to get their requirements, expectations, and 
+provided solutions accordingly in the sprint 
+•
+Working with Ag-grid-angular component to render the data in the desired format
+•
+Experienced in common modules and shared modules of components
+•
+Coordinates with product team for the alternative best solution and interacting with 
+UI/UX design team for consistency all over application
+•
+Used Lazy loading and core features of Angular
+•
+Used Karma jasmine for Unit testing and Sonar qube for code quality standards

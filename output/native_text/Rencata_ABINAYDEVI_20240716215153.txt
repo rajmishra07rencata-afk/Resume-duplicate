@@ -1,0 +1,57 @@
+A P I  D e v e l o p e r
+A B I N A Y A D E V I
+E D U C A T I O N
+Anna University, CEG Campus
+2017 - 2021
+S K I L L S
+SQL Server
+API, .Net, RVW
+HTML, CSS, JS
+C++, Python
+React JS
+C#
+W O R K  E X P E R I E N C E
+Ramco Systems
+July 2021 - Present
+ANALYST PROGRAMMER
+P R O F I L E
+I am a qualified and professional API developer with 2.6
+years of experience in SQL Server and API. Strong creative
+and analytical skills. Team player with an eye for detail.
+7094926299
+Chennai,Tamilnadu
+abinayadevi2208@gmail.com
+A W A R D S  
+Msc(Computer Science)
+C O N T A C T
+Over 2.6 Years of experience in analyzing, designing,
+tuning using MS SQL Server 2016/2012 DTS/SQL Server
+Integration, Reporting & Analysis Services.
+Over 2 Years of experience in Web Api development
+using C#
+Extensive SQL Development experience in Aviation with
+a strong understanding of data & analytics
+Experience in performance tuning, analyzing the long
+running queries and addressing the deadlocks.
+Experienced in creating Tables, Stored Procedures,
+Views, Indexes, Triggers, Relational Database Models
+and Data Integrity in observing Business Rules
+Experience in GQL central in creating mutation queries
+for API consumption
+Worked in java script for calling post link services.
+Star of the Sprint
+Best deliverables to customer
+PR in dance team (Spartanz)
+Leadership Campaign in school
+2016 - 2017
+SRV Matriculation Higher Secondary
+School
+H.S.C
+Gnananda Matriculation Higher
+Secondary School
+2015
+S.S.L.C
+Visual Studio, API Curio
+VWAPI, Postman, GQL Central
+SSMS, GIT, Minnal Server
+T O O L S

@@ -1,0 +1,258 @@
+Muthu
+Mobile:+91 - 7358006357~E-Mail:govrajtech1234@gmail.com
+
+Seeking assignments in Software Development with a growth oriented IT organisation.
+
+BRIEF OVERVIEW
+
+A competent professional having 12  years of experience in Software Development entailing Designing, Programming and Validation,  and also having 2 Years of  experience in Technical support Problem solving .Presently associated with Sankara Software Services Private Limited.
+Adept in end-to-end development of software products from requirement analysis to system study, designing, coding testing, bug fixing, documentation and implementation.
+Comprehensive knowledge in developing complex and diversified projects in .Net.
+Deft at mapping the requirements, custom designing solutions & troubleshooting for complex software & application problems.
+Possesses strong skills in ASP.net,SQL Server, ADO.net,MVC,WCF, Ajax,JavaScript,JQuery, HTML, CSS, Telerik, .NET 4.x Visual Studio 2010&2019, etc.
+Having knowledge in React Js, Angular Js
+Having experience in Lead a small size of team
+Envisioning usage of new technology and tailoring its usage for achieving desired results.
+An effective communicator with exceptional analytical, technical, negotiation and client relationship management skills with the ability to relate to people at any level of business and management.
+
+ACADEMIC CREDENTIALS
+
+2002-2006	B.Tech.(I.T) PGP College Of Engineering & Technology, Namakkal, AnnaUniversity.	
+2000-2001	12thfrom Government Higher Secondary School,Jalakandapuram, Salem,State Board. 
+1998-1999	10thfrom Government Higher Secondary School,Jalakandapuram, Salem.		
+
+CORE COMPETENCIES
+
+Technical
+Languages			:	C# 4.0 
+Web Technologies		:	ASP.net, MVC,WCF,xml,  Jquery,Java Script, React Js, HTML, CSS, and Telerik
+Software Framework		:	.NET 4.0.
+Databases & Data Access		:	SQL Server, MySql, ADO.net.
+Development Tools		:	Visual Studio 2010.
+Functional 
+Managing requirement gathering, system analysis and finalisation of technical / functional specifications. 
+Defining best practices for project support and documentation.
+Designing, developing, testing, troubleshooting and debugging of the applications.
+Providing post-implementation, application maintenance and enhancement support to the client with regard to the product/software application.
+Cooperating & communicating with other team members for efficient development work. 
+Defining suitable methodology to undertake the project with the available inputs for the requisite output.
+
+EMPLOYMENT SCAN
+
+Since August2013 with Sankara Software Services Private Limited, as Senior Software Engineer
+2012-2013  (Sankara Software Services Merged with Spinach Technologies) as  Software Engineer
+ 2007 -2011  Sankara Software Services Private Limited as  Software Engineer
+
+Key Projects Handled:
+
+Title			:	TOIS – Telemarketing Online Intelligence System
+Platform & Tools 	: 	React js ,ASP.net, Sql ,Mysql,WCF, xml, Jquery,Java Script,Json, HTML, CSS, and Telerik.	
+Role			:             Senior Software Engineer
+Period			: 	Mar 2020-. Present
+
+Overview: -
+
+TOIS- Telemarketing Online Intelligent Scripting is a customer interaction scripting application designed for comprehensive management of inbound and outbound telemarketing campaigns, as well as customer service. It is designed to empower end users to easily create, manage, and edit scripts using simple flowcharts with the integration to MS Visio within shortest time frame requiring the least technical knowledge. It includes functionality to create and manage clients, campaigns, offers, script codes, products, agent groups, media, and sophisticated reporting. TOIS is built on open source technology and can be integrated with exiting hosted or premised based call center technology.
+
+Supports Inbound and Outbound calls
+Scripts can be created for Inbound, Outbound, Email and Data Capture
+Copy and transfer script functions, allows the duplication of a script for use across multiple campaigns
+Role Based Access Rights
+Integration with MS Visio to draw script as Flowchart (Call center Scripting)
+Mechanism to convert Flowcharts into Dynamic web screens.(Agent Desktop)
+Own custom controls (Visio Components, Color picker)
+Robustness while Agent Access the Script (Fastest navigation between screens)
+Easy Interface with Predictive Dialers
+Scheduled File Posting (fulfilment & Media file)
+Reporting 
+
+Key Deliverables:-
+Study of the functional requirements of the application.
+UI designing
+Writing windows services
+Frond and backend development
+Support to the Customer
+Requirement gathering
+Involved in analysis, Design & Development  and unit testing of different modules 
+Defect Fixes.
+
+
+
+Title			:	ZOOM
+Platform & Tools 	: 	Asp.net, C#, SQL, Javascript, WCF, Jquery,CSS	
+Role			: 	Senior Software Engineer
+Period			: 	Nov 2019-. Mar 2020
+.
+Overview:-
+
+ZOOMis private Jet booking portal specifically to book empty trip of  Jets on its way. Easy way to get  one way trip
+ Jet List and its charter and price etc.
+Also having Effective payment gateway integration to book private Jets and invoice generation
+
+.
+Key Deliverables:-
+Study of the functional requirements of the application.
+Involved in analysis, Design & Development  and unit testing of different modules 
+Defect Fixes.
+Writing Services dynamic Pricing
+
+Title			:	MASS – Manufacturing and Sales System
+Platform & Tools 	: 	ASP.net, Sql , xml,  Jquery,Java Script,HTML, CSS.		
+Role			: 	Senior Software Engineer
+Period			: 	Jan 2017 - Oct 2019.
+
+Overview:-
+
+MASS is an integrated, reliable and scalable business management solution for any mid-sized growing enterprise. MASS' centralized data repository supports streaming/distribution of enterprise-wise information across all geographically scattered functional units. It is an enterprise application that automates cross-functional business processes. 
+
+Some of the key Components of MASS includes,
+
+Web Enabled, fully integrated ERP
+Work flow based modules
+Sophisticated User Interface
+Intelligent Search Engine Capability to search Stocks, Part Numbers and Customers
+Routing Based Workflow
+Powerful Security Feature
+Intelligent Search Engine
+User Defined Transaction Types
+User Defined Report Generation
+Sends Report to Printer, Fax or Mail
+Maintenance of Transaction Log
+Automated Batch Card Generation
+
+Advantages:
+
+Streamlines business
+Makes business more efficient
+Reduces operational time
+Minimizes inventory carrying cost
+Optimizes purchase planning
+Provides accurate vendor quality rating
+Preferred vendor selection
+Handles expenses across various functional units
+Key Deliverables:-
+Study of the functional requirements of the application.
+Involved in analysis, Design & Development  and unit testing of different modules 
+Defect Fixes.
+
+
+Title			:	HEdge
+Platform & Tools 	:             Asp.net, C#, SQL, Javascript,WCF, Jquery,CSS
+Role			: 	Senior Software Engineer
+Period			: 	Dec 2014 - Sep 2016.
+
+Overview:-
+H'edge is an integrated, reliable and scalable HR and Payroll Management solution in SaaS. An enterprise application that is designed and developed to allow execution of HR management and payroll process efficiently and accurately with minimum data entry and calculation time. H'edge is made for businesses of any small to mid-sized growing enterprise. Compensation manager can initiate the process and allocate the budget to the division
+Web Enabled, fully integrated
+360° view of an employee - entry to exit life cycle
+"Need-to-Know basis" Access Control Mechanism
+Sophisticated User Interface
+Powerful Security Features
+Data Encryption
+User-Defined Configuration
+User-Defined Report Generation
+
+Advantages:
+Streamline HR and payroll processes
+Make HR management and payroll more efficient and accurate
+Reduce operational time
+Optimize salary forecast and planning
+File accurate statutory reports
+Handle HR and payroll management across various functional units
+
+
+Key Deliverables:-
+Study of the functional requirements of the application.
+Involved in analysis, Design & Development  and unit testing of different modules 
+Defect Fixes.
+
+
+Title			:	Customer Support Request Form.	
+Platform & Tools 	: 	Asp.net, C#, SQL, JavaScript
+Role			: 	Software Engineer.
+Period			: 	Dec 2013 - Nov 2014.
+
+
+Overview:-
+
+Customer Support Request Form is a support portal for the customers,  
+                    Customer will raise the requirements or request via this portal in the form of Ticket   .
+                     The Support engineer receives and gets the work done. It also will help to calculate the utility of the 
+   Employees.
+
+Key Deliverables:-
+Study of the functional requirements of the application.
+Involved in analysis, Design & Development  and unit testing of different modules 
+Defect Fixes.
+
+
+
+Title			:	B2C
+Platform & Tools 	: 	Asp.net, C#, SQL, JavaScript.	
+Role			: 	Software Engineer.
+Period			: 	September 2011 – Oct  2013.
+
+
+Overview:-
+
+                     B2C  is a Reporting engine. It will provide the organised data in form Reports and charts.
+                    As Per the user required format. It loads Client data file in the form of excel. 
+                     Extract the data and load it in sql server then provide the customizable report to the user
+
+
+Key Deliverables:-
+Study of the functional requirements of the application.
+Involved in analysis, Design & Development  and unit testing of different modules 
+Defect Fixes.
+
+Title			:	Management Analysis and Profiling System.	
+Platform & Tools 	: 	C#, .Net, SQL Server, Telerik (MVC) JavaScript, CSS.
+Role			: 	Software Engineer.
+Period			: 	October2008-July 2011.
+
+Description:-
+MAAPS (Management Analysis and Profiling System) is propriety Analytical Database.System designed to consolidate and organize all transactional Media & Order data, from virtually any marketing channel (TV, Web, Print, Radio, etc.), into a single solitary Database, for the ultimate in control and flexibility. MAAPS allows end users to directly manage the MAAPS database through the user interface which allows for data entry, importing data, enabling processes and creating custom reporting.
+Key Deliverables:-
+Study of the functional requirements of the application.
+Involved in analysis, coding and unit testing of different modules of MAAPS project.
+Developed front-end application pages.
+Defect Fixes.
+
+Other  Projects Involved
+
+
+
+
+Title			:	Time Sheet Management system 	
+Platform & Tools 	: 	C#, .Net, SQL Server, CSS.Javascript
+Role			: 	Software Engineer.
+Period			: 	August 2007-. August 2008	
+
+Overview:-
+
+Time Sheet Management system time tracking software that automates the collection, approval, and reporting of employee work. A user-friendly interface allows employees to conveniently track regular work hours, break time or overtime. Managers can then review the timesheets of their subordinates and easily calculate project hours in a selected period.
+Reporting functionality allows you to export selected timesheets to CSV format, in order to integrate data with other applications or create custom reports in Excel.
+
+• Customizable approval process (single approver, two approvers or auto-approved);
+• Access management (three levels of users: Employees, Administrators, and Managers);
+• Team management (Managers can only see timesheets created by their subordinates);
+• Automatic e-mail notifications of approvals and rejections;
+• Customizable email templates;
+• Cost tracking features
+
+Key Deliverables:-
+Study of the functional requirements of the application.
+Involved in analysis, Design & Development  and unit testing of different modules 
+Defect Fixes.
+
+
+
+
+
+PERSONAL VITAE
+
+Date of Birth	:	31st   May, 1983.
+Address	:	#3, Senthil Nagar ,Old Perungalathur, Chennai-63.
+Linguistics	:	English and Tamil.
+Address                 :              28,M.G.R Nagar,K.K.Road, Sholinganallur
+Location                :               Chennai

@@ -1,0 +1,198 @@
+SELVAM M   
+ 
+   
+  
+Email: selvammuniasamy1995@gmail.com  
+                         Mob: 91-6383663037   
+ 
+CAREER OBJECTIVE   
+   
+To secure a challenging position as an Automation QA Test engineer position, which gives me 
+an opportunity to exhibit my technical skills and giving scope for enhancement of my 
+knowledge and career.   
+ 
+   
+EXPERIENCE SUMMARY   
+• 
+Overall, 4.6 years of experience in Software Testing with both Manual and Automation 
+Testing using Selenium Web Driver.   
+• 
+Good experience in working with Agile methodology using scrum.   
+• 
+Experience on developing a framework using a design pattern - Page Object Model.   
+• 
+Good experience in different framework such as Junit, TestNG, Data Driven Framework.   
+• 
+Previously we developed BDD scripts with Cucumber and writing step definitions for 
+behavior.   
+• 
+Sound experience on Object Oriented Programming Structure (OOPS) concept.   
+• 
+Extensively used Java for test case automation.   
+• 
+Having good experience in SQL.   
+• 
+Proficient in using the build tool Maven to manage Java/Selenium automation projects.   
+• 
+Thoroughly involved in different types of testing like Smoke, Functional Testing, System 
+Integration Testing, Regression Testing.   
+ 
+ 
+ 
+   
+SKILLS   
+   
+• 
+Language  
+  
+: Java   
+• 
+Testing Tools      
+: Selenium Web Driver   
+• 
+Framework      
+: Cucumber, TestNG, Junit, POM, and Data Driven   
+• 
+Tools & Utilities         
+: GIT, Maven, Jenkins, Postman, MSSQL 
+• 
+ JIRA                    
+: Bug Tracking Tool   
+• 
+ IDE                     
+: Eclipse IDE   
+ 
+ 
+ 
+ 
+ 
+PROFESSIONAL WORKING EXPERIENCE 
+ 
+• 
+Working at HCL technologies, Bangalore from August 2022 to June 2023. Payroll 
+Company: Sureminds solution Pvt Ltd. 
+• 
+Worked at 3i Infotech, Chennai from August 2018 to April 2022. Payroll Company : JDK 
+Infotech  
+ 
+ 
+PROJECT EXPERIENCE   
+ 
+ 
+Project-1  
+: Workload Automation 
+ 
+Automation Tool  : Selenium WebDriver [Eclipse]   
+ 
+Description: 
+ 
+   
+Workload automation refers to the use of software for scheduling, managing, and 
+executing various business tasks and processes with minimum human intervention. It 
+eliminates or significantly reduces the scope of the human error factor, ensuring a smooth 
+continuation of operations with minimal or no disruptions.  
+   
+ROLE AND RESPONSIBILITIES   
+   
+• 
+Analysing the user stories, prepare the test scenario based on acceptance criteria.   
+• 
+Review the Test scenarios, identifying test cases for Manual and Automation with 
+Selenium WebDriver.   
+• 
+Design and Develop Automation scripts in Selenium WebDriver using TestNG  
+• 
+Involved in testing the application utilizing the Scrum (Agile) methodology.   
+• 
+Raise and track defect until closure. Re-test the resolved defects.   
+• 
+Participated in all Agile methodology ceremonies - planning daily scrum calls, sprint 
+review and sprint retrospective. 
+• 
+Involvement in creating the Test cases, Test scenarios and Test Data. 
+• 
+Involvement in Test Execution, Result Analyzing and defect reporting. 
+• 
+Preparation of Test Strategy. 
+• 
+Setup the Automation Framework using Selenium to run test cases in multiple. 
+• 
+ Sprint Planning, daily scrum calls, Sprint 
+• 
+review, and Sprint retrospective. 
+• 
+Interacting with the client via e-mail / conference call. 
+• 
+Preparing the Test Summary Report. 
+ 
+ 
+ 
+   
+ 
+ 
+Project-2  
+: SEARS (Ecommerce)    
+ 
+Automation Tool  : Selenium WebDriver [Eclipse]   
+ 
+Description: 
+   
+Sears, Roebuck and Company, American retailer of general merchandise, tools, home 
+appliances, clothing, and automotive parts and services. It is a subsidiary of Sears Holdings 
+Corporation, which, following a bankruptcy auction, was purchased by the hedge fund ESL 
+Investments in 2021.   
+   
+ROLE AND RESPONSIBILITIES   
+   
+• 
+Analysing the user stories, prepare the test scenario based on acceptance criteria.   
+• 
+Review the Test scenarios, identifying test cases for Manual and Automation with 
+Selenium WebDriver.   
+• 
+Design and Develop Automation scripts in Selenium WebDriver using Cucumber with 
+Junit Framework.   
+• 
+Generating Test Scenarios and test data in feature file.   
+• 
+Developed the Automation Test Scripts in Selenium WebDriver using Java based on 
+the design.   
+• 
+Pattern Page Object Model for reusability.   
+• 
+Involved in writing Automation script by using Selenium WebDriver with Enhanced Test 
+cases using Java Programming features and Junit   Annotations.   
+• 
+Involved in testing the application utilizing the Scrum (Agile) methodology.   
+• 
+Raise and track defect until closure. Re-test the resolved defects.   
+• 
+Participated in all Agile methodology ceremonies - planning daily scrum calls, sprint 
+review and sprint retrospective.   
+   
+   
+EDUCATIONAL QUALIFICATION   
+   
+• 
+Bachelor’s degree in computer application, Kumararani Meena Muthiah College of Arts & 
+Science, Chennai.     
+   
+DECLARATION   
+   
+• 
+I hereby declare that all the above stated information is correct to the best of my 
+knowledge.  
+ 
+ 
+Place 
+: 
+Date 
+: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   Selvam M

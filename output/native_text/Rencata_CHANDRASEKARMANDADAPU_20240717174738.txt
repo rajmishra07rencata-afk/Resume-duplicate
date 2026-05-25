@@ -1,0 +1,279 @@
+CHANDRASEKAR MANDADAPU 
+E-Mail: chandrasekar.mandadapu@gmail.com / Phone: +91-9959987992 
+ 
+ 
+Middle Level Professional 
+Scaling new heights of success with hard work & dedication and leaving a mark of excellence on each step; 
+targeting managerial level assignments in Business Analysis with a leading organisation of high repute; 
+preferably in Hyderabad 
+ 
+KEY SKILLS 
+ 
+~ Business Analysis 
+~ Project Management 
+~ Requirements Gathering 
+~ Stakeholder Management 
+~ Client Relationship 
+Management 
+~ Product Development 
+~ Reporting & Documentation 
+~ Liaison & Coordination 
+~ Team Management 
+ 
+PROFILE SUMMARY 
+ 
+• 
+Forward-focussed Analyst offering over 11 years of rich experience in business analysis, 
+requirement gathering, requirement analysis, user story development, wireframe designs, 
+risk analysis and quality management in US Home Mortgage Lending Industry 
+• 
+Excellence in mapping of client / business requirements and translating the same into 
+solution with integration, testing & deployment of complex information systems  
+• 
+Worked as a liaison between business community and IT organization from project 
+inception through implementation in order to provide customer-centric solutions that 
+solve business needs 
+• 
+Rich experience in performing root cause analysis, resolving problems, identifying 
+potential solutions, and presenting the proposals to Client / Management Team 
+• 
+Expertise in managing expectations of the product, conducting system analysis & design,
+and building functionalities & features in interaction with the client 
+• 
+Gained working knowledge of Systems Development Life Cycles i.e., Waterfall, 
+Prototyping, Iterative, Agile, and so on 
+• 
+Resourceful in determining operational feasibility through analysis, problem definition, 
+requirement analysis and proposing solutions 
+• 
+Efficient organizer, motivator, team player & a decisive leader with the skills to motivate 
+teams to excel and win 
+ 
+ORGANISATIONAL EXPERIENCE 
+ 
+Since Jun’21 
+ 
+RENCATA as Integration Analyst 
+ 
+Keys Result Areas:  
+• 
+Acted as a Member of: 
+o 
+Client Product Development Team working on a new implementations and customizations for CHL’s Origence loan 
+origination. 
+o 
+Client Project Development Team worked on a new implementation for Vista Point’s SharePoint Intranet Development and 
+Website Revamp. 
+o 
+Base Project Development Team worked on a new implementation for Rencata SharePoint Intranet Development. 
+o 
+Base Product Development Team worked on a new implementation for SandStar (Single Window Management System for 
+Staffing Solutions) product. 
+• 
+Working as a primary liaison between the business community (Stakeholders and Product Development) and the application 
+development organization 
+• 
+Coordinating with business partners to ensure business requirements are clear and achievable 
+• 
+Analysing in-scope requirements to determine areas of opportunity to leverage configurations 
+• 
+Facilitating design & review meetings with key stakeholders to review business/project requirements and devise solutions to 
+meet business needs 
+• 
+Designing User Stories to support development of new technology, modifications to existing technology as well as client 
+customizations or regulations related to system design 
+• 
+Creating Features, User Stories, Acceptance Criteria, review & analyse defects 
+• 
+Supporting Dev and QA support to ensure solutions are developed and tested as per design 
+• 
+Performing User Acceptance Testing upon code completion to ensure developed solution meets design/end user expectations. 
+ 
+Dec’12 – Jun’21   
+Black Knight Inc., Hyderabad as Business System Analyst III 
+ 
+Keys Result Areas:  
+• 
+Acted as a Member of: 
+o 
+Base Product Development Team worked on a new implementation for Black Knight’s Lead Management System which 
+enables clients to improve efficiency, exposes new sales opportunities, enables quicker turnarounds, and turns inquiries 
+into qualified sales leads ready for conversion. 
+• 
+Gathered requirements, developed Business Requirements/ User Stories and UI Mock-ups for below major 
+implementation. 
+▪ 
+Lead Management System Integration with Loan Origination System 
+• 
+Bi-Directional Data Transfer 
+o 
+Loan Status Email Triggers 
+• 
+Pricing Integration 
+o 
+Rate Quote & Closing Cost Print 
+• 
+Consumer Portal Integration 
+• 
+Pricing, Notes and Documents Transfer 
+• 
+Interface Log 
+▪ 
+Lead (User & Team) Assignments 
+▪ 
+Configurable sections and fields in LMS and allow data transfer while lead submission. 
+▪ 
+Lead Management System Integration with MSP 
+▪ 
+Lead Management System Integration with External Lead Provider  
+• 
+Zillow 
+▪ 
+Lead Management System Integration with External Email Delivery Partner 
+• 
+SendGrid 
+▪ 
+Link users and Loan Officer hierarchy 
+▪ 
+Email Drip Campaign, Send Mass Emails for Lead & Business Contacts 
+▪ 
+NPI Data Masking 
+▪ 
+Business Contacts Implementation 
+• 
+Business Contact Referrals 
+• 
+Business Contact Tie to Lead 
+• 
+Business Contact Sharing 
+▪ 
+Introduce ZIP lookup 
+• 
+Gathered requirements, Admin Configurations, developed Business Requirements/ User Stories and UI Mock-ups 
+for LMS Product Customization Requirements for below clients 
+▪ 
+PNC 
+▪ 
+Santander 
+▪ 
+Third Federal 
+▪ 
+NewDay Financial USA 
+▪ 
+OneWest Bank 
+o 
+Base Product Development Team working on a new interface for Black Knight’s Ernst Settlement Agent Gateway which 
+enables Lenders to manage their agent network and Agents to manage their rate cards 
+• 
+Gathered requirements, developed User Stories and UI Mock-ups for below major implementation. 
+▪ 
+Agent Self-Management portal 
+▪ 
+State Wise Effective Date for the Agent Rate Cards 
+▪ 
+Appraisal Service implementation in SAG 
+▪ 
+Client Fee Translations 
+▪ 
+Enhance Search Capabilities in Transaction History  
+▪ 
+API development for Stewart Data (Offices, State Settings and Endorsements) Maintenance process 
+o 
+Title Management Team, onboarding new Settlement Agents to Ernst Settlement Gateway and managing Title and 
+Settlement Fees for new and existing agents also enabling direct connections to underwriters and providing standardized 
+fee names for all settlement fees and endorsements to Lenders. 
+• 
+Radian Title Services 
+• 
+Timios Title 
+• 
+Title 365 
+• 
+Boston National Title 
+• 
+Beeline Mortgage 
+• 
+Stewart Title Guaranty Services 
+• 
+First American Mortgage Solutions 
+• 
+Westcor Land Title Insurance Company 
+• 
+Agents National Title Insurance Company 
+• 
+American National Title Insurance Company 
+• 
+Chicago National Title Insurance Company 
+• 
+North American Title Insurance Company 
+• 
+Old Republic National Title Insurance Company 
+• 
+Agents National Title Insurance Company 
+• 
+American National Title Insurance Company 
+o 
+Working as a primary liaison between the business community (Client and Product Development) and the application 
+development organization 
+o 
+Coordinating with business partners to ensure business requirements are clear and achievable 
+o 
+Analysing in-scope requirements to determine areas of opportunity to leverage configurations 
+o 
+Facilitating design & review meetings with key stakeholders to review business/project requirements and devise solutions 
+to meet business needs 
+o 
+Designing documentations (BRD & FDS) to support development of new technology, modifications to existing technology 
+as well as client customizations or regulations related to system design 
+o 
+Creating Features, User Stories, Acceptance Criteria, review & analyse defects 
+o 
+Conducting data mapping and related analysis in support of assigned work items 
+o 
+Supporting Dev and QA support to ensure solutions are developed and tested as per design 
+o 
+Performing User Acceptance Testing upon code completion to ensure developed solution meets design/end user 
+expectations 
+o 
+Coordinating with Lenders and Settlement Agents on New Agent setup, Title and Settlement Fee configurations and 
+translations. 
+ 
+Accomplishments: 
+• Provided extremely useful strategic inputs while performing Gap Analysis for Lead Management Product Development and Client 
+Implementation, which were later recognized and appreciated by the management 
+• Led a team of 5 people for the Lead Management project 
+• Evaluated existing Settlement Agent Management System, Admin Tool, and updated knowledge gaps by preparing the Product 
+Guide 
+ 
+ 
+Achievements: 
+• Rising Star Award winner for the year 2016 
+• Employee of the Year Award winner for the year 2016 
+• Role Model Award winner for the year 2017. 
+ 
+PREVIOUS EXPERIENCE 
+ 
+Nov’11 – Dec’12  
+SOFTLABS, Hyderabad as Jr. Test Analyst 
+ 
+ACADEMIC DETAILS 
+ 
+2010 
+ 
+ 
+B.Tech (CSE) from JNTU University, Hyderabad 
+ 
+CERTIFICATIONS 
+ 
+• 
+ISTQB – BCS Certified Foundation Level Tester. (Certified in 2015) 
+ 
+PERSONAL DETAILS 
+ 
+Date of Birth: 
+ 
+14th August 1989 
+Mailing Address:  
+Plot Number 18, VT Colony, Near Kidzee School, Nalgonda – 508001 
+Languages Known: 
+English, Telugu, and Hindi

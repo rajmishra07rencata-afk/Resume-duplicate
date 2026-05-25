@@ -1,0 +1,83 @@
+AJAYKUMAR D
+5, Big street, kesavarajakuppam, Tiruvallur(dist), Tamilnadu - 631208
+ajaykumard2609@gmail.com | 6382835933
+OBJECTIVE
+Highly motivated and dedicated iOS developer with 1 year of professional experience seeking a challenging position in
+adynamic organization where I can contribute my skills and knowledge in developing innovative and user-friendly
+iOSapplications. I am eager to further enhance my expertise in iOS development while collaborating with a talented team to
+createexceptional mobile experiences.
+SUMMARY
+ROLES & RESPONSIBILITIES
+EXPERIENCE
+EDUCATION
+SKILLS
+Swift (Programming Language)
+Objective C
+IPhone Application Development
+IOS Development
+Xcode
+Coco & CocoTouch Framework
+Third party SDK's & API Integrations
+GitHup & GitLap
+Firebase
+Core Data & SQL
+Auto Layout
+PROJECTS
+Highly skilled and collaborative iOS developer with 1 year of professional experience in dynamic IT infrastructure
+environments.Organized and deadline-driven, consistently delivering high-quality results. Strong expertise in iOS development,
+with a focus oncreating innovative and user-friendly applications.
+Reviewed and assessed client requirements, wireframes, and designs to ensure technical feasibility. Collaborated closely
+withscrum team members to translate client requirements into actionable user stories, contributing to efficient
+projectimplementation. Enhanced product quality by conducting thorough code reviews and providing constructive feedback to
+thedevelopment team.
+Netaxis It Solution Private limited
+IOS Developer
+September 2022 - Present
+PERI INSTITUTE OF TECHNOLOGY
+Bachelor of Engineering
+81%
+2018 - 2022
+GOVERNMENT BOYS HIGHER SECONDARY SCHOOL
+HSC
+75%
+2017 - 2018
+GOVERNMENT HIGH SCHOOL
+SSLC
+93%
+2015 - 2016
+Locker.link
+This app is used as a password manager app that creates strong passwords for your accounts and remembers them safely
+foryou. Keeps your passwords safe and shareable.
+IMPLEMENTATION
+Encryption and Decryption
+Alamofire
+LANGUAGE
+Tamil : Read , write and speak
+English : Read , write and speak
+DECLARATIONS
+Social login
+Subscription(payment)
+MyCalling
+This application is used as a softphone for voice and video over IP calling and instant messaging. It is SIP based for all
+call,presence and IM features.
+IMPLEMENTATION
+This application based on Linephone
+Linephone SDK
+Alamofire
+Social login
+Firebase handling
+Callkit
+video call & voice call & group call & call recording
+Individual chat & voice chat & group chat
+AudioName
+AudioName is an application that allows you to record your name and use it for your web presence through various social
+andprofessional networking sites.
+IMPLEMENTATION
+Encryption and Decryption
+NFC tag
+AVFoundation
+Webkit
+Editing tool
+Contributing Name - likes, sharing, points, rewards
+I hereby declare that the information provided above is true and accurate to the best of my knowledge. I understand that
+anymisrepresentation or omission may result in disqualification from the recruitment process or termination if employed.

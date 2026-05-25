@@ -1,0 +1,94 @@
+.
+.
+Abinaya Arulmohan
+Chennai, Tamil Nadu
+abishakshi1496@gmail.com
++91 8667256871
+www.linkedin.com/in/abinaya-arulmohan-7556b8103
+SUMMARY
+Experienced Angular Front-End Developer with 5+ years of experience in Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap,
+Nodejs, MongoDB. Proven expertise in creating and refining the user experience of web applications. Highly skilled in developing
+responsive, dynamic web interfaces.
+EXPERIENCE
+Senior Software Developer
+Prudential travels Pvt Ltd
+October 2022 - Present
+• Hands-on software development with Angular 14 ,HTML,CSS, Bootstrap, Javascript, Typescript and Implemented Fusionchart,
+Lightgallery, Ngrx, Google Map.
+Angular Developer
+Contus
+January 2021 - September 2022 Chennai, Tamilnadu.
+,
+• Hands-on software development with Angular 13 ,HTML,CSS, Bootstrap, Javascript, Typescript. Experience debugging code
+,locating the root causes of problems and resolving them.
+• Implemented Ag Grid on some of the modules.
+Angular Developer
+Oasys Cybernetics Pvt Ltd
+July 2019 - January 2021 Chennai, Tamilnadu.
+,
+• Working knowledge of code optimization and performance techniques . Cooperating with the back-end developer in the process
+of building the REST full API.
+• Having experience on web-based GIT repository manager and familiar with useful operations like commit, push, raising MR,
+resolve conflicts, merge,
+• create new branch and so on. Experience on debugging code,locating the root causes of problems and resolving them.
+• Developed AngularJS applications that met usability criteria, increased performance by 15%, and optimized code for best
+experience across devices.
+• Utilized expertise to develop highly interactive UIs, web applications, and components that support the application architecture.
+• Executed unit tests and end-to-end tests to ensure quality and error-free code.
+• Implemented security strategies and software best practices to maintain a safe coding environment.
+Junior Angular Developer
+Ebrain Technologies
+May 2018 - June 2019 Thanjavur, Tamilnadu.
+,
+• Developed an end to end application built entirely using Angular. Developed responsive web UI and managed data.
+• Extensive Experience in Creating Components & reusable Components. Good understanding on usage of states and props inside
+components.
+• Implemented API calls Post/Get/Put/Delete methods. Experience with RESTfull Services and API's. Utilized Angular-Router to
+create Dynamic
+• Routing.
+• Troubleshooting & Bugs fixes for the web application. Used Node Package Manager (NPM) to manage modules.
+• Extensively used Bootstrap to implement Bootstrap buttons, forms, pagination's, grids, popover scroll spy in web pages.
+• Improved performance by utilizing feature lazy loading and caching to improve the load time of the application by 40%.
+PROJECTS
+Arable Labs
+Arable Labs (Working under the payroll of  Prudential travels Pvt Ltd)
+• Arable delivers unparalleled levels of visibility and insight by putting daily crop images, forecasts, as well as real-time weather,
+plant, soil, and irrigation intelligence all at your fingertips. With Arable you’ll see more, know more, and be empowered to grow
+more.
+• Arable delivers comprehensive, actionable insights in one simple yet powerful solution. With the crop intelligence you need at
+your fingertips, you can spend less time guessing and more time optimizing productivity, sustainability, and profitability.
+• Understand outcome drivers by linking weather events to plant development
+• Create your own seasons and assign growth stages for any crop variety
+.
+.
+• Drive operational decisions by comparing data across locations
+• Manage your teams’ work with customizable alerts and permissions
+Taste Editor
+Contus
+• Taste Editor uses to handle huge number of taste flavors from labs. To validate whether experiment follows international
+standards, cost effective and meets client’s expectations. Once experiment pass all the constrains experiment will convert has
+products
+Health Management Information Systems
+Oasys cybernetics Pvt Ltd.
+• Health Management Information Systems (HMIS 3.0) is one of the six building blocks essential for health system strengthening.
+HMIS is a data collection system specifically designed to support planning, management, and decision making in health facilities
+and organizations.
+• We have developed HMIS for Tamil Nadu government.
+E-pass
+Oasys Cybernatics Pvt Ltd
+• E-pass is an application which is created for Tamilnadu Government Essential Products Transport. It is used to transport
+essential products from Tamilnadu to other state and view- versa.
+Uzhavar Santhai
+Ebrain Technologies
+• UzhavarSanthai simplifies the efforts of farmers to sell their products. Farmers can make use of this application to post their
+products. With this application, Everyone can buy products. This application is completely based on brocker -free concept to buy
+products by nominal cost. This application have ADMIN PANEL also, admin can support the users through this application such as
+Activating and Deactivating users and can add category.
+EDUCATION
+Bachelor Of Engineering
+Minor in Computer Science • Anjalai Ammal Mahalingam Engineering College • 2017 • 73%
+SKILLS
+LANGUAGES : HTML, CSS, BOOTSTRAP, Javascript, Typescript, Node.js
+FRAMEWORK : ANGULAR 8, 11, 14
+DATABASE : MongoDB
+TOOLS : Visual studio code, Sublime, Postman, MS Excel, Git

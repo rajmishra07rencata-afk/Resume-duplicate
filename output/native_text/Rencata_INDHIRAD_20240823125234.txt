@@ -1,0 +1,242 @@
+Gained knowledge about the SQL Queries.
+ORACLE DEVELOPER
+HCL Technologies | Sep 2019 - Jan 2020
+Respond to client needs for applications with an eye to the most feasible
+ Implemented User Interface using Android Xml in Android Studio and
+ Ensure that apps are tested to meet total performance requirements.
+JUNIOR ANDROID DEVELOPER
+Quatics | Feb 2020 - July 2020
+and effective solutions.
+HTML, CSS, JavaScript in VS Code.
+Android Developer with over 3.5 years of experience in Mobile development.
+Expertise in the features of permissions, Navigation Drawer, Bottom Navigation,
+Translucent Toolbar, View pager, and various Material designs. Proficient in
+Android SDK, Kotlin, Java, React Native, and JS. Dedicated to continuously developing,
+implementing, and adopting new technologies to maximize development efficiency and
+produce innovative applications.
+ Extensive experience in Web and Mobile apps development.
+ Worked as Mobile App Developer, done 15+ projects in Web and Mobile
+ And I have done 5 React native apps, 10+ Android apps and 1 Website.
+ Ensure applications are properly integrated with Android APIs.
+ Implemented Integration of Volley for efficient Network Calls.
+ Implemented payment gateway of Razor pay and PayU Money Integration.
+ Implemented JSON and RESTful APIs. 
+ Expert in the interaction between various devices and versions of Android.
+ Deployed Applications in the Google Play Store and App Store
+ Managing large and complex projects or multiple components with smooth 
+ implementation and testing of application.
+Cooperating & communicating with other team members for efficient
+management works.
+Delivering and implementing the project as per scheduled milestones.
+Designing, Developing, Implementation and troubleshooting of applications.
+Designed and developed base classes, framework classes and re-usable
+components.
+Worked closely with the project management and marketing team to
+completely define specifications to help ensure project acceptance.
+Focused on writing optimized and good quality code and try to deliver client
+satisfaction work.
+Ability to lead projects with team.
+SENIOR ANDROID DEVELOPER
+Quatics | Aug 2020 - Aug 2022
+Applications by using React native, Android and React JS.
+T O O L S
+Kotlin / Java
+JSON
+REST Api
+React Native 
+React
+HTML
+CSS
+SQL
+Firebase
+Android Studio
+Visual Studio
+Postman
+Github Desktop
+Jira
+Zoho Software 
+Android SDK
+Google Play Console
+Creative spirit
+Reliable 
+and 
+professional
+Organized
+Time management
+Team player
+Fast learner
+Motivated
+Certified in Cambridge English
+Entry Level Certificate in ESOL
+International.
+Certified in Mobile Application
+Development using Android
+with Java.
+Expert at Java SDK design
+functionality, including the full
+activity lifecycle
+Knowledgeable about Android UI
+design and development
+Analytical user of GIT version
+control implementation
+Consummate collaborator with
+clients, management, and team
+members
+P: 9841117824
+Dob: 19/11/1997
+E: indhira1911@gmail.com
+in:https://www.linkedin.com/in/indhira -
+d-415858184/ 
+P R O F E S S I O N A L  S K I L L S
+C E R T I F I C A T I O N
+P E R S O N A L  I N F O
+P E R S O N A L   S K I L L S
+T E C H N I C A L  S K I L L S
+A B O U T
+W O R K  E X P E R I E N C E
+S.A Engineering College | 2015 - 2019 
+CGPA 7.2
+B.TECH INFORMATION TECHNOLOGY
+INDHIRA D
+A N D R O I D  D E V E L O P E R
+Designing, Developing, Implementation and troubleshooting of applications.
+Designed and developed base classes, framework classes and re-usable
+components.
+Implemented JSON and RESTful APIs. 
+Implementing an existing project using Retrofit.
+ANDROID DEVELOPER
+TalentBridge Technologies Pvt Ltd | May 2023 - Present
+E D U C A T I O N
+Designing, Developing, Implementation and troubleshooting of applications.
+Designed and developed base classes, framework classes and re-usable
+components.
+Implemented JSON and RESTful APIs. 
+Implementing an existing project using Retrofit.
+SOFTWARE DEVELOPER
+SANeForce | Sep 2022 - April 2023
+P R O J E C T  H I S T O R Y
+1.MADRAS COWORKS
+Madras Coworks application is the Coworking Space provides
+Primarily they provides coworking space in various Location.
+Users can able to book the space for any time based on their
+https://play.google.com/store/apps/details?
+id=com.dhwarco
+LANGUAGE: Android Kotlin
+TOOLS: Android Studio, Postman, Firebase
+INTEGRATION: Volley and REST Api
+BACKEND: Node js
+DATABASE: MongoDB
+PROJECT DESCRIPTION: 
+Customized Office Space to the users.
+availability.
+3. DUDEATWORK WAITER - Restaurant POS Solution
+Waiter App is the fastest way to handle orders and
+KOT during your busy days.
+Dudeatwork Waiter App is only for Restaurant & QSR
+Customers.
+Waiter can take order and close order from the table.
+Also can raise KOT for the table.
+https://play.google.com/store/apps/details?
+id=com.dudeatwork.waiter
+LANGUAGE: Android Kotlin
+TOOLS: Android Studio, Postman
+INTEGARTION: Volley and REST APi
+PROJECT DESCRIPTION: 
+
+2. DAW RETAIL
+Dudeatwork Application is only for Merchants.
+Merchants can check their daily statistics, Overall Sales,
+Stocks, Customers etc., happening on a real time basis.
+The application developed using Volley and REST Api.
+https://play.google.com/store/apps/details?
+id=com.dudeatwork
+LANGUAGE: Android Kotlin
+TOOLS: Android Studio 
+PROJECT DESCRIPTION: 
+4. GREYSWITCH
+GreySwitch prediction meter, offers how much electricity
+is being consumed.
+GreySwitch was designed with the sole purpose of
+helpingpeople to restrict and manage their electricity
+expenses.
+Also make the E.B payments can be done through the
+application. 
+Payments Integrated in the Razorpay Integration.
+Application integrated by using Volley and REST Api.
+https://play.google.com/store/apps/details?id=com.greyswitch
+LANGUAGE: Android Kotlin and React Native
+TOOLS: Android Studio, Postman, Firebase
+BACKEND: Node js
+DATABASE: MongoDB
+PROJECT DESCRIPTION: 
+5. GTAXES
+https://play.google.com/store/apps/details?id=app.gtaxes.in
+GTaxes ian an application that will allow yo to file your
+tax returns.    
+LANGUAGE: Android Kotlin
+TOOLS: Android Studio, Postman, Firebase
+PROJECT DESCRIPTION: 
+9. SWINSHOPS
+Swinshops is choosing the parity color prediction
+Developed the Message Reading application for
+the transaction using REST Api.
+LANGUAGE: Android Kotlin
+TOOLS: Android Studio, Postman
+BACKEND: Node js
+DATABASE: MongoDB
+PROJECT DESCRIPTION: 
+game.
+ 8. SACRED HEART CHURCH
+Sacred Heart Church Application is used for the
+users to book a church for mass prayer using slots.
+In the application time slots of mass booking and
+Users can able to see the announcements and
+LANGUAGE: React Native
+TOOLS: Visual Studio Code, Postman
+BACKEND: Node js
+DATABASE: MongoDB
+PROJECT DESCRIPTION: 
+church services will be developed.
+notifications from the app.
+6. MURUNTAUQ
+Muruntauq Application is the Gold Savings schemes
+It is B2B2C(business-to-business-tocustomers)
+Single instance os software runs on a server
+connected to multiple databases.
+Every Tenant have a separate Database.
+LANGUAGE: React Native
+TOOLS: Visual Studio Code, Postman
+BACKEND: Node js
+DATABASE: MongoDB
+PROJECT DESCRIPTION: 
+for the users.
+Application.
+Key Services: Income Tax Return(ITR) Filing, Income
+Tax & HRA Calculation, Tax Statement Generation, etc.,    
+ 7. TASKO
+Tasko is the application used for the assigning the
+task to the vendors and monitoring the task
+performance over the app.
+Tasko Application consists of two apps, one is for
+User can able to accept or reject the task.
+Admin can assign or reassign the task with the
+remainder and deadline to the vendor.
+LANGUAGE: React Native
+TOOLS: Visual Studio Code, Postman
+BACKEND: Node js
+DATABASE: MongoDB
+PROJECT DESCRIPTION: 
+Admin and vendor.
+10. HAP CHECK IN (HUTSUN)
+HAP is the application is used for SAM - Scan
+Attendance Manager, StaffAny Clock-In &
+Scheduling product for retailers and distributors.
+Retailers can order the products from the
+distributor.
+They can able to access the invoice, outlets and
+orders.
+LANGUAGE: Android Java
+TOOLS: Android Studio, Postman
+BACKEND: PHP
+DATABASE: SQL Server
+PROJECT DESCRIPTION:

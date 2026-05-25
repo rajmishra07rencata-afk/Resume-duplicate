@@ -1,0 +1,80 @@
+To work in an environment which encourages me to succeed and grow
+professionally where I can utilize my skills and knowledge appropriately
+Elamaran G
+iOS APP DEVELOPER
+Summary
+Skills
+Experience in App Store Submission and Firebase Integration
+Experience in Firebase Push Notification.
+Experience of the Auto layout and UI design with constraints.
+Strong in Design Patterns such as MVC, MVVM.
+Handling the cocoa pods and Third-party frameworks, GitHub.
+Networking (API integration using REST API, Post Method(GET, POST)).
+Database Core Data (Save Data, Retrieve Data, Update Data, Delete Data).
+Experience work on JSON parsing.
+Proficient in Swift and iOS application development tools.
+Knowledge in Cocoa Touch.
+Good knowledge of Web Services, JSON, Firebase integration 
+Knowledge in Google Map & Map kit.
+Knowledge in cURL requests with Swift URLSession
++91 8778949557
+elamarangiosdev@gmail.com
+No.4A,Near Race Course Bus
+Stand,Guindy, Chennai.
+Experience:- 1.4 Years
+Experience
+Muviereck Technologies,
+Chennai.
+iOS Developer
+Mar 2023 to Jun 2023
+Mobile Application for Car wash & Bike Wash at your door Step.
+ Carro Care App helps you to wash your Vehicle , Any time your want to
+prefer to wash your vehicle 
+This app contains Internal Wash,Wax Polish and Extrainterior Wash.
+Description
+Carro Care APP
+Project
+Inter Webstar Technologies,
+Chennai.
+Junior iOS Developer
+Feb 2022 to Mar 2023
+Education
+Bachelor of Engineering
+ Vel Tech High Tech Engineering College
+Mount Park Higher Secondary School
+May 2019
+May 2015
+Anna University
+Higher Secondary
+Last Minute Hotel Booking App
+Description
+• Mobile Application product for hotel room booking app.
+• Last minute hotel booking app helps you to find the best and cheap hotels
+worldwide.
+Additional Details 
+Father Name
+Gokula Krishna Moorthy S 
+Gender
+Male
+Nationality
+Indian
+Marital status
+Single
+Declaration
+    I hereby declare that the above-mentioned information is correct upto my
+knowledge and I bear the responsibility for the correctness of the above-
+mentioned particulars.
+Responsibilities:
+Involved in building UI prototypes for the application.
+Involved in database designing documentation and creation.
+Involved in UI designing and code implementation with Swift.
+Involved in AppStore submission.
+Responsibilities:
+Experience in AppStore submission and Push Notification.
+Involved in building UI prototypes for the application.
+Develop the code and Testing the project 
+Involved in UI designing and code implementation with Swift.
+URL
+https://apps.apple.com/in/app/carro-care/id6448905222
+URL
+https://apps.apple.com/us/app/last-minute-hotel-booking-app/id1513713688

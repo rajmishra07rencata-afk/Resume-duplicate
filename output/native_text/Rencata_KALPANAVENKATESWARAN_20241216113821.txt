@@ -1,0 +1,89 @@
+K A L P A N A  V E N K A T E S W A R A N  
+J A V A  S O F T W A R E  D E V E L O P E R   
+Mobile: +91 90805 48144 
+Email: iamkalpana@gmail.com 
+ 
+S u m m a r y  
+ 
+ 
+ 
+Passionate software developer with 2+ years of experience in Java application. Proven technical ability with strong 
+leadership skills to deliver quality solutions on time. Highly interested in hands on development & technical 
+articulation. Always willing to learn & implement the best technical practices. 
+E D U C A T I O N   
+I T  E x p e r i e n c e  
+ 
+ 
+Mar 2003 
+MCA – 85.5% 
+Meenakshi College, 
+Chennai 
+Mar 2000 
+B.Sc (Maths)– 82% 
+Meenakshi College, 
+Chennai 
+May 1997  
+Class XII  
+CBSE – 80% 
+Jawahar Vidyalaya, 
+Chennai 
+ 
+ 
+Apr-2021 – Till date 
+Software Developer • THREE CUBE IT LABS, Chennai.   
+• 
+Responsible for delivering enhancements to Hospital Management 
+Product 
+• 
+Ground up development of the optical module & Finance module’s 
+Petty Cash functionality. 
+• 
+Demoed the product to hospital administrators & management, 
+showcasing salient features of the product and mapping of business 
+requirements to feature set in the product, resulting in sale of the 
+product in 3 hospitals. 
+• 
+Played the lead role in implementing the product in all the 3 
+Hospitals making the cutover and transition very smooth. 
+• 
+Coordinated and delivered product training to clients thus ensuring 
+clients are equipped with the knowledge and skills necessary to 
+utilize the product effectively. 
+• 
+Automated the migration of data from existing system so that on the 
+day of cut over the process is quickened resulting in nil manual 
+errors. This has resulted in significant reduction of downtime from 
+3 days to 5 hours. 
+T E C H  S K I L L S  
+• 
+Core Java 
+• 
+Hibernate 
+• 
+REST API 
+• 
+Spring Boot 
+• 
+MYSQL 
+• 
+SVN 
+C E R T I F I C A T I O N  
+O T H E R  E X P .   
+ 
+ 
+• 
+Completed Spring 
+Framework 
+Certification in Udemy. 
+ 
+• 
+Program Partner in Curio Kids of making science being loved by kids 
+through simple experiments 
+• 
+Instructed and mentored students for Mathematics Olympiad 
+preparation. 
+• 
+Brief stint in Wipro Technologies, Bangalore on Mainframe 
+technologies  
+• 
+Campus placement in Polaris Software Labs, Chennai in 2003

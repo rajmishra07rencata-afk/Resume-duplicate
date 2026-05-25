@@ -1,0 +1,356 @@
+V.PRASAD
+No: 27/3, Amaravathi Nagar,					Mobile: +91 9790307051
+3rd West Street, Arumbakkam,					E-mail: 	prasath328@gmail.com
+Chennai –106.	
+
+Profile Summary
+Overall 7+ Years’ experience in developing web based applications with .Net technologies.
+Hands of Experience in ASP.NET, MVC 5, C#, Entity Framework, WCF, SQL Server 2012.
+Involved in design document creation and GUI design.
+Ability to Quickly Master new concepts.
+Versatile team player with problem solving.
+
+Academic Profile
+Bachelor of Information Technology (B.Tech)
+C.S.I Institute of Technology, Nagercoil, Tamil Nadu.
+Passed out in 2007 with first class.
+
+Diploma in Information Technology
+Morning Star Polytechnic, Nagercoil, Tamil Nadu.
+Passed out in 2004 with Distinction.
+
+Technical Skills
+Web Technologies	:	ASP.Net with MVC, C#, Entity Framework, WCF, WebAPI,           JQuery, AJAX, AngularJS	
+Database		:	SQL Server 2008 and 2012
+Web Tools		:	HTML, CSS3, Bootstrap
+Areas of Interest	:	Web Development
+
+Business Skills
+Development, testing, troubleshooting and debugging of the applications.
+Handling smooth implementation and testing of the application at client location.
+Providing post-implementation, enhancement and maintenance support to client for application.
+Client interaction for requirement gathering, system study & analysis.
+
+Employment History
+Current Organization: Twinkle Software Solutions (P) Ltd.
+Designation: Senior Web Developer
+Period: October 2011 to till date
+
+Second Organization: Enrichware Technologies (P) Ltd.
+Designation: Web Developer
+Period: October 2009 to September 2011
+
+First Organization: Rathna Softnet Technology.
+Designation: Web Developer
+Period: May 2008 to Aug 2009.
+
+
+
+
+
+
+
+
+
+
+
+Core Project Experience
+
+Project #1:
+
+Project Title: Bmobile-Vodafone Selfcare
+Technology Used: MVC 4, C#, Entity Framework, WCF, Ajax, JQuery, SQL Server 2012
+Duration:  Sep 2017 to till Date
+Team size: 3
+Summary:
+The project is being developed for the company named bmobile-vodafone limited(PNG). The application having web and App interfaces. The selfcare having three modules customer module, Agent module and Admin modules.
+The Customer’s Self-care Options which helps users to get control over their account at their fingertips instead of calling CC, visiting Relationship centres and spending some time. The User can directly access the portal and can do top-up and bundle pans activation etc. 
+The Agent login can do Kyc registration for new sim, Airport sim registration also will do the top-up process similar to customer’s Self-care.
+The admin module is managing the masters, customers and agents also they can access various kind of reports
+
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+
+
+Project #2:
+
+Project Title: AVIS Fleet Management
+Technology Used: MVC 5, C#, Entity Framework, AngularJS, SQL Server-2012
+Duration:  JAN 2017 to Aug 2017
+Team size: 2
+
+Summary:
+The Fleet (vehicle) management include a range of functions, such as vehicle financing, vehicle maintenance, vehicle telematics (tracking and diagnostics), driver management, speed management, fuel management and health and safety management. The Fleet Management is supporting to companies which rely on transportation in business to remove or minimize the risks associated with vehicle investment, improving efficiency, productivity and reducing their overall transportation.
+The Fleet management software is monitoring vehicle operation for mechanical problems and maintenance to continue or improve the overall productivity of the company.
+The admin module is managing the entire fleet management system and also they can access various kind of reports
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #3:
+
+Project Title: Retail Management System(RMS)
+Technology Used: MVC 4, C#, Entity Framework, WebAPI, Ajax, JQuery, AngularJS, 
+SQL Server-2012
+Duration:  Jun 2016 to Dec 2017
+Team size: 2
+
+Summary:
+The project is being developed for the department named bmobile-vodafone limited(PNG). The application has web and App interfaces. It has different type of modules Distributor module, Sales person module, Sales staff module, retailer module and admin.
+The distributor web module automates entire the process of organization, which helps for the better sales process between the sales person and retailer.
+The service module is helpful to maintain the sale process between the retailers and sales territories.
+The admin module is managing the entire portal sales flow and manage the device, sim, data card and top card inventory and sales details.
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+
+Project #4:
+
+Project Title: NHIS
+Technology Used: MVC 4, C#, Entity Framework, WCF, Ajax, JQuery, AngularJS, 
+SQL Server-2012
+Duration:  Apr 2015 to May 2016
+Team size: 5
+
+Summary:
+The project is being developed for the department named National Health(PNG). The web application is used in the entire Heath department in all districts. The project consists of mainly three modules like Health centre web module, service module and admin module
+The Health centre web module automates entire the process of organization, which helps for the better understanding between the health centre staffs and National health department.
+The health centre service module is helpful to maintain the good relationship between the department and the aid post staffs, i.e. which maintains the detail information about the peoples by diseases.
+The admin module is managing the entire health centre patient details and also manage all health centre access
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+
+Project #5:
+
+Project Title: EVD App
+Technology Used: MVC 4, C#, Entity Framework, WCF, Ajax, JQuery, SQL Server 2012
+Duration:  Jun 2014 to Mar 2015
+Team size: 3
+Summary:
+The project is being developed for the department named bmobile-vodafone limited(PNG). This project has three web UI Modules (i.e.  Admin Module, Merchant Module and Reseller Module). The Admin can create merchant, Add/Revert credit balance for Merchants and view all the recharge histories of merchants and resellers. The Merchant can login after received login credentials from admin. The Merchant can create n number if reseller account, add Add/Revert credit balance to Resellers and they can view their own, reseller’s top-up and recharge histories. The Resellers can create another reseller and add credit balance to the reseller from their balance also they can view their own, reseller’s top-up and recharge histories.
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #6:
+
+Project Title: Acupuncture App
+Technology Used: MVC 4, C#, Entity Framework, WCF, Ajax, JQuery, SQL Server 2012
+Duration:  Feb 2014 to May 2014
+Summary:
+It is a Mobile App used for Acupuncture treatment. This project has Two Modules (i.e.  Hospital Module, Admin Module, Patient Module). Patients can register through web page and update their Medications, Allergies, Surgeries, Diet and Other medical history information’s.  The Admin will verify this information’s and create patient report through web interface on patients every visit.  The doctor can see the patients report by patient ID and update patient’s health condition, treatments through mobile app.
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+
+Project #7:
+
+Project Title: BMobile Shop
+Technology Used: ASP.Net MVC 4, C#, Entity Framework, Ajax, JQuery, SQL Server 2012
+Duration:  Oct 2013 to Jan 2014
+Summary:
+	This project is online Mobile Shopping. The consumer can buy the products through online. Users of this site can use this site not only for buying the products but they can get full information about all of the consumer products. Wide range of product categories makes it easier. The steps involved in placing order for consumer products are as follows. Users first view the categories list, and then they can view the particular product details with image facility. They view the product image in large and small size. They can get the prize and all mandatory details like size, color, etc. If they choose one product to buy, then they add that product to cart by using Add to cart link. They can view the cart whenever they want. Shopping cart has all the products which were chosen by the user. It displays the Name of the product, quantity, price per quantity, total price, for purchased products. It also has the update cart and removes from cart buttons to update and delete the products in the shopping cart.
+         After purchase the products user provide the payment details to the supplier. They must fill up the form in the payment module. Here they give the payment mode, address for communication, name, etc. through this information payment is transferred for the purchased products. The payment can also be made online or through bank account. If the payment is success the customer can get the order copy through email and also track the status of their order. 
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+
+
+Project #8:
+
+Project Title: Security App
+Technology Used: ASP.Net MVC 4, C#, Entity Framework, Ajax, JQuery, SQL Server 2012
+Duration:  Jul 2013 to Sep 2013
+Summary:
+	It is a Mobile App used for Security companies manage security inspection status for his building.  This project has Three Modules (i.e.  Admin Module, Company Module and Security Module). The Admin can create Login account for Companies and see the inspection details for all the building and filtered by company and security wise. The Company will add buildings, Create account for Securities and assign task with buildings. The Securities can login through Mobile app and update his inspection details, incidents with photos.
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #9:
+
+Project Title: SESI App
+Technology Used: ASP.Net MVC 4, C#, Entity Framework, Ajax, JQuery, SQL Server 2012
+Duration:  Apr 2013 to Jun 2013
+Summary:
+	It is a Mobile App based analysis the performance and energy level for players and teams.  This project has Three Modules (i.e.  Admin Module, Team Admin and Player Module). The Admin can create Login account for team admin and set limit for players and sub teams. And admin can view all teams and its player’s energy report and energy graph. The Team admin will add sub teams and create players account for their team then can see energy report and graph for their players. The players can login through Mobile app and update his sleep, energy and Soreness status day by day.
+Features: 
+Since the site follows MVC Repository model, its more robust
+Having better securities using various encryptions.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #10:
+
+Project Title: Post Courier News Subscriber
+Technology Used: ASP ASP.Net, C#, Entity Framework, Ajax, JQuery, SQL Server 2008
+Duration:  Jan 2013 to Mar 2013
+Summary:
+	It is the leading English language newspaper of the region. This project has two modules user module and admin module. The user module once user purchases a subscription and renew expired subscription. The My Plans page is updated with his subscription information. The user can read news depends on his plan availability. The Administrator process includes manages Plans, Users and Subscription Details etc.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #11:
+
+Project Title: Contractors
+Technology Used: ASP.Net, C#, Entity Framework, MVC3, Ajax, JQuery, SQL Server 2008
+Duration:  Sep 2012 to Dec 2012
+Summary:
+	Contractor is a web based MVC3 application which the contractors can registers their profile with their skills, education with their cost based on Hourly, monthly or weekly, as these profiles are updated in site, the clients can have their own credential and they can make use the profiles for their respective requirements.
+Features: 
+Since the site follows MVC pattern, provides better URL Routing and use of JQuery
+Having better search criteria to filter out the profiles.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #12:
+
+Project Title: Digicel E-Shopping
+Technology Used: Asp.Net, C#, linq, Ajax, JQuery, SQL Server 2008
+Duration:  May 2012 to Aug 2012
+Summary:
+	This project Electronic Shopping is an online shopping centre through which we can buy the consumer products online. Users of this site can use this site not only for buying the products but they can get full information about all of the consumer products. Wide range of product categories makes it easier. The steps involved in placing order for consumer products are as follows. Users first view the categories list, and then they can view the particular product details with image facility. They view the product image in large and small size. They can get the prize and all mandatory details like size, colour, etc. If they choose one product to buy, then they add that product to cart by using Add to cart link. They can view the cart whenever they want. Shopping cart has all the products which were chosen by the user. It displays the Name of the product, quantity, price per quantity, total price, for purchased products. It also has the update cart and removes from cart buttons to update and delete the products in the shopping cart.
+         After purchase the products user provide the payment details to the supplier. They must fill up the form in the payment module. Here they give the payment mode, address for communication, name, etc. through this information payment is transferred for the purchased products. The payment can also be made online or through bank account. If the payment is success the customer can get the order copy, then he can get the product from selected branch.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the Database diagram.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #13:
+
+Project Title: Putmeup
+Technology Used: ASP.Net, Linq, C#, JQuery, SQL Server 2008
+Duration:  Nov 2011 to April 2012
+Summary:
+	Putmeup connect people who have rooms with those who are looking for a place to be PUT UP. Guests can build real connections with property owners through this website. Property owners has registered and posted his properties. Guest can search the properties and send request/Enquiry for the property. Property owners received the guest request and check the date for availability then reply to the guest. If the property available for the guest requested date the property owner will add the booking. The Super admin can manage the property owners, Properties, Enquiries etc.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the stored procedures.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #14:
+
+Project Title: ChatterBug App
+Technology Used: ASP ASP.Net Web service, C#, SQL Server 2005
+Duration:  June 2011 to Sep 2011
+Summary:
+	ChatterBug is a location based service system that allows consumers to send/receive services and advertising based on their geographic location. It has a user interfaces for mobile Users. This application uses Native photo and Video recording solution along with GPS. It also integrates Google maps.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the stored procedures.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #15:
+
+Project Title: Enrichware Training Academy
+Technology Used: ASP.Net, C#.net, ADO.Net, AJAX, JavaScript, SQL Server 2005
+Duration:  Jan 2011 to May 2011
+Summary:
+	The main objectives of this project have full online training materials. Registered students can view and download his/her online study materials. After completing the training session, the trainer can upload assignment for the current session. Students can download his assignment and re-upload workout assignment.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the stored procedures.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #16:
+
+Project Title: Loyal Deal
+Technology Used: ASP ASP.Net, C#.net, ADO.Net, AJAX, JavaScript, SQL Server 2005
+Duration:  April 2010 to Dec 2010
+Summary:
+	Loyal Deal is local classifieds site which provides information about the business to the customer and helps the business get more responses from the deserving clients, i.e. connecting the companies and customer directly. The main objective of this project is to post and search the advertisement about Jobs, Real estate, Education, Entertainment and so on., Like local search engine (ex: Sulekha, JustDial, AskMe).
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the stored procedures.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+Project #17:
+
+Project Title: WeReachOut Organization (charity relevant)
+Technology Used: ASP ASP.Net, C#.net, ADO.Net, AJAX, JavaScript, SQL Server 2005
+Duration:  Oct 2009 to Mar 2010
+Summary:
+	The main objective of this project is to design the web project for poor child welfare organization. Designed and developed the different module for students, members, coordinators and admin to facilitate the entry, selection, sponsoring and reporting of documents and finance based on each one’s rights to access the applications.
+Roles and Responsibilities: 
+Participated in Requirement Analysis and creating the stored procedures.
+Developing the code, Bug fixing and testing and involved in user acceptance testing
+Involved in Report Generation
+
+
+
+
+
+
+Personal Details
+Name	: 	V. Prasad
+Date of Birth	: 	04-June-1985
+Gender	: 	Male
+Marital Status	: 	Married
+Languages Known		   : 	Tamil and English
+Nationality			   : 	Indian
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration
+I hereby declare that the details furnished above are correct and true to the best of my knowledge and belief.
+
+
+
+
+
+Place : Chennai					
+Date   :									[V. Prasad]

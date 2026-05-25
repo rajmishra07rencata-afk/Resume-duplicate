@@ -1,0 +1,174 @@
+Vincent Paul D
+                                                                        Database Administrator   		Email: paulvincent189@gmail.com
+Phone: 9884473002
+
+Career Objective
+
+A fervent motivated ITIS professional with 10+ years of experience as database administrator in an enterprising organization, where opportunity exists for innovative and challenging tasks, discover new technologies and to make significant contributions to the organization using my technical, analytical and team working skills. Willing to have a good career opportunities along with my personal growth.
+
+4 years as a Oracle Database Administrator
+4+  years as  a  Mongo database Administrator.
+
+Professional Summary:
+
+As a Mongodb Admin:
+
+Key Responsibilities:
+
+ Installation & Configuration of MongoDB in different environments like Development, QA, Stage and Production.
+   Configure and maintaining Replication servers in MongoDB.
+   Configure and maintaining Sharding in MongoDB.
+   Perform backup and recovery operations.
+   Performance tuning using database utilities(Mongotop, Mongostat, Database profile, currentOp) and other database commands.
+Maintenance of database (Index creation).
+  Perform MongoDB troubleshooting.
+   Creating Users and User defined roles in Mongo Database.
+   Receiving requests for activities such as Create, Modify and Drop of user and roles on database level and collections levels.
+  Working with Cloud Manager(MMS) for Monitoring and Alarming.
+   Change management process for all the Projects, like complex Code review and Program deployment in different environments like Development, QA, Stage and Production in Mongo DB Server.
+   Maintain the database size of  200 GB to 4 TB.
+   Experience as both Production and Development DBA.
+   Help other teams in troubleshooting and fixing MongoDB issues.
+   Working on Support tickets as per the SLA’s defined
+
+As a Oracle Admin:
+
+
+Oracle DBA skills with hands on experience of 10g onwards databases.
+Good working knowledge of Oracle Database Architecture and its administration.
+Working experience of Oracle Databases Installation, configurations, Upgradation, and patching.
+Support projects related to automation, standardization, improvement initiatives, decommission of old database systems, build of new environments, cleanups, migration, refreshes, upgrades, etc.
+Users and Security administration skills and manipulation of objects according to user requirements. 
+Good knowledge of database and application troubleshooting, Monitoring Databases, Backup and Recovery Strategies (of tablespaces/tables/datafiles/databases) and storage.
+Very good experience on  import/export utilities 
+Schedule jobs (such as backup operations), alerts monitoring and handling, and coordinating with various team (network, storage, backups, and server administration teams) to troubleshoot incidents and problems.
+Working under change management process to undertake certain activities (like user creation, export-import, database parameter changes, etc) as per requirement.
+Fetching AWR and ADDM reports to come up with performance tuning techniques.
+Basic knowledge in dataguard and RAC.
+Open to learn and work with different technologies / platforms. 
+Self driven, motivated and poise. Ability to work under minimal supervision. Ability to plan and organize work effectively and easily cope up with the change in workplace.
+ITIL process (Including Incident, change and Problem Management), and the practises followed to provide service delivery and support to the clients. 
+Good experience of understanding customers and turning them into fans with good interaction and work demonstration.
+Involved in troubleshooting of more than 100+ databases and ensuring higher availability 
+
+Tools Used
+
+Good experience with Toad, Oracle SQL Developer, Oracle Enterprise Manager.
+
+
+
+Project Summary: Cognizant
+
+Client: ASTRAZENECA – Middleware DB Build (Aug 2014 – 2016)
+
+Description of the project: AstraZeneca is an international pharmaceutical group engaged in the research, development, manufacture and marketing of pharmaceutical products. All the applications and its related databases used in this organization are supported and maintained under this project. This outsourcing project helps the industry to work 24/7 and avail higher performance and productivity.
+The project involves a huge IT infrastructure with large number of database, applications
+
+Role: Database Administration (Oracle) – DB Build and Production support
+
+
+Projects Handled:
+
+UKMC Sales: Sep 15th to Dec31st 2015
+
+
+Binary Installation and setting up Oracle Home
+DB Creation Both manually and via DBCA 
+Databases backups and restoration, migration.
+Creation of database Users and by setting the default tablespaces, Assigning quotas, roles, privileges and profiles to users.
+Perform logical Exports/Imports and Datapumps of database, users, and tables as and when required and Re-organization of databases.
+Performed the activities on LINUX, UNIX, SOLARIS and AIX.
+
+
+
+SUNRISE:Jan15th to july 2016
+
+
+Binary Installation and setting up Oracle Home
+DB Creation Both manually and via DBCA 
+Databases backups and restoration, migration.
+Creation of database Users and by setting the default tablespaces, Assigning quotas, roles, privileges and profiles to users.
+Perform logical Exports/Imports and Datapumps of database, users, and tables as and when required and Re-organization of databases.
+Worked on all environments of Test, Dev, Pre-Prod and Prod of two different applications.
+Performed script execution for upgrade.
+Created DR for the same on Pre-Prod and Prod.
+
+
+Roles and Resposiblities in Wipro as Oracle and Monogdb Admin:
+
+As a Oracle Admin:
+
+Working for the Client CITI Bank 
+Supporting for regions NAM,APAC and EMEA in 24/7
+All serevers and databases are hosted on AWS.
+Performing pre-checks and post-checks after VTM patching and resolving issues if any.
+Monitoring backups and resolving if any backup failures.
+Backups have been configured on Actifio Appliance which is third party tool.
+Monitoring Disk space alerts and any ASM related alerts which generated from OEM.
+
+As a Mongodb Admin:
+
+Creating Replicaset and conifuring sharding
+Monitoring bacakups and resolving issues if any failures.
+Investigating and analysing the Performance issues faced by applications teams and resolving it.
+Monitoring the  application activities on MMS Opsmanager.
+Monitoring and keeing the application team informed if the Replication oplog window goes down and ask them to split the documents for upload so as to keep them replica status online.
+Performing Pre-checks and Post-checks after  ESX host upgrade on VM on which maas servers are hosted.
+Work on users raised incidents and Requests and resolving issues and if not raising CASE to Monogdb support with Mongod.log and diagnostic.data.
+Monitoring disk space alerts and infrom applications teams to cleanup unwanted files to freeup the space.
+Analysing the replication log and  suggesting the application team to scale up or increase the Oplog size to catch up m with the  Oplog writes performed.
+Analysing the  performance  issues of scanned  collections  which is degrading the performance.
+Performing  upgrades and  currently running  with 4.0.6
+Performing the COB test by changing the priorities.
+Performing Initial sync if the node goes out sync.
+
+
+Educational Qualification/Certifications
+
+Graduation (B.Com) from St. Philomena’s College in 2009 with 67%.
+12th from Holy Angels Mat.Hr.Sec.School in 2003 with 65%.
+10th from St. Joseph Mat.Hr.Sec.School in 2000 with 62%.
+
+
+
+WORK EXPERIENCE:
+
+2009-2012: Worked in HCL technologies as Technical Support Executive for UK Process.
+
+2012-2014: Worked in Cognizant Technologies in Astrazeneca in service desk (Rave Helpdesk)and from 2014 to 2016 as Oracle Database Administrator.
+
+2016-: Workes in Wipro Technologies as Oracle Database Administrator and as a Mongodb Admin for CITI Bank.
+
+Worked onsite  in Malaysia:
+
+2019-Feb: Worked in Malaysia as Oracle database Administrator and as Mongodb Admin.(Malaysia) for Wipro
+
+2020-2021 Jan 31st : Worked in Chennai for the same  Project for Wipro
+
+Feb1st- 2021-Nov2021: Worked in Virtusa.
+
+Nov10th2021: Currently working in Mouser Electronics.
+
+
+ACHIEVEMENTS:
+
+Got Appreciation Certificate for my contribution in my project from Client.
+Client selected to work in oniste in Malaysia based on the Performance
+Silver medal winner in LongJump in District level.
+
+
+Personal Particulars
+
+Date of Birth: 27th Nov,1982
+Sex : Male
+Marital Status: Married
+Nationality: Indian
+Passport No: Available On Request
+Languages known: English, Tamil, Malayalam
+
+
+Declaration
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.   
+                                   
+Place: Chennai
+Name: Vincent Paul

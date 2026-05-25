@@ -1,0 +1,55 @@
+Pasupuletibhanu2233@gmail.com                         
++91-9441883191
+
+Experienced Java developer with 4+ years of experience in designing, developing, and deploying scalable and robust applications using Java, Spring Boot, microservices architecture, and cloud technologies such as AWS and PCF. Proven expertise in building high-performance systems that meet business requirements and deliver exceptional user experiences. Strong problem-solving skills and a collaborative team player with good communication abilities.
+
+Skills								
+
+
+Java, Spring Boot, Micro services, Amazon Web Services (AWS), Pivotal Cloud Foundry (PCF),Apigee,Docker, Kubernetes, MySQL, MongoDB, Kafka, ActiveMQ, GitLab, Bitbucket, Jenkins, Bamboo, New Relic, Splunk, Jira
+
+Professional Summary							
+
+
+Developed and maintained multiple micro services using Java, Spring Boot, Spring Cloud, AWS, and PCF.
+Designed and implemented Restful APIs for internal and external use.
+Developed API proxies in APIGEE for the micro services API Management.
+Utilized best practices and industry standards to create efficient CI/CD pipelines, automating build, testing, and deployment processes.
+Deployed micro services on various environments, including development, staging, and production, ensuring consistent and reliable deployment processes.
+Utilized containerization technologies, such as Decker, to package and deploy micro services, enabling portability and scalability across different environments.
+Participated in code reviews and provide constructive feedback to ensure high-quality code.
+Collaborated with cross-functional teams to gather requirements and translate them into technical specifications.
+Training and mentoring new team members and provide knowledge transfer, get ready for production support and work closely with them.
+Collaborated with stakeholders to understand project requirements and deliver software solutions on time.
+Investigated and resolved production issues in a timely manner, ensuring minimal impact on operations and customer experience.
+Working in agile development team as a lead and responsible for an end-to-end deliverable.
+
+
+
+Education								
+
+
+B Tech from Jawaharlal Nehru Technological University, Kakinada 
+             Kakinada - 533003, Andhra Pradesh. During 2013-2017.
+
+
+
+
+
+Professional Experience								
+
+
+Currently Working as and Software Developer at TCS 
+
+Projects: 1 Service Migration –TCS
+Telecom – The Telstra Service Migration project is an initiative undertaken by Telstra, a leading telecommunications company, to transition its existing services to new platforms. The project aims to improve service quality, enhance customer experience, and leverage the latest advancements in telecommunications infrastructure. Migration of customer data from legacy to the new technology stacks and reports the data every day.
+
+Part of product development of service migration application.
+
+Projects: 2Customer MS– TCS
+
+Telecom – The project focuses on delivering end-to-end solutions and support to businesses, enabling them to optimize their telecommunications infrastructure and enhance their operational efficiency. The primary objective of the project is to offer managed services to Telstra's B2B customers, providing them with a range of customized solutions to meet their specific business needs.
+
+Part of product development of B2B Customer MS application.
+
+Name: Bhanu Pasupuleti				Location: Hyderabad

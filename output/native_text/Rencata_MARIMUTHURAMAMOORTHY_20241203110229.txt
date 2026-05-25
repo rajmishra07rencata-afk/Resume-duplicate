@@ -1,0 +1,65 @@
+MARIMUTHU RAMAMOORTHY
+  muthumailsu@gmail.com, Mobile: 9791872195                                                                                     
+
+                                                                    PROFESSIONAL EXPERIENCE
+
+  Elitbuzz Infotech Private Limited (Client: Mahindra & Mahindra)
+Network Support Engineer (March 2019 -Present)
+Responsible for troubleshooting and resolving network issues using an end-to-end approach, engaging relevant vendors and application teams where necessary.
+Closely monitoring MPLS and Internet Links utilization for network Optimization using Solar Winds Tools and interface logs. Managing SD-Wan Citrix NetScaler for WAN optimization, network flow control, protocol optimization, QoS.
+Managing various type of network equipment such as Core / Distribution / Edge switches, WAN Routers, Wireless controller and access point.
+Responsible for local and regional network infrastructure and product procurement, participate in the technical evaluation, project implementation, managed vendors, conduct and ensure the documentation and close the project.
+Taking regular backup Configuration of core network devices and upgrade IOS, recovery based on logs reports. 
+Working on Cisco Routers –ISR4321, 1900ISR series and Cisco Switches – 3500, 3750, 2960,9100,9300 series 
+Responsible Network configuration changes (L2/L3 Switches, Router, Wireless), keep update / maintain the documentation, inventory.
+Regularly review of the network performance, capacity planning, and contribute the monthly report. 
+CMS IT Services Pvt Ltd (Client: Vijaya Bank) (April 2017 – August 2018)
+NOC ENGINEER
+Tools: Solar Winds Network Monitor and CA Spectrum network fault management Too
+Responsible for Monitoring Networking devices performance to ensure system availability, reliability using Solar Winds Network Monitor and CA Spectrum network fault management Tools.
+Manage the day-to-day configuration of move, add, change, delete requests and to keep up with the onboarding of network infrastructure into NOC monitoring tools.
+Network fault investigations in local and wide area environments and addressing the fault to ensuring maximum network uptime.
+Configuring and installing various network devices and services (e.g., Cisco Routers, cisco switches, load balancers)/
+Monitoring the interface bandwidth utilization and assessing other parameters of network capacity to enhance the performance of business operation
+Interacting, coordinating with Vendor, Internet Service Providers and other internal teams for hardware support, network operation and bugs fixtures respectively.
+
+SSOMENS Software Development, Pondicherry
+Junior Network Engineer, Jan 2012 – April 2013
+Responsible for assisting implementation IT network equipment, monitor LAN WAN network performance and troubleshooting the problems arises.
+Oversee installation, configuration, maintenance and troubleshooting of end user hardware, software and peripheral devices. 
+Maintaining the network asset management including technical specification information of network component inventory document. 
+Configuring, Managing and troubleshooting the Microsoft Outlook Exchange to send and receive the emails.
+Manging user accounts, permissions, access rights, resetting passwords on Active Directory.
+
+
+
+
+
+Technical Skill
+Routing protocols- RIP, EIGRP, OSPF and BGP.
+Switching concepts: STP, VLAN, VTP, inter VLAN, port security.
+Sound knowledge of ACL, NAT and PAT.
+Understanding of network topologies.
+knowledge on MPLS, SD-wan
+knowledge on AWS
+CCNA, CCNP Route, Switch and Troubleshooting 
+ Certification
+CCNA Switch and Route (200-102) -Cisco Id: CSCO12540170 (Expired)
+CCNP Switch and Route Course (ADVANCED LAB) Completed from Sans Bound Networking School.                                                           
+
+Academic Details
+
+Personal Profile
+Father’s name                :    P. Ramamurthy
+Date of Birth                   :     06/09/1987
+Marital status                 :     Single
+Languages known         :    English, Tamil (Read, Write & Speak)
+Address                            :     1-637, K.R.Puram, Lalapet, Karur, Tamil Nadu.
+Passport Number          :     S9969742
+PAN Card No               :     CZRPM0398H
+
+Declaration
+
+I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief.
+
+You’re faithfully

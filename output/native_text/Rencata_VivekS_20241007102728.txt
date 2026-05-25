@@ -1,0 +1,134 @@
+Personal Details							                  	 
+
+Name				Vivek S
+Current Employer 		Unisys Global Services India
+Residential Address  		M1132, 5th main, vivekanandanagar, Mysore 570023
+Phone				9341554886 / 9379155522 (mobile) 
+Personal Mail ID 		bbsl.vivek@gmail.com 
+
+Professional Details  						              	          
+Specialist who can provide expertise in integrated solutions across service management, monitoring and event management, automation, and analytics. The key skills include Proven background in integrating solutions across ITSM, SNOW monitoring, event management auto ticketing etc., automation. Expertise in administration, implementation, and ongoing support for multiple, IT Infrastructure environments on-premises and cloud, with a mix of monitoring, service management and automation tools. Proven track record of working in a fast - paced environment and demonstrating strong complex problem-solving skills. Experience in developing requirements document, design documents etc. 
+Tools capability and knowledge of proficiency in the following toolsets and readiness to learn others quickly, SolarWinds, Nagios, SCOM, and Discovery tools like ADDM, SCCM, etc. Splunk, ELK. Scripting Knowledge: like Python, Power Shell, PERL Implementation, Configuration of monitoring Solution based on Solarwinds, ScienceLogic, BPPM, and Implementation,
+Troubleshooting and administration of all above products on UNIX, Windows based hosts in Solarwinds Implementation and configuration of various knowledge modules, Specification and implementation of interfaces to other system management solutions, Life cycle management for all above mentioned products.
+Having Educational Qualification Masters from a reputed institution, Good interpersonal and communication skill with Ability to plan and manage own work without supervision Excellent analytical troubleshooting skills and ability to own problems through to resolution Proven team player, Flexible approach, driven, dedicated and self-motivated, having 14+ years of experience.
+ 
+Career Chronology:
+
+Academic Background:
+M.Sc. in Information Technology  
+B.Sc., in Information Technology  
+Three Years Polytechnic Diploma in Electronics and Telecommunication Engineering 
+Advanced Diploma in Computer application and programming 
+
+Technical Areas of Competence						
+Management
+Project Management and Implementation, Men management, Transition 
+
+
+
+Application Software packages 
+Solar winds, ADDM, Repliweb, SNOW, 
+
+Programming languages
+Data structures with C programming, OOPs with C++, VB 6.0, HTML, Java Script, 
+
+Backend:
+Oracle 8.0 , MS-SQL Server
+
+Professional Experience								
+Role and Achievements.
+a) Working in Unisys Global Services India, since June 2008 to till date as System Analyst in Tools & Automation team
+Process Related:
+Working on Monitoring toll Solar winds, SNOW, 
+Manage and monitor client networks, servers, and information technology infrastructure using Solarwinds web-based NPM, SAM, IPAM, NTA, NCM 
+Provide Solarwinds Operations Support troubleshooting SAM, NCM, IPAM, NPM
+Provide Solarwinds Operations Support Solarwinds modules
+Co-ordinate & Troubleshoot Solarwinds issues and work with appropriate measures and Client teams until resolution
+Working on Incident, Change and Problem Management requests  
+Understanding the Change requests raised, Prepare IM plan, Start and complete change within change window, reporting the possible impact and risks that are identified.
+Work on Incidents and resolve within the SLA  
+Worked on LANDesk & WSUS to push Patches, push Updated Antivirus packages, OS Deployment, Software packages deployment and distribution, Distributing WSUS updates every month & Trouble shooting
+Responsible for acknowledging and resolving incidents
+Maintaining on call readiness 24*7
+Responsible for quality resolution of the incidents. 
+Resolve or escalate the incident with proper comment on work log
+
+Deliverables Related
+Deliver second level remote hardware and software support services to clients to resolve product use and multi-product/platform problems, and/or questions relating to enterprise systems, networks and application software, as well as desktop applications that are beyond the scope of the client’s first level help desk support function.  Provides referrals and/or dispatches to other service providers to ensure that client’s service level and technical requirements are met.  Provides alerts and situation status information to both client and Unisys management. Deliver second level remote hardware and software support services to clients to resolve product use and multi-product/platform problems, and/or questions relating to enterprise systems, networks and application software, as well as desktop applications that are beyond the scope of the client’s first level help desk support function.  Provides referrals and/or dispatches to other service providers to ensure that client’s service level and technical requirements are met.  Provides alerts and situation status information to both client and Unisys management
+
+Project Governance 
+Representing weekly status report, client meetings, CAB Meetings before change implementation.
+
+b) Worked as Team Leader, MIS , at Bharat BPO, Railway Information Center an inbound call center for Indian Railways, in Mysore since March 2007 to May 2008. 
+
+Process Related
+Involved right from the stage of Project Implementation and Transition 
+Maintain a team of 25, audit calls, give feedback to the agents
+Monitoring calls regularly to ensure SLA,  
+Maintain Leave and break Management 
+Interact with client and give updates to the floor for any changes in schedule 
+Actively participate in the Change Control process.
+In charge of training process, and creating Process documents
+
+Deliverables Related
+Interact with the client to maintain quality and Client satisfaction and Client relationship, 
+Had close watch on Schedule Adherence, identifying Problem and Change Management.
+Conduct monthly account performance review
+
+Project Governance 
+Representing weekly status report and client meetings
+Project Implementation and Transition 
+Monitoring calls regularly to ensure SLA
+Generating MIS reports like Hourly Call report, SLA, Downtime, Staffing, Attendance, Call Disposition, Shift Roster, IVR Reports,  Salary advice, Leave management, Break  Management,Work force Management like Agent performance, AHT, login logout report
+
+People Effectiveness
+Have lead team with a peak size of 25
+Select candidates through interview and Trained agents on process
+
+c) Worked as Manager, at Shreyas Software Solutions, Mysore since June 2000 to March 2007. 
+Process Related
+Develop and maintain a detailed project schedule
+Coordinating with client and team 
+Responsible to track project changes and produce updated
+I Was In charge of City Corporations 24 hour HELP LINE.
+Represent the firm in client meetings, Understand Clients organizational structure
+Responsible to track project changes and procedural updates
+Involved in Maintenance of Hardware at Income tax Dept Mysore, (Monitoring servers, Printers, Fire wall, Network, Anti Virus updates, Net backup)
+
+Deliverables Related 
+Interact with the client to maintain quality and Client satisfaction and Client relationship, 
+Applying for Govt., tenders, Finalizing projects, Develop and maintain a detailed project schedule and file all project documents (hard and soft copies)
+
+Project Governance 
+Was Involved in Branch Mechanization of banks like SBM, Vijaya Bank.
+Worked as Branch In-charge for Training centers in Mandya and Mysore for conducting corporate software trainings to State and Central Govt., organizations through Karnataka State Electronics Development Corporation Ltd., owned by Karnataka state Govt
+Finalizing the business deal with the clients and singing of order,
+ 
+
+People Effectiveness
+Managing men involved in different projects. Managing Teams, 
+Select candidates through interview 
+
+d) Worked as Branch In charge-Software Training for Bahari Information Technologies Pvt., Ltd., from Feb 1996 to April 2000. Firm involved in Giving Software Training to the engineering and BSc Students in Software and Hardware. 
+Process Related
+Complete in charge of day to Day activities like interacting with the students, and faculties
+Organize seminars 
+Coordinating with students, staff and management. 
+
+Deliverables Related 
+Make the training center as a profit making center
+
+Project Governance 
+See to it that the right kind of training and regular class are conducted
+
+
+People Effectiveness
+Managing a team of Faculties and Counselors  
+
+
+e) Worked as Senior Marketing and Technical Executive at SPAN Computers Mysore from July 1994 to Feb 1996.  
+Process Related.
+Educating the students about the courses conducted  
+Organize seminars 
+Organizing corporate trainings
+Sell computers and peripherals to corporate sector

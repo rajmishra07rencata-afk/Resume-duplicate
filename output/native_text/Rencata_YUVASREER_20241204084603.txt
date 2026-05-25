@@ -1,0 +1,168 @@
+YUVASREE R 
+yuvasree27022000@gmail.com 
+Contact:+91- 9344274654 
+ 
+ 
+ 
+PROFESSIONAL SUMMARY: 
+ 
+• 
+Having 2.9 year of experience in Software Testing- Functional testing, Automation testing and 
+API testing. 
+• 
+Having experience in Automation Programming language using Java. 
+• 
+Having Experience in web application testing using Selenium WebDriver. 
+• 
+Having Experience in mobile application testing using Appium. 
+• 
+Hands on experience in creating XPATH. 
+• 
+Experience in web application automation testing with Page Object Model using Maven. 
+• 
+Experience in Data Driven testing Framework. 
+• 
+Experience in BDD Cucumber Framework. 
+• 
+Possess knowledge in TestNG Framework. 
+• 
+Having knowledge in API Testing (Postman) 
+• 
+Having Experience in working with GIT. 
+• 
+Experience in creating POM for all the pages. 
+• 
+Having Experience in JDBC. 
+• 
+Experience in Defect tracking tool (Jira) and providing efficient reports on defect status. 
+• 
+Strong experience in Agile-Scrum Methodology. 
+• 
+Possess excellent skills in designing and executing test scripts. 
+ 
+ 
+ 
+TECHNICAL SKILLS: 
+ 
+SKILLS 
+TOOLS 
+Test Automation tool 
+Selenium, Appium 
+Framework 
+Cucumber BDD, TestNG, Data-Driven, POM 
+Languages 
+Core java 
+SCM & CICD 
+GIT & Jenkins 
+Defect Management 
+JIRA 
+Database 
+JDBC 
+API Testing 
+Postman 
+ 
+ 
+ 
+ 
+WORK EXPERIENCE: 
+ Working as Software Test Engineer at BULLFINCH SOFTWARE PVT LTD. from March 
+2021 – Till Date 
+ 
+ 
+PROFESSIONAL EXPERIENCE : 
+ 
+PROJECT SUMMARY #1 
+ 
+Client 
+: 
+NET SHOES 
+Profile 
+: 
+Preparation of Test Scenarios, Preparation of Requirement, Traceability 
+Matrix, Test Case Preparation, Test Execution, Test Log Preparation, 
+Regression, Compatibility and Functional Testing (Web Application & Mobile 
+Application testing) 
+ 
+Testing Tool :  
+ Java, Selenium , Appium , POM, Cucumber, GIT and Jenkins. 
+Duration 
+: 
+Oct 2022 – Till Date 
+Description 
+ 
+Netshoes is a specialized sporting goods e-commerce store launched in Brazil. Founded in 2000 
+as a sports retail chain, Netshoes has rapidly focused its activities on e-commerce, providing an array of 
+footwear, clothing, and accessories for sports. 
+Responsibility: 
+ 
+• Understanding requirement document. 
+• Implemented automation tests across both web and mobile application using Selenium 
+Webdriver and Appium. 
+• Working with Team to get clarification on issues found during requirement understanding. 
+• Prepared test scenarios and test cases based on requirements. 
+• Involved in Implementation of Cucumber-BDD Framework. 
+• Having Experience in developing, Modifying and Executing scripts. 
+• Actively involved in preparing of Test Data for Framework. 
+• Involved in Implementation of Project specific Functions in Libraries 
+• Learned app business requirements, technical specification, installation guidelines 
+• Wrote and executed test cases for major program modules 
+• Involved in test case execution and Bug reporting. 
+ 
+PROJECT SUMMARY #2 
+ 
+ 
+Client 
+: 
+MUDAH.MY 
+Profile 
+: 
+Preparation of Test Scenarios, Preparation of Requirement, Traceability 
+Matrix, Test Case Preparation, Test Execution, Test Log Preparation, 
+Regression, Compatibility and Functional Testing. 
+TestingTool 
+: 
+Java, Selenium and TestNG, GIT and Jenkins. 
+Duration 
+: 
+Jun 2021 – Aug 2022 
+Description 
+Mudah.my is the Malaysian largest market place. Head office is in Kuala Lumpur, Malaysia. It is a 
+online market place. People can sell/buy varieties of products and goods. It has many categories, 
+myself in Electronics like Mobile phones, Gadgets and Accessories. 
+ 
+Responsibility: 
+ 
+• Understood requirement specifications 
+• Reviewed system requirement specification, technical specification, and functional design 
+documents to achieve better understanding of the project 
+• Performed smoke and sanity testing on every build deployment 
+• Implemented UI part Automation using Selenium with Java and TestNG. 
+• Responsible for automation code maintenance on Team Foundation Server for various 
+environments 
+• Reviewed test scripts and suggested modifications 
+• Executed the test scripts and reported the defects through defect tracking tool 
+• Maintained defect log on defect tracking tool Prepared and executed Test Cases 
+• Reviewed test scripts and suggested modifications 
+Maintained defect log on defect tracking tool 
+ 
+ 
+ 
+EDUCATIONAL QUALIFICATION: 
+ 
+Bachelor of Engineering (Electronics and Communication Engineering) 
+Veltech High-Tech Dr Rangarajan Dr Sakunthala Engineering College 
+2017 – 2021 
+Graduated with 78.7%. 
+ 
+ 
+ 
+ 
+ 
+DECLARATION: 
+I hereby declare that the information furnished above is true to best of my knowledge. 
+ 
+ 
+ 
+Date : Updated on Nov 2023 
+Place : Chennai 
+(YUVASREE)

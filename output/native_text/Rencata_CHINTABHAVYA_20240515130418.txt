@@ -1,0 +1,74 @@
+CHINTA BHAVYA
+
+OBJECTIVE
+Skilled and experienced software QA testing professional with
+extensive knowledge of QA processes and test methodologies.
+Seeking a challenging position as an IT quality assurance
+software tester in a renowned organization.
+
+EXPERIENCE
+Tata Consultancy services limited
+August, 2016 - Present
+Test engineer
+Working as a Test analyst in Banking and Financial services
+domain in Tata Consultancy services.
+The nature of duties are as follows:
+▪ 
+Researching, understanding and producing test scenarios and
+cases that validate major functional areas of application.
+▪ 
+Produced well structured, documented and maintainable test
+scripts for manual testing that supports quality assurance test
+cycle.
+▪ 
+Collaborated with development teams in validation of
+software readiness involving releases.
+▪ 
+Executed manual test cases in accordance with deﬁned test
+plans and procedures.
+▪ 
+Automated test scripts for web application using selenium.
+▪ 
+Developed test artifacts like Test planning report, Test
+completion report.
+▪ 
+Reported and tracked bugs through JIRA tool and prepared the
+corresponding reports.
+▪ 
+Participated in daily scrum meetings, addressed the blockers
+for testing and discussed the status of assigned tasks.
+▪ 
+Participated in Backlog reﬁnement,Sprint planning
+meetings and  determined the product backlog items
+that need to be worked on during the sprint  and
+discussed about the initial plan for completing the
+backlog items.
+
+EDUCATION
+Jawaharlal Nehru Technological university, Anantapur
+2012-2016
+Btech in Mechanical engineering 
+82.52
+
+CERTIFICATIONS
+ISTQB foundation level certiﬁcation 
+
+
+
+CONTACT
+chintabhavyareddy@gmail.com
+9493421954
+
+SKILLS
+Manual testing
+HP ALM
+Agile requirements designer
+Test scripts creation
+JIRA tool
+Agile methodology
+Bug reporting and tracking
+Test Planning and Completion
+reports
+Excellent communication skills
+Automation testing
+Selenium

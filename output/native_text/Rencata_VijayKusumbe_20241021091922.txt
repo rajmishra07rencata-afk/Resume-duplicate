@@ -1,0 +1,136 @@
+CURRICULUM VITAE
+Vijay S Kusumbe
+E-Mail : vijaykusumbe555@gmail.com
+Contact No:-9892507540 -W/ 9552626211-Calling
+
+
+
+Carrier Objective :
+To seek a challenging and long-term career in an organization where I can utilize my skills & 
+thereby contribute maximum towards the organization’s growth.
+
+PROFILE SUMMARY: - More than 5+ Years of experience in developing comprehensive web based applications using Microsoft .Net related technologies.
+Good knowledge of designing and developing applications skills using visual studio .Net.
+Good Conceptual knowledge in .Net Framework, RDBMS, OOPs and SDLC and knowledge of 
+Jira Software and Jenkins Pipeline and Google Cloud Platform (GCP)
+Good initiative taking and self-starter personality, highly motivated and capable of handling multi-tasking assignments.
+High self confidence levels with good coordination skills.
+
+
+Computer Proficiency and Software Skills:-
+Programming Languages :
+C – Programming Language
+C# .Net (Framework 4.5)
+Asp.Net - 4.5, VB.NET,  .Net Core - 3.1
+Asp .Net – MVC &  MVC-Core 7.0
+Angular – 8 
+WEB-API 
+Mark-up Language :
+HTML-5, CSS-3, JavaScript, J-Query, Bootstrap-4, Ajax, 
+
+Database Used:-
+
+SQL Server Management studio
+Oracle
+Entity Framework 
+ADO.NET
+
+
+Personal Strength:
+
+Good Communication Skills.
+Ready to accept new challenges & responsibilities.
+Self Confidence
+Positive Attitude
+
+PROFESSIONAL EXPERIENCE
+
+ (ITL) ImaticNext Technologies Limited (MNC Company) - From Jun-2018 to Dec – 2021.
+And I went to (Africa Tanzania) for 3 months from (ITL) Company in 29 Dec 2020 To
+29 march 2021.
+Clover InfoTech PVT (MNC) Mumbai - From Jan-2022 To Dec-2022
+Rigved InfoTech  (MNC Company) Mahindra and Mahindra Kandivali  Mumbai  From Jan 2023 to Till Working
+
+
+Domain Name :Financial, Banking, Logistics , Insurance, Import & Export
+
+M-Darpan Project Old (Mahindra and Mahindra )
+Key Technologies:
+C# ,  Asp.Net - MVC , Entity Framework, WEB-API, SQL, Unit Testing
+Module: - Master, Customer Care, Insurance Claim, Warehouse Claim, Logistics, Reports, 
+E-Parts Catalogue ,  WhatsApp- Chatting ……
+Description:  Mahindra and Mahindra Limited (M&M) Is an Indian Multinational automotive manufacturing corporation Company…..
+
+M-Darpan Project : New Core Conversion- MVC – 7.0 (M & M)
+Key Technologies:
+C# ,  Asp.Net Core and  MVC- Core -7.0 ,  Entity Framework, WEB-API, SQL, Unit Testing
+Module: - Master, Customer Care, Insurance Claim, Warehouse Claim, Logistics, Reports, 
+E-Parts Catalogue ,  WhatsApp- Chatting ……
+Description:  Mahindra and Mahindra Limited (M&M) Is an Indian Multinational automotive manufacturing corporation Company…..
+
+
+
+Smart Property Project  (ITL Company (Africa Tanzania)) 
+Key Technologies:
+C#, ASP.NE, VB.NET, J-Query, HTML5, CSS3, JavaScript, Ajax, Bootstrap, SQL Server 2008,
+Description: Smart Property is end-to-end property management software to manage properties effectively. It helps in tracking Vacant Apartments,  Rents Receivables & Contracts that are nearly expiring also it helps in directly issuing Profarma & Invoices from the system. System also facilitates to remind tenants via Emails or SMS for the due rent or service charges so that they pay on time.
+
+
+
+
+Smart Policy Project (ITL Company (Africa Tanzania)) 
+Key Technologies:
+C#,  ASP.NE , VB.NET, J-Query, HTML5, CSS3, JavaScript, Ajax, Bootstrap, SQL Server 2008,
+Description:
+Smart Policy is a Insurance Broker & Agent Software that organizes the insurance broker operations. The software facilitates all sorts of Insurance Classes that are supported by the Tanzania Insurance Regulatory Authority (TIRA). Software consists of various modules like Underwriting, Endorsements, Claims and Renewals. Smart Policy helps to Saves time to hand write Cover Note, TIRA Sticker, Debit Note & Cash Receipt also helps in tracking & settling the insurer’s payment
+
+
+Kotak Bank General Insurance  (Clover InfoTech Mumbai)
+Key Technologies:
+C#,  Asp.Net ,Web Api, Angular-8, SQL , J-Query, HTML5, CSS3, JavaScript, Ajax, Bootstrap 
+Module :- (Corporate Portal, Health Claim Services, Health Claim Website, ( Enrolment, Product_Setup))
+Description:
+Individual Health Insurance, Family Health Insurance, Parents Health Insurance, Senior Citizen Health Insurance, Health Insurance Renewal, Cashless Health Insurance, Health Insurance Premium Calculator, Personal Accident
+
+
+
+
+
+
+CFSMag Project (ITL Company (Africa Tanzania))
+Key Technologies:
+C#, Asp.Net - MVC, .Net Core, Entity Framework, Angular-8, SQL Server 2008
+Description:
+CFSMag for process Import and Export operation with commodity, base from initial receipt of manifest information up to the delivery for Goods from the warehouse and vice versa. 
+Salient Feature:  Import Module, Export Module, Auction, Bonding Operation,
+Empty Yard, Warehouse Management, EDI and Invoice Auto Mailing, Yard Management,
+MIS Report
+
+
+Academic Qualification:-
+
+
+OTHER EXPERIENCE
+
+TATA-SKY -Symphony IT Park(IT) and TBSS Mumbai -(Jan – 2014 To Jun - 2016) 
+Tech Mahindra Mumbai (IT) -(Jul - 2016- Des - 2017) 
+
+
+Personal Information :
+Name                 : Vijay Shesherao Kusumbe
+Sex 	               : Male
+Designation      : Software Developer
+Nationality        : Indian
+Marital Status  : Married
+Date of Birth     : 15-06-1989
+Address :  556/22, Shivaji Nagar, park site Colony, Near Hanuman Mandir
+       Vikhroli (W). Mumbai, 400079
+Languages Known : English, Hindi, Marathi,
+
+Declaration:
+
+I here by declare that the information presented  above is correct and true to the
+Best of my knowledge.
+
+             Place :                                                                                                           Your Faithfully,
+             Date :								 Vijay Kusumbe

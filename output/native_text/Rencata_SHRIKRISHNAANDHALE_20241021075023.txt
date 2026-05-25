@@ -1,0 +1,156 @@
+ANDHALE SHRIKRISHNA GUNVANT 
+ 
+QA - Engineer, Mob: + 91-8668263833,  E-mail: andhaleshrikrishna72@gmail.com 
+OBJECTIVE  
+I am looking forward to work in an organization, which provides the environment for growth with 
+competent and strong leaders in Manual and Automation Testing having an experience in Functional, 
+Non Functional, Globalization, UI Testing, API Testing, and Webservice Testing using REST 
+SERVICES, POSTMAN and Automation Testing (Selenium Webdriver with JAVA). I have an urge and 
+inclination for learning new technologies, a strong work ethic combined with a commitment to 
+excellence in all projects undertaken 
+DOMAIN WORKED WITH  
+1. Investment Banking 
+2. Telecom Billing 
+JOB PROFILE 
+ 
+A detail oriented professional with 3.5 years of experience in Software Testing that 
+includes experience in Functionality Testing – Functional Testing, Non- Functional 
+Testing, Regression Testing, API Web Service Testing, Database Testing and 
+Automation Testing. 
+ 
+Performed different types of testing like Functional testing, Regression testing and Re-
+testing. 
+ 
+Clear Idea about Software Development Life Cycle as well as familiar with Software 
+Testing Life Cycle. 
+ 
+Good experience in analyzing the User stories in Sprint Backlog. 
+ 
+Analyzed Test Scenarios, design Test cases, and defect analysis, defect report. 
+ 
+Execute the test case to meet customer requirement. 
+ 
+Involved in Web service testing using REST SERVICES. 
+ 
+Good Experience in Web Service Testing with the help of POSTMAN Tool. Also Good 
+Experience in DDL, DML. 
+ 
+Good understanding of REST SERVICES using POSTMAN TOOL in API Testing. 
+ 
+Performed Automation testing using Selenium on Web based (Browser) application. 
+ 
+Developed User Defined functions to support the automated scripts. Used the Data driven 
+Testing-using Selenium 
+ 
+Participate in Scrum meeting to discuss about project progress report every day. 
+ 
+Prepared Weekly Status Report. 
+ 
+Implemented Agile Methodology process in the project. 
+ 
+Actively involved in System Integration Testing (SIT). 
+ 
+Experience in defect log using defect management tool such as JIRA TOOL and prepared 
+daily test status reports to communicate the test status with the team. 
+ 
+Design the Traceability Matrix to map Business Requirements with test Case. 
+ 
+Extensive experience in developing SQL scripts to validate the databases tables and reports 
+data for database testing using DML and DDL commands. 
+ 
+ 
+Also having experience in UNIX commands. 
+ 
+Good experience in creating, modifying, and enhancing both manual Test cases and Test 
+Scripts created in Selenium Web Driver. 
+ 
+Good understanding in JAVA Concept, OOPS Concept, Collection and String Class, 
+Framework, Arrays. 
+ 
+Executed test scripts on IE, Firefox and Google chrome.  
+ 
+Experience in identifying web elements using Xpath. 
+ 
+Good understanding of Dynamic Xpath and Iframe. 
+ 
+Knowledge of handling Synchronization (Implicit, Explicit and Fluent). 
+ 
+Knowledge of handling Popups and List Box. 
+ 
+Experience TestNG, Annotations and keywords. 
+ 
+Experience in designing of POM (Page Object Model) classes. 
+ 
+Familiar with use of MAVEN, Github, Listeners, Log4j and Extent Reporter. 
+ 
+Good communication, collaboration with proficiency at grasping new technical concepts 
+quickly and utilize the same in a productive manner.  
+ 
+Experience in RDBMS, Associated SQL Programming Knowledge. 
+ 
+Excellent Knowledge in MS-Office (Word, Excel, PowerPoint). 
+ 
+A team player and self-starter with an ability to learn new software using manuals within a 
+short period of time. 
+ 
+ACADEMIC QUALIFICATIONS  
+ 
+B.E. (BACHLEOR OF ENGINEERING) from Pune University, Pune. 
+ 
+WORK EXPERIENCE 
+ 
+Currently working as a QA-Engineer with Xoriant Solutions Pvt. Ltd, Pune. From 
+October 2018 to till date. 
+ 
+TECHNICAL SKILLS 
+ 
+Operating Systems 
+Windows XP, Unix 
+Languages Known 
+JAVA, SQL, UNIX, HTML 
+Manual Testing Skills 
+Functional Testing, Re-testing, Regression testing, Integration Testing, 
+Review Test cases. 
+Bug Management tool 
+JIRA 
+Database 
+Oracle  11g 
+Tools 
+Eclipse, Selenium, Postman 
+Technical Skills 
+JAVA, Selenium, UNIX, SQL, API 
+Others 
+MS Word, MS Excel, MS PowerPoint 
+ 
+ 
+PROFESSIONAL QA -ENGINEER EXPERIENCE 
+ 
+1. 
+Project Name:   Portfolio Management Services 
+Domain 
+   :   Investment Banking  
+Client              :  Standard Life Investments, USA  
+ 
+ 
+2. 
+ 
+Project Name:   Revenue Manage Control 
+Domain          :   Telecom Billing 
+Client             :   Breakaway Wireless, USA 
+            
+     
+PERSONAL INFORMATION 
+Date of Birth           : -     17th August 1996 
+Gender                     : -     Male 
+Marital Status         : -     Un-Married 
+Languages Known   : -    English, Hindi, Marathi. 
+Address                     : -    Kallawadi, Pimpri Sandas, Tal-Haveli, Dist.-Pune, Maharashtra-412216 
+ 
+ 
+DECLARATION 
+I hereby declare that the above written particulars are true to the best of my knowledge and belief. 
+ 
+ 
+ 
+Place: Pune  
+Date:                                                                                                     Shrikrishna Gunvant Andhale

@@ -1,0 +1,97 @@
+PROFILE SUMMARY
+ABOUT ME
+Highly skilled and experienced PL SQL
+Developer with wide knowledge of a variety
+of programs and procedures. Adapt to all
+types of data storage and extraction. Able to
+work well independently or as part of a team.
+SKILLS
+Java
+Oracle SQL and PLSQL
+UNIX Commands
+Collection 
+Performance Tuning
+EXPREIENCE 
+EDUCATION 
+Completed Bachelors Degree ,
+Auxilium 
+College,Vellore 
+in
+2019 
+M PREETHA
+ORACLE PLSQL DEVELOPER
+8838113262
+preetha.m2898@gmail.com
+Since March  2019 4.5 years of
+Experience 
+in 
+Oracle 
+PLSQL
+Developer in NEXXOFT INFOTEL
+LIMITED 
+Work independently in the development,
+testing, implementation and maintenance
+of systems of moderate size/complexity
+with a fast turn-around.
+Providing guidance and support for the
+design, development, and implementation
+of automated processes.
+Apply 
+innovation, 
+creativity, 
+and
+improvement to the development process
+PL/SQL Developer.
+Participate in design reviews and provide
+input to the design recommendations SQL
+Developer.
+Identify application code-related issues.
+Review and provide feedback .
+Work with the Service Manager in process
+improvement initiatives as directed by the
+service.
+Conduct back-end development utilizing
+Oracle Technologies.
+Supporting both operations and project
+development initiatives supporting claims
+encounters.
+Provide support and leadership in critical
+production support issue resolution.
+SQL Loader
+PROJECT EXPERIENCE
+knowledge in PLSQL, SQL ,Unix Commands and Java.
+Exceptional understanding of inheriting casting and converting PL/SQL
+objects.
+High proficiency in developing Oracle PL/SQL packages
+Improved performance and stability of database systems.
+Investigated and implemented solutions for data quality issues.
+Maintained documentation for technical systems.
+Developed and maintained proper data extraction processes.
+Tested and debugged Oracle PL/SQL packages.
+Translated business into technical requirements.
+Maintained Subversion code in accordance with company policy.
+Experience in creating and managing Schema
+ Experienced in writing and analyzing detailed designs.
+Extensive experience as Oracle Database Developer (creating stored
+procedures, packages, triggers, supporting application development teams) .
+Strong debugging and problem solving back end database issues
+Support refactoring of existing database schemas to support consolidation
+roadmap . Work with senior architects to understand new designs.
+Strong knowledge in writing SQL Queries that varies from single table simple
+SQL’s to multiple table complex SQL's
+Working in a  challenging environment while balancing multiple priorities
+Hands on coding experience with Oracle PL/SQL and performance tuning of
+SQL queries.
+Performed SQL and PL/SQL tuning and application tuning using various
+tools.
+Getting the necessary approvals from the client side for doing data
+corrections & code fixes in production environment.
+Deploying the code fix & data corrections in production environments
+during non business hours. 
+Involved in unit and system testing. 
+Project Name         :     Banking in Lending (Automobiles)
+Role                          :    Support / Oracle PLSQL Developer 
+Tools                        :    Sql Developer, TOAD , SQL PLUS , SQL loader 
+Client                        :    U.S. Bank Branch
+Duration                   :   March 2019 to till date 
+Description:

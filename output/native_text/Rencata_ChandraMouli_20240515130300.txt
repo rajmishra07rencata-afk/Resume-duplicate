@@ -1,0 +1,92 @@
+Chandra Mouli CH	 	                 Email: chandramouli99ts@gmail.com
+								  Phone: +91 9885416390
+
+Professional Summary
+Seasoned Quality Analyst offering 3.5+ years of Information technology industry success. Expert on Testing methodologies, business and systems requirements, user acceptance testing and end-user training.
+3.5+ Years of Experience in IT Industry as a Quality Analyst.
+Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.
+Hands on Experience in Mobile, Web Application and Windows Application Testing
+Involvement in preparation of Test scenarios, Test cases and executing the same.
+Participated in Walkthrough and defect report meetings periodically.
+Ability to work closely with developers and product owners to ensure features/bug fixes are "shippable" by sprint end.
+Extensive experience in Sanity testing, Functional testing, System testing, Compatibility testing, Retesting, Regression Testing in mobile handsets and web-based applications.
+Experience in Functional and Non-Functional (Compatibility) Testing Types.
+Experience in GUI, Functional, System and Regression Testing.
+Good working experience in Defect Management Tools i.e., JIRA, Bugzilla.
+Experience on Agile (Scrum and Kanban) and Waterfall Methodologies.
+Liaise with developers, business analysts, and user representatives in application design and document reviews.
+Ensuring defects are identified, recorded, prioritized, and managed to closure per organizational standards and procedures.
+Experience in writing SQL queries and worked with SQL Server, MYSQL.
+Reviewing Test Procedures, defining Test Cases, reviewing, and maintaining Test Scripts, analyzing bugs, attend defect triage calls, interaction with team members in fixing errors and User Acceptance Testing (UAT).
+Excellent communication and interpersonal skills with strong Customer orientation and Client interfacing skills.
+
+Work History
+Currently working in iQuest consulting Private Limited as a Quality Analyst from September 2018 to till date.
+
+Technical Skills
+Operating System	:	Windows Family
+Testing tools	   :	   Atlassian Jira, Bugzilla, Zephyr, Testrail. Trello, Jira, QA Complete, CA PPM, postman, Lighthouse. 
+Database	:	MySQL
+Mobile	  :	IOS and Android manual Testing
+Automation Tools :	Selenium Web driver(Basic Knowledge)
+
+Professional Experience
+
+Quality Analyst
+iQuest Consulting Private Limited– Bangalore, Karnataka.
+
+Client: FTD (Interflora)
+Team Size: 6
+Tools: Trello, Jira, Zephyr
+Technology: Agile Methodology, Integration Testing, System testing, Smoke Testing, UAT Testing, Retesting 
+
+Project Description:
+Interflora is a flower delivery network, associated with over 58,000 affiliated flower shops in over 140 countries. We offer the widest range of products, delivery options, and the highest service levels in the U.K. and Ireland. Our product range includes floral gift products; sympathy products; personalized items; international flower delivery; and occasion specific gifts and plants. Consumers can also design them bouquet, stem by stem, online using My Interflora Creation. In addition to our floral offerings, we also offer a wide range of finishing touches such as bears, chocolates, and wine together with a range of non-floral gifts, including a tailored food gift service through My Interflora Creation.
+
+Responsibilities: 
+ 
+Gathering detailed requirements from Client for business requirements. 
+Understanding business scenarios and converting them to features or stories and to automated test scripts.
+Developing the automated scripts using Selenium WebDriver
+Participating proactively in Scrum meeting and Sprint retrospective meetings.
+Executing the regression suite in multiple environments
+Involved in preparation of summary reports for both manual and Automation.
+Involved in test case execution, raising defects, analyzing the defects, and following up with the development team reporting on same.
+Involved in daily and weekly status meetings and sending consolidated report by EOD.
+Involved in taking up user stories and writing manual and automated test scripts using selenium web driver tool
+Based on the user stories Identify the SIT scenarios and prepare the scenarios.
+
+
+
+
+
+Client: JD Sports
+Team Size: 6
+Tools: Trello, Jira, QA Complete.
+Technology: Agile Methodology, Integration Testing, System testing, Smoke Testing, UAT Testing, Retesting 
+
+Project Description: 
+JD Sports Fashion wants everyone to be a sport, or at least dress like one. The retailer operates about 450 sport and athletic-inspired fashion apparel and footwear stores in the UK and Ireland under the JD Sports, Size, Bank, and Scotts banners. More than 300 JD Sports shops sell Converse, K-Swiss, and Nike brand footwear and clothing, among other brands, for men, women, and kids. Adding to its retail presence in Ireland, JD Sports acquired athletic clothing and footwear retailer Champion Sports, which is based in the Republic of Ireland, in 2011. Pent land Group, the firm behind the Speedo and Lacoste brands, owns about 55% of JD Sports Fashion.
+
+Responsibilities:
+Analyzed the Test plan, which detailed the testing scope, strategy, test requirements and necessary resources.
+Fully involved in analyzing Business Requirement Documents.
+Developed Test Cases to cover overall quality assurance testing.
+Involved in Manual testing to update the test cases using JIRA to write test cases and logging the defects.
+Involved in Functional, Regression, System testing.
+Participated in requirement and design walkthroughs.
+Provided a weekly project report that includes Test Metrics and status reports.
+Participated in meetings with developers to discuss enhancements and modifications.
+Performed Front-End and Functionality Manually
+Defects were tracked, reviewed, and analyzed using JIRA.
+Performed IST (Integrated System Testing) Regression Testing online on different operating system and browsers.
+
+EDUCATION  
+ 
+2014              MCA from Gate College Tirupathi, S.V.University.	        
+ 
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+ 
+ 
+Date:  
+Place: Bangalore.	 	 	 	 	 	 	(Chandra Mouli CH)

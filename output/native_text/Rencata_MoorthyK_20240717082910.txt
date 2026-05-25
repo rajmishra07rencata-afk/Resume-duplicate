@@ -1,0 +1,154 @@
++9195978 48770
+moorthymk0106@gmail.com
+MJK Avenue Thoraipakkam,
+Chennai.
+C O N TAC T
+SK I LLS
+TestingTools:Selenium WebDriver. 
+ProgrammingLanguage:CoreJava.
+VersionControlTool:GIT.  
+DependencyManagementTool:  
+Maven.
+Framework: Cucumber,Junit,
+TestNG,  DataDrivenandPOM.
+Bug TrackingTool:JIRA.
+CI/CD Tool: Jenkins.
+ED U CAT I O N
+BE – Computer Science Engineering.
+Saveetha Engineering College.
+2012-2016
+HSC – Computer-Maths.
+Dr. J C Kumarappa Hr
+Sec School
+2011-2012.
+W O RK EX PERI E N CE
+Project1
+Mumzworld– Ecommerce Domain
+Mumzworld is an online marketplace that sells products for 
+babies, kids, and mothers. They offer a wide variety of products 
+from diapers, clothes, toys, strollers, and more. They also offer a 
+variety of services such as baby shower registries and gift 
+wrapping.
+2020-2021
+PRO F I LE
+I’m lookingfor an opportunitywhere I can focuson a challenging 
+career in an organization which givesme a scope to update 
+knowledge in every step. I must prove myself as a good team 
+memberand performmydutieswith best abilitiesto deal with as 
+manyprojectstry mylevelbestto get success.
+Currentlyassociatedwith Infosys fromJune 2020to till
+now.
+LAN G UAG E S
+Tamil
+Telugu
+English
+M O O R T H Y K
+T E S T   A N A L Y S T
+Rolesand Responsibilities:
+Understandingand analyzingtheuser stories, preparethe test 
+scenariobasedon acceptancecriteria.
+CreatingtheTest scenarios,identifyingtest cases andtest data  
+for Automation with Selenium WebDriver using TestNG with 
+BDD framework.
+Developedthe designpatternof Page ObjectModel for 
+reusability.
+Responsibleforcreatinga skeletonscripting once the user story 
+is received.
+Created Maven Project using Maven build automation tool to 
+createdependencieslikeSelenium,TestNG,Cucumber,Junit
+Involved in writing automation script by using Selenium 
+WebDriverwith EnhancedTest cases using JavaProgramming 
+featureswithcucumberBDD framework
+PreparingtheFeaturefile,Step Definition,Hooks,POM, 
+Utilityclass in Cucumberframework
+GeneratingJVMreports.
+Involvedintesting theapplicationutilizingtheScrum (Agile)
+methodology
+AttendedAgileCeremoniesDailyScrumcall,Planning  
+&Grooming,Retrospective,ReviewMeeting
+Responsibleforraising and trackingthe defectuntilclosureby 
+usingJIRA.
+Responsibleforprovidingtimelysolution fortheRegression 
+failuretest cases.
+T E S T  A N A L Y S T
+M O O R T H Y  K
+W O RK EX PERI E N CE
+Project2
+Sky Airlines– AirlineDomain
+Sky Airline,styled as SꓘY, is anairlinebased at ComodoroArturo 
+Merino Benítez International Airport in Santiago, Chile. It is the 
+second largest airline in the country behindrival LATAM Airlines 
+and the first airline to operate under a low-cost model in the 
+country.It servesinternationalroutesto Argentina,Brazil,Peru  
+and Uruguay. It also operates charter flights in Chile and South 
+AmericaanddomesticflightswithinPeru.
+2021-2023
+RolesandResponsibilities:
+Analyzingbusinessrequirementin order to determinethetest 
+strategycoveredby automationtesting.
+PrepareTest ScenarioandTest cases.
+Identifyingendto end scenariotest cases and executedit 
+manually.
+Executeanddebugtest scripts.
+PerformedDefectTrackingand ManagementusingJIRA.
+AttendingAgileCeremoniesDailyScrum call,Planning 
+&Grooming,Retrospective,ReviewMeeting.
+ResponsibleforpreparingMinutesof MeetingReport whenever
+the internalmeetingsare happening.
+ActivelyparticipatedinSmoke,SanitytestingduringSIT phase.
+InvolvedinCross Browsing Testingof the applicationon various 
+browsers to ensureit function.
+Responsibleforpreparingdefectreports,status reports, test 
+reportsandotherreportsas required.
+ExtensiveexperienceinAutomation  
+scriptcodinginSeleniumWeb  
+Driver.
+ExperienceinSoftware
+Dev elopment Life Cycle (SDLC)
+and Software Testing Life Cycle
+(STLC)Methodologies.
+ExperiencedinCucumber(BDD)
+frameworkwithcombinationofJunit
+andJava.
+Experiencedindeveloping
+automationframework using Page
+ObjectModel.
+Havinggoodexperienceincore  
+JavaconceptsandObject-Oriented  
+ProgrammingConcepts.
+W orkedwithJavaDatabase  
+Connection(JDBC).
+GoodexperienceinAgile-Scrum  
+Methodologies.
+Goodexperienceinmaintaining  
+automationscriptsinVersion  
+ControlTool-GIT.
+GoodexperienceinContinuous  
+IntegrationandContinuous  
+Deployment(CICD)tool-Jenkins.
+Havinggoodexperienceinfinding  
+andhandlingDynamicWeb  
+elements.
+Proficientin using the Buildtool 
+MaventomanageJava/Selenium  
+AutomationProjects.
+Thoroughlyinvolvedindifferent  
+typesof TestinglikeSmoke,Sanity,  
+Retesting,RegressionTesting.
+InvolvedinCeremonieslikeDaily  
+Scrum call,Sprintplanning,Spring 
+reviewandRetrospective.
+Havinggoodexperienceinfinding  
+ObjectSpy.
+GoodknowledgeonMS Office,MS  
+ExcelandMS W ord.
+A good team player with good
+communication and group co-
+ordinationskills.
+CORE COMPETENCIES
+Declaration:
+I herebysolemnlydeclare that all theinformationfurnished 
+aboveistrue,correct andcompletetothebest of my Knowledge  
+andbelief.
+Moorthy K.
+Chennai.

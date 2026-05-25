@@ -1,0 +1,192 @@
+BISWA RANJAN MOHANTY                                                          Mobile: +919092308543            
+Email : brmdotnetdeveloper@gmail.com                                      
+ 
+OBJECTIVE: 
+        To work on challenging assignments in a globally competitive environment through 
+constant learning, ultimately leading to the achievement of the organization and self. 
+SUMMARY: 
+ Software Engineer with 3.5+ years of experience in.Net Technologies. 
+ Excellent understanding of OOPS, SQL Server, ASP.NET,ASP.NET MVC and Web 
+services. 
+ Having excellent knowledge of LINQ to XML, XPATH, WEB SCRAPING and WEB 
+CRAWLING. 
+ Having a good knowledge of architecture design using Tiered architecture, design 
+patterns (Factory pattern, Singleton etc.) and SOLID Design Principle. 
+ Worked extensively with ADO.NET Components to access and update the database. 
+ Having a good knowledge of SDLC and it’s various aspects of Design, Development, 
+Implementing, Testing, Maintenance, and Support. 
+ Having a good knowledge of the Architectural pattern (MVC). 
+ Knowledge of complete end-to-end project development and maintenance work. 
+EXPERIENCE: 
+ I Work as an “Associate Software Developer” at Thomson Digital, Chennai, from March 
+2017 to till date. 
+ I was working at TTPS(NTPC) as “Software Engineer”, Talcher, from July 2014  to 
+December 2016. 
+ ACADEMIC PROFILE: 
+ B.Tech in Computer Science & Engg, from Biju Patnaik University of Technology, Odisha, 
+in 2014. 
+ TECHNICAL SKILLS: 
+SKILL 
+                  EXPERIENCED 
+Programming Languages 
+C# 
+Operating Systems 
+Windows 
+Data Base 
+SQL SERVER 2008,2012,2014,MySQL 
+IDE 
+Visual Studio 2010,2012,2013 
+Dot Net Technologies 
+ASP.NET 4.o,4.5,4.5.1,4.5.2 
+Servers 
+IIS, IISExpress, TFS, SVN Tortoise 
+Web Technology 
+HTML 5,CSS3,JavaScript,Jquery,XML,AJAX,AngularJs 
+Data Access Technology 
+ADO.NET, LINQ 
+Architectural Pattern 
+ASP.NET MVC 4.0,4.5 
+ORM Framework 
+Entity Framework 
+Web Services 
+SOAP, REST 
+                                              Windows Communication Foundation 
+ 
+ 
+#-1 
+Web Crawler 
+Description : 
+       This application is downloading newly published Article/Issue from 1600 websites as PDF, 
+DOC and MHT files as a requirement.It collecting DOI Value, Volume No, Issue No, Page No, of 
+different  Article and Issue of static and dynamic websites as well sending mail to the client with 
+the attachment of Excel file with all details about the newly published Article and Issue. 
+       This application is downloading files from static and dynamic links using UserID and 
+Password. 
+        Duration:                      November 2017 – Till date 
+        Client:                          ELSEVIER 
+ Languages And Tools: C#, ADO.NET,SQL SERVER 2012,XPath,  HtmlAgilityPack. 
+ Role(s):                       End To End Development and Unit Testing. 
+ 
+#-2 
+Instance Identifier Generation for Scopus Book 
+Description : 
+              This application search source XML file according to the PII value and it Capturing 
+Unique Instance ID of Author, Affiliation and Collaboration from source XML file and put into the 
+CAR XML file of matching author affiliation and collaboration. 
+If Instance id is not found in source XML file then it creates Instance ID  using MD5 Encryption 
+for CAR XML. 
+        
+ Duration                    : September 2017 – October 2017 
+ Client                        : ELSEVIER 
+ Languages And Tools : C#,ADO.NET,SQL SERVER 2012,Regex,MD5 
+ Role(s)                      : Development and Unit Testing. 
+#-3 
+Source XML TO CAR XML Conversion 
+Description : 
+       This application converting source XML format to CAR XML format for EGP  and  AJPHC 
+Journal.(100% Conversion) 
+ Duration                    : September 2017 – September 2017 
+ Client                        : Elsevier 
+ Languages And Tools : C#, ADO.NET, MySQL, LINQ to XML, WCF 
+ Role(s)                      : Development and Unit Testing. 
+#-4 
+Source XML format To DTD format of CAR Conversion 
+Description : 
+       This application is converting source XML format to CAR DTD format. 
+ Duration                    : August 2017 – August 2017 
+ Client                        : Elsevier 
+ Languages And Tools : C#, ADO.NET, MySQL, Regex 
+ Role(s)                      : Development and Unit Testing. 
+#-5  
+Tracking for Scopus Book  
+Description : 
+       This application is used for adding any instructions rather than sending them via Emails. According to the 
+user they can manage JOB, like create, Update and also track each job by Title, Site, Stage and Date. 
+ Duration                    : March 2017 – August-2017 
+ Client                        : Elsevier 
+ Languages 
+and 
+Tools: 
+C#,MVC,ADO.NET,SQLSERVER2012,JQuery,AJAX,HTML5,CSS3, 
+AngularJS 
+ Role(s)                      : Development and Unit Testing. 
+ 
+#-6 
+Assist Management Service 
+Description : 
+       Assist management Service is a systematic process that involves managing, optimizing, 
+deploying, operating, configuring, maintaining, upgrading, and disposing of assets cost-
+effectively within an organization. Connect IT assets to services for better change management 
+and faster issue resolution. Ensure consistent updates and one-click access to support Reduce 
+negative impacts on productivity with access to pre-approved software and silent installs of the 
+software assets throughout all stages of their lifecycle. 
+ Duration                    : December 2015 – December-2016 
+ Client                        : TTPS 
+ Languages 
+And 
+Tools 
+: 
+C#,ASP.NET,ADO.NET,SQL 
+SERVER 
+2012,JQuery,AJAX,HTML5,CSS3,WCF 
+ Role(s)                      : Development and Unit Testing. 
+ 
+ 
+ROLES AND RESPONSIBILITY: 
+ End to End Development. 
+ Involved in understanding and analyzing the requirements. 
+ Involved in code enhancement, Defect fixing. 
+ Resolving the production issues reported by the client users. 
+ Involve in coding for new requirements and change requests. 
+ 
+STRENGTHS: 
+ Interactive and Dynamic Person with Good Communication Skills. 
+ Adequate Problem Solving Ability. 
+ Ability to grasp and learn new things at a much better place. 
+ Thirst for learning new things and updating myself with the latest. 
+  Quick learner, Teamwork, and hard work etc. 
+PERSONAL DETAILS: 
+Name  
+ 
+ 
+:  
+Biswa Ranjan Mohanty. 
+          Father’s Name             
+:   
+Mr.Kedar Chandra Mohanty. 
+          D.O.B                            :        3rd June 1991 
+          Gender 
+ 
+ :  
+Male 
+          Nationality  
+  :  
+Indian 
+ 
+ Marital Status 
+ 
+ :        Single 
+ 
+ Languages Known  
+ :        English, Hindi and Odia 
+ 
+ Contact Number             :        7978768506 
+          Permanent Address         :        At-Thakurpatna, 
+                                                         PO-Bari-Cuttack 
+ 
+ 
+ 
+ 
+ 
+           Dist-Jajpur, 
+ 
+ 
+ 
+ 
+ 
+           Odisha, 
+                                                         Pin-755003 
+DECLARATION: 
+             I hereby declare that the information furnished above is true to the best of my 
+knowledge and understanding. 
+  Place :-Chennai                                                                        (Biswa Ranjan Mohanty)

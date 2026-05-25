@@ -1,0 +1,147 @@
+OBJECTIVE 
+      Y VINOD KUMAR 
+    +91 8985414417 | Vinodyadagiri865@gmail.com 
+CHENNAI
+Committed to work in creative and challenging environment along with maintaining cutting edge technical 
+skills with up-to date industry and IT infrastructure knowledge. Constantly get to nurture my skills and 
+positively deliver solutions to problems, establish responsibility for Information security in the organization 
+by safeguarding the confidentiality, integrity and availability of information. 
+ 
+PROFESSIONAL SUMMARY 
+ 
+Having 4.9 years of Experience in Security Analyst. Well-versed with analysis in SIEM tools 
+ 
+Splunk and with exposure towards wide range of vulnerabilities and threats. Able to execute with 
+a high degree of success in integrating and solving problems. 
+ 
+Experience in using SIEM tool Arc sight, Splunk, IBM QRADAR. 
+ 
+Experience in understanding the logs of various network devices, operating systems. 
+ 
+Expertise in defining resources like Dash Boards, Data Monitors, Active Channels, threats, open vas, etc. 
+ 
+Investigating and creating a case for the security threat sand forwarding to the Onsite soc team for 
+further investigation and action. 
+ 
+Performing Log analysis & analyzing he crucial alerts on an immediate basis. 
+ 
+Recognizing attacks based on their signatures. 
+ 
+Monitoring and carrying out second-level analysis incidents. 
+ 
+Take immediate remediation on the Bad Threat Intel IOC's includes IP'S, URLs, etc., 
+ 
+Demonstrated experience in Black listing the required countries and IOC in the firewalls, 
+Email Security, EDR, etc., 
+ 
+Identify and prioritize current vulnerabilities in client environments based on analysis from 
+security instrumentation. 
+ 
+Take, direct, or recommend counter measure actions to mitigate vulnerabilities and interdict 
+threat activity. 
+ 
+Maintain state on current cyber threat actor techniques, tactics and procedures. 
+ 
+Work with security architecture and engineering partners to develop and improve current and future 
+analytic needs. 
+ 
+Knowledge of information security frame works and standard issue has PCIDSS, ISO27001/2, NIST 
+and their application in to diverse environment 
+ 
+Establish and maintain analytical repeatable processes and assisting continuous improvement 
+of  those processes. 
+ 
+Proactively work with vendors on P1 issues and finding the Root cause also excel in taking 
+Remediation's in the client Environment. 
+ 
+Perform quality assurance functions to ensure client satisfaction 
+ 
+Participate in client service calls to assist in successful client out comes 
+ 
+TOOLS & TECHNOLOGIES 
+ 
+DLP, Crowd Strike, Carbon Black. 
+ 
+Security Operation Center 
+ 
+SIEM Tool: Qradar, Azure sentinel, Splunk 
+ 
+Endpoint security: Symantec& Trend Micro. Ticketing Tool: Service Now 
+ 
+Vulnerability Management: Nessus& Qualys 
+ 
+Email Security: Proof point & Symantec 
+ 
+Project Management: InfoSec, MSS & GSOC Other Tools: O365 ATP 
+EXPERIENCE 
+ 
+SECURITY ANALYST at MICROLAND | CHENNAI OCT 2018 – PRESENT 
+ 
+Working as a Security Analyst and intended to continuously monitor and improve an posture while 
+Preventing, Detecting, Analyzing, and responding to Cyber Security Incidents. 
+ 
+ROLES & RESPONSIBILITIES 
+ 
+Monitoring alerts triggered from sentinel and by analyzing logs and by taking necessary actions with 
+respect to alerts and remediate the alerts by meeting SLA 
+ 
+Worked on SNOW incidents creation to closing and Updating IOC s In Threat Intelligence in Sentinel. 
+ 
+SupportingL1, for incident response & Identifying and understanding the incident based on to 
+determine whether it false or true positive, ruling out false positive and fine tuning the rules. 
+ 
+Performed Use Cases query development in Azure Sentinel for Internal and Client Engagements 
+ 
+Created Play book for Azure Sentinel to automate tasks. 
+ 
+Created Firewall rules in Azure (Network & Application Rules). 
+ 
+Performing Real-Time Monitoring, Investigation, Analysis, Reporting and Escalations of Security 
+Events from Multiple log sources. 
+ 
+Maintain keen understanding of evolving inter net threat s to ensure the security of client net incidents 
+mitigation which in turn makes the customer business safe and secure. 
+ 
+Contacting the customers directly in case of high priority incidents and helping the customer in 
+the process of mitigating the attacks. 
+ 
+Troubleshooting SIEM dashboard issues when there are no reports getting generated or no 
+data available. 
+ 
+Determine the scope of security incident and its potential impact to client network. 
+ 
+Filling the Daily health checklist and Installation of Application Software and Antivirus software. 
+ 
+Installing the Operating Software such as Windows. 
+ 
+Good knowledge on networking concepts including OSI layers, subnet, TCP/IP, ports, DNS, DHCP etc. 
+ 
+Good understanding of security solutions like Firewalls, DLP, Anti-virus, IP 
+ 
+Experience on performing log analysis and analyzing the critical alert immediate basis through 
+Antivirus. 
+ 
+Handling and Analysis suspicious through EDR Crowd strike. 
+ 
+Preparing daily, weekly, and monthly report as per client requirement. 
+ 
+Recommend steps to handle the security incident with all information and supp 
+ 
+Creation of reports and dashboards and rules fine tuning. 
+ 
+Mostly worked on broken authentication, Sensitive data exposure, broken access control, XSS, Using 
+components with known vulnerabilities, Insufficient logging and monitoring. 
+ 
+Creation of reports and dashboards and rules. 
+ 
+Maintain & Document the application support strategy. 
+ 
+ 
+• EDUCATION: 
+ 
+• BSC computer science graduate from Adikavi Nannaya University in 2016 
+ 
+ 
+Declaration: I hereby declare that the above-mentioned details are true to the best of my knowledge 
+ 
+(YADAGIRI VINOD KUMAR)

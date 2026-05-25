@@ -1,0 +1,108 @@
+K. Balachandran
+Mail Id: mailme.balachandran@gmail.com
+Contact: 7358529473 
+G1, VGK Divine Light Apartments, Plot No: 21A, 1st Main Road, MC Nagar, Chromepet, 
+Chennai-600064
+
+OBJECTIVE:          
+Intend to build a career with leading corporate of Hi-Tech environment with committed and dedicated people, which will help me to explore myself fully and realize my potential.	
+
+PROFESSIONAL SUMMARY
+Over 6+ Years of Experience as Software development and Product support enhancement.
+Associated with Transcentra FTS Private ltd, part of Exela Technologies since May 2018
+Analysis, Design, Coding and Delivering the projects and well known in ASP.NET MVC, SQL SERVER.
+Hand on experience on Web services and applied agile methodologies MVC design pattern used.
+Knowledge in build automation tools using Jenkins.
+Good experience in MERN stack development.
+Experience in coordinating with business teams to understand the requirements and obtain clarification.
+Risk Management - Issue, Risk & Mitigation. Handling Peer Reviews and Defect Triage Meetings.
+Work with testing team to find and resolve defects.
+An effective team member with proven abilities to be a part of the team during the project phase and guiding team members.
+
+
+EMPLOYMENT SUMMARY
+
+ACADEMIC SUMMARY
+7.23 CGPA out of 10 in B.Tech (Information Technology), Kalasalingam University. India.
+TECHNICAL SUMMARY: 
+Hands on Experience in ASP.NET4.0 and above and MVC concepts.
+Knowledge in SQL SERVER, Entity framework and Dapper.
+Knowledge in Web API and Windows and Web Services.
+Knowledge in MERN Stack Development using ReactJS, NodeJS, MongoDB, ExpressJS, JWT, OAUTH2.0.
+Knowledge in build automation using Jenkins, Nexus Repository, Groovy Language, Docker.
+Knowledge in scripting languages like JavaScript, JQuery, AJAX, Angular JS, ReactJS
+Advancement in Windows application using XAML.
+Knowledge in Bootstrap, Materialize.
+
+PROJECT DETAILS:
+
+Project #-1
+Application 	: Comply
+Tools used	: ASP.NET MVC, SQL SERVER 2012, Windows Service, Task Scheduler.
+Scope:
+	It is a premium platform developed for enterprise to manage and support customer communication from document versions, approval to fulfillment tracking using state-of-art technology. Connect comply website to enable authorized users to use this website and perform different functions to support different customer communications for their customer.
+Roles & Responsibilities: 
+
+Analyzing the Software Requirement specification.
+Write well designed, testable, efficient code.
+Writing Stored Procedures with complex queries to get the data from backend.
+Task scheduler to pick the data file and proceed with Windows service to trigger.
+Windows service also triggered to get the PDF generation to be done automatically based on the status.
+
+Project #-2
+
+Application  	: IMAP
+Tools used	: ASP.NET MVC, SQL SERVER 2012, MEAN, WEB API
+Scope:
+This project being used by Siemens Gamesa where used by field engineers and managers to update status and work in progress from site. Users can update their daily activities like civil, material receive, consumption, erection, electrical and commissioning progress. 
+Project In-charge can view target and actual work progress. Progress reports, target and actual reports can be accessed. Material received and consumption can be updated. Material stock can also be tracked. Credit team can manage project budget and map with activity and material consumption.
+Roles & Responsibilities: 
+Involved in enhancing product development works and production bug fixing.
+Handling around 40+ micro services for backend API and reports scheduling for this project.
+Have expertise in back end SQL SERVER developing frontend pages using ReactJS, Bootstrap, CSS3 and HTML5.
+Provide web application maintenance and enhancements.
+
+Project #-3
+Application  	: Gamesa CIR
+Tools used	: MVC, SQL SERVER 2008, Bootstrap, Angular JS
+Scope:
+	This application will be an integrated bridge to support site users to report a component failure / inspection report and respective admin departments will verify and convert it to NCR. Every department may have specific activity and they will validate the reporting data and pass it to next department and close the verification by converting it to non-conformance report.
+
+Roles & Responsibilities: 
+
+Analyzing the Software Requirement specification.
+Write well designed, testable, efficient code.
+Document and maintain main software functionality.
+
+Project #-4
+Application	:	Sonnamera
+Tools Used	:	MVC, SQL SERVER 2008, Bootstrap, and Knockout JS
+Scope:
+
+This application manages Sonnamera food items distribution and agency management through web and mobile APP. This application can be used by representatives to take sales orders, collect payments from customers and admin can see the progress of that order and track whether the order is processed and manually scrutinizing can be done. 
+Every sector has its dedicated API and adhoc constraints have to be carried out. Admin users are using tally for accounting purpose and most of the accounts module are available from tally and this application will interact with tally for payment collection and order status.
+Roles & Responsibilities: 
+Analyzing the requirement of the application through Software Requirement Specification.
+Write well designed, testable, efficient code.
+Document and maintain main software functionality.
+Working with testing team to get fixing the bugs.
+
+
+Project #5
+Application	: 	TEAM 
+Tools Used	:	MVC, SQL SERVER 2008, Boostrap,  Entity Framework
+Scope:
+	Talent Acquisition and Management tool for job consultancies to record candidate information, Company Details and Job vacancies.
+Roles & Responsibilities:
+Analyzing the requirement of the application through Software requirement specification
+Write well designed, testable, efficient code.
+Document and maintain main software functionality.
+Creation and Execution of test cases
+Reviewing Test cases
+
+
+ACHIEVEMENTS: 
+
+Created the Progressive Web App for the Vikatan.
+Created the Business Intelligence Tool (Qlik Sense) for the Gamesa.
+Created the Content Management Website using Umbraco.

@@ -1,0 +1,180 @@
+ABOUT ME 
+As a dedicated Software Testing 
+professional with a strong knowledge 
+base and excellent analytical skills, I am 
+excited to grow my career in this field. My 
+passion for Software Testing has driven 
+me to constantly improve my skills and 
+stay up to date with industry trends. 
+M
+MAAHHAALLAAKKSSHHM
+MII  
+SSoouunnddaarraarraajjaann 
+Software Test Engineer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WORK EXPERIENCE 
+ 
+Infosys 
+Jun 2020 - Present 
+Around 3+ Years of Experience in Software 
+Testing in WebApplication using Java 
+Selenium, API Testing using Rest Assured 
+and Mobile Automation using Appium. 
+EDUCATIONAL 
+ 
+B.Tech | Information Technology 
+Mailam Engineering College 
+2016 - 2020 
+ 
+SKILLS 
+ 
+Java Selenium 
+TestNG 
+BDD Cucumber 
+Postman 
+Rest Assured 
+Jenkins 
+Appium 
+JIRA 
+Maven 
+SQL 
+GIT 
+PROFESSIONAL SUMMARY 
+Good experience in creating scripts in Selenium 
+Web Driver using Java. 
+Experience in frameworks such as BDD 
+Cucumber, TestNG and JUnit. 
+Well Versed in Page Object Model and Object 
+Oriented Programming Concepts. 
+Experience in developing BDD scripts using 
+Feature Files by using Cucumber tool. 
+Good experience in SDLC and STLC. 
+Good Experience in API Testing using Postman 
+and Rest Assured. 
+Involved in Functional Testing, Automation 
+Testing, API Testing and Mobile Automation. 
+Extensively worked on various Testing type 
+such as Retesting, Regression Testing, Smoke 
+Testing, Sanity Testing. 
+Good experience in writing X-paths to identify 
+web elements and CSS selectors. 
+Experience in developing test cases based on 
+requirements, tracking and reporting of defects 
+in JIRA. 
+Maintained automation code and resources in 
+GIT. 
+Experience in working with Continuous 
+Integration Tools for Regression Testing with 
+Jenkins. 
+Experience in Mobile Automation using Appium. 
+Experience in Running the tests in parallel and 
+sequential on different browsers (Internet 
+explorer, Google chrome) to analyzing the 
+results. 
+Participated in Agile Ceremonies like Sprint 
+Grooming, Sprint Reviewing and Daily Standup 
+call and Retrospective Meeting. 
+ 
+9677647891 
+mahalakshmisoundararaja@gmail.com 
+Chennai 
+DESCRIPTION 
+5dollarfashions.com is an online shopping mall that 
+sells women's clothing and accessories. They offer the 
+latest fashion trends at reasonable prices. and have 
+products like Belts, Hats, Dresses, Skirts, Shoes, 
+Sandals, Tops, Bottoms, Jewelries 
+SKILLS 
+Java Selenium 
+BDD Cucumber 
+Postman 
+Rest Assured 
+Jenkins 
+Appium 
+ 
+PROJECT I - 5DOLLARFASHIONS 
+Domain : ECommerce 
+Feb 21 - Nov 23 
+ 
+ROLES AND RESPONSIBILITIES 
+Analyzing the user stories. 
+Preparing the test scenario, test data and test cases 
+then analyzing the test cases and differentiating 
+which can be automated and which cannot be 
+automated. 
+Involved in Automation framework implementing 
+Page objects, Data Driven, Maven using Selenium 
+Web Driver using Core Java. 
+Responsible for Test Deliverables, Prioritizes and 
+Monitors Activities. 
+Developed BDD tests using Cucumber by writing 
+feature files and step definitions. 
+Involved in Push, Pull, Merge the source code from 
+GIT. 
+Capable of using an X- path to find the locators and 
+handle the dynamic web element. 
+Automated Mobile application test cases through 
+Appium. 
+Executed the test scripts and report the defects 
+through defect tracking tool JIRA. 
+Participate in bug-fixing to resolve problems that 
+were discovered during user acceptance testing. 
+The BDD Cucumber frameworks have been 
+Extensively automated Regression test using Jenkins. 
+Perform Cross browser testing and parallel execution 
+to check the compatibility and stability of the 
+application. 
+Involvement in all Agile Ceremonies 
+Report daily status to Project Manager. 
+DESCRIPTION 
+Banca Transilvania (BT) is a Romanian bank 
+with headquarters in Cluj-Napoca. BT offers 
+a range of products and services, like 
+Current accounts, Savings and investment 
+products, Loans, Mortgages, Financing, Fast 
+loans for SMEs, Loans for small business 
+SKILLS 
+Java Selenium 
+TestNG 
+Manual Testing 
+ 
+PROJECT II - BANCA 
+TRANSILVANIA 
+Domain : Banking 
+Jun 20 - Jan 21 
+ 
+ROLES AND RESPONSIBILITIES 
+Involvement in Preparation of Test Procedures, Test 
+Scenarios, Cases and Test Data. 
+Performed Automation testing on Web based 
+application as per the requirements. 
+Used Maven to build and run the Selenium automation 
+framework. 
+Responsible for GUI and Functional Testing, using 
+Black box Testing Techniques. 
+Involvement in Test Execution, Results Evaluating and 
+Defect Reporting. 
+Involvement in RTM Preparation. 
+Involved in Automation Infrastructure Development 
+using Selenium. 
+Created Test cases Using Element locators and 
+Selenium Web driver methods. 
+Execution of Selenium Test cases and Reporting 
+defects. 
+Executed the test scripts and reported the defects 
+through defect tracking tool JIRA. 
+Raise and track defects until closure 
+Involved in Push, Pull, Merge the source code from GIT 
+Co-operation with various Dev team members to 
+understand testing objectives and ensure that 
+problems are resolved in a timely and efficient manner. 
+Involved in testing the applications utilizing the Agile 
+Scrum. 
+Report testing status to QA Manager and Project 
+Team weekly.

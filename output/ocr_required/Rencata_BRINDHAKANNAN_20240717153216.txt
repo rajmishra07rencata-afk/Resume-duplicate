@@ -1,0 +1,116 @@
+BRINDHA
+Summary
+KANNAN
+iOS Developer worked in all phases of the SDLC (Software Development
+Life Cycle) from analysis, design, development, testing, implementation
+Software Engineer
+and maintenance with timely delivery against aggressive deadlines using
+Agile methodology and currently seeking a new position to utilize and
+develop my skills innovatively.
+Contact
+Skill Highlights
+Address:
+4/483, Bharathiyar Nagar,
+Experience
+1st Cross Street, Neelankarai,
+Chennai - 600115
+Software Engineer -iOS Developer - 10/2021 to Present
+Thinkpalm Technologies Private Limited, Chennai.
+Phone:
+Client - Internal
+Name - Heads
++919940546764
+Project description:
+In Application users can see the remaining leaves and apply for
+Email:
+leaves and can mark the hours they worked in each project
+mbrindha6@gmail.com
+Roles and Responsibilities:
+Experience on creating UI, API, Offline storage, Bloc Architecture,
+Education
+in Flutter
+Worked on JIRA to get the requirement details and managed the
+B.Tech - Information Technology
+Jeppiaar SRR Engineering College,
+respective ticket throughout the cycle.
+Having experience on GitLab to get and update code.
+.
+Chennai.
+CGPA - 7.5
+Worked on Dart for flutter
+Automated few workday tasks.
+HSC
+Sri Gnanananda.Matric
+Client - Japan
+Name - Porsche
+Hr.Sec.School,
+Project description:
+Tirukoilur.
+In Application Porsche app offers our customers a central
+Percentage - 85%
+touchpoint to interact with their vehicle and engage with the Porsche
+brand.
+SSLC
+Roles and Responsibilities:
+Sri Gnanananda.Matric
+Experience on creating UI, API, storage, MVVM pattern in Swift.
+Hr.Sec.School,
+Identified developmental issues, had brainstorm solutions and
+Tirukoilur.
+constantly improved the solution via testing and given feedback.
+Percentage - 75%
+Having good experience on client interaction and presentation
+skills.
+
+Software Engineer - iOS Developer - 11/2019 to 10/2021
+Skills
+Sterling Software pvt.ltd, Chennai.
+Client - MyCams
+Domain - Banking
+iOS SDK
+Project description:
+iOS Development
+Application is open for distributors and registered investment advisors
+MultiThreading
+empaneled with any of the 16 mutual funds serviced by CAMS.
+Offline Storage
+Networking
+Roles and Responsibilities:
+CocoaTouch
+Experience on Swift developmental skill.
+Stripe
+Created Ul without using storyboard and send notification using
+Flutter
+FCM.
+Firebase
+Identified developmental issues, constantly improved the solution
+Dart
+via testing and given feedback.
+Having good experience on managing, assign task, and clarify
+mistakes of juniors .
+Software Engineer - iOS Developer - 02/2019 to 09/2019
+Cognitive Mobile Technology pvt.ltd, Chennai.
+Name - Semic Sidekick
+Domain - Managing Work
+Project description:
+Semic sidekick a communication based Project Management
+application built using SIP apt to assign and track
+tasks on a day-to-day basis for their employees.
+Roles and Responsibilities:
+Created Ul using storyboard and send notification using FCM.
+..
+Having good experience in MVC pattern.
+.
+Worked on JIRA to get the requirement details and managed the
+respective ticket throughout the cycle.
+Software Engineer - iOS Developer - 07/2018 to 01/2019
+Macroid App Service pvt.ltd, Chennai.
+Name - Saibaba
+Domain - Temple
+Project description:
+This app is mainly for devotees. It consists of sharing problems, donating,
+social activity, spiritual tour and devotee experience.
+Roles and Responsibilities:
+Created Ul using storyboard and write REST api to fetch data from
+server.
+Having good experience in auto layout.

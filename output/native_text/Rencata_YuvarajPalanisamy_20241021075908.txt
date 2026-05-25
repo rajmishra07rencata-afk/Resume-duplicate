@@ -1,0 +1,205 @@
+9597847656 
+Yuviit50@gmail.com 
+    Yuvaraj Palanisamy 
+Senior Software Engineer (.Net) 
+SUMMARY 
+• 
+8+ years of experience in software development. 
+• 
+Involved in Software Development Life Cycle like Requirement, Analysis, Design, Implementation and Testing. 
+• 
+Followed Agile methodology with daily scrum meetings and providing user story updates. 
+• 
+Designed and developed various abstract classes, interfaces, classes to construct the business logic using C#.NET. 
+• 
+Developed SPA (Single page Applications) using Angular, widely used angular UI components.  
+• 
+Used Web API as an ideal platform in building Restful applications on .NET Framework 
+• 
+Using SQL server 2014 database as back-end along with the Entity Framework and LINQ to access the databases.  
+• 
+Used RabbitMQ, SignalR and Selenium for creating automated Robotic Process. 
+• 
+Exposure in AI Technologies such as RASA and LUIS Framework (Chat bot and NLQ bot) 
+• 
+Strong analytical and dynamic trouble shooting skills coupled with excellent communication skills and able to work 
+individually and as a team. 
+• 
+Knowledge on Azure, Docker, and Kubernetes clusters. 
+• 
+Flexible to work anywhere and ready to relocate. 
+EXPERIENCE 
+Feb 2019 – Present: Senior Software Engineer in ByteForza Technologies Private Ltd, Coimbatore, Tamilnadu, India. 
+July 2017 – Jan 2019: Software Developer in Logic Valley Technologies Private Ltd, Coimbatore, Tamilnadu, India. 
+Feb 2015 – July 2017:  Software Engineer in Studiosoft Solutions Private Ltd, Coimbatore, Tamilnadu, India. 
+TECHNICAL SKILLS  
+Operating System 
+:  Windows XP/7/8 and 10 
+Primary Skills  
+:  ASP.NET, MVC, .Net Core, Web API (REST) 
+Web Technologies 
+:  Angular 8, JavaScript, jQuery, CSS, Bootstrap.  
+, 
+Database Server 
+:  SQL Server 2008, SQL Server 2008 R2, SQL 2014 
+AI Technologies 
+:  RASA & LUIS Framework 
+Messaging Queue 
+: RabbitMQ 
+Automation 
+ 
+: Selenium & FlaUI 
+Version Control  
+:  Tortoise SVN, TFS & GIT. 
+EDUCATION 
+Master of Computer Applications (MCA) from Sri Ramakrishna Engineering College Coimbatore completed in the year 
+2014 with CGPA of 7.91 
+BSc (Information Technology) from VLB Janakiammal College of Arts and Science, Coimbatore completed in the year 2011 
+with Aggregate of 74%
+ 
+PROJECT 
+ 
+Web-based data collection Tool 
+Web-based data collection tool that facilitates Organization personnel to collect and manage in a central database, 
+environmental information of sites. Web-based data collection tool provides a single data management interface 
+integrating data from multiple systems, into an application. Users (current and future personnel) can use Data collection 
+tool as a repository to store Organization data. 
+Environment: .NET Core, C#, REST API, Entity Framework, Angular 8 
+Job Responsibilities:  
+➢ Participated requirements walkthrough meetings and understand the business requirements, design, and 
+document technical design for the business requirements. 
+➢ Involved in developing GUI Angular components. 
+➢ Involved in designing Database schema using SQL Server 2012. 
+➢ Involved in writing REST API for establish connection with database and fetching data. 
+➢ Used Azure DevOps based CI & CD pipeline for application deployment. 
+➢ Involved in supporting and maintaining the project. 
+Used Inversion of Control with Dependency Injection for Services, DTO support for the business Layer. 
+ 
+Tracking Tool 
+                              
+ 
+         
+Inspection Tracking Tool is a suite of digital tools supporting environmental field inspectors and their managers. 
+It supports improved quality, consistency, and timeliness of field inspections. It 
+supports inspectors through the entire inspection process from scheduling an inspection to generating 
+the draft inspection report for managerial review and, ultimately, approval. Each phase of the inspection 
+is captured in its own module in our tool for easy organization and efficient collecting of 
+observations. 
+Environment: .NET Core, C#, REST API, Entity Framework, Angular 10 
+Job Responsibilities:  
+➢ Worked in agile framework as an individual contributor and conducted in story grooming, reviewing 
+story/acceptance criteria team meetings. 
+➢ Conducted the sprint planning and retrospective meetings and  
+➢ Managed the team by assign the user stories and clarifying the tasks. 
+➢ Collaborated and worked with global teams to deliver product. 
+➢ Involved in writing REST API for establish connection with database and fetching data. 
+➢ Involved in writing web components using Angular 10. 
+➢ Used Azure DevOps based CI & CD pipeline for application deployment. 
+➢ Involved in implementing Chatbot using RASA (AI Technologies). 
+➢ Integrated the Text to SQL third party tool to predicate the SQL query using PICARD. 
+ 
+Enterprise Tool                                   
+ 
+ 
+ An Enterprise tool for Planning, Programming, Budgeting & Execution (PPBE) Process. A comprehensive application that 
+functions as both a project management tool and a single authoritative electronic repository for the project and fiscal 
+details on environmental requirements. It is designed to accurately define project costs, manpower costs, and 
+programmatic funding levels. 
+Environment: Angular 5, MVC, WEB API & SQL Server 2014 
+Job Responsibilities:  
+➢ Involved in different stages of SDLC like requirements, Analysis, Design, Coding and Testing. 
+➢ Involved in discussing technical issues at SCRUM meetings and Preparing TDD (Technical Design Document) for 
+each process. 
+➢ Involved in writing REST API for establish connection with database and fetching data. 
+➢ Involved in supporting and maintaining the project. 
+➢ Used Log4Net logging framework for logging messages with various levels written throughout the code. 
+➢ Utilized code review tools such as SONARQUBE. 
+ 
+Compliance Management System  
+A compliance management system that provides assessment managers with the tools needed to effectively plan, 
+coordinate, and manage assessments. The tools aid users to manage assessment timelines, write findings, review findings 
+and track required corrective actions. Reports can be generated in hard or soft copy for quick dissemination. 
+Environment: Asp.Net with C#, SQL Server 2014. 
+Job Responsibilities:  
+➢ Involved in different stages of SDLC like requirements, Analysis, Design, Coding and Testing. 
+➢ Involved in developing Exceed prototypes to demonstrate to customers. 
+➢ Used HTML and CSS for front-end development. 
+➢ Focused on application maintenance and involved in application improvements based on CR’s. 
+ 
+Online School Clothing 
+A website to maintain the school uniforms for over 180 schools with online shopping. Ecommerce website to support 
+school uniform supplier where customers can place order. 
+Environment: Asp.Net with C#, SQL Server 2008 R2 
+Job Responsibilities:  
+➢ Involved in Admin site and Ecommerce (Web) site development using ASP.Net Web Forms 
+➢ Involved in Data Organizing and Table structure design. 
+➢ Task management and Integrated Website with Word press site. 
+➢ Performed the Data migration from the older system to latest system through SSRS. 
+➢ Responsible for supporting and maintaining the project. 
+PRODUCT 
+ 
+Website Development (Web Studio) V1 and V2 
+A website to maintain the product details with shopping option which offers the customer to order their products through 
+online. It also has admin control in which we can maintain the employee details, order details, payment details etc. 
+Environment: Microsoft ASP.NET 4.0, SQL Server 2008 R2, Infragistics 2015.1, jQuery, Easy Ask Search Engine 
+(New Version – AngularJS, MVC, Web API (REST)). 
+Job Responsibilities:  
+➢ Implementing Business Logic in ASP.Net and design the web UI. 
+➢ Major contributed as an individual developer and participated in story discussion. 
+➢ Involved in Back-end/Front-end Testing by writing Test Cases using Bug Fixing, Debugging and documentation of 
+the system. 
+➢ Ensured cross-platform optimization for mobile phones. 
+➢ Contributed with TSQL, creating, and developing store procedures, functions, triggers, and experience in 
+troubleshooting database performance issues. 
+➢ Involved in the documentation of the project.  
+➢ Involved in Bug Fixing and maintenance. 
+Field Force Management (Geo Force)  
+A website to maintain Field agent task management with monitoring field agent’s performance. Task scheduler, Location 
+detector and task details will be shown in the web dashboard. 
+Environment: MVC, Web API (REST)), SQL Server 2017, jQuery 
+Job Responsibilities:  
+➢ Efficiently implemented a variety of full-stack features, including RESTful APIs with C# and ASP.NET Web API, 
+server-side views with C# and ASP.NET MVC 5, and dynamic client-side interfaces with Ajax, JSON, jQuery. 
+➢ Implementing Stored Procedures to improve performance. 
+➢ Implementing Web API for Mobile Applications. 
+➢ Involved in the documentation of the project. 
+ 
+Declaration 
+I hereby declare that the above particulars given by me are true and correct to the best of my knowledge and 
+belief. 
+ 
+Place:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             
+Date:                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Yuvaraj. P]

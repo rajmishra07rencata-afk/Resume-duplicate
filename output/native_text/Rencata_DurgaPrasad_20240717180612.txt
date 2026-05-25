@@ -1,0 +1,85 @@
+Durga Prasad 
+Security Analyst 
+CONTACT INFORMATION 
+Phone Number: +91 7799345141 
+Email: pdurgaprasad1091@gmail.com 
+PERSONAL PROFILE 
+SOC Analyst with 4.2 years of experience in IT, with security operations 
+including Incident management, Endpoint security and logs analysis through 
+SIEM. Experience on working in 24x7 operations of SOC team, offering log 
+monitoring, and security information management 
+ 
+PROFESSIONAL SUMMARY 
+4+years of hands on IT Experience in securing the network environment. 
+Experience in Information Security with emphasis on security operations, incident 
+management, intrusion detection, and security event analysis using SIEM tool Azure Sentinel 
+and Qradar. 
+Experience in Monitoring & Investigating the incoming Events. 
+Experience of working in 24x7 operations of SOC team, offering log monitoring, security 
+information management, global threat monitoring. 
+Experience in generating Daily, Weekly & Monthly Reports. 
+Experience on performing log analysis and analyzing the crucial alerts at immediate basis 
+through SIEM. 
+Handling critical alerts from Symantec Endpoint Protection and working for resolution. 
+Handling alerts from Crowd strike EDR and investigation. 
+Responsible for triage of a variety of alerts stemming from Malware. 
+Responsible for monitoring the Phishing attempts. 
+Exposure to Ticketing tool like Service Now. 
+Strong knowledge on Event Life Cycle and its Phases. 
+Strong knowledge on Incident management life cycle. 
+Good communication, problem solving skills and the ability to acquire new skills in a timely 
+manner. 
+Strong in team coordination and managing tasks. 
+TECHNICAL SKILLS 
+SIEM Tool: Qradar, Splunk, Azure Sentinel. 
+EDR: Falcon, Crowd strike. 
+Phishing and email Security. 
+Other Tools: O365 ATP. 
+Ticketing Tool: Service Now, Trend Micro. 
+Endpoint protection: Symantec, Mcafee. 
+Vulnerability Management: Nessus, Qualys. 
+IDS, IPS, DLP. 
+ 
+WORK EXPERIANCE 
+Security Analyst 
+COMPANY: HTC GLOBAL 
+SEP 2018 - TILL DATE 
+ROLES & RESPONSIBILITIES 
+Monitoring the incoming security alerts in SIEM tools like Qradar and Azure Sentinel. 
+Working in Offshore SOC team. Monitoring of SOC events, detecting and preventing the 
+Intrusion attempts. 
+Ad hoc report for various event sources customized reports and scheduled reports as per 
+requirements. 
+Collecting the logs of all the network devices and analyses the logs to find the suspicious 
+activities. 
+Investigate the security logs, mitigation strategies and Responsible for preparing generic 
+security incident report. 
+Handling Alerts from multiple Security Log sources such as Proxy, Anti-Virus and EDR. 
+Deep dive Investigation through Falcon EDR. 
+Monitoring, analyzing and responding to infrastructure threats and vulnerabilities. 
+Phishing and Spam Email Analysis. 
+Investigate the security logs, mitigation strategies and responsible for preparing generic 
+security incident reports. 
+Responsible to preparing the root cause analysis reports based on the analysis. 
+Analyzing daily, weekly and monthly reports. 
+Creating case for the suspicious issue and forwarding it to Onsite SOC team for further 
+investigation. 
+Website Anti-Malware and Defacement monitoring and real-time alerting based on anomalies 
+detected. 
+Troubleshooting SIEM dashboard issues when there are no reports getting generated or no 
+data available. 
+Analyzing daily, weekly and monthly reports. 
+Monitoring of SOC events, detecting and preventing the Intrusion attempts. 
+Investigating the events based on particular criteria by creating an Active Channel. 
+Handling the failed logins issues from the different systems. 
+Handling the different issues like Phishing, Spam and Malicious email. 
+Working on security related threats and Incidents. 
+EDUCATION 
+Bachelor of Engineering (CSE) 
+Kakinada Institute of Engineering and Technology (JNTU-K), in 2013 with aggregate of 61% 
+DECLARATION 
+I Here declare that the above given information is correct to the best of my knowledge and 
+belief. 
+Date: 
+Place: 
+(Durga Prasad)

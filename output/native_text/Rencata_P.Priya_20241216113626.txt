@@ -1,0 +1,112 @@
+P.Priya						               
+ Plot No 123, door no 4, 5th Street,			                    Email Id: priyamca3@gmail.com    
+ Kamakotinagar, Pallikaranai,                                                           Mobile No:8608059684                                                              
+ Chennai -600100
+
+PROFESSIONAL SUMMARY 
+7 Plus years of experience in software application development using Microsoft Technology.
+Proficient in understanding new technologies, accomplishing project’s goals successfully. 
+Exceptionally well organized, willingness to work hard to achieve employer objectives.
+Effective Customer Interaction and co-ordination of development activities.
+Impressive problem-solving and critical thinking skills.
+Experience in industries like healthcare, E-Commerce, Management Tool
+Experience in UI and web application development using HTML, CSS, JavaScript, Angular 7 
+
+ 
+EDUCATION 
+
+
+
+EXPERIENCE 
+
+
+ 
+
+
+
+Professional Certifications: 
+PL-900 (Microsoft Power Platform Fundamentals) 
+PL-400 (Microsoft Power Platform Developer) 
+ 
+TECHNICAL SKILLS 
+
+ 
+
+Technical environment: ASP.Net, C#.Net (4.0), SQL server 2008, Angular 7
+Description: 
+The Procter & Gamble Company (P&G) is an American multinational consumer goods corporation headquartered in Cincinnati, Ohio, founded in 1837 by William Procter and James Gamble.[2] It specializes in a wide range of personal health/consumer health, and personal care and hygiene products; these products are organized into several segments including beauty; grooming; health care; fabric & home care; and baby, feminine, & family care. 
+ 
+Responsibilities: 
+ 
+Involved in the Software Development Life Cycle phases like Requirement Analysis, Design, Implementation, and testing. 
+Implementing various validations in the canvas app to achieve the functional flow without any flaws.
+ Interact and Co-ordinate with QA and Business Users to perform SIT, UAT respectively and manage the team members with best practices, API usage, Unit tests, and Common case of errors. 
+Writing and updating the technical documents on daily basis with the changes made to the existing environment on daily basis. 
+Worked on cross browser compatibility issues and fix the bugs pertaining to various browsers. 
+ 
+#2: Field Power 	 	 	 	          
+Client: Ducont India Systems Private Limited  
+Technical environment: ASP.Net, C#.Net (4.0), SQL server 2008, JavaScript, Angular 7 
+ 
+
+ 
+Field power is a product which is used to deliver remarkable field service by ensuring that you schedule the appointment. User can easily fix an appointment with their available time. User can be able to submit the feedback Whether it’s Positive or Negative. 
+. 
+Responsibilities: 
+ 
+Involved in the Software Development Life Cycle phases like Requirement Analysis, Design, Implementation, and testing. 
+Knowledge on creating admins, creating content packs, allowing access according on content packs, creating app workspace, managing workspace access. 
+Writing and updating the technical documents on daily basis with the changes made to the existing environment on daily basis. 
+Worked on cross browser compatibility issues and fix the bugs pertaining to various browsers. 
+ 
+#3:  Chola Mandalam Insurance 	 	 	 	 
+ 
+Client 	 	: (Client – Chola insurance, Chennai) 
+Technical environment: ASP.Net, C#.Net (4.0), SQL server 2008, JavaScript 
+ 
+Description 	 	: 
+The scoping of this application is to offers a wide range of insurance policies for individuals and corporate. "For individuals, there are products like Car insurance, Travel Insurance, Health Insurance, Accident Insurance and Home Insurance. For Corporate Insurance clients, Chola MS offers customized insurance solutions encompassing insurance and risk consulting services such as Engineering Insurance, Liability Insurance, Marine Insurance, Property and Miscellaneous Insurance 
+Responsibilities: 
+ 
+Involved in the Software Development Life Cycle phases like Requirement Analysis, Design, Implementation, and testing. 
+Developed responsive web pages using Angular 5, Bootstrap& CSS. 
+Writing and updating the technical documents on daily basis with the changes made to the existing environment on daily basis. 
+Created Reusable Components which are being used across the application. 
+Worked on cross browser compatibility issues and fix the bugs pertaining to various browsers. 
+ 
+ 
+#4: Distribution Management System             	 	 	          
+ 
+Client                      : Ambalal Infinity Solutions Pvt Ltd 
+Technical environment: ASP.Net, C#.Net (4.0), SQL server 2008, JavaScript Description: 
+A DMS is a collection of applications designed to monitor and control the entire distribution network efficiently and reliably. It acts as a decision support system to assist the ‘control room’ (DB point) and field operating personnel (DSR/FOS), with the monitoring and control of the electronic distribution system, thus improving the quality and the reliability of service in terms of reducing outages and minimizing outage time. 
+ 
+Responsibilities: 
+Involved in the design and code development of Distribution Management system modules.  ▪ Provided demo to the Team Leader. 
+ 
+ 
+#5: E-Commerce-Shopping Card            	 	 	 	          
+ 
+Client                     : Niyaz Udeen 
+Technical environment: ASP.Net, C#.Net (4.0), SQL server 2008, JavaScript 
+ 
+Description: 
+The main purpose of this application is user can purchase the product through online. The user has to register so his details will be saved in the database. The user has to add the product to add cart. After adding it’s asking the quantity and size den the user has to check out. The user has to pay for the product once the transaction is completed that details will be sent to the user mail address. The admin has to add the product, has to update the discount of the product. The admin will send the coupon code, discount amount, product name to the customer emailed. If the user wants, they can export to excel. The user can search the product by selecting the category also if the product is not available admin will show the message out of stock. 
+As a Software Programmer, following tasks is being undertaken: 
+Handling the whole website development. 
+Implementing all modules of the Software Development Life Cycle. 
+Worked on Payment Gateway Integration. 
+Involvement in Business Functionality, Analysis and Documentation. 
+Involvement in designing the database, upgrading the database and maintain it. 
+Involvement in integrating the flash part with the Asp.net code. 
+ 
+Responsibilities: 
+ 
+Analyzing requirements document. 
+Converting UI mockups into web pages (views) using HTML5, Bootstrap. 
+Developing components using JavaScript, and AJAX. 
+Functionality development for shopping, cart management and checkout Modules using JavaScript. 
+Participating in daily Stand-up calls.   
+ 
+I hereby declare that the above-mentioned information is true to the best of my knowledge. 
+PLACE: Chennai                                                                                                    [P.PRIYA]

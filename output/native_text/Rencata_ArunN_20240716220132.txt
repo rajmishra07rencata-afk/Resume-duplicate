@@ -1,0 +1,93 @@
+Arun N 
+Coimbatore, Tamil Nadu, India | +91 9698981303 | arun.nambiyar07@gmail.com | www.linkedin.com/in/arun-nambiyar 
+ 
+ 
+Anna University | Chennai, India 
+May 2017 
+Bachelor of Engineering in Mechanical Engineering 
+ 
+SKILLS 
+Languages/Frameworks/Technologies: Core Java, Selenium, BDD Framework, Data driven Framework, Agile Scrum, Maven, 
+TestNG, Junit, Rest Assured API, SQL, Appium etc. 
+Tools: Eclipse IDE, Selenium Webdriver, JIRA, Git, Jenkins, Postman, Oracle SQL, Advanced Microsoft Excel. 
+ 
+ROLES AND RESPONSIBILITIES 
+• 
+Experienced with 4+ years in web application testing in both manual and Automation using Selenium WebDriver. 
+• 
+Having good experience in Core Java programming language 
+• 
+Good experience with handling frameworks like Cucumber BDD with Junit as runner file. 
+• 
+Used Maven build tool for developing script and maintain dependency jar files. 
+• 
+Having good experience in managing Bugs and tracking it in JIRA. 
+• 
+Possessing good knowledge in TestNG and Junit. 
+• 
+Good experience in working with different phases of Software Development Life Cycle and Software Testing Life Cycle. 
+• 
+Experienced in preparing test cases for both automation and manual testing in both positive as well as negative approach. 
+• 
+Working in the Agile methodology with scrum framework and actively participated in all the agile ceremonies. 
+ 
+WORK EXPERIENCE 
+Associate Test Engineer 
+March 2023 - Present 
+KGISL Technologies Private Ltd. 
+Coimbatore, India 
+ 
+Software Test Engineer 
+June 2019 – Feb 2023 
+Rapidata Technologies 
+Chennai, India 
+ 
+PROJECTS 
+DOLPHINFX –Product Solution Group 
+March 2023- Present 
+Associate Test Engineer 
+ 
+Dolphin FX (DFX), a robust and comprehensive solution for treasury operations team to handle FX Trade supporting 
+documents, define and monitor FX Limits and generate customized reports both for operational needs and for regulatory 
+reporting purpose. The application is designed on customizable framework to handle any type of regulatory changes from 
+RBI/regulatory bodies on the treasury operations. 
+Clients: Bank of America Merrill Lynch, J P Morgan, Deutsche Bank, DB- CCIL 
+ 
+Modified the full script and added two extra module in BAML (Bank of America) Automation Test Script. 
+ 
+Responsible for preparing Approach note as I served as a Tester cum BA in my team. 
+ 
+Involved in testing the project completely on Oracle 19c migration. 
+ 
+Managed to prepare Test cases & Test scenarios. 
+ 
+Worked with team through entire process of Software Development Life Cycle. 
+ 
+Responsible in on-time deliverables tracking during project implementation 
+ 
+ LoganAir.co.uk 
+August 2020- Mar 2023 
+Automation Tester 
+• 
+Coordinated with peers in the team for clarity on the requirements. Understand test plan document and analyses the 
+schedule. 
+• 
+Analyzing the Feasibility of Test automation and provide estimation for automation effort. 
+• 
+Created, maintained Automation Selenium Scripts for the User Stories in JIRA. Maintaining the check-in and check-out 
+the source code from GIT. 
+• 
+Preparing the Feature file, Step Definition, Hooks, POM, Utility class in CUCUMBER framework. Execution of 
+automated Test scripts through Maven Projects. 
+• 
+Performing Defect Tracking & Management in JIRA and generated automated daily reports using JIRA Projects 
+Technical Skills. 
+• 
+Creating regression test suites for the identified tests. Rerun the failed test cases. Regression testing configured in 
+Jenkins. 
+• 
+Execution of Smoke, Sanity and Regression suites during new releases and analyses the test failures. 
+• 
+Involved in preparing the Daily and Weekly status report & sharing it with the client and with themanagement. 
+• 
+Worked in a highly dynamic AGILE environment and participated in scrum and sprint ceremonies.

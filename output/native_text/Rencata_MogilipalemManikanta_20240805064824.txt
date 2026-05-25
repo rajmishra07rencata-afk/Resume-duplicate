@@ -1,0 +1,94 @@
+Mogilipalem Manikanta
+
+Mobile:+91 8019678511                                                       E-mail: manikantamogalipalem123@gmail.com 
+                                                                                                 
+Having 3 +years of experience as a software developer in software Analysis, Designing Development,                                                                                                                                  W ebbased applications based on Microsoft .Ne t  Technologies such as C#, ASP.Net, ADO.Net, MVC, Entity Framework Core, DotNet Core  Web Api, Angular .                                                                                                                                                                                                                                             
+Having Experience in Designing and Developing Web Pages using CSS, HTML, Bootstrap, JavaScript, JQuery, Ajax.
+Having experience in SQL Server Database, writing Store Procsedures, Views, Functions.
+Having Experience in version control tools like Git, GitHub, TFS.
+Experiencein an Agile development environment.
+Strong Object Oriented concepts for software design and implementation. 
+Strong knowledge of web applications. 
+Strong interpersonal skills with an ability to work under pressure and keep the team motivated by my work. 
+
+     Quick learner, Smart Worker, Positive Attitude and Team Coordinator.
+
+Software Engineer with Gray Cube Software Solutions Pvt.Ltd. From Dec-2020 - Till Date.
+
+  PrimarySkills	 :  C#.NET, ASP.NET, ADO.NET, SQL Server, MVC, Web,  Entity Framework,
+    Angular 7th and 8th, Web API. 
+
+  Secondary Skills :     HTML, CSS, Bootstrap, .Net Core.
+
+
+          Completed( B.com) from Acharya Nagarjuna University, 2020.
+
+
+
+
+
+
+
+
+
+Project # 1                                                                                                         		
+Title 		:  HRIS	
+Client 		:  Oaktree Capital Management, US
+Environment 	:  C#.NET,  ASP.NE , MVC , WebApi,  Angular 8 ,  SQL Server 2019,EF.
+Team Size		:   Two
+Description:
+         Developed website for maintain HR activities like Compensation, Benefits, Bonus and SOX jobs etc.It is          website for customers to access the site and upload and update their personal, financial details and saving details as well. 
+
+Responsibilities:
+
+      1. Requirement Gathering
+      2. Database design
+3. Worked on screens for Admin 
+4. Writing complex stored procedures
+      5. Worked on ICIMS job
+6. Worked on testing and code review
+
+                Project #2									
+Title 		:  Trust Bank-Inventory Module	
+Client 		:   BFS , US
+Environment 	:   C#.NET, ASP.NET , SQL  Server ,XML ,Java   Script
+Team Size 	:     Five
+Description:
+     This module develops for a line of credit or short-term loan made to a company so it can         purchase products for sale. Those products, or inventory, serve as collateral for the loan if the       business does not sell its products and cannot repay the loan. Inventory financing is especially        useful for businesses that must pay their suppliers in a shorter period of time than  it takes them to sell their inventory to customers.
+Responsibilities:
+
+       1.  Gather client software requirements 
+      2. Design and Develop web applications.
+      3. Develop module related tables, stored procedures in SQL Server. 
+      4. Create module related documentation and update existing documentation.
+      5. Make changes and update the module as per client requirement.
+
+Project : 3
+
+         Titel                           :  Trust bank-Clinent Creatnion Module                                                                                                                                                                            
+         Client                         :  BFC
+         Environment         :   ASP.Net ,C#, SQL Server, MVC,  WEB, ADO.Net.
+       Team Size                 :   FIVE
+Description:             
+        This module contains different types of report related to batch like Batch Record Report, Batch Exception                  Report, and Workflow Detail Report. This report displays all detail information of complete batch like batch info details, material detail, sampling details, packaging batch details,  details and many more .This reports module      plays very important role during FDA audit of pharmaceutical companies
+
+Responsibilities
+
+      1.  Gather client software requirements 
+      2.  Design and Develop web applications.
+      3.  Develop module related tables, stored procedures in SQL Server. 
+      4.  Create module related documentation and update existing documentation.
+      5.  Make changes and update the module as per client requirement.
+       6.  Develop Batch Report
+
+
+
+
+
+
+
+      I hereby declare that the above facts and figure are true to the best of my knowledge.
+Place:										
+Date :									
+									
+                                                                                                                                                            Mogilipale Manikanta

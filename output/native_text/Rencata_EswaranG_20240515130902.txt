@@ -1,0 +1,60 @@
+Eswaran G						Email	: eswarg02@gmail.com
+Senior Software Engineer				Mobile	: +91 9629456473
+
+CAREER OBJECTIVE:
+Be an active part in an encouraging and challenging work environment that steers me into excellence in the IT field and keeps me resourceful, innovative and dynamic.
+
+Work Experience:
+ProTeam Software India Pvt.Ltd Chennai: From July 2015 to 07th September 2016 as Software Engineer.
+Inspace Technologies Pvt.Ltd Chennai: From 22nd September 2016 to 15th March 2019 as Software Developer.
+Ant Works (Payroll of Quess Corp) Chennai: From 18th March 2019 to 31st July 2019 As Senior Software Engineer. 
+Antworks, Chennai: From 1st Aug 2019 to Present As Senior Software Engineer.
+Projects:
+EPI-OCR Web Application:
+Automate the process of patient charts PDF are convert into the XML Files Using the Nuance and ABBYY India Software.  Patient PDF Files are placed in the S3 Buckets our application pick the PDF file from the S3 Bucket and Placed into the Nuance/Abbyy Source Folder, Nuance/Abbyy Convert the PDF to XML and Placed into the Target folder, based on the Result XML filed are taken from our Application and Moved into the Receptive Project folder within the S3 bucket and Update Status of an Charts. 
+Responsibilities:
+EPI-OCR Web Application.
+Role: Full Stack Developer  
+Environment: ASP.Net,JavaScript,JQuery, LINQ in C#, MS SQL Server 2008,AWSWebAPI 
+Client Name: EPI Source India.
+Retail POS Web:
+Retail POS Web is a Web based application for POS that has centralized DB for maintaining the sales and items in cloud. It is loaded with various advanced features like, discount, opening stock and quick inventory. This intelligent reporting system is extremely important for making short term business decisions and also to determine the growth strategy. With Cloud reporting module.
+
+
+
+
+Responsibilities:
+Retail POS Web.
+Role: Full Stack Developer  
+Environment: Angular JS, HTML 5, JavaScript, JQuery, LINQ in C#, MS SQL Server 2008
+Role: UI Developer
+TeamPOS Restaurant:
+TeamPOS Restaurant is a Windows based application for POS that has centralized DB for maintaining the sales and items in cloud. It is loaded with various advanced features like, Void check, discount, opening stock and quick inventory. This intelligent reporting system is extremely important for making short term business decisions and also to determine the growth strategy. With Cloud reporting module.
+Windows Application for Restaurant POS as Product.
+Role: Implemented the Back office to maintain master records
+Environment: Asp.Net Entity Framework, C#, MS SQL Server 2008, Crystal Reports.
+Web Dashboard for a Restaurant POS Application.
+Role:
+UI Developer, Database Developer
+Developed the full fledged dash board Application for Restaurant POS for cloud Reporting
+Environment: MVC, HTML5, JSON, Web API, MS SQLSERVER 2008.
+Client 	        : Big Rooster PNG, Dhabba Express Chennai.
+
+Exact Carwash:
+Exact Carwash is to provide dedicated windows Application for companies in the Carwash and System. Our purpose is to provide creative and efficient system solutions that maximize revenue for customers. 
+Role
+Windows Application Developer
+Web Dashboard Developer
+
+Environment: MVC, HTML5, JSON, Web API, MS SQLSERVER 2008.
+Client 	        : Exact car Wash system. Canada.
+EDUCATIONAL QUALIFICATIONS:
+MCA (2011-2014) from Bharathidasan University, Tiruchirappalli,with 74.3% aggregate.
+B.Sc in Computer Science (2008-2011) from Bharathidasan University, Tiruchirappalli, with 70.56% aggregate.
+HSC from Board of Higher Secondary Examinations, Tamil Nadu,  with 55.4%
+SSLC from State Board of Secondary Education, Tamil Nadu, with 75 %.
+SOFTWARE PROFICIENCY:
+Languages			:  C, C++, C#
+DBMS Packages			:  MS SQL Server 2008
+Web Technologies		:  ASP .Net, C#, HTML, JQuery, Angular JS,MVC
+Operating System 		:  Windows XP, Windows 7, Windows 8

@@ -1,0 +1,110 @@
+Anandh B Software Engineer
+Mail: anandhb55@gmail.com	Mobile: +91-9344868226
+
+CORE COMPETENCIES
+
+2.7 years of Experience in Manual and Automation Testing
+Good experience in Web Application Automation using Selenium WebDriver
+Experience in Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) Methodologies.
+Experienced in Cucumber (BDD) framework with combination of Junit and Java.
+Experienced in developing automation framework using Page Object Model.
+Having good experience in core Java concepts and Object-Oriented Programming Concepts.
+Worked with Java Database Connection (JDBC).
+Good experience in Agile-Scrum Methodologies.
+Good experience in maintaining automation scripts in Version Control Tool- GIT.
+Good experience in Continuous Integration and Continuous Deployment (CICD) tool -Jenkins
+Having good knowledge in Cloud Device like Browser Stack.
+Having good experience in finding and handling Dynamic Web elements.
+Proficient in using the Build tool Maven to manage Java/Selenium Automation Projects.
+Thoroughly involved in different types of Testing like Smoke, Sanity, Retesting, Regression Testing.
+Involved in Ceremonies like Daily Scrum call, Sprint planning, Sprint review and Retrospective.
+Good knowledge on MS Office, MS Excel and MS Word
+A good team player with good communication and group co-ordination skills
+
+ORGANISATIONAL PROFILE
+
+Working as a Software Engineer in Cognizant from August 2019 to Till date
+
+EDUCATIONAL CREDENTIALS
+
+Completed BCA from PRIST University Tanjore in 2019.
+
+
+
+
+
+
+TECHNICAL SKILLS
+
+Programming Language	:	Java, Selenium
+Desired Skill set	:	Automation
+Testing Methodology	:	Agile
+
+Database	:	SQL Basis
+Framework	:	Cucumber, TestNG, Junit, POM, Data Driven,
+Tools	:	Maven, GIT, Jenkins, JIRA.
+Domain Knowledge	:	Airline and Ecommerce.
+
+
+PROJECT EXPERIENCE
+
+Project 1:
+Client	Sky Airlines
+Domain	Airline Domain
+Role	Automation Tester (Web)
+Methodology	Agile Scrum Framework
+Project Description:
+Sky Airline, styled as SꓘY, is an airline based at Comodoro Arturo Merino Benítez International Airport in Santiago, Chile. It is the second largest airline in the country behind rival LATAM Airlines and the first
+airline to operate under a low-cost model in the country. It serves international routes to Argentina, Brazil, Peru and Uruguay. It also operates charter flights in Chile and South America and domestic flights within Peru.
+
+Roles and Responsibilities:
+Analyzing business requirement in order to determine the test strategy covered by automation testing.
+Prepare Test Scenario and Test cases
+Identifying end to end scenario test cases and executed it manually.
+Execute and debug test scripts.
+Performed Defect Tracking and Management using JIRA.
+Attending Agile Ceremonies Daily Scrum call, Planning &Grooming, Retrospective, Review Meeting
+Responsible for preparing Minutes of Meeting Report whenever the internal meetings are happening.
+Actively participated in Smoke, Sanity testing during SIT phase.
+Involved in Cross Browsing Testing of the application on various browsers to ensure it function
+Responsible for preparing defect reports, status reports, test reports and other reports as required
+
+
+
+
+
+
+
+
+Project 2:
+
+Client	Aden and Anais
+Domain	Ecommerce Domain
+Role	Automation and Manual Tester
+
+Methodology	Agile Scrum Framework
+Project Description:
+Aden and Anais provide muslin fabric products for babies and toddlers. The Company designs and markets muslin cotton blankets and sleeping products, crib sheets, changing pad covers, towel sets, and swaddles. Aden & Anais serves customers worldwide.
+Roles and Responsibilities as an Automation Tester
+Understanding and analyzing the user stories, prepare the test scenario based on acceptance criteria.
+Creating the Test scenarios, identifying test cases and test data for Automation with Selenium WebDriver using Cucumber with BDD framework.
+Developed the design pattern of Page Object Model for reusability.
+Responsible for creating a skeleton scripting once the user story is received.
+Created Maven Project using Maven build automation tool to create dependencies like Selenium, TestNG, Cucumber, Junit
+Involved in writing automation script by using Selenium WebDriver with Enhanced Test cases using Java Programming features with cucumber BDD framework
+Preparing the Feature file, Step Definition, Hooks, POM, Utility class in Cucumber framework
+Generating JVM reports.
+Involved in testing the application utilizing the Scrum (Agile) methodology and
+Attended Agile Ceremonies Daily Scrum call, Planning &Grooming, Retrospective, Review Meeting
+Responsible for raising and tracking the defect until closure by using JIRA.
+Responsible for providing timely solution for the Regression failure test cases.
+Involved in creating and consolidating daily/weekly status reports for testing activities and defect reports.
+PERSONAL:
+Date of Birth	:	08/01/1999
+Marital Status	:	Single
+Languages Known	:	English, Tamil
+Nationality	:	Indian
+
+DECLARATION:
+I hereby solemnly declare that all the information furnished above is true, correct and complete to the best of my Knowledge and belief.
+Anandh B.

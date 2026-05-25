@@ -1,0 +1,119 @@
+Arivoli Sankar
+Automation Test Engineer (UI & API)
+Email: mrarivoli@gmail.com
+Contact: 89 40 50 30 50
+                                                                                                                                                           
+To leverage my 4+ years of extensive experience as an Automation Tester specializing in both UI and API testing, contributing my expertise to enhance software quality and streamline development processes. My aim is to work collaboratively with cross-functional teams, employing automation frameworks and best practices to ensure efficient and effective testing, while continuously expanding my skill set in emerging technologies.
+
+
+Java (Advanced)
+Selenium (Advanced)
+Rest Assured (Intermediate)
+Post Man (Intermediate)
+Cucumber (Advanced)
+Maven Build (Intermediate)
+Ant Build
+JIRA
+TestNG
+JUnit
+Jenkins
+GitHub
+Bit bucket
+Browser Stack
+Cypress (Beginner)
+Python (Intermediate)
+JavaScript (Intermediate)
+PHP (Beginner)
+
+
+
+A skilled automation professional with 4.10 years of experience as an Automation Test Engineer in the IT industry, proficient in Selenium, Rest Assured, Post Man, Cucumber, Maven Build, Ant Build, JUnit, TestNG, Eclipse and automation test framework development. 
+Hands-on experience in UI-BDD Cucumber framework, UI-Data Driven Framework, UI-Keyword Driven Framework, and API-Rest Assured Cucumber Framework.
+Proficient in build management tools Maven, Ant, and CI systems like Jenkins.
+Developed test scenarios, test cases, and test scripts for functional, regression, and cross-browser testing, with daily status and test completion reports. 
+Ability to comprehend code in Java, Python, JavaScript, and PHP.
+Worked in Agile methodology, actively participating in sprint-planning and retrospective meetings. Sound knowledge of testing practices.
+
+• Working as a Test Engineer L2 (Senior Engineer – Product Testing) in IBS Software Services Private Limited from December 2022 to till date
+
+• Worked as a Software Test Engineer in Right Choice Private Limited (Payroll) - Sarlak Techno Systems (Client) from April 2019 to November 2022.
+
+
+
+
+
+IBS Software Services Private Limited, Chennai.
+									              Dec 2022 – till date   
+Title		: 	OPS Team
+Role		:	Test Engineer L2 (Senior Engineer – Product Testing) 
+Product	:	iFlight - Neo
+Tools used	: 	Selenium Web Driver, BDD Cucumber, Maven, Ant, JIRA, Jenkins,
+Git Hub, Apache POI, Ant, Rest Assured
+Description:
+Designed for airlines, alliances, and airline groups, iFlight Ops optimizes flight operations for increased efficiencies, reduced costs, and improved on-time performance. I-Flight Ops provides airline operations control centers with real-time dynamic situational awareness on end-to-end flight operations. I-Flight Ops enables proactive decision-making and improves operational efficiencies, On-Time Performance (OTP), reduces fuel costs through optimizing aircraft allocation, and enables all stakeholders to collaboratively decide and execute the best disruption management strategy. 
+Responsibilities:
+Conducting Sanity tests for various customers and sharing detailed results.
+Maintaining and refactor activity on test cases in two different frameworks.
+Correcting test cases in response to new functional changes.
+Conducting interviews as part of the hiring process.
+Initiating regression tests when necessary and delivering timely analysis.
+Designed and implemented a robust Rest Assured API BDD framework, leading to a notable 50% reduction in test failures and ensuring reliable API testing across multiple projects.
+Successfully completed over 150+ complex API test cases for Etihad and Latam Airlines I-Flight Product.
+Completed more than 100+ UI test cases for Etihad Airlines I-Flight Product.
+Developed and implemented a Java-based framework for Non-Functional Testing, providing comprehensive Service Level analysis. This effort identified and resolved performance bottlenecks, resulting in a significant 40% reduction in system response time.
+Providing Knowledge Transfer (KT) sessions to new joiners and manual testers regarding Automation using Selenium and Rest Assured.
+Right Choice Private Limited, Chennai.
+Project 1:								              June 2020 – Nov 2022   
+Title		: 	Central Team
+Role		:	Automation Engineer
+Product	:	Online bookstore
+Tools used	: 	Selenium Web Driver, BDD Cucumber, Maven, JIRA, Jenkins,
+Git Hub, Apache POI
+Description:
+This web app focuses on delivering books by renowned authors. It features Best Sellers, New Releases, and Prize Shortlisted Books. Users can easily browse and select books based on categories, children’s age group, top authors, language preferences, best sellers, and upcoming releases. The platform allows users to create accounts, place book orders, track deliveries, and manage returns and refunds.
+
+
+
+
+
+Responsibilities:
+Involved in identifying and prioritizing the Test Cases to automate.
+Structured the test scripts as standard Maven build projects
+Develop and execute Test Scripts using Cucumber framework with selenium and Rest Assured
+Involved in improving Framework
+Maintaining script in GIT repository
+Involved in the Continuous Integration of the automation framework with Jenkins
+Prepared software defect tracking and report entire project release status to stakeholders
+Status update on daily basis through e-mails and discussing the same in the Daily Scrum
+Defect logging and Tracking using JIRA
+
+Project 2:								         April 2019 – May 2020 
+ 	Title		: 	Journey Team
+Role		: 	Test Analyst (Manual Tester)
+Product	:	Online Shopping
+Tools used	: 	JIRA
+Description: 
+	The Online Shopping web app is designed for online retailers, focusing on interactivity and user-friendly navigation. It simplifies product search, viewing, and selection through a sophisticated search engine, enabling users to easily find products tailored to their needs. The search engine refines results based on user input, allowing interactive searching. Users can access detailed product specifications, read reviews, and contribute their own.
+Responsibilities:	
+Creating test data based on the test cases and executing the test cases
+Provided status reports to the higher management team
+Understanding requirement specification and design documents
+Manually tested, verified and validated that the product meets user requirements
+Performed Defect Tracking & Management in JIRA
+Retested the bugs fixed and closed after verification
+
+•   B.E., Mechanical Engineering, 2016, Jaya Engineering College, CGPA 7.6 Thiruvallur, 
+•   HSC, 2012, Kalaimahal Higher Secondary School, Sembanarkoil, State Board, 94%.
+•   SSC, 2010, Sambandam Higher Secondary School, Sembanarkoil, State Board, 96%.
+
+Date of Birth	   	: 	05 January 1995
+Gender                       	: 	Male
+Nationality		: 	Indian
+Current location	: 	Mayiladuthurai	
+Languages Known	: 	English, Tamil, Malayalam and Hindi.
+
+
+I assert that all the above-mentioned information is true and factual to the best of my knowledge and understanding. 				
+			
+			
+Place: Mayiladuthurai 			                                                       ARIVOLI

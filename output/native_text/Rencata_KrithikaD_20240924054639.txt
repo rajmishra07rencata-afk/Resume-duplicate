@@ -1,0 +1,193 @@
+Education
+
+B.E in Computer Science and Engineering University College of Engineering(BIT Campus), Anna University,Trichy.
+Diploma Education
+JJ Polytechnic collge, Trichy.
+CGPA: 6.5 (on scale of 10.0) Year of passing: 2018
+Percentage: 88
+Year of passing: 2015
+
+
+Secondary Education	Percentage: 79
+Seva Sangam Girls Hr.Sec.School, Trichy.	Year of passing: 2010 Seventh Day Matriculation Hr.Sec.School, Trichy	Year of passing:2007
+
+Working Experience
+        Equadriga software Private Limited - Trichy.                        Aug(2018-mar2020)
+       Sigma Technologies - Trichy.                                                 Apr(2020-mar2021)
+      Actalent Services – Chennai.                                                   Apr(2021-mar2022). 
+      Capgemini-Chennai.                                                                 Apr(2022-Aug2022).  
+      Nuvento Systems – Kochi                                                       Aug(2022-Jan2023
+
+
+
+Professional Summary	
+
+Energetic and result oriented Professional with Four + years of comprehensive experience in IT as Programmer.
+ASP.NET, VB.NET, WPF, DOTNET CORE 6.0 , ANGULAR4 , WEB API, C#, AGILE & KANBAN,SQL SER2014/16VER, MS SQL, C#,  MICROSOFT CLOUD SERVICES,MICROSOFT SERVICES HUB,OOPS,SOFTWARE LIFE CYCLE, SOA.
+Extended expertise in Software manual testing.
+Had Manual Testing experience in mobile application such as Android and iOS and also have experienced in testing Mac OS application and windows applications.
+Hands on Experience in release management for mobile platforms such as Android and iOS.
+Functional Skill Sets	
+
+Ability to handle a team of testers while working on multiple deliveries simultaneously.
+
+Proficient in writing Test cases by using test case design technique.
+
+
+Very Good in Test Execution Process, Defect Life Cycle, and Test Plan.
+Detecting bugs & classifying them based on severity, priority.
+
+Coordinating smooth implementation of test plans with the development team.
+Training the new members in the team and getting them productive quickly.
+
+Projects Undergone	
+
+
+
+Roles & Responsibilities:
+Review the Design document and their functionality.
+Create test cases, defect tracking, Regression testing and Defect closure by coordinate with the Development team.
+Tracking backend exceptions and reproduce the issue.
+Development Projects Project 1:
+Project Title	:	eQ Food Billing
+Client	:	MPR Foods and Products, Trichy, India.
+
+Role	:	Developer
+
+Project Description	:
+
+The objective is to provide a Web application for MPR Foods to maintain their daily cash sales, daily credit sales, Target, B2B sales, B2C Sales and Provide Reports to know daily sales, how much target achieve, stock, wastage and Consolidate report.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 4. C# .Net, SQL Server 2008 R2, Entity Framework 4.0, IIS 7.0, Bootstrap.
+
+Project 2:
+
+Project Title	:	eQ Textile Billing
+
+Client	:	Gowri Parvathi Silks, Trichy, India.
+
+Role	:	Developer
+
+Project Description	:
+
+The objective is to provide a Windows application for Gowri Parvathi Silks to maintain their daily purchase and sales and also maintain the stocks.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 3.5, C# .Net, LINQ, SQL Server 2008 R2, SSRS 2008 R2,Crystal report
+
+Project 3:
+
+Project Title	:	eQFIFO
+
+Client	:	MRF TCC India.
+
+Role	:	Developer
+
+Project Description	:
+
+eQFIFO system is based on the perception that the first inventories purchased are the first ones to be used first for the production. Stores team handle easy to find out the which material is used first and where it stores are easy to find out through the layout.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 4. C# .Net, ANGULAR,SQL Server 2008 R2, Entity Framework 4.0, IIS 7.0
+
+Project 4:
+
+Project Title	:	Sigma – E-Nidhi
+
+Client	:	KTBF - Kodavaasal Town Benefit Fund Ltd.
+
+Role	:	Developer
+
+Project Description	:
+
+The objective is to provide a Web application for banks to maintain their daily transactions on credit / Debit and also maintain the datas for all the banks.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 3.5, C# .Net, LINQ,.NET CORE, MY-SQL, SSRS 2008 R2,Crystal report
+
+Project 5:
+
+Project Title	:	MIPT
+
+Client	:	Us.
+
+Role	:	Developer
+
+Project Description	:
+
+The objective is to provide a Web application for daily basis hrm resource application.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 3.5, C# .Net, LINQ,.NET CORE, MY-SQL, SSRS 2008 R2,Crystal report
+
+Project 6:
+
+Project Title	:	IE Dashboard.
+
+Client	:	US.
+
+Role	:	Developer
+
+Project Description	:
+
+The objective is to provide a Web application for daily basic needs.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 3.5, C# .Net, LINQ, .NET CORE,ANGULAR,MY-SQL, SSRS 2008 R2,Crystal report
+
+Project 7:
+
+Project Title	:	KPMG-Onboarding Tool.
+
+Client	:	KPMG.
+
+Role	:	Developer
+
+Project Description	:
+
+The objective is to provide a Web application for daily basic needs with count the performance of the system.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 3.5, C# .Net, ANGUAR,.NET CORE,LINQ, MY-SQL, SSRS 2008 R2,Crystal report
+
+Project 8:
+
+Project Title	:	SCE-ECSADME
+
+Client	:	Sothern California Edision.
+
+Role	:	Developer
+
+Project Description	:
+
+The objective is to provide a Web application for daily basic needs with count the performance of the system.
+
+Responsibilities	:	Functionality Development
+
+Technologies	:	.NET Framework 3.5, C# .Net core, ANGUAR,.NET CORE,LINQ, MY-SQL, SSRS 2008 R2,Crystal report
+
+Personal Skills	
+Leadership
+Team working
+Self-motivation
+
+Personal Profile	
+Name	Krithika - D
+Date of birth	16-06-1995
+Gender	female
+Nationality	Indian
+Languages known	Tamil, English, Hindi
+Father’s name	Dhamodharan K
+           Husband’s name                Praveen Kumar C
+
+Date:
+
+Place: Trichy.	KRITHIKA D

@@ -1,0 +1,120 @@
+Vishnu Sundaran
+Mobile: +91 8547574424
+Email: vishnusundaran@gmail.com
+
+
+SUMMARY
+Cyber Security analysis and Investigation.
+Good analytical & troubleshooting skills.
+Experience in implementation and management of CMDB.
+Responsible for the processes including Incident, Service request, Change Management, Problem Management and Configuration Management at Kerala State Data Centre.
+
+SKILLS & ABILITIES:
+Worked on SIEM tools such as Splunk & Qradar. 
+Worked on various security systems like Symantec IDS, Palo Alto Firewall, Falcon Crowd strike , Digital Guardian, Mimecast, Zscaler &  Google admin.
+Performed analysis on emails & alerts from various sources such as Firewall, IDS, IPS, Servers, etc.
+Trained on, hacking concepts & various tools and techniques.  
+Ability to identify threats, vulnerabilities and assess risk to computing resources. 
+Possess the ability to read, understand and analyze logs from various sources. 
+Working knowledge on different operating systems such as Windows, Linux & iOS.
+Reporting & Documentation of incidents and related activities.  
+Have trained engineers who were new to SOC as well as cyber security platform.  
+Eagerness to master new skills and learn about the latest technological aspects related to information security.  
+
+EXPERIENCE: 
+
+Designation:  Senior Cyber Security Engineer
+Organization: Wipro limited, Kochi
+April 2021 – Present
+
+
+Providing 24/7 security monitoring of client infrastructure using SIEM tool- Qradar.
+Provided additional analysis for offenses reported by L1 team
+Handling user reported phishing emails and other security concerns.
+Handling Threat hunting in the team.
+
+
+Designation:  Cyber Security Engineer
+Organization: UST Global, Trivandrum.
+MAY 2016 – April 2021
+Managing & Monitoring logs from various sources such as Firewalls, IDS/IPS, MS Azure, Active Directory etc.
+Working on various security tools as a part of daily operations: Splunk(SIEM), Mimecast ( Email Security), Crowd strike Falcon (EDR), Zscaler (Web Security), Tenable.sc( Vulnerability Management), Google Admin( Mail Administration),
+Sandbox analysis of suspicious files to understand the file behavior & impact.
+Performing investigations/analysis in Splunk of various security incidents/alerts.
+Analysis of suspicious emails which includes analysis of URL, email header, attachments, etc.
+Reporting and/or escalating critical incidents to the next level team.
+Performing threat intelligence from open source and thereby threat hunting within the client network using the IOCs collected for presence of any malwares or trojans.
+
+
+Designation: Technical Engineer
+Organization: Kerala State Data Center for Sify Technologies, Kerala, India
+JULY 2015 – MAY 2016
+Providing L1 level of support to all IT- Service issues.
+Providing Service desk support via telephone/ mail with end-users and directing the work to relevant team.
+Taking ownership of service requests/incidents and follow-up till closure.
+Escalating unresolved issues/requests to subject matter experts.
+Continuously reviewing service performance against service level agreements.
+Responsible for the processes including Incident management, Service request, Problem management and Configuration management as per ITIL standards.
+Maintain and regularly update Configuration Management Database (CMDB) on CA Service Desk Manager.
+Generating daily/weekly/quarterly reports of service desk activities including trend analysis.
+Patch updating, system imaging tools, remote inventory and deployment monitoring of servers and network devices using monitoring tools – CA Spectrum, Nagios, PRTG, Ehealth.
+Familiar with CA based ITSM Tools for Enterprise Management system which consisted of CA Service Desk Manager (Incident, Problem, Request, Configuration and Change Management), Spectrum (Event and Availability Management for NOC devices) and E- Health (Availability Management for servers and n/w devices).
+
+
+
+
+
+
+
+Designation: Technical  Engineer
+Organization: Block Development Office , Haripad, Kerala, India
+APRIL 2013 – MARCH 2015
+Troubleshooting Hardware IT and software Problems, Printer Problems (Dot Matrix, Laser etc.)
+Basic Networking for small Offices.
+Manage and maintenance different networks in several offices.
+Configuring and maintaining the Linux and windows network.
+Assisting and Troubleshooting various issues like latency, hardware issue, capacity issues.
+Implemented point to point connectivity between an ISP providers.
+Managing and maintain WAN connection using ISDN
+Maintenance of desktop computers like Compaq, Wipro and IBM
+Maintenance problems in servers like IBM ,Dell,Hcl, HP
+Maintenance of Laptop computers like Compaq, Wipro,Dell,HP,Acer,Sony Apple and IBM
+Repair computer peripherals like printers, scanner etc.
+Experience in Crimping cables of different brands, Cable Routing & Structured cabling.
+
+
+
+
+
+EDUCATION
+
+B-Tech in Information Technology from PSN Engineering College under Anna University. 
+Plus Two: From HSE Board Government of Kerala 
+SSLC
+
+
+CERTIFICATIONS
+EC- Council Certified Security Analyst v10.
+Splunk 7.x Fundamentals.
+AWS Certified Cloud Practitioner.
+Cisco Certificate Network Associate.
+Diploma in System Administration in Networking.
+ ITIL Foundation Certificate in IT Service Management.
+
+
+
+
+PERSONAL PROFILE
+Name                    : Vishnu Sundaran
+Date of Birth        : 19-aug-1990
+Sex		          : Male.
+Marital Status       : Married.
+Languages known: Malayalam, English, Hindi & Tamil                   
+
+REFERENCE
+Will be provided on request.
+
+
+
+
+                                                             -------------------------------------------

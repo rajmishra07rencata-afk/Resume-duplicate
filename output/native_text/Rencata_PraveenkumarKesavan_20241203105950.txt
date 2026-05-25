@@ -1,0 +1,102 @@
+Praveenkumar Kesavan 
+Praveenkumark4766@gmail.co
+m Phone:9734081456. 
+ 
+ 
+To work in an environment that provides challenging and rewarding career ensuring a high 
+Level job satisfaction and to expand my learning, knowledge and skills. 
+ 
+ 
+ 
+ 3 years of overall Manual and Automation testing experience. 
+Expertise in creating scripts in Selenium WebDriver by using Java for automating the Web - 
+based application. 
+Having good experience in automation frameworks - TestNG, Junit, POM, BDD-Cucumber 
+and 
+DataDriven frameworks. 
+Well versed in Test Case Design, Test Execution, Bug tracking and Reporting. 
+Well Versed with Agile Scrum Methodology and Sprint Activities. 
+Experience in Build Automation tools Maven and its Life Cycle for CLI 
+Execution. Experience in Continuous Integration and Continuous Deployment 
+tools Jenkins. Maintaining the checkout and check in the source code from GIT. 
+Hands on experience in tracking and reporting of defects using Defect Tracking tool 
+JIRA. 
+Expertise in developing BDD scripts using Feature Files by 
+Cucumber. Worked with apache POI Library to read data from 
+external source. 
+Good experience in writing X-paths dynamically using access method to identify 
+web elements. 
+Involved in ceremonies like Daily Scrum call, Sprint planning, Sprint review and 
+Retrospective. Knowledge over basic SQL queries and also JDBC Connection using Java. 
+CAREER OBJECTIVE 
+PROFESSIONAL EXPERIENCE 
+ TECHNICAL SKILLS 
+ 
+ 
+ 
+Testing 
+: Java with Selenium Web Driver 
+Languages 
+: Core Java 
+Frameworks 
+: TestNG, Junit, Cucumber , POM 
+Build Tool 
+: Maven 
+Integration Tool 
+: Jenkins 
+Test Management Tool 
+: JIRA 
+Process 
+: Agile 
+ WORK EXPERIENCE 
+ 
+ 
+Working as Automation Test Engineer in HCL Technologies , Chennai 
+from 03-06-2019 to till date. 
+ 
+ PROJECT HANDLED 
+ 
+ 
+Project :Carphonewarehouse 
+Domain: E-Commerce 
+ 
+ Description: 
+ 
+The Carphone Warehouse Limited was a mobile phone retailer based in London, United Kingdom. In 
+August 2014 the company became a subsidiary of Currys plc (previously named "Dixons Carphone"), 
+which was formed by the merger of its former parent Carphone Warehouse Group with Dixons Retail. 
+ 
+ Roles & Responsibility: 
+ 
+Analyzing the user stories. Prepared Cucumber Feature Files (user stories) and automated the 
+Feature files using Selenium WebDriver. 
+Prepare test scenarios and test data for different user stories. 
+Prepare automation script for this can be automated. 
+Test script execution and analyze the failed scenarios. 
+Participate in scrum ceremonies such as sprint planning, daily scrum meeting, review and 
+retrospective. 
+Code check in, check out by using Git Source Management 
+tool. Defect tracking in Jira and update the daily efforts in Jira. 
+Analyzing the test scenario and differentiating which can be automated and which cannot be 
+automated. 
+Involved in Automation framework using Selenium Web Driver, POM, Cucumber & Maven 
+build tool. 
+Preparing automation scripts in selenium web driver with cucumber framework. 
+Regression test scripts execute in Jenkins and analyze the regression execution report. 
+Developing BDD tests using cucumber by writing feature files and step definition. 
+Raise and track defects until closure using 
+JIRA. Maintain the source code in GIT 
+repositories. 
+ 
+ EDUCATION & QUALIFICATION 
+ 
+Graduated in Bachelor of Computer science in Valluvar College OF Science And Management, 
+Karur, Tamil Nadu from 2016 to 2019. 
+ DECLARATION 
+ 
+I hereby declare that above information is correct to the best of my knowledge and belief. 
+ 
+ 
+Place: Chennai 
+Date: 
+(Praveenkumar K)

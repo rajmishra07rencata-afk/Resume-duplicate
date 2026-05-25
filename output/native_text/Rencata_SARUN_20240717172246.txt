@@ -1,0 +1,155 @@
+S ARUN                                                               
+Mob: +91-9003423318  
+ 
+E-mail: aruntony94@gmail.com 
+ 
+ 
+Working as Software Engineer with 6 years of experience in Software Industry comprising 
+Analysis, Design, Development, Testing and Implementation of Web Applications. 
+ 
+EXPERIENCE 
+ 
+● 
+Presently Working as Software Engineer in “ Rencata” from May 2022. 
+● 
+Worked as Software Engineer in “ Smart Techno Systems ” from Jun 2019 to 
+April 2022. 
+● 
+Worked as Software Engineer in “ Softura Pvt Ltd ” from Aug 2018 to May 2019. 
+● 
+Worked as Junior Software Engineer in “ Acestra Networks ” from Jan 2017 to 
+Aug 2018. 
+ 
+ 
+CAREER ABSTRACT 
+ 
+● Experience in developing Client-Server and Internet applications using Microsoft 
+Technologies 
+● Experience implementing Data Access Layer, Business Entities, Business Logic 
+layer and Service Access Layer using C#.NET, Entity Framework, ADO.Net  
+● Hands on experience in web/UI development using ASP.Net, JavaScript, HTML, 
+jQuery, CSS3, XML, AJAX 
+● Proficient in database design, writing SQL queries and stored procedures in SQL 
+Server.  
+● Experience in preparing functional and technical documents   
+● Experience working in Rapid Application Development and Agile software 
+development methodologies, best practices and lifecycle management including user 
+interaction, design, development, testing and support                                
+  
+SKILL SET 
+ 
+Operating System 
+Windows XP,  Windows 10, windows server 2012 
+Framework 
+.Net 4.5, 4.6.   
+Database 
+SQL Server. 
+Languages 
+C#, JavaScript,  LINQ, JQuery, SQL. 
+Technologies 
+Asp.net MVC, Webforms, Entity Framework. 
+IDE & Tools 
+Visual Studio 2022, Bit bucket, Git  
+Design 
+HTML5, CSS3 
+ 
+Academic Qualifications 
+ 
+● BE (ECE) from Karpagam Institute of Technology, Coimbatore with 61% in 2016.  
+ 
+● HSC from Vivekananda Higher Secondary School, Namakkal with 89% in 2012. 
+ 
+ 
+● SSLC from Sivabakkiam Muthusamy Matriculation School, Namakkal with 89% in 
+2010. 
+ 
+Project Summary 
+ 
+ 
+Project     : 
+CornerStone Home Lending (Mortgage Lender)  
+Roles Lead :  
+Building dynamic Web Application  and Bug Fix. 
+Technology :  
+.NET MVC, C#, SQL Server, Javascript, JQuery, HTML5, CSS3, 
+Kendp Grid. 
+Description : 
+CHL Web Based Application Provides full service mortgage lender, 
+committed to the core values, closing mortgage on time, and making buying a house feel 
+easy with many legacies of inspiring and supporting every possible homebuyer on their 
+path to building generational wealth. 
+Project     : 
+Smart Systems (Management System)  
+Roles Lead :  
+Building dynamic Web Application and Business analyze 
+Technology :  
+Asp .Net MVC5, SQL Server, Javascript, JQuery, HTML5, CSS3,   
+Bootstrap 
+Description : 
+Smart is an innovative, global, one-stop-shop for high-quality 
+security and communication products. Offering an unrivaled choice and an integrated 
+approach, our company offers a complete range of specialized state-of-the-art products 
+and systems for standard or customized applications and projects. 
+Project     : 
+KOMATSU 
+Roles Lead :  
+Building dynamic web Application, Business analyze, Giving 
+demonstration and presentation to clients 
+Technology :  
+C#, Asp.Net MVC, Linq, Entity, SQL Server 2014, Web API, JQuery, 
+HTML5, CSS3 
+Description : 
+Customers can find a vehicle for rental around the desired place, 
+while vehicle providers benefit their business as a vendor by renting the vehicle. 
+ 
+Project     : 
+KomodoFCB  
+Roles Lead :  
+Building dynamic web Application, Business analyze, Giving 
+demonstration and presentation to clients 
+Technology :  
+C#, Asp.Net MVC, SQL Server 2014, Typescript. 
+Description : 
+Validating healthcare insurance forms and approve or reject the 
+insurance claims automatically based on the details.  
+ 
+Project     : 
+AceClassRoom (School Management System)  
+Roles Lead :  
+Building dynamic Web Application and Business analyze 
+Technology :  
+Asp .Net MVC5, SQL Server 2008 R2, Javascript,Web API, JQuery, 
+HTML5, CSS3, Bootstrap 
+Description : 
+AceClassRoom is a highly interactive web based education 
+management system that provides a complete solution for a modern day institutional 
+administration and management. 
+ 
+ 
+Key Responsibilities 
+ 
+● Understand and analyze business requirements 
+● Develop Data Access Layer, Business Entities, Business Logic layer and Service 
+Access Layer using C#.NET, Entity Framework, ADO.Net  
+● Write database queries and stored procedures  
+● Develop Web applications using .NET MVC, SQL Server, C#.NET 
+● Develop front-end using UI technologies such as JavaScript, HTML, CSS, XML, 
+jQuery 
+● Perform bug fixing and UAT support 
+● Execute projects in Agile methodologies 
+ 
+● Contribute to daily standup meetings, sprint meetings 
+● Provide technical guidance to team members during course of development 
+ 
+Personal Strengths 
+ 
+● Good analytical skills, quick learner, versatile, adaptable, diligent and process-
+oriented, with a high customer orientation. 
+ 
+● Good problem solving skills, good communication skills, self-starter and able to work 
+independently as part of a team and having a strong commitment to the task 
+assigned. 
+ 
+Certifications 
+ 
+● Completed Business English Certification.

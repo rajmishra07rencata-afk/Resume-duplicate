@@ -1,0 +1,264 @@
+NAGENDRA BABU                                                                                    
+ 
+Professional                        
+Summary 
+       
+• 
+11+ years of experience in Designing, Developing and maintaining projects using Xamarin Android, 
+Xamarin iOS and Microsoft .NET Technologies. 
+• 
+10 years of experience in Xamarin Android and Xamarin iOS. 
+• 
+7 months of experience in windows phone 7 application development. 
+• 
+Expertise in developing mobile applications for both Android and iOS using Xamarin and Visual 
+Studio with C#. 
+• 
+Expertise in Developing Web and Client/Server application software using ASP.NET, C#.NET, VB.NET, 
+SQL-SERVER, ORACLE. 
+• 
+Experience in working with Windows Communication Foundation WCF webservices. 
+• 
+Good Experience in Exception handling, Debugging and Tracing. 
+• 
+Having good knowledge on Microsoft TFS (Team Foundation Server), Source control tool for 
+integration and publishing purposes. 
+• 
+Effective Time Management, Open to new ideas & concepts, Ability to learn quickly. 
+• 
+Implementing LINQ queries on different data sources in Mobile Applications. 
+• 
+Effective working independently and collaboratively in teams. 
+• 
+Hands on experience in requirement gathering, analysing, system modelling, design and development 
+of N-tier client server application architecture. 
+• 
+Worked on 3rd party Resco controls in mobile applications development. 
+Experience              
+Summary                       Working as Technical Lead at Gold CRM Consulting LLC, Hyderabad                                    2011 - Present 
+ 
+Area of  
+Expertise                  
+ 
+• 
+Xamarin Android                                                                
+• 
+Xamarin iOS 
+• 
+Windows Phone 7 
+• 
+C#.Net & VB.NET 
+• 
+ASP.NET 
+• 
+MVC    
+• 
+LINQ 
+• 
+WCF 
+• 
+SQL Server 2012/2008, Oracle 
+• 
+Microsoft Visual Studio 2010/2012/2015/2017/2019 
+• 
+TFS 
+• 
+Windows Services & Windows Forms 
+  Education                       M.Tech, JNTUH, 12/2014 
+                                           Gopal Reddy College of Engineering and Technology, Hyderabad                                         
+Professional                   
+Experience                   
+Project Name: GoServicePro FSC (Native Android & iOS Mobile Application) 
+Organization 
+GoldCRM  
+Client 
+CoinMach, Christie, Orange, Daktronics, Permian, Brady 
+Team Size 
+4 
+Technology 
+Xamarin Android, Xamarin iOS, C#, VS 2010, VS 2015, VS 2017, VS 2019, WCF and 
+SQLite. 
+Duration 
+December 2011 To till date 
+                                               
+                                      Roles & Responsibilities: 
+• 
+Analysing technical specifications of both Android & iOS. 
+nagnetin@gmail.com 
++919963850426 
+Hyderabad, Telangana, India 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Designing and Developing of Application. 
+• 
+Involved in a User interface Designing to suit for all device orientation. 
+• 
+Interaction with clients to discuss with their requirements. 
+• 
+Customization to CRM mobile application based on business requirements. 
+• 
+Responsible to publish the builds and release to QA and clients. 
+                                     Description: 
+• 
+GoServicePro Field Service App puts the power in field technicians’ hand, Techs assigned by job i.e., 
+Work Order, when a work order is assigned to a technician their device notifies them with push 
+notifications. Work orders can be viewed as a list, in an Outlook style calendar or geographically on 
+a map. 
+• 
+Technicians are provided extensive work order information, Work order information such as title, 
+problem description, category, etc let a technician know exactly the problem they are trying to 
+solve. 
+Technicians can do following things and utilise the features through the mobile app 
+• 
+Work Order logging:  Tech’s can able to log the transactions like log timestamps, expenses, 
+Activity, Notes, Install, Remove, Exchange, etc. 
+• 
+Part Orders: Technicians can order parts for specific work orders, for sale to customers, or to 
+replenish technician truck stock. 
+• 
+Truck Inventory: Truck inventory provides visibility into the stock that technicians carry with 
+them on their trucks. 
+• 
+Google Maps Integration: Technicians can get turn by turn driving directions from their current 
+location to their next work order. 
+• 
+Attachments: Attachments provide technicians with a way to tell the service story in pictures and 
+documents. 
+Project Name      :  WA-NET, GSA Server, Wireless Advisor Administrator™ 
+Organization 
+GoldCRM 
+Client 
+CoinMach, Christie, Orange, Daktronics, Permian, Brady 
+Team Size 
+5 
+Technology 
+VB.NET, VS2015, SQL Server, Oracle 
+Duration 
+December 2011 To till date 
+ 
+                            Roles & Responsibilities: 
+• 
+Responsible for designing and development of forms. 
+• 
+Responsible for customization changes as per client requirements. 
+• 
+Responsible for writing database quires against SQL Server and Oracle. 
+• 
+Responsible for publishing the builds and releasing to QA and clients. 
+                         Description: 
+• 
+WA-NET is ASP.NET website, it works like GET/POST it takes request from client and process that 
+request and saves the transaction into database. 
+• 
+GSAServer is windows service, it provides mobility services, automation rules processing and interfaces 
+processing for GoServicePro suite of applications. GSA server handles the unprocessed request sent 
+through WA-NET and process them and put the response message back to database. It handles 
+sending of mails, push notifications, messages and other events. 
+• 
+WA Administrator is windows forms application, it handles the administrative functionalities. It 
+provides UI for the administrator to track the mobile application users, check User status 
+(Initialized/Uninitialized/ InitPending), versions of Mobile client, Metadata, Device OS and Last Contact 
+Time and it holds the GSAServer windows service to start or stop. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Name      :  GSPWebServices 
+Organization 
+GoldCRM 
+Client 
+CoinMach, Christie 
+Team Size 
+2 
+Technology 
+VB.NET, VS2015, SQL Server, Oracle 
+Duration 
+December 2017 To till date 
+ 
+                            Roles & Responsibilities: 
+• 
+Responsible for creation of restful WCF webservices to consume in mobile applications. 
+• 
+Responsible for customization changes as per client requirements. 
+• 
+Responsible for writing database quires against SQL Server and Oracle. 
+• 
+Responsible for publishing the builds and releasing to QA and clients. 
+                          Description: 
+• 
+GSPWebServices is WCF webservices, Windows Communication Foundation (WCF) is a framework for 
+building service-oriented applications. 
+• 
+GSPWebServices has different services, those can be consumed as SOAP or REST. 
+LANGUAGES 
+• 
+English  
+                                          Full Professional Proficiency  
+• 
+Telugu (Native)  
+                                          Native Proficiency 
+INTERESTES 
+• 
+Watching movies 
+• 
+Listening Music 
+• 
+Playing and watching cricket 
+• 
+Playing TT

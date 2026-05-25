@@ -1,0 +1,113 @@
+Bala Subramani B
+Automation Test Engineer
+Phone:
+8015416297
+
+E-mail:
+subramanibbala83@gmail.com
+
+
+Skill Highlights
+Language
+Core JAVA
+
+Frameworks
+Cucumber
+TestNG
+Junit
+Data driven framework
+
+Tools
+Testing Tool-Selenium WebDriver
+Build Tool - Maven
+Defect Management Tool - JIRA
+Version Control Tool - GIT
+Integration Tool – Jenkins
+
+Domain Knowledge
+E-Commerce
+Banking
+
+
+
+Career Objective:
+To pursue a challenging career and be a part of a progressive organization that allows me to expand my knowledge, skills, and reach the pinnacle of software testing through sheer determination, dedication, and hard work.
+
+
+
+Professional summary
+EMPLOYMENT DETAILS
+Company: Sasken Technologies Limited
+Designation: Software Testing Engineer
+
+Automation Test Engineer with a focus on front-end Web-based testing. Considerable experience with the Software Development Life Cycle, Software Testing Life Cycle with Agile Methodology, and Defect Life Cycle. Experience with BDD and data-driven frameworks. Knowledge and experience of test planning and design.
+
+4.8 years of testing experience, including both manual and
+automation testing
+Solid understanding of core Java and OOPS concepts
+Scripting experience in Selenium Web Driver using JAVA for automating Web Based Applications
+Experienced in build automation tools such as Maven
+Basic understanding of Continuous Integration Tools such as
+Jenkins
+Current Project Framework - BDD framework based on Cucumber and Junit, with Data Driven Framework and Page Object Model integration (POM). Also has experience with the TestNG framework
+Ability to comprehend and analyses Agile ceremonies
+	Fundamental understanding of the API Manual Testing Tool with Postman and the Automating Tool Rest Assured
+working Knowledge of defect tracking tools such as JIRA
+Experienced in source code management tools such as GIT
+	Work experience with various types of testing such as functional testing, smoke testing, sanity testing, and regression testing
+
+
+
+Education
+Bachelor of Engineering: Mechanical, DSCET (Anna Univ)- 7.55 CGPA
+
+Professional Project Experience:
+
+Description:
+
+
+Roles and Responsibilities:
+
+Examining and comprehending user stories and acceptance criteria
+Developed a test plan and took part in the sprint planning process.
+Determining which test scenarios must be automated.
+Created and executed test cases in accordance with system requirements and user stories.
+Created Selenium feature scenarios and automation scripts using Cucumber.
+Used various automation frameworks such as POM and TestNG.
+Executed and debug test scripts
+Used JIRA for defect tracking and management.
+Follow a Bug Report through to completion. Defects are being recorded in a defect tracking tool for the failed scenario, and it is being tested again on a previous build.
+Involved in all levels of Agile, from test planning to retrospective meetings.
+
+
+Description:
+
+
+
+Roles and Responsibilities:
+
+Participating in the analysis of functional requirements.
+Creating test cases based on functional specification documents to meet the new business requirement.
+Participated in functional, system, and integration testing.
+Coordination with other interns for testing the application using Black box techniques and preparation of findings reports
+Interacted with development teams and analysts to understand the functionality so that it could be tested effectively.
+Peer review of test scripts and cases, as well as test data reports
+Bug reporting and tracking
+Regression testing was performed on software after bugs were fixed to ensure that no new bugs were introduced into the product.
+Coordination and attendance at meetings with onshore counterparts and business stakeholders
+
+
+
+
+
+
+
+
+
+
+Declaration:
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Date: 
+Place: Chennai	Bala Subramani B

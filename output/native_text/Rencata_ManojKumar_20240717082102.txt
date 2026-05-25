@@ -1,0 +1,132 @@
+Sensitivity: Internal & Restricted  
+Manoj Kumar G M  
+Mobile : +91 9994327091  
+Email  
+: kumarmanojgm@gmail.com  
+  
+ 
+  
+Career Objective:  
+  
+To pursue a challenging career and be a part of progressive organization that will provide 
+opportunity to enhance my knowledge and utilizing my skills towards the growth of the 
+organization.  
+  
+Experience Summary:  
+  
+• 
+4.3years of experience in Manual Testing of Web and Mobile Applications.  
+• 
+Expertise in all stages of Software Testing Life Cycle (STLC).  
+• 
+Well versed with various Testing Stages/Levels/Phases, Testing Types, Testing Techniques 
+and Quality Work Products.  
+• 
+Experience in Functional and Non-Functional (Usability and Compatibility) Testing Types.  
+• 
+Hands on experience in preparing Test cases and Test Data. And executing the same.  
+• 
+Expertise in analysing the results and reporting Suggestions and defect logging and Good 
+Exposure on Bug Life Cycle.  
+• 
+Good working knowledge in Regression, Unit, ad hoc, happy path, smoke and sanity testing.  
+• 
+I am always eager to acquire new valuable skills and improving my knowledge.  
+• 
+Effective in working independently and collaboratively in teams  
+  
+Technical Skills:  
+  
+Primary Skills  
+: Mobile Testing, Manual Testing, Agile methodology 
+Data Base  
+: SQL Server  
+Tools  
+: Jira  
+Devices  
+: Android, Iphone  
+  
+Work Experience:  
+  
+Working with MMAD Apps India Pvt.Ltd, Bengaluru (has outsourcing with Minfy Technologies 
+Private Limited) as a Test Engineer, from Dec 2018 to Dec 2020  
+  
+  
+Project: Lead to Order (L2O – Lead identification Generation)  
+Client : Wipro  
+The L2O- Lead Identification process details the process of capturing a meeting with a 
+customer/prospect in an entity “Meeting”, its processing - adding contact details of the 
+customer/prospect, follow up actions for nurturing the meeting leading up to either creating a lead 
+or archiving/deleting the meeting (due to no response/inactivity).  
+  
+ 
+  
+Sensitivity: Internal & Restricted  
+Responsibilities:  
+• 
+Analyzing the Requirements from the client  
+• 
+Preparing Test Scenarios, Test Cases & Test Data for manual 
+• 
+Analyzing & executing the test cases  
+• 
+Performing Regression, Retesting, Functional and Device compatibility testing.  
+Working with schoolcom, Bengaluru– [Educational software delivery company] as Test Engineer, 
+from Dec 2020 to jan 2023 
+  
+Project: School Com Smart Tab  
+Client : SchoolCom  
+School Com Smart Tab is an Android – Tablet based data capture, Analytic s and messaging 
+platform that makes measuring student performance and managing day-to- day school activities 
+easy for teachers, administrators, parents and students.  
+  
+Responsibilities:  
+• 
+Writing and Execution of test cases and preparing Bug Reports.  
+• 
+Analyzing the Requirements from the client  
+• 
+Preparing Test Scenarios, Test Cases & Test Data for Manual  
+• 
+Analyzing & executing the test cases  
+Performing Regression, Retesting, Functional and Device compatibility testing.  
+• 
+Understanding the Test Plan. Performed Functional & System Testing to check the stability of 
+the Application.  
+• 
+Executing Test Cases to validate the Functionality and Transactions.  
+• 
+Created and maintained project testing tasks and schedules in an agile environment  
+  
+Academic Qualifications:  
+  
+• 
+MCA (2016-2018) from Sona College of Technology, Salem (Affiliated to Anna University, 
+Chennai) with 8.9 CGPA.  
+• 
+B.SC (2012-2015) from KSR College of Arts and Science [Autonomous], Salem with 61%  
+• 
+HSC (2012) from Vedha vikas Hr. Sec School, (Tamil Nadu State board) with 53% •  
+SSLC 
+(2010) from Vidya vikas Matriculation School, (Matriculation Board) with 55%.  
+  
+Personal Details:  
+Name  
+: Manoj kumar G M 
+Father’s Name  
+: Murugan G  
+Gender  
+: Male  
+Date of Birth  
+: 12th July 1994  
+Languages Known  
+: Tamil, English  
+Nationality  
+: Indian  
+Permanent Address      : 12/38, Govindhan Street, 4roads, Arisipalayam, Salem - 636009  
+Declaration:  
+I hereby declare that the above furnished information is true to the best of my knowledge and belief.  
+  
+Date:  
+Yours faithfully  
+Manoj kumar G M

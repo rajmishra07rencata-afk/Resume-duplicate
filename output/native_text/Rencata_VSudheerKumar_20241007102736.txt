@@ -1,0 +1,112 @@
+V Sudheer Kumar
+
+                                                                                                                Mobile: +91-8309912515
+                                                                                                      Email: vsudheer619@gmail.com
+Experience Summary
+Overall 4.3 years of experience in Manual Functional and API Testing
+Thorough hands-on experience with all types of testing including Smoke, Functional, Re-Testing, System, Ad-hoc, Exploratory and Regression testing.
+Test case designing, Test scripting, Review, Test execution, Bug logging and Reporting.
+Good exposure into Software Development Life Cycle, Software Testing Life Cycle and Bug Life Cycle
+Experience into Story and Requirement analysis, derive the Test scenarios and Test cases
+Understanding of RTM and Test Plan documents for Testing and Tracking
+Participate into different meetings based on project need and assignments
+Experience to test the Rest API services using POSTMAN Tool
+Good exposure into API Testing with SoapUI
+Knowledge on API Testing with other tools like REST Client and Advanced Rest Client
+Exposure into API, URI, JSON, JSON Path, Headers and HTTP
+Good experience into POSTMAN Collections and Data Driven Testing
+Perform Data Driven Testing and API Chaining with POSTMAN Tool 
+Experience into JSON payload validation using Snippet and online Tools 
+Good knowledge on Reports generation and Environment testing (QA/TEST/STAG)
+Passionate and dedicated, adapting with market trends. Self-motivated, with good leadership and mentoring trains. 
+Strong exposure into Database Testing using SQL queries to validate the Response data
+Has experience of working under Agile Scrum with scrum events
+Hands on experience to use Test management Tool JIRA 
+Good communication and interpersonal skills.
+
+Skill Sets
+
+Work Experience 
+
+ESPROS TECHNOLOGY CONSULTANTS  PVT LTD | Chennai | 
+Software Test Engineer
+Jan 2018 – Till date
+
+Educational Summary
+Education:
+B-Tech (ECE) from VITS JNTU-Ananthapur in the year of 2013 
+
+
+Project Experience
+PROJECT - 1
+      Project Title : Staples
+            Client: Staples
+Technologies: JAVA, REST API and MySQL
+Domain: E-Commerce
+Tools: POSTMAN, JIRA and MySQL
+Others: JSON, API, Agile, SQL and JSON Path
+Role: Tester
+
+Project Description:
+          Staples Inc. is a Massachusetts-based retail company. It is primarily involved in the sale of office supplies and related products, via retail channels and business-to-business (B2B)-oriented delivery operations. Staples began to refocus its operations to downplay its brick-and-mortar outlets and place more prominence on its B2B supply business. In 2017, after its sale to Sycamore Partners, the company was effectively split into three "independently managed and capitalized" entities sharing the Staples name, separating its U.S. and Canadian retail operations from the B2B business.
+
+Roles and Responsibilities in the project:
+Understanding Business requirements and analyzing the client specifications
+Hands on experience in API testing using Rest services
+Experience to API services using POSTMAN tool
+Strong knowledge in HTTP Methods & Http Status codes
+Good Understanding in URI & JSON scripts
+Validating the response JSON data using JSON-path tool and snippets
+Hands on Experience to Perform Data Driven Testing using POSTMAN Tool
+Validating / Preparing the Request data in JSON format to submit the API services
+Good experience to use Headers and Authorizations to Rest services in Postman
+Hands on Experience to use collections and Environments in POSTMAN tool
+Execution of the Test cases with the support of team and at the same time, leading the team to reach the targeted execution per day. 
+Performing Regression, Functional Testing, Ad-hoc Testing and Smoke Testing
+Testing data in database by writing SQL Queries.
+Executed the regression suite to test the application stability for existing functionality.
+Expertise in Defect Tracking and Management Process using MTM and TFS
+Excellent troubleshooting and problem-solving skills
+Proficient in SQL Queries to test the data after executing transactions
+Preparation of DSR and WSR
+PROJECT - 2
+
+PROJECT Title:   Dr.Positive Health Sciences
+Client: Dr.care & Dr.Positive Homeopathy                          
+Environment:   HTML, JavaScript, MySql
+Description:
+ Dr.Positive Health Sciences is a web-based application for Dr.care & Dr.Positive Homeopathy Clinics. Dr.Positive Health Sciences Application is very simple and easy to understand. A person having basic computer knowledge can master this software in very little time. Dr.Positive Health Sciences Application is an Homeopathy clinics chain process which contains Doctor’s Management- (Doctors Attendance, Doctors visit schedule, Doctors GT); Branches Management- (All Branches Attendance, All Branches GT Payments); Call Center Management -(All CC Emp’s Attendance, CC Performance); Patient Management (All Patients Details, Patient Payments )
+
+Roles and Responsibilities in the project:
+Detailed study of the Functional Requirements Documents.
+Understanding the Business Requirements of the Client and involved in Preparation of test cases.
+Involved in Reviewing the Test cases at peer level.
+Execution of the test cases to evaluate application enhancements.
+Participated in Data Base Testing, GUI, Functional, Integration and Regression Testing.
+Bug detecting and Bug reporting using JIRA
+
+
+
+
+PROJECT - 3
+
+PROJECT Title:   LOAN MANAGEMENT SYSTEM                          
+Environment:   EXT.NET, POSTGRESQL9.1.
+Product Description:
+Loan Management System is a web-based application for NBFC finance ERP (Loan origination system). Loan Management System is simple and easy to understand. Loan Management System is an end to end loan process which contains Client Management- (Getting Client, Co-applicant, Guarantor detail including loan details); Document Management- (Client, Co-applicant, Guarantors additional information, security cheques, insurance details, KYC documents); Credit Evaluation & Loan Management -(Approvals-in maker& checker process, Document verification, Loan disbursal, Processing charges ); Collection Management (Emi receipt, pre-closure);
+
+Roles and Responsibilities in the project:
+Attending KT sessions and analyzing the requirements.
+Preparing and Executing Test cases and analyzing the results.
+Preparation of scenarios for the complete module along with the integration with other modules.
+Performed Functional Testing, Regression Testing, and Integration testing.
+Attending weekly team and project meetings.
+Attending daily Scrum meetings and project review meetings.
+
+
+
+Declaration
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+Place :
+Date :      							                          (V Sudheer Kumar)

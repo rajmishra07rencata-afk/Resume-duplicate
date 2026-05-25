@@ -1,0 +1,165 @@
+K Anil Reddy	Email : anilreddy8388@gmail.com
+	Mobile No: 7200224892/8667271040
+PROFILE	
+
+
+Looking for challenging software tester position where I can utilize my strong conceptual base and programming skills to provide innovative ideas with exceptional analytical skills and self- motivating attitude.
+EXPERIENCE SUMMARY	
+
+
+5+ years of Experience in Automation Testing and in Manual Testing using Selenium Web Driver - Java for Web automation and Rest-Assured for API Automation.
+Involved in Test Execution, Results Evaluating and Defect Reporting using POSTMAN, Ready API
+Experience in BDD-Cucumber and Test-NG TDD Framework.
+Well versed in Test Planning, Test Case Design, Test Execution, Bug tracking and Reporting.
+Well Versed with Agile Scrum Methodology and Sprint Activities.
+Having good experience in automation frameworks - Junit, POM and Data Driven framework.
+Experience in Build Automation tools Maven and its Life Cycle for CLI Execution.
+Experience in Continuous Integration and Continuous Deployment Tools Jenkins.
+Maintaining the checkout and check in the source code from GIT.
+Extensive experience in designing Test scenarios, Test Scripts and Test reports of automated tests.
+Hands on experience in tracking and reporting of defects using Defect Tracking tool – JIRA.
+Expertise in developing BDD scripts using Feature Files by Cucumber.
+Performing Regression Testing and doing impact analysis.
+Strong Experience in cross browser and parallel testing web application.
+Experience in identifying object locators using CSS Selector for creating object Repository.
+Worked with Apache POI Library to read data from external source.
+Involved in ceremonies like Daily Scrum call, Sprint planning, Sprint review and Retrospective.
+Good experience in API Testing and HTTP Method.
+
+TECHNICAL SKILLS	
+
+Testing	: Java with Selenium Web Driver
+Languages	: Core Java
+Frameworks	: Cucumber, Junit, TestNG, POM,  Playwright
+API Testing Tool	: Postman, Ready API
+Build Tool	: Maven
+Integration Tool	: Jenkins
+Test Management Tool	: JIRA
+Process	: Agile, Waterfall
+
+
+WORK EXPERIENCE	
+Atos for 2 years as Automation and Manual Test Engineer Dec 2021 to Dec 2023.
+
+Lister Technologies for 3.3 years as Automation Test Engineer (2018– 2021).
+
+PROJECT HANDLED	
+Project #1: Allstate Canada | Domain: Insurance
+Duration: Jan-22 to Apr-23
+
+Description:-
+
+The Allstate Corporation is an Canada insurance company, Allstate Canada has provided peace of mind and property and casualty insurance to Canadians since 1953. We deliver a full line of auto and home products in the provinces of Alberta, Ontario, Quebec, New Brunswick and Nova Scotia.
+
+Duration : Jan-22 to Feb-23 Role – Manual Tester Roles & Responsibility
+Involvement in creating of the test cases, Test Scenarios and Test Data.
+Involvement in Test Execution, Result Analyzing and defect reporting.
+Analyze the requirements and understands the objective to deliver the end user need.
+Work with development team for enhancements and fixes on applications.
+Produce test results/screenshots & upload to Test Director/Quality Centre
+
+Involved in testing the application utilizing the Scrum (Agile)methodology.
+Raise and track defect until closure. Re-test the resolved defects.
+Participated in the all-Agile methodology ceremonies -
+planning daily scrum calls, spring review and sprint retrospective.
+
+Duration: Feb-23 to Mar-23 Role – Manual Tester Roles & Responsibility
+
+Testing through API (Post Man) with Endpoints and JSON body with required attributes.
+Preparation of Test Cases for Manual Testing.
+Execution of test scripts and debugging.
+Involved in the preparation of Test scenarios, Test cases and Test Data.
+Analyze the requirements and understands the objective to deliver the end user need.
+Involved in testing the application utilizing the Scrum (Agile)methodology.
+Participated in the all-Agile methodology ceremonies -planning daily scrum calls, sprint review and sprint retrospective.
+
+Duration: Mar-23 to Apr-23 Role – Automation Tester Roles & Responsibility
+
+Testing through API (Ready API) in manual and well automation.
+Responsible for testing deliverables, prioritizes, and monitors activities to meet such dates to individual assigned features.
+Having Experience on GitHub. We have created different env and used the GitHub commands.
+Having Experience on Jenkins. Have created smoke and sanity Jenkins pipeline and run as well.
+
+
+
+
+
+
+
+
+
+
+
+
+Project #2: The Home Depot     | Domain: E-Commerce
+
+Duration: May-23 to Dec-23 
+Description:-
+The Home Depot, Inc., often simply referred to as Home Depot, is an American multinational home improvement retail corporation that sells tools, construction products, appliances, and services, including fuel and transportation rentals. Home Depot is the largest home improvement retailer in the United States.
+
+Role – Automation Tester Roles & Responsibility
+
+Understanding the User stories, Requirements, Functional Specifications of the application
+Preparing the test scenarios and test data.
+Identifying the test scenarios which are to be automated.
+Preparing the automation script in Selenium WebDriver using Playwright Framework
+Preparing the Feature file, Step Definition, Hooks, POM, Utility class in Playwright framework.
+Execution of test scripts and debugging.
+Logged the defects in JIRA, performing retest after the defect got fixed.
+Execution of Smoke, Sanity and Regression suites during new releases and analyses the test failure.
+To get the updated master code from GIT will be doing check-in and check-out on a daily basis.
+Participating in all agile ceremonies like daily standup call print review and retrospective meeting.
+
+Project #3: Malawi	| Domain: Airlines
+
+Duration: 01-Jul-20 to 23-Sep-21 Description:-
+The project is Airline in Malawi. Headquarters is located in Lilongwe. It has services major destination parts around Malawi. The modules available are “Booking Ticket”, “Manage Booking”, “Cancel Booking”.
+
+Roles & Responsibility:
+
+Role – Test Engineer:-
+
+Understanding the User stories, Requirements, Functional Specifications of the application
+Preparing the test scenarios and test data.
+Identifying the test scenarios which are to be automated.
+Preparing the automation script in Selenium WebDriver using Cucumber framework
+Preparing the Feature file, Step Definition, Hooks, POM, Utility class in Cucumber framework
+Execution of test scripts and debugging.
+Logged the defects in JIRA, performing retest after the defect got fixed.
+Execution of Smoke, Sanity and Regression suites during new releases and analyses the test failure.
+To get the updated master code from GIT will be doing check-in and check-out on a daily basis.
+Participating in all agile ceremonies like daily standup call print review and retrospective meeting.
+
+
+Project #4: Wiggles | Domain: E-Commerce
+Duration : 18-Aug-18 to 20-Jun-20
+
+Description:-
+
+Wiggle is an online retailer of items including Sports and Fitness products. It is based on UK, wiggle is primary operates as an online. Main headquarters located in England- Triathlon equipment’s and accessories. Running shoes and apparel. Swimming products.
+
+Roles & Responsibility:
+
+Role – Test Engineer :-
+Involved in the preparation of Test scenarios, Test cases and Test Data.
+Applied Black box testing techniques for Functional level testing.
+Been part of test execution, evaluating results and defect reporting.
+Developed test cases using Selenium with TestNG.
+Used Data driven with TestNG data provided by reading the data from Excel Data provider.
+
+EDUCATION	
+Graduated BBA (Bachelor of Business Administration) from Madras University
+
+
+
+
+
+
+
+DECLARATION	
+I hereby declare that above information is correct to the best of my knowledge and belief.
+
+
+Place:	Name
+Date :
+(K. Anil Reddy)

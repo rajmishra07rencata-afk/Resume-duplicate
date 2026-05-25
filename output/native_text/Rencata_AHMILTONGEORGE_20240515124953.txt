@@ -1,0 +1,60 @@
+AHMILTON GEORGE M  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skill Highlights 
+
+English
+Tamil
+
+Technical Proficiency	
+Database	:	Basic knowledge	on SQL Server OS	:	Windows 10
+Tools	:	App test, Magen.
+Bug tracker	:	JIRA, Fusion, FileZilla.
+Testing Types : Functional, Browser, Compatibility and Usability Testing.
+
+
+Professional Summary  
+1.3 Years of experience in field of Manual Testing.
+Well experienced in Agile Methodology.
+Experienced in Preparing RTM to ensure the test case coverage for all requirements.
+Good knowledge in Smoke testing, Sanity testing, re-testing, Regression testing.
+Good exposure in Software Testing Cycle (STLC).
+Good experience in Preparation and execution of test cases.
+Good experience in Bug Tracking and reporting using Defect Management Tools (Bug tracker and JIRA) till closure.
+Commitment to co-operative Teamwork and involved in delivering high quality product to client.
+Ability to learn new technologies and tools quickly.
+
+Roles and Responsibilities
+Following Agile Scrum methodology.
+Understanding Requirements and functional specifications of the application.
+Interacting with Client on weekly basis.
+Involving in daily scrum meetings and giving the consolidated status.
+Execution of Test cases at iteration level.
+Regression testing on each browser at iteration level.
+Logging defects using internal tool Bug tracker and tracking till closure.
+
+
+
+Involved in preparation Test cases & Test reports.
+Reporting bugs in IBM Rational Clear Quest and updating the Daily Defect Report and mailing to
+Client.
+Analyzing the Test Cases prepared by other team members.
+Providing technical support and resolving the issues at the earliest whenever teammates face issues.
+Configured LDAP, SMB, Kerberos for Authentication, Authorization and Accounting.
+I hereby declare that all the information mentioned above is true to my knowledge and I am responsible for the correctness of the same.
+- Ahmilton George

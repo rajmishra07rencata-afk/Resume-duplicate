@@ -1,0 +1,86 @@
+N
+Naresh Kumar 
+ASP Dot Net Developer 
+No:9, Kizakuvasal Nagar, 
+Nainarmandabam, 
+Pondicherry - 605004 
+snash077@gmail.com 
+9944854238 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Highly skilled and experienced Software developer with 2.9 years of experience and passion for creating visually stunning and user-friendly websites and web 
+applications. Possessing a  strong  understanding of web development principles and a deep knowledge of user-centered design, I am able to deliver projects that 
+exceed  client  expectations.  I  am  highly motivated and always looking for new challenges, and I have a proven track record of success in delivering projects on 
+time and to the highest standards. 
+ 
+Professional Experience 
+January  2023 – Presen t 
+Assosiate Application Developer ADP India – 9 Months 
+IHCM- It is an comprehensive global provider of cloud-based human capital management (HCM) solutions 
+that unite payroll, HR, talent, time, tax and benefits, and a leader in business outsourcing services and 
+analytics. It combines advanced cloud-based technology, data-driven insights, and deep expertise to 
+empower your business and evolve as you grow and expand. 
+As an HR Payroll application it contains all the basic modules included User Management, Payroll etc.. We 
+have application setup for single country and Multi country. Application is completely configurable. 
+ 
+ 
+Technology used: ASP .net core, ASP .net Console APP, Angular Js, HTML, CSS, JavaScript, jQuery, Bootstrap 4, 
+AJAX. 
+ 
+Responsibilities: 
+• 
+Worked in Admin Console Tool, it is an view generator to generate pages/forms. 
+• 
+Worked in Jenkins for deployment process. 
+• 
+Involved in enhancing Meta Data Form. 
+• 
+Involved in feature enhancement like employee filter, session timeout, Read-Only access (user level). 
+• 
+Involved in the planning for quarter S4 FY2. 
+Additional Technology Known: React JS, Angular 14, NextJs 
+ 
+ 
+December 2020 – Dec e mb er 2022 
+Software Developer Okit Tech – 2 Years 
+AETC Pro - It is a financial application which can manage multiple brokerage  companies  within their  
+brokers  and their final customers’ investments, insurance and other financial data safe and secure. Here 
+they can create and manage to have multiple clients and their own web application to deploy. It has the most 
+secure data of their client which was stored in Store4Doc with military grade security and it is easy of access 
+within their personal safe and secure. 
+ 
+ 
+And worked on the Design part of the same project in  Angular 14 where we redesigned  the entire website 
+according to the Client requirement. 
+ 
+Technology used: ASP .net MVC, HTML, CSS, JavaScript, jQuery, Bootstrap 4, AJAX. 
+ 
+August  2018 - July 2020 
+Process Associate Tech Mahindra 
+Worked in Project Where we have to help the Customers in their Broadband issue and also help the 
+Customers in their internet issue 
+ 
+Education 
+February 2000 - May 2012 
+Computer Science in Computer Science Amalorpavam Hr Sec School at Pondicherry 
+2012 - June 2016 
+B.Tech (ECE) in Electronic Communication Engineering (ECE) Sri Manakula 
+Vinayagar Engineering College at Pondicherry 
+ 
+Key Skills 
+ASP .NET MVC, ASP .net Core, HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap 4, ReactJS, Angular 14, Angular JS 
+ 
+Certifications 
+March 2020 
+NIIT Course 
+2019 
+CCNA Certified Candidate 
+ 
+ 
+> Language 
+Tamil (Advance) and English (Advance).

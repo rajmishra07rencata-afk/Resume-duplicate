@@ -1,0 +1,153 @@
+MOHANA B
+      Software Developer
+Summary
+Professional Experience
+Experienced software developer with 5 years of experience in managing
+databases, 
+crafting 
+intricate 
+queries 
+and 
+optimizing 
+databases
+performance. Proficient in developing web application, including creating
+custom modules and expertly tackling technical challenges to ensure the
+seamless operation of software.
+Technical Skill
+T-SQL
+Oracle
+Python
+Dot Net
+Tableau
+Power Bi
+Win automation tool
+Soft Skill
+Data Analysis and Data Visualization
+Problem Solving
+Teamwork
+Leadership
+Time Management
+Decision making
+Multi-tasking
+Education Background
+Sivakasi (76.5% - Apr 2014)
+Bachelors of Engineering (Electronics and
+Communication Engineering)– PSR Rengasamy
+College of Engineering for Women,
+H.S.S – Devangar Girls Higher Sec School,
+Aruppukottai (78.75% - Mar 2010)
+My Contact
+b.mohanabaskar@gmail.com
+A4, Sri Arya NLC Apartment,
+Kumaran Theater Back side,
+Medavakkam,
+Chennai-600100
++919600332137
+Worked closely with functional team to ensure proper design and
+implementation of database systems.
+Created Front end and Back End Design based on business
+requirements and functional system design.
+Collaborated with cross functional teams and clients to understand
+the business requirements.
+Contributed to the design and development of database systems for
+the UAT server, ensuring efficient data storage and retrieval.
+Involved in updating procedures, functions, triggers and  packages  
+based on  the  change request  of customer and Unit Testing for the
+same.
+Utilized joins and sub queries to simplify complex queries involving
+multiple tables while optimizing procedures and triggers to be used in
+the production.
+Wrote SQL queries to obtain data from multiple tables to spool into
+CSV format and provide extracts to business and users.
+Monitored and Troubleshot SQL Server Performance using Query
+Blocking and Deadlocking Issues.
+Provide database coding to support business applications using  T-
+SQL.
+Develop & maintain project timelines and facilitate the day-to-day
+operational aspects of a project and scope.
+Provided  production  support through  monitoring, maintaining and
+Job Service management for Email Job  Trigger.
+Responsible for resolving any Data issues reported by the business
+users and delivering all enhancements as required by business users.
+Analyze & translate functional specifications & change requests into
+technical specifications.
+Designed and developed reports and dashboards using the Power BI
+platform.
+Managing and resolving end user issues/facilitating application
+incident resolution with offshore team.
+Managing and providing support for data solutions in business-as-
+usual (BAU) scenarios.
+Implementation and customization of Odoo ERP solutions using Python
+for clients in a range of industries, including manufacturing, retail, and
+e-commerce.
+Designing and developing new features for existing applications in
+Odoo ERP using SQL and Python.
+Developing and customizing Odoo modules to address specific
+business needs, resulting in improved efficiency and productivity for
+the “rebuERP” project.
+Roles and responsibilities:
+Amitysoft Technologies Pvt Ltd Feb’2020 - Till date 
+Designation : Software Developer
+Platform : Microsoft SQL Server and Ramco Systems Applications
+Technologies used – SQL, Python
+SSLC – Government Girls Higher Sec School,
+Muthuramalingapuram  (89.6% - Mar 2008)
+TRIYAM LLC : Jul’2019 - Dec’2019
+ Designation : ETL developer - Healthcare Data Migration / Archival 
+Platform : RPA (WinAutomation)
+All projects focus on automating the manual process of creating
+and extracting Health.
+Uploading the extracted Patient documents and testing the same in
+Database whether all the
+documents are successfully uploaded. 
+Preparing Status reports on extracted documents and send it to the
+Customer. 
+Extracted data from different sources and exported to SQL server
+database.
+Roles and Responsibilities:
+Certificate Course
+Python :
+Project - The project done on hotel booking systems
+provides details of all information related to
+bookings and room availability. It’s main purpose is to
+reduce manual labor and provide searching
+facilities based on various factors such as customer
+details and payments.
+Power Bi :
+Project - Developed Dashboard projects by using SQL  
+queries for Eg: 120 years of Olympics details, HR
+management systems and Import live data with
+SQL queries.
+Tableau: 
+Project - Developed HR analytics Dashboard project by
+using SQL queries.
+Dot Net
+Oracle SQL
+Master’s in Data science from Besant Technologies
+Amazon Web Service(AWS)
+ 
+Developing Stored Procedures, Functions, Triggers, Views, Tables,
+Indexes and other SQL Objects.
+Performance Tuning and Query optimization. Provided technical
+support from offshore for various customers.
+Involved in Technical Impact Analysis for software enhancements.
+Responsible for Data health monitoring activities (Analyzing
+inconsistent data). 
+Ramco Systems :  Feb’2018 - Oct’2018 
+Designation : Project Trainee
+Platform : Microsoft SQL Server and Ramco Systems Applications.
+Roles and Responsibilities:
+Supervising the Production activities and Preparation of Production
+Planning, Scheduling & Attainment.
+Target Seeking Reports with Team people and managing the
+Production of Metal Hailed Lamp Manufacturing Unit.
+Resource 
+Planning, 
+Inventory 
+Management 
+and 
+material
+reconciliation.
+Venture Lighting India Ltd, Chennai : Mar’2015 -Jan’2016
+Designation : Trainee Engineer
+Roles and Responsibilities:

@@ -1,0 +1,68 @@
+Pavithra Mohanraj 
+Software Engineer – Front End Developer 
+Contact: +91-9080880958 & pavithramohanraj22@gmail.com 
+OBJECTIVE: 
+Creative thinker and problem solver with in-depth knowledge, develop & test the product. Looking for a position 
+where I can utilize my experience at a higher level to achieve the goal of the organization. 
+ 
+PROFILE SUMMARY: 
+● Holding 2 years of experience in software engineer as Front-end developer 
+● Able to work independently & also in a team effectively 
+● Have a vision to quickly identify and understand the business benefits of new technologies 
+● Strong computational, analytical knowledge with organized positive attitude 
+● Willing to work as a key player in challenging & creative environment 
+ 
+WORK EXPERIENCE: (Client: VMware) 
+ 
+ 
+ 
+ 
+  
+  Project #1(MAESTRO) 
+ 
+● Developed code following common security practices and development design patterns with strong object- 
+oriented programming 
+● Actively involved in the designing & writing unit test cases using Jasmine, Karma 
+● Collaborated with other developers on designing, developing, testing, and implementing new features 
+● Involved in Analysis of customer requirements, design, development and providing support to the 
+customers to fulfil their needs 
+● Collaborated with other developers on designing, developing, testing, and implementing new features for 
+the application, resulting about 45+ component 
+ 
+   Project #2 (PERFDASH) 
+ 
+          ● Designed UI design using Angular 9 
+          ● Providing fix to the issue 
+          ● Providing the efficient solutions for new features by connecting with Clients 
+          ● Managed the project and guiding the Teams on the tasks 
+          ● Improved the frontend performance of the Project 
+ 
+SKILL SET: 
+Programming 
+: Angular,CI/CD, HTML, CSS, JavaScript(Node.js) 
+Operating System 
+: Linux(Ubuntu) 
+CI/CD 
+: GitLab 
+Testing Tools 
+: Jasmine, Karma & Cypress 
+Tools 
+: SonarQube, Review Board & JIRA 
+Front End Developer 
+ViSolve Inc, Coimbatore, India 
+Mar 2022 - Till Date 
+ 
+EDUCATION: 
+ 
+ Completed Bachelor of Computer Application(BCA) from PSG College of Arts and 
+Science,Coimbatore,TamilNadu,India. 
+ Completed Master of Computer Application(MCA) from MCET College of Engineering and 
+Technology,Pollachi,TamilNadu,India. 
+ 
+ 
+DECLARATION: 
+ 
+I hereby declare that all the details mentioned above are in accordance with the truth and fact as per my 
+knowledge and I hold the responsibility for the correctness of the above-mentioned particulars. 
+ 
+Name: Pavithra M

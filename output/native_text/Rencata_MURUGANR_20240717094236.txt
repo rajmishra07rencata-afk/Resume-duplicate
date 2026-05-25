@@ -1,0 +1,136 @@
+CURRICULAM VITAE 
+ 
+Name :         MURUGAN R 
+    Mobile No : +91-8015397386 
+           E-mail : murugan11022@gmail.com 
+ 
+PROFILE SUMMARY 
+ 
+ Having 2.8 year of experience in IT industry in the areas of ORACLE 
+Development and Production support. 
+ Involved in all 
+phases of the SDLC (Software Development Life 
+Cycle) from analysis, design, development, testing, implementation and 
+maintenance with timely delivery against aggressive deadlines. 
+ Worked with Views, Materialized Views, Synonyms and Sequences. 
+ Created Tables, Views, Constraints and Indexes. 
+ Created Stored Procedures, Functions, Packages and Triggers. 
+ Worked in writing Complex queries using Analytical Functions, Joins and 
+Sub Queries in Oracle SQL. 
+ Skilled in managing banking projects involving scoping, design, architecture, 
+sourcing, interacting with the clients & System Engineering Team for 
+requirement gathering and analysis. 
+ Capabilities in Performance tuning and query optimization techniques using 
+Explain Plan, indexing and hints. 
+ 
+TECHNICAL SKILL 
+ 
+Languages:  SQL, PL/SQL, UNIX 
+Databases:  Oracle RDBMS 11g/11g/12c 
+Development Tools :  Oracle SQL Developer, TOAD 
+Ticketing Tools:  JIRA, Rally, ServiceNOW 
+Other Tools:  Putty, Control-M 
+ 
+ 
+ 
+EDUCATION 
+ 
+B.SC Computer science from Merit Arts and Science college, Tirunelveli in the year 
+2021. 
+ 
+ 
+ 
+ 
+PROFESSIONAL EXPERIENCE 
+ 
+Worked as Software Engineer in Brandwidth Technologies Pvt Ltd ,Bangalore  
+from May-2021 to till date. 
+ 
+ 
+PROJECT PROFILE 
+ 
+Project: 1 
+Title: MERCHANT MANAGER 
+Role: Oracle PL/SQL Developer 
+ 
+ 
+Roles & Responsibility : 
+ 
+ Involving architectural discussions, design, review and delivery of complex 
+business applications. 
+ Providing technical consultation to resolve development. 
+ Preparing and reviewing technical design document and impact analysis 
+document. 
+ Reviewing test scenario & case based on requirement and design documents. 
+ Optimized and modified complex stored procedures, functions and created 
+objects. 
+ Directed Performance Tuning for complex queries by using explain plan. 
+ Managed complete lifecycle covering strategy, requirement analysis, design, 
+build and test. 
+ Managing fixing of technical and functional related bugs. 
+ 
+ 
+ 
+Environment: 
+ Oracle 11g, SQL, PL/SQL, UNIX, TOAD, Putty, Control-M, ServiceNOW. 
+ 
+Project: 2 
+Title: RBS 
+Role: Oracle PL/SQL Developer 
+ 
+ 
+ 
+Roles & Responsibility : 
+ 
+ Involved in the whole life cycle of the project. 
+ Interacted with clients to understand their requirements and prepared 
+detailed design document and Impact Analysis document 
+ Created Stored Procedures, Triggers, Functions and Packages. 
+ Involved in database design, development and Application tuning. 
+ Enhanced, developed and deployed reports based on new requirements for a 
+separate module maintaining the standard of the layouts, data model. 
+ Involved in resolving production problems for the applications and Ensure all 
+support service level agreements are met. 
+ UAT and Live support. 
+ Coordinating the production of monthly, quarterly and annual performance 
+reports for senior management. 
+ 
+ 
+ 
+Environment: 
+ Oracle 11g, PL/SQL, UNIX, Putty, SQL Developer,  
+ 
+ 
+PERSONAL INFORMATION 
+ 
+ 
+     Contact Address: 
+No.3,Thenmozhi Nagar 3rd Street , 
+                                                Keelkattalai, Chennai district. 
+ 
+ 
+ 
+ 
+ 
+600117. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I hereby declare that the details given above are true to best of my knowledge and belief. 
+ 
+ 
+Place: Chennai. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Signature, 
+ 
+                                                                                                      Murugan R

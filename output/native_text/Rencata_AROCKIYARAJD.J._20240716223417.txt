@@ -1,0 +1,92 @@
+AROCKIYARAJ D.J.
+QA Analysist 							Mobile No: 	:7904547562
+E-mail ID	: arockiyarajjoseph1125@gmail.com
+
+OBJECTIVE 
+
+Detail-oriented and highly skilled software testing professional with 4 years of experience in manual and automated testing. Seeking a challenging software testing role in a dynamic organization to leverage my expertise in test planning, execution, and defect identification to ensure the delivery of high-quality software products. Committed to improving testing processes and contributing to the overall success of the software development team.
+
+Professional Summary:
+Overall 4 years of industry experience in the area of Manual Testing and Automation testing with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting & Tracking.
+Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.
+Well acquainted with all phases of SDLC and STLC.
+Proficient in Test Automation using Selenium Tools.
+Strong Experience in Automating Web Application Testing using Selenium WebDriver with Cucumber framework.
+Strong Experience in Java Programming, Selenium WebDriver, Cucumber.
+Well versed with Handling Elements in Selenium WebDriver.
+Writing Test cases using Element locators, WebDriver methods, Java programming basics and features.
+Executing Selenium Test Cases and Reporting defects.
+Experience in Data driven Testing, Parallel Test execution using Selenium WebDriver.
+Expertise in implementation of Automation framework using Selenium.
+Involvement in Test Estimations and Test strategy implementation.
+Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports and Test Summary Report
+Self-motivated, energetic and highly ethical in all work-related assignments thus able to immediately contribute to corporate goals and objects
+Good written, communication, interpersonal skills, proven team player with an analytical mind bent to problem solving and delivering solutions.
+Extensively worked on Agile development and management process.
+Performed Smoke Testing, Sanity Testing, Integration Testing, and Regression Testing at various phases of the development and test cycles.
+
+EDUCATIONAL HISTORY:
+B. TECH Information Technology (Hindustan Institute of Technology)
+PROFESSIONAL EXPERIENCE: 
+Organization		: CJK Knowledgeworks Global India Private Ltd
+Project			: SmartTrack
+Position		: QA Analysist
+Roles and responsibilities:
+Understanding client requirement and testing based on their requirements.
+Identifying test scenarios for automation scripts.
+Prepared test scripts and execute test scripts using Selenium.
+Investigated problems found during testing and effective solutions.
+Involved in Smoke testing, Sanity testing, Regression testing and User acceptance testing the defects in JIRA
+Logged the defects in JIRA in order to perform Defect Life Cycle/Bug Life Cycle.
+Take part-in daily Scrum meetings and worked on Agile Methodology.
+Followed Agile/Scrum Methodologies for all of the project activities.
+In Agile environment, attended daily stand up meetings, user stories grooming sessions and team retrospectives.
+Designed and Developed Test plan and test scripts based on BRD and User Stories.
+Understanding client requirement and testing based on their requirements.
+Performing testing on the application based on the requirement.
+Experience of testing within an Agile environment, adapting quickly to changing situations.
+Experience working with JIRA, bug and project tracking tools.
+Create test plan and test cases and generates report.
+Reviewing the test cases based on Requirements.
+Responsible in supporting quality related activities.
+Coordinating with Development and Business team for Defect resolution.
+Maintaining daily status reports on test execution for the respective module.
+Client call interaction for best understanding.
+Worked with Postman for API testing.
+Reviewing the Test Cases Prepared by the Team Members.
+Used JAVA singleton technique to create Frameworks.
+Extensively used JAVA OOP’s concepts for developing Automation Frameworks using Eclipse, Maven, Selenium WebDriver and Cucumber.
+Created various generic methods for capturing SCREENSHOT, sending E-MAIL, reading and writing EXCEL file.
+Monitor the Test Execution Progress and Manage the Issues during Test Execution.
+Co-ordinate/Delegating the task(s) to the team members.
+Owned and maintained all the testing documents/deliverables in configuration management tool.
+Involved in identifying business components and creating test suites for regression and integration testing. 
+Involving in Daily stand-ups.
+Prepared Detailed Test summary report to Project owners at the end of every release. 
+
+
+TECHNICAL SKILLS:
+Testing Tools			: Selenium WebDriver
+Version Control Tool		: GIT
+Dependency Management Tool	: Maven
+Testing Framework			: Cucumber, J-Unit, POM
+Project and Bug Tracking Tools	: JIRA
+Programming Languages		: Core Java
+CI/CDTools			: Jenkins
+
+
+
+AREAS OF EXPERTISE:
+Test Estimates & Test Plan – Creation
+Agile methodology
+
+Codemantra (2017–2019)
+Worked as “Technical Editor (XML)” at Codemantra with around experience of 2 years.
+Lumina Datamatics Ltd. (2015–2017)
+Worked as “Technical Editor (XML)” at Lumina Datamatics Ltd. with around experience of 3 years.
+Scientific Publishing Services Pvt Ltd. (2013–2015)
+Worked as “Technical Editor (XML)” at Scientific Publishing Services Pvt Ltd. with around experience of 1.5 years.
+Declaration: 
+I hereby confirm that the information furnished above is true to the best of my knowledge. 
+Place: Chennai 									 Yours Sincerely
+D.J. Arockiyaraj

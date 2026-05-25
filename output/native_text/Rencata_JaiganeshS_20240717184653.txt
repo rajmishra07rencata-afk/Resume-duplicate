@@ -1,0 +1,213 @@
+Résumé 
+Jaiganesh. S 
+No 69, Amurdha garden, 
+ 4th Cross, Kottakuppam 
+Pondicherry. 
+(+91) 9566515566 
+ 
+jaitvr@gmail.com 
+ 
+ 
+ 
+Objective 
+ 
+To play an active role in a highly professional and challenging environment that provides 
+opportunity to apply my skills and be part of a team that works dynamically towards the 
+growth of the organization. 
+  
+ 
+Education and Professional Development 
+ 
+MCA 
+8.16/10 CGPA 
+Bharathidasan University, Trichy. 
+2008-11 
+BCA 
+8.66/10 CGPA 
+Bharathidasan University, Trichy. 
+2005-08 
+ 
+ 
+Technical Areas of Expertise 
+ 
+ C#.Net 
+ ASP.Net MVC
+ VSTO 
+ MS SQL Server 2012 
+VB.NET 
+Technical Areas 
+ WCF 
+ AJAX 
+ OOPS
+ jQuery 
+ CSS 
+ Javascript 
+ 
+ 
+Skills in terms of Experience 
+ 
+ Full stack developer 
+ Experience in leading the development team 
+ Version controlling and project tracking [VSS, Git, JIRA] 
+ New employee mentoring 
+ Resource planning and allocation 
+ Hardware and software installation 
+ Technical support 
+ Testing and maintenance 
+ Performance tuning 
+ 
+Roles & Achievements 
+ 
+ 9+ years of working experience in Development and 2 years as Trainer.
+
+ Guided more than 17 UG projects in .Net.
+
+ Providing training for Engineering students in various technologies of .NET
+
+ In addition to training, SPOC/team-lead for various projects.
+
+ Willingness to learn new skills and ability to work as a team
+
+ Microsoft Certified Technology Specialist (MCTS)
+ 
+ Platform : .NET FRAMEWORK 4.0 
+Application : Web Application Development 
+ Paper Name : 70-515 
+ 
+ 
+MC ID :9023956 
+ 
+ APTECH Certified trainer for C, C++, .NET, SQL server & Java script.
+
+ Completed Certificate Type Writing(Lower) at Bathmajothi Institute, Thiruvarur.
+
+ 
+Professional Experience and Significant Achievements 
+ 
+Senior Software Developer (Jan 2014 - Present) 
+ 
+Integra Software Services Pvt. Ltd. , Pondicherry. 
+ 
+Project: iPubEdit 
+Tool Description: Publishing domain automation like Document 
+Editing (Technical/CopyEdit/Pre-Editing/Language), Word to 
+XML/XHTML/ePub conversion, Style creator for configuration. 
+Tools & Techniques: VS.NET 2010, SQL Server 2008, VSTO 2010, 
+Agile methodology. 
+Role: Full stack development. 
+Project: iAuthoring 
+Tool Description: Online editing and proof reading. 
+Tools & Techniques: ASP.NET MVC, Java script, React 
+Role: Full stack development 
+Project: iProTracker Tool Description: Employee individual task allocation and tracking. 
+Tools & Techniques: HTML5, CSS3, Java script, PHP, MySQL 
+Role: Design and DB structure creation 
+ 
+ Worked with project managers, developers, quality assurance and customers to resolve 
+technical issues. 
+ Preparing test data to cover all possible positive and negative scenarios and updating in 
+Quality Centre. 
+ Improved system performance by making proactive adjustments and resolving bugs. 
+ Designed and developed forward-thinking systems that meet user needs and improve 
+productivity 
+ Involved in Agile process, daily Scrums to discuss the current development progress. 
+Associate Technical Consultant (Feb 2011 – Dec 2013) 
+ 
+ 
+PurpleLeap (A Pearson Educomp JV Company), Bangalore. 
+ 
+ Content development. 
+ Collaborated with project managers to select ambitious, but realistic coding milestones on 
+pre-release software project development. 
+ Providing quality training to the engineering students in the areas of C, C++, ASP.NET, 
+VB.NET, C#.NET and DBMS.
+ 
+Technical Trainer cum Programmer (Nov 2009 – Jan 2011) 
+ 
+APTECH LTD., Trichy. 
+ 
+ Providing quality training to the corporate and students in the areas of C, C++, ASP.NET, 
+C#.NET, Oracle 10g and DBMS.
+
+ Guided more than 17 projects for UG and PG students in ASP.NET, VB.NET, C#.NET, 
+with SQL Server and MySQL as a Back end.
+ 
+Software Trainer (July 2008 – Sep 2009) 
+ 
+iVision Systems, Trichy. 
+ 
+ Providing quality training to the students in the areas of C, C++, ASP.NET, C#.NET, 
+Oracle 10g and DBMS.
+ 
+Online Auction System – ASP.NET with SQL Server 
+ 
+Undergraduate Project Work 
+ 
+ The Online Auction System gives the business community the first word on changes and 
+updates that is happening in the various auctions went on the in the recent times globally. 
+The goal of auction is to let you win an item at the lowest possible price.
+ It consists of three modules, administration, bidding user interface and a web service.
+ 
+Placement Hub – C#.Net, WCF Services with MySQL 
+ 
+Postgraduate Project Work 
+ 
+ This project focuses on the simplification of the existing employment processing, and 
+enhance the functionality by adding some of the unique features such distributed 
+database, centralized administration, secure communication channels. The centralization 
+of the employment processing makes very effective.
+ It consist of seven modules, candidates UI, verification and approval process, shortlist 
+generation process, organization/company collaboration, administration and two WCF 
+services respectively for centralized communication and a separate service for a district. 
+ 
+Personal Profile 
+ 
+Name 
+: 
+Jaiganesh. S 
+Father’s Name 
+: 
+Sankaranarayanan. R 
+Date of Birth 
+: 
+08th  November, 1986. 
+Gender 
+: 
+Male 
+Marital Status 
+: 
+Married 
+Nationality 
+: 
+Indian 
+Residential Address 
+: 
+ 
+No 69, Amurdha garden, Kottakuppam,  
+Pondicherry. 
+Languages Known 
+: 
+Tamil, 
+English 
+Hobbies 
+ : 
+ 
+ 
+Cricket, Shuttle 
+ 
+DECLARATION 
+ 
+ 
+I hereby declare that, all the information furnished above is true to the best of my knowledge. 
+ 
+Yours truly, 
+Place 
+ 
+Date 
+ 
+: 
+ 
+: 
+ 
+ 
+(Jaiganesh. S)

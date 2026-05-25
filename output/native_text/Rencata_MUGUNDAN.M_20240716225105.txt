@@ -1,0 +1,121 @@
+Resume 
+Email-id: mugundan.msd07@gmail.com 
+Name    : MUGUNDAN.M 
+Phone   : 91-8610305109 
+ 
+ 
+Objective: 
+Energetic Software Developer seeking a challenging position to utilize my extensive experience in Designing, 
+Implementing, and Integrating software applications, and to further enhance problem-solving skills to 
+achieve career growth. 
+ 
+ 
+Skills and Experience Summary 
+ 
+• 
+Having 1.4 years of experience in the Information Technology industry with strong analytical, technical, 
+and problem-solving skills. 
+• 
+Developed PL/SQL programs with Packages, Procedures, Functions, Triggers, Collections, Bulk Collect, 
+FORALL, ref Cursors, Dynamic SQL. 
+• 
+I have experience in Database objects, Indexes, and Table Partitions, Global Temporary tables, External 
+tables, Materialized view, and Performance Tuning. 
+• 
+Involved in Requirements Gathering, Design, Development, Implementation, Acceptance Testing and Bug 
+fixing for end-to-end IT solution offerings across various development, maintenance. 
+• 
+Knowledge in Client-Server application development using Oracle 11g/12c, PL/SQL, SQL*PLUS  
+• 
+Knowledge in Loaded Data into Oracle Tables using SQL*Loader.   
+• 
+Proficient in creation, modification, and effective use of database objects like Tables, Constraints, and 
+Indexes.  
+• 
+Experience in Agile /scrum development methodology. 
+• 
+Analyze the functional and technical specifications and convert to PL/SQL programs and modify existing 
+PL/SQL packages. Knowledge of advanced PL/SQL concepts. 
+• 
+Worked extensively on cursors and ref cursor Exception handling. 
+• 
+Ability to work on complex technical assignments and ensure timely deliveries. 
+• 
+Good Knowledge using PRAGMA AUTONOMOUS_TRANSACTION 
+• 
+Knowledge in handling errors using Exceptions. 
+ 
+Technical skills 
+• Experienced in Oracle PL/SQL development. 
+• I have good knowledge of Unix. 
+Experience Summery 
+• Working as a Software Engineer in SRG Systems Pvt Ltd, Bangalore from 2022 Aug to Till Date. 
+Education 
+• B.E (Electrical Engineering With 8.1 CGPA) from S.K.R Engineering College (June 2018 – May 2022). 
+ 
+ 
+Operating Systems 
+UNIX, Windows 
+Languages/DB 
+Oracle SQL, PL/SQL, Oracle 11g, 12c, 19c 
+Project Details 
+ 
+ 
+ 
+ 
+Project-1 
+Merchant Manager 
+Customer 
+Merchant Manager 
+Period 
+Aug 2022 to Till Date 
+Position 
+Software Engineer 
+Responsibilities 
+• 
+Developed PL/SQL programs with packages, procedures, functions, Ref cursor, 
+Bulk collect, Views, Global temporary tables, Dynamic SQL, Index, Sequence, 
+Triggers. 
+• 
+Written SQL queries to get customer expected results. 
+• 
+Written back-end procedures and packages to fulfill project requirement. 
+• 
+Debugging procedures and packages to resolve issues as part of supporting 
+Project. 
+• 
+I have prepared Releasing documents when releasing build for project 
+enhancement. 
+• 
+Written SRS (System requirement specification) and TRS (Technical 
+requirement specification) documents for customization of Project 
+• 
+Interacted with Client to project requirement. 
+• 
+Created some user defined functions. 
+• 
+Used debugger to test the data flow and fix the mapping. Involved in full 
+development cycle of Planning, Analysis, Design, Development, Testing, 
+and Implementation. Analyze and Troubleshoot performance issues in the 
+Reporting Application and underlying SQLs. 
+• 
+Gather, document, and convert functional reporting requirements into 
+technical solutions. Develop thorough understanding of data models, 
+underlying data, and business uses to ensure reports meet client needs. 
+• 
+Interacted with Client to project requirement. 
+• 
+Created some user defined functions. 
+• 
+Used debugger to test the data flow and fix the mapping. 
+Solution 
+Environment 
+Oracle 12c, PL/SQL, SQL, Putty 
+ 
+ 
+ 
+ 
+Declaration: 
+I hereby declare that the above furnished information is true to the best of my belief. 
+Date: 
+Signature

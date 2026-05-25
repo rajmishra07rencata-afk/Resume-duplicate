@@ -1,0 +1,170 @@
+Akhil Kumar k.m
+Mobile: +91-9048039352
+Kazhakootam , Trivandrum
+Email:akhil.yobz@gmail.com
+CAREER OBJECTIVE
+To seek a challenging position in the IT industry and thereby establish a global identity, look for the opportunity where I
+can improve my quality and project management skills.
+PROFILE SUMMARY
+●
+7+  years experience in Asp.Net MVC Application Development.
+●
+Hands on experience on .NET (3.5/4.0/4.5/4.7), ASP.NET MVC , Web api, WCF, Typescript, Angular,
+Infragistics, Telerik, Linq, Visual Studio 2010/2012/2013,2015,2017 IIS 7 and SQL Server 2008(R2),
+Jira, Bluebird and Jenkins.
+●
+Hands on experience in entity-framework and three tier architecture.
+●
+Been to Germany for an Onsite of 3 months as part of Volkswagen project.
+●
+Professional Scrum Master (PSM1) certification from Scrum.org.
+●
+Rich exposure to Software Development Life Cycle (SDLC) and Agile.
+●
+Strong in Object Oriented concepts for software design and implementation.
+●
+Experience in Unit Testing to deliver quality products.
+●
+Experience with NUNIT and Visual Studio Test Projects.
+●
+Experience in HL7 message standard.
+ACADEMIC PROFILE
+MASTER OF COMPUTER APPLICATION | MAY 2013 | KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND
+TECHNOLOGY, MADURATHANGAM
+Major: Computer Application With
+the aggregate of 6. 97 CGPA
+BACHELOR OF SCIENCE|MAY 2009|MALABAR CHRISTIAN COLLEGE CALICUT
+· Major: Physics
+· With the aggregate of 51. 00 CGPA
+HIGH SCHOOL CERTIFICATE | APRIL 2004 | ATHOLI HIGHER SECONDARY SCHOOL, ATHOLI
+· Major: State Board
+· With the aggregate of 62.00%
+SECONDARY SCHOOL LEAVING CERTIFICATE | APRIL 2006| PALORA HSS, ULLIYERI
+· Major: State Board
+· With the aggregate of 52.00%
+EMPLOYMENT HISTORY
+Feb 2020– To Till Date
+UST Global , Trivandrum
+UST is a global digital transformation solutions provider. For more than 20 years, UST has worked side by
+side with the world’s best companies to make a real impact through transformation. Powered by
+technology, inspired by people and led by purpose, UST partners with their clients from design to
+operation. With deep domain expertise and a future-proof philosophy, UST embeds innovation and agility
+into their clients’ organizations.
+October 2017– Feb 2020
+Palnar Transmedia Pvt Ltd , Trivandrum
+Palnar Transmedia Pvt. Ltd. is a Software Consultancy and Development company located in India having
+development centers/offices in Germany, USA, Netherlands and Switzerland
+October 2015 – October 2017
+Computer Science corporation(DXC) , Chennai
+Computer Sciences Corporation (CSC) was an American multinational corporation that provided
+information technology (IT) services and professional services. On April 3, 2017, it merged with HPE
+Enterprise Services to create DXC Technology
+August 2014 – October 2015
+Icegen Computing pvt Ltd , Chennai
+ICEGEN provides increased productivity with high quality at a lower cost as a result of our global
+operations capability. Our core focus is on developing unique, valuable and innovative enterprise- class
+solutions targeting the Medical and Healthcare, Banking and Financial and Education sector.
+PROFESSIONAL SUMMARY
+PROJECT : TFM(Tax Form Management)
+Client : Equifax
+The project consists of different applications which perform various functions from preparing a tax form for the end
+user to downloading or viewing the corresponding tax form. The user can view ,download or request for a
+correction of their tax form through the website. The admin can perform these actions and provide approval for
+various activities.
+The tax forms are loaded through a windows application and once loaded the admin should approve the tax form to
+make them available for the employee. There is another website that contains various settings for the application.
+Key technologies and tools involved are GCP,Web api,Asp.net
+Mvc,Angular,Python,Jquery,Oracle,Json,Bitbucket,Jira,Bluebird Jenkins
+PROJECT : AE-UPS
+Client : Equifax
+United Parcel Service - One of the largest package delivery company around the globe. AEUPS is a project which
+automated the entire onboarding procedure to digital from job search to the last signature by converting their
+operation like jobsearch, documentation, appointments, game integrations, video integration, internal candidate
+portal.
+Role: Senior Software Developer.
+QA and UAT release activities. Security implementation.
+Analyze the production issues and provide the fix.
+Participate in continuous improvement initiatives.
+Key technologies and tools involved are Asp.net 4.5,4.7, WCF, Bootstrap, Visual studio 2019, MS SQL server,
+Github,Jira,Bluebird Jenkins
+PROJECT : Project Management Application
+Client : Volkswagen
+Tools Used: ASP.Net MVC , C#, MS SQL Server, Typescript, Infragistics.
+Details: This is a web application which is used for managing projects in the automotive industry. This application
+consists of Project
+module, User Management and Role Assigning Module, QA module, Issue Management module, Dashboard and
+Report module.
+This is a role based access application and each module will be available to users based on their roles.
+Interaction with Product Owner for requirements as well as for support.
+Roles/Responsibilities: Senior Software Engineer
+To collect the software requirement from the product owner and develop the application as per their
+requirement.
+To develop technical interfaces, repositories , specifications and architecture .
+To develop client displays and user interfaces .
+Get assigned with CR(Change Requests)/US (User Stories) and complete them as deliverable within the
+given
+deadlines.
+Performed Unit Testing for the developed User Stories.
+Working with agile scrum methodology.
+Conduct all scrum activities like retro , sprint planning, refinement and review.
+PROJECT : GOCGM Taxi Application (Application for Taxi scheduling and hiring.)
+Main areas of work include development of WebAPI service functions and handling and modifying JSON
+datas for Android and IOS team. Created Supporting functions for Weekly Report and handled Website of
+the Application.Languages/Environment : C#, .Net 4.5, WebAPI2, HTML,XML, CSS, AJAX, MongoDB, SQL
+Server 2012.
+PROJECT : LORENZO NATIONAL HEALTH SERVICE [UK]
+Client : National Health Service [NHS]
+Project Description:
+LORENZO CLINICAL REQUEST AND RESULT (R&R) is a Healthcare management project. It deals with
+almost all the hospital management functionalities like, Patient tracking from Admission to discharge, and
+manage In/Out patient care activities, Clinical notes & doc, Requests and Results, Care Plan for patient
+treatment analysis and Observations, Nursing Tags, POMR etc., among these system, I am handling POMR.
+POMR (Problem Oriented Medical Record) deals with recording Patient problems from each and every
+care activities of LC.
+The POMR is new functionality of the current version in LC using Silverlight and WCF for overview
+of all the Patient problem details from all parts of Product Activities.
+Handled Identity Management Patient relation information. Involved and worked in Test Automation
+Framework (TAF).
+Roles/Responsibilities: Product Developer
+Work experience in agile methodology.
+Get assigned with CRs (Change Requests)/USs (User Stories) and complete them as deliverables within
+the  given deadlines
+Involved in the development of User Stories for POMR, CNS and other care activities.
+Bugs fixed in the user care activities and Profile Editor.
+Involved in the localization of some of the care activities.
+Involved in the UI design for Silverlight pages and other Aspx pages.
+Performed Unit Testing for the developed User Stories.
+PROJECT: FEEDBACK APPLICATION(MOBILE APPLICATION)
+CLIENT: FORTIS ESCORTS HEART INSTITUTE
+The project is mainly focused on patient feedback about the hospital.The project mainly to take feedback from
+inpatient and out  patient.The application is developed cross platform using PhoneGap. jQuery Mobile is a
+touch-optimized web framework (also known as a mobile framework), more specifically a JavaScript library,
+currently being developed by the .Net project team. The development focuses on creating a framework compatible
+with a wide variety of smartphones and tablet computers,sss made necessary by the growing but heterogeneous
+tablet and smartphone market.The query Mobile framework is compatible with other mobile app frameworks and
+platforms such as Phone Gap.
+Roles/Responsibilities: Software Engineer
+Create web service based on Rest architecture for cross platform .
+Responsible for designing frontend GUI screens using HTML 5 with Jquery Mobile.
+Create HTTP Method Commonly used in Rest based architecture (Get,Post,put,Delete).
+​Involved in writing client side validations, making sure the pages validate and fixing JavaScript
+errors.
+​Extensive use of Ado.Net in the data access layer to access and manipulate data in the database the
+data was then passed up the layer structure using typed datasets.
+PROJECT: PET LICENSE
+CLIENT: MUNIDEX 174 Route 17 North
+Suite 202,Rochelle
+Park,NJ07662
+(201)291-1000
+PET LICENSES For all your Dog and Cat licensing requirements. Prints the VPH 10, full audit trail,
+automatic renewals and much more. The Application was developed using Asp.net, C# Ado.net, HTML,
+JavaScript ,jquery is using a SQL server 2008 database for the content. The backend and front end of the
+Application is complete, fully functional and validated using the Jquery validation. The system involved a
+tiered model, with well-defined layers for the presentation, business and data access layers. The
+application is developed with an Entity-Framework.
+DECLARATION
+I hereby declare that all the above details are true to the best of my knowledge
+Date
+:
+Station :
+Akhil Kumar KM

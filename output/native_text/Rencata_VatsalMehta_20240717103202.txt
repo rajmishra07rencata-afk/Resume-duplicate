@@ -1,0 +1,76 @@
+Vatsal Mehta 								714-869-8444
+DevOps Engineer 							vatsal.taurus1@gmail.com
+Cypress, CA
+
+LinkedIn: https://www.linkedin.com/in/vatsaltaurus1/
+
+
+Professional Summary:
+5 years of experience as a DevOps Engineer, with a strong background in Linux administration, automation, and cloud infrastructure. Proficient in using tools such as Ansible, Jenkins, and Docker to manage and deploy applications. Strong problem-solving skills and ability to work well in a team.
+
+Education:
+Bachelor of Engineering in Electronics and Communications, Gujarat Technological University	2016
+Master of Science in Electrical Engineering, California State University				2019
+
+Technical Skills:
+Languages: Python, Shell, JavaScript, Bash
+Operating System: Windows, Linux, CentOS
+Build Tools: MAVEN, ANT, Gradle, MS Build.
+Version Control Tools: GIT
+Containerization: Docker, Kubernetes, marathon and Mesos
+Continuous Integration: Jenkins, Bamboo
+Continuous Deployment: Ansible, Terraform and Chef
+Monitoring Tools: Splunk, AWS CloudWatch and Selenium
+
+Professional Experience:
+
+Client: Nikola (Former Romeo Power), Cypress, CA				Mar 2022 - Present
+DevOps Engineer
+Project Description:
+Responsibilities:
+Configure and manage Jenkins pipelines for continuous integration and deployment.
+Integrate VectorCAST software test automation tool with Jenkins pipeline.
+Implement and maintain Docker containers to deploy and run applications in a consistent environment.
+Helped firmware team develop a GUI using python.
+Collaborate with firmware team to ensure smooth deployment of applications.
+Create JavaScript to push data through API.
+Maintained and managed access to Bitbucket repositories for the firmware team, ensuring proper branch management and code review processes were followed.
+
+Client: Morgan Stanley (Remote), New York City, NY				May 2020 - Feb 2022
+DevOps Engineer
+Project Description:
+Responsibilities:
+Develop and maintain automation scripts using Ansible to manage and deploy applications on multiple environments.
+Manage and configure cloud infrastructure on AWS.
+Implemented and maintained Argo Workflow for CI/CD pipeline in an organization.
+Automated build and deployment using Jenkins to reduce human error and speed up production processes.
+Managed GitHub repositories and permissions, including branching and tagging.
+
+Client: L&T Technology Services, Rockford, IL					Jan 2020 - Apr 2020
+DevOps Engineer
+Responsibilities:
+Automate the build and deployment of a Java-based project using JENKINS and Maven.
+Develop and manage an automated infrastructure using Puppet, build Puppet model for installing and managing Java versions, and implement a Python plugin to gather and build metrics to state using Puppet.  
+Gathering data from clients and providing advise via proof-of-concepts, as well as setting up Build/Deployment and Release management.
+Implemented webhook in GitHub to automatically compile, test and build by using the Maven and deploying into the Tom cat server.
+Worked on Vagrant to create virtual environment and installed multiple Oracle virtual boxes in it to run the application.
+Integrated Maven and GitHub in the Jenkins to build the job and getting the executable files war/jar/ear.
+Worked on Jenkins pipeline to automate the version control system, compile, test, build and deploying into the testing server.
+Using Jenkins, and Maven to set up a Continuous Delivery framework in a Linux environment. 
+Developed scripts to automate AWS services such as web servers, ELB, CloudFront Distribution, databases, AWS EC2, and database security groups.
+Using Jenkins, set up the continuous integration (CI) and continuous deployment (CD) processes for the application. 
+Worked with third-party libraries and Spring Frameworks (Spring IOC, Spring Boot, Spring Cloud).
+Responsible for expanding and improving the stability and performance of Amazon Web Services cloud applications and infrastructure
+
+Client: Allstate									Jan 2018 - Dec 2019
+DevOps Engineer
+Responsibilities:
+Involved in migrating applications to the AWS cloud.
+Experienced in Installing, Upgrading, Patching, Configuring and Administrating Red Hat Linux.
+Created jobs in Jenkins to build applications using Ant and Maven. In addition, developed several scripts to deploy artifacts in different environments.
+Worked efficiently with applications development team to implement, test and rollout new patch releases.
+Automated the build process using Jenkins and scheduled build jobs daily for the sanity check of the Java code checked in by the developers.
+Coordinating and managing the legacy/new stack environments.
+Creation of sandboxes for new applications in AWS public clouds.
+Worked closely with developers to pinpoint and provide early warnings of common build failures.
+Executed user administration and maintenance tasks including creating users and groups, reports and queries.

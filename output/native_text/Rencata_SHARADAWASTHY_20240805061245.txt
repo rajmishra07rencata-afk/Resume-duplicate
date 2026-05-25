@@ -1,0 +1,260 @@
+SHARAD AWASTHY
+
+Mobile: +91 7827203977, 7415317376
+
+Email: sharad.awasthy@gmail.com, 45.sharad@gmail.com
+ Address:-Hinjewadi,Pune
+CAREER STATEMENT: My career options are guided by my sense of satisfaction challenged involved, variety in learning and opportunities for growth. In this stage of my career, I am interested in enhancing my learning by working with high responsibility across various professional skills.
+
+PROFESSIONAL SNAPSHOT 
+
+A result oriented professional with 13 years’ experience in Cyber Security, Network Administration, Network Security and Cloud Security Field.
+DOMAIN EXPERTISE
+
+Cyber Security, Network administration and Network security, Cloud Security.
+Firewall administration.
+Network load balancing.
+Azure Cloud Security and Architect
+
+Technical
+
+Certificate       		  		:CCNP642-813(Switching),CCNA-640-802                                                                                                      					(ID:CSCO11749291),ITIL,PCNSA,AZ-104,AZ-500
+
+Operating System                       	:   	Windows (98, 2000, XP, 7), Linux 
+Networking Protocol			:	TCP/IP, BGP, OSPF, VPN, MPLS, EIGRP 
+Network Security Firewall		:            FortiGate, check Point, ASA, Juniper SRX, Palo 
+                                                                                  Alto, Cisco FMC-FTD                                                         
+Load Balancer                                         	:           F5                  
+Monitoring tool			            :	 SolarWinds, NetFlow, Infoblox
+IPS/IDS				            :          Cisco Firesight
+Cloud					:          Azure
+WAF                                                      :          Radware,Checkpoint
+Scripting Language			:	Python
+Ticketing Tool				:	Service now, BMC remedy
+	
+EMPLOYMENT HISTORY IT
+
+1) Organisation: Infosys Ltd
+Designation: Technology Lead
+Duration:  March 16 to till now
+
+
+Job Details:-
+As Technology Lead Provide L3 support to onshore customers.
+Understanding, resolving and communicating solutions to technical issue in a prompt and professional manner via the email, phone and live chat.
+Performing advanced diagnosis of problems to help maintain a high first level problem resolution rate.
+Managing various stages of the network development. This may include: design, analysis, configuration, testing and fixing issues with the network infrastructure or application components.
+Azure Security Center deployment and configuration Security policies.
+ Analyze resource utilization and consumption. Create and configure storage accounts. Create and configure a VM for Windows and Linux.
+Implement workloads and security.  authentication and secure data. Develop for the cloud and for Azure storage.
+Design for deployment, migration, and integration in Azure platform.
+Managing Next Gen Firewall (Fustigate, Cisco ASA, Check point, Juniper SRX, Palo Alto, and Cisco FMC-FTD).
+Configuring and troubleshooting Azure and F5 Load balancer.
+Upgrade and Migration for Check point ,Juniper, Cisco FTD-FMC Firewall.
+Network switches, routers, access control devices, and wireless configuration and monitoring.
+Provide technical support for projects as required. Advance trouble shooting on operational issues (L3 Level)
+Configuring and troubleshooting of Radware and Checkpoint WAF.
+Utilize a variety of network management tools ( Solarwind, Netflow, Infoblox).
+Configuring and troubleshooting of Load balancers.
+Network security IDS/IPS,VPN Configuration 
+Follow ITIL Process change management, process management to resolve any issue.
+
+
+
+
+Technologies Involved:
+
+Usage of Remote Access Tools, Terminal Services.
+Cloud- Azure solution architect
+Security - Firewalls, Patch Management, Proxy Servers, IDS, IPS.
+Cisco 3060VPN Concentrator
+Riverbed
+Radware WAF 
+Firewall Cisco ASA 5545 , Fortigate 110c, Checkpoint  R75 & R76,R80 Juniper SRX,Palo Alto
+Juniper WXC
+Cisco IPS 4240
+
+2) Organisation: Boss Technology (Sub. Con. in Infosys)
+Designation: Technology Lead
+Duration:  August 15 to March 16
+
+
+3) Organisation: Acliv Technologies Pvt. Ltd
+Designation: Network Administrator
+Duration:  July 14 to April 15
+
+
+Job Details:-
+As Network Administrator Provide L2 network Support and solution to client.  
+Network switches, routers, access control devices, and wireless configuration and monitoring.
+Configuring and troubleshooting of CISCO and Juniper routers.
+Configuring and troubleshooting of Load balancers (Radware SLB)
+Network security IDS/IPS,VPN Configuration 
+Firewall (Fortigate 110c and Checkpoint R75 & R76, ASA 5545) installation and Configuration.
+UTM Management, Smart defense, policy implementation. 
+Firewall backup management, monitoring and troubleshooting.  
+Upgrading of system software, including diagnosis and solution of OS.
+Provide off-hours support on a rotational basis.
+Serve as lead on network projects and participate in network infrastructure design.
+Maintain, change, Monitoring, Network.
+
+Technologies Involved:
+
+Protocols - TCP/IP, FTP, POP, SMTP etc. 
+Usage of Remote Access Tools, Terminal Services.
+ Internet Concepts such as Domain Names, 
+Network Monitoring tool PRTG.
+Security - Firewalls, Patch Management, Proxy Servers, IDS, IPS.
+VTP, STP, VLAN.
+VRF, HSRP,VRRP, GLBP, LS, CEF
+IGRP, EIGRP, RIP.RIP2.OSPF.
+Cisco 3060VPN Concentrator
+Riverbed
+Radware SLB 
+Firewall Cisco ASA 5545 , Fortigate 110c, Checkpoint  R75 & R76
+Juniper WXC
+Cisco IPS 4240
+
+
+4) Organisation: JK Techno soft
+Designation: Network Administrator
+Duration:  September 12 to April 14
+
+Job Details:-
+As Network consultant Provide network solution to client.  
+Network switches, routers, access control devices, and wireless configuration and monitoring.
+In-depth network services monitoring and troubleshooting.
+Configuring and troubleshooting of CISCO and Juniper routers.
+Configuring and troubleshooting Layer 2 and 3 Switches with VLANs, VTP, STP, VRF, HSRP, VRRP, GLBP, LS, CEF, and L2 & L3 Ether channel with Link Aggregation protocol like LACP.
+Troubleshooting & administration of  Nexus 7K/5K Switches.
+Configuring and troubleshooting of Load balancers Application control Engine (ACE).
+Network security IDS/IPS,VPN Configuration 
+Firewall (Fortigate 110c and Checkpoint NGX R65 & R76) installation and Configuration.
+UTM Management, Smart defense, policy implementation. 
+Firewall backup management, monitoring and troubleshooting.  
+Upgrading of system software, including diagnosis and solution of OS.
+Provide off-hours support on a rotational basis.
+Serve as lead on network projects and participate in network infrastructure design.
+Maintain, change, Monitoring, Network.
+Technologies Involved:
+
+Protocols - TCP/IP, FTP, POP, SMTP etc. 
+Usage of Remote Access Tools, Terminal Services.
+ Internet Concepts such as Domain Names, 
+Network Monitoring tool whatsup gold.
+Security - Firewalls, Patch Management, Proxy Servers, IDS, IPS.
+VTP, STP, VLAN.
+VRF, HSRP,VRRP, GLBP, LS, CEF
+IGRP, EIGRP, RIP.RIP2.OSPF.
+Router 2600, 2691, 2800, 7200, 3600, Switch 3550, 2950, Nexus 7K/5K
+Linux, Unix, Window 2003 & 2008 Server.
+
+
+5) Organisation: Unisys India Pvt Limited
+Designation:   Computer operation2
+Duration:  Sep 10 to Sep 12
+
+Job Details:-
+Network  administration and security of data center of Client.
+Firewall (Fortigate 110c and Checkpoint NGX R65) installation and Configuration.
+Troubleshooting of Firewall related issue.  
+upgrading of system software, including diagnosis and solution of OS.
+Trouble shooting of network related issue.
+Monitoring and configuration of Routers and switches and network trouble shooting.
+Configuring and troubleshooting of CISCO and Juniper routers.
+Keeping proper documentation of Inventory and day to day activities.
+Trouble shooting and Monitoring of Linux server.
+Datacenter Operation.  
+Installation, upgrade and maintenance of both hardware and operating systems.
+
+Technologies Involved:
+
+System and Console operations, Datacenter operations.
+UNIX, Linux.
+Protocols - TCP/IP, FTP, POP, SMTP etc. 
+Usage of Remote Access Tools, Terminal Services.
+ Internet Concepts such as Domain Names, 
+Network monitoring tool whatsup gold.
+Security - Firewalls, Patch Management. Proxy Servers.
+VTP, STP, VLAN.
+IGRP, EIGRP, RIP.RIP2.OSPF...
+Router 2600, 2691, 2800, 7200, 3600, Switch 3550, 2950.
+
+6) Organisation: 3i InfoTech
+Designation:  Assistant Engineer 
+Duration:  December 09 to August 10
+
+Job Details:-
+Work on NIC (National informatics centre) Project.
+Network monitoring and troubleshooting.
+Firewall troubleshooting and antivirus monitoring.   
+Trouble shooting of Linux server.
+Installation, upgrade and maintenance of both hardware and operating systems.
+Installation and configuration of Routers and switches.
+Installation, configuration and managing video conferencing.
+Installation & configuration IP Cameras.  
+ 
+
+	 Technologies Involved:
+
+Linux troubleshooting and monitoring.
+Corporate Email Systems. 
+Protocols - TCP/IP, FTP, POP, SMTP etc. 
+Usage of Remote Access Tools, Terminal Services.
+ Internet Concepts such as Domain Names, Networking.
+Security - Firewalls, Patch Management. Proxy Servers.
+IGRP,EIGRP,RIP.RIP2.OSPF
+Router 2800, Switch 500, 2950.
+
+
+7) Organisation: First Source Ltd. Bhopal (M.P.)
+Designation: CSA 
+Duration:  April 09 to July 09
+	
+
+Job Details:-
+Understanding, resolving and communicating solutions to technical questions in a prompt and professional manner via the email, online forums, phone and live chat.
+Resolved DSL (Digital Subscribe Line) Related Queries of AirTel.
+Hardware related troubleshooting and fault diagnosis.
+Development, demonstration & installation of products.
+Responsible for eliminating any queries regarding Systems.
+Trouble shooting the cause for any unknown issue coming in systems.
+
+8)Organisation: Reliance Info stream Pvt. Ltd.
+Designation: Technical Support Engineer
+Duration:  Aprl’07 to July ’08
+
+Job Details:-
+Understanding, resolving and communicating solutions to technical questions in a prompt and professional manner via the email, phone and live chat.
+Performing advanced first level diagnosis of problems to help maintain a high first level problem resolution rate.
+
+Technologies Involved:
+
+Ticket logging tool Remedy  
+Protocols - TCP/IP, FTP, POP, SMTP etc. 
+Usage of Remote Access Tools, Terminal Services. 
+Security - Firewalls, Patch Management. 
+Proxy Servers.
+
+
+
+ACADEMIC
+
+10th 				M.P. Board					1998	    65%
+
+12th 				M.P. Board					2000         55.55%
+	
+B.E (Computer Science)  	Thakral College of Technology (Bhopal)	   	2006         65.36%
+
+
+
+PERSONAL DETAIL
+
+
+Date of Birth	             : 6th October 1981
+Address Permanent	: H.No. 91, Krishna colony, Vidisha, M.P.
+Languages	             : English, Hindi 
+            
+
+Date:-                                                                                         
+                                                                                                            Sharad Awasthy

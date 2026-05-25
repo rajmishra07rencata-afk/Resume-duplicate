@@ -1,0 +1,224 @@
+K. Shanmugaraj                                
+: +91-9841913780 
+: shanmugarajkuppusamy@yahoo.com                                                 
+
+Enterprise Data Architect
+Datawarehousing & Business Intelligence, Bigdata and Analytics
+
+
+
+Highly enthusiastic, dedicated, and professional Enterprise Data Architect specialization in working with Data, DW/BI, Bigdata, Cloud and Analytics platforms. Offering an array of skills in data platforms, consulting, trend monitoring, IT expertise, data governance, defining data requirements and analytics. Recognized as a thought leader with expert ability to successfully implement end-to-end architecture and design for Data Analytics stands.
+
+
+
+
+
+
+Proficient in Data Architecture by using DWBI/Bigdata/Data Integration/Master Data Management, Data Migration and Operational Data Store, Analytical Reporting projects with a deep focus in design, development and deployment of data solutions using custom, open source and off the shelf data tools.
+Possess strong hands-on experience and functional knowledge in Data Life Cycle. Experience in Design, Development, and Maintenance & Support of application using Data technologies with best practices on Process Sequence, Dictionaries, Data Quality Lifecycles, Version Control and Software Development Life Cycle. 
+Expertise in managing entire DWBI/ Bigdata / Data Analytics project life cycle and actively involved in all the phases of project life cycle including data acquisition, data cleaning, data engineering, data analytical modeling and data visualization.
+Having extensive experience in Business Intelligence & Data warehousing tools using SAP Business Objects Data Services, Informatica, MSBI, Business Objects, Crystal Reports, MicroStrategy and SAP HANA with backend skills Oracle /SQL Server /Teradata. Strong experience and knowledge in Data Visualization with Tableau / QlikView
+Transition traditional ETL/Data Warehousing solutions to solutions that leverage Big Data technologies, building and architecting the next-generation Big Data analytics framework leveraging transformational technologies. Deep analytics and understanding of Big Data and algorithms using Hadoop eco system, Spark, NoSQL and distributed computing tools.
+Experienced in Dimensional Data Modeling experience using Data modeling, Relational Data modeling, ER/Studio, Erwin, and Sybase Power Designer.
+Solid knowledge in Data Science, Machine Learning, Data mining with large data sets. Adept in Analytical programming languages like R and Python.
+Experience in Agile Methodology project execution model and expertise in coordinating the teams between multi locations.
+
+
+DW Tools: 
+Business Intelligence, Visualization and Analytical Tool: 
+Bigdata and supporting Tools:
+Data Science Tool: 
+Data Modeling: 
+Databases: 
+Application Tools and Languages: 
+ERP and CRM Product: 
+Domain Expertise: 
+
+	
+
+
+
+
+Standard Chartered Bank GBS India - Senior Data Architect |    Jan 2020 – Till
+
+Principal Solutions Architect responsible for Modern Data Architecture, DW&BI and Big data & analytics requirements and defining the strategy, technical architecture, implementation plan, management and delivery of Data applications and solutions.
+
+Data Architecture and strategy implementations, Cloud implementations and strategy.
+
+Responsible for end to end solutions and design / delivery.
+Environment:  Hadoop eco system and distributed system,  HIVE, Dataiku, MicroStrategy, Dremio and Tableau, Python, Azure, PEGA, Oracle
+
+GSPAAN Technologies - Sr. Technical Manager | Tech Arch			                   
+Feb 2019 – Dec 2019
+Responsible for overseeing implementation of Data Ingestion by using Bigdata / DW&BI techniques. Working Interpret problems and provides solutions to business problems using data analysis, data mining, optimization tools, and analytics.
+Worked on data pre-processing and cleaning the data to perform feature engineering and performed data imputation techniques for the missing values in the dataset using Python
+Responsible for delivering end to end data products, business analytics applications and product engagement apps. Managing end to end technical delivery of data products and projects.
+Working with large teams and involved in architecture of highly scalable, secure, distributed applications, aligned with company standards, process, methodologies, and best practices.. 
+Environment:  MSBI Suite, MicroStrategy, Boomi and MuleSoft, Hadoop eco system and distributed system, Tableau, Python, Azure.
+Accenture- Project Manager | Sr. Technical Architect				       July 2011 – Dec 2018
+Architecting, managing and delivering the technical projects /products for various business groups.
+Performed extensive Data Validation, Data Verification against Data Warehouse and performed debugging of the SQL-Statements and stored procedures for business scenarios.
+Provided migration approach to consolidate scripts written in Python as the scripting language and implement best practices. Developed ETL process to support Data Warehousing System with source data from different source.
+Responsible for overseeing implementation of SAP Data Migration using SAP BODS / HANA technology. 
+Interpret problems and provides solutions to business problems using data analysis, data mining, optimization tools, and machine learning techniques and analytics.
+Built analytical data pipelines to port data in and out of Hadoop eco system from structured and unstructured sources and designed and implemented system architecture for Microsoft Azure Bigdata based cloud-hosted solution for client.
+Extensive experience implementing software throughout the SDLC process, deep hands-on experience of data migration and implementation in Azure.
+Led discussions with users to gather business processes requirements and data requirements to develop a variety of Conceptual, Logical and Physical Data Models. 
+Environment:  Oracle, MS SQL Server, SAP ECC, S4 HANA, HANA Data Model, SAP Business Objects Data Services, Hadoop, Hive, Spark, Tableau, QlikView, MSBI Suite, Oracle SQL Developer, Informatica, Azure cloud, SFDC.
+Cognizant Technology Solution - Project Lead | Technical Architect		           January 2008 – June 20011
+Responsible for assessing data and BI requirements and defining the strategy, technical architecture, implementation plan, and delivery of data warehouse and for establishing the long-term strategy and technical architecture as well as the short-term scope for a multi-phased data warehouse effort.
+Architecting, managing and delivering the technical projects /products for various business groups. Lead and involved technical development team in construction of ETL, BI solutions and Data warehousing implementations. Managing and lead a technical team both onsite and offshore members.
+Design, architect and develop various data integration and reporting projects which varies from medium to complex in nature.
+Providing solution architecture for various Data warehouse and Business intelligence systems.
+Drive new technological solutions to support data and catering to different business needs.
+Delivering complex data integration and reporting projects to support various business needs
+Serving as a Senior DW ETL Architect/Lead in defining, developing, and enhancing custom DW/BI system
+Defining and developing project scope/plan, creating and developing Enterprise wide Data warehouse and multi-dimensional Datamart data models.
+Mainly involved in architecting the project right from the initial design phase, existing reporting system migration to the new proposed systems, building the ETL integration part, Staging layer and BI layer for reporting solutions.
+Supported the production support teams during the pre and post-warranty of the BI reporting projects on time in resolving production failures or issues.
+Environment:  Oracle, MS SQL Server, PL/SQL, Business Objects, Power Designer, TOAD, SQL*LOADER, Teradata, Netezza, MicroStrategy, Business Objects Data Services, Informatica PowerCenter, Autosys.
+3i infotech Solutions- Technical Lead | Data Analyst			           December 2005 – December 2007
+Lead developers for enhancing and delivering various Forms modules in an Environment, Insurance application. Acted as scrum master for releases.
+Developed various packages using Forms10g / PLSQL for heterogeneous data. 
+Multiple desktop applications have been developed using the Forms10g with Oracle as backend.
+Good programming experience in SQL, PL/SQL, Complex Stored Procedures, Triggers.
+Performance tuning using SQL Query Optimizer.
+Creation of roles, profiles and privileges and assigned roles to the users.
+Created and Executed the Batch programs for importing and exporting the data in scheduled jobs.
+Environment:  Forms 10g, Reports 10g, Oracle10g, ER Model, TOAD, Crystal Report, Visual Source Safe, Visio, Oracle Report Builder.
+SPIC / Cherrytech - Application Developer | Software Engineer			        August 2000 – November 2005
+Responsible for designing the solution, user training, maintaining the system interface and providing system support to the customer service and warehouse groups.
+Work closely with IT and business analysts in determining system requirements.
+Model and design the Application and DB Design for production. Create logical and physical data models and implement the database.
+Execute, analyze and write PL/SQL queries in Oracle 9i to verify data and reconcile Business Intelligence (BI) reports.
+Architect, design and develop UNIX shell scripts and new processes to communicate between the Order Management (Inventory) and provisioning systems for IMS
+Plan, coordinate and liaise between users and the development team.
+Develop and implement new service-oriented modules for the Provision Manager/ Provision Updater to process orders and inventories.
+Environment:  Forms 9i, Reports 9i, Oracle9i, Erwin, Crystal Report, MS Access, Visual Basic 
+
+
+
+
+
+
+
+
+
+Project: Atlas ecom – DWBI & Advance Analytics – Rodanandfields US (Feb 2019 – till)
+Rodan + Fields distributes via multi-level marketing, which has been criticized by consumer advocates as akin to a pyramid scheme. Consultants focus on social media, phone and in-person presentations to sell products and invite others to join their team. 
+R+F have their own EDW / Analytical environment which gives the result of day-to-day business reports and its helps to leadership team to improve their business and customer needs. The Businesses today are looking to combine mature, optimized data warehouse solutions with contemporary BI and Analytical tools that are interactive, incorporate simplified dashboards and provide anytime, anywhere access to information.
+Principal Solutions Architect responsible for Modern Data Architecture, Hadoop, Big data, data and BI requirements and defining the strategy, technical architecture, implementation plan, management and delivery of Big Data applications and solutions.
+Developing technology specifications and ensuring that new technology solutions are designed for optimal access and usefulness, and leveraging existing technologies when possible
+Applying architectural and engineering concepts to design a solution that meets operational requirements, such as scalability, maintainability, security, reliability, extensibility, flexibility, availability and manageability
+Analyze, design and code business-related solutions, as well as core architectural changes, using an Agile programming approach resulting in software delivered on time
+Environment:  MSBI Suite, MicroStrategy, Boomi and MuleSoft, Hadoop eco system and distributed system, Tableau, Python, Azure, JIRA.
+
+Project: Quattro – SAP Data moves / Analytics - Merck KGaA Germany (Dec 2015 – Dec 2018)
+Merck is a vibrant team of specialists in Healthcare, Life Science and Performance Materials. The Merck is one of the leading Life science industry and mainly using the SAP system. The client rolled-out a global SAP Performance Material system for global level. The role as Data Migration was responsible for all migration activities for across global level including migrations to test- und production environments. 
+The data comes from SAP / Non-SAP system to reporting platform (SAP HANA) as well as SAP system using BODS for ETL process and Bigdata for ELT process.
+
+Responsible to design and develop the technical/functional specification for ETL development and implement using SAP BODS. Analyze dependencies for workflow for various ETL processes, handle exception, and maintain logs.
+Liaise with business SMEs in analyzing business requirements, understand the various data sources.
+Develop strategies for use in high volume, high performance heterogeneous environment using Big Data / Data visualization for Analytical reports. 
+Define the work plan, schedule, budget, and required personnel for deployment. Assess application and training readiness for application deployment. Ensure adherence of deployment activities to all quality management plans and standards. Participate in quality management reviews.
+Environment: SAP Business Objects Data Services / SAP HANA / Oracle / SAP ECC / Python / Bigdata / JIRA / Azure
+
+Project: CCBCC BI Consolidation – Coke, USA (April 2015 – Nov 2015)
+The Coke One North America (CONA) Business Intelligence (BI) Pilot is to test the viability of moving Coca-Cola Bottling Co. Consolidated (CCBCC) reporting data into the CONA reporting platform to allow reporting from the CONA reporting platform containing both CCBCC Legacy and CCBCC CONA territories. The data comes from CCBCC Enterprise Data Warehouse (EDW) to the CONA reporting platform (SAP HANA). From SAP HANA a pilot dashboard will be created in the Tableau reporting tool.
+Liaise with business SMEs in analyzing business requirements and translating them into detailed conceptual data models, process models, logical models, physical models and schema development in the database.
+Model & Architect DW design, direct and/or execute the technical characteristics of the overall strategy of the data warehouse and ETL process in BODS.
+Architect the database schema and implement dimensional model (star schema). Review and maintain the schema, its tables, indexes, views and procedures in SQL Server.
+Responsible for the DW BI with Bigdata architecting the future solution. Lead the team to work on new development on CCBCC BI module. Tracking the status of the work for the different teams, updating the project plan, monitoring the team & coordinating with the onsite team
+Environment: SAP Business Objects Data Services /S4 HANA/ Big Data / SQL Server / Tableau
+
+Project: Nestle CRM Implementation – Nestle, Germany (Sep 2013 – Mar 2015)
+Nestle CRM Implementation project mainly deals with It sets out to build a global platform for all Nestle businesses that includes a range of application i.e., Consumer Centric Information Database (CCID), Consumer Services (CS), Campaign Management Tool (CMT), Analytics and Social Media. 
+Data extracted to the Common Warehouse utilizing BO Data Services / SSIS Tool to command an Extract Transform Load (ETL) Process. The self-service reporting cluster provides a set of transactional reports using reporting tool.
+Managed the complete project with a team size of over fifteen persons. Provided a leadership role on the project and mentored the clients
+Original creator and architect of Nestle enterprise wide customer profitability Data warehouse. 
+Worked on this project from inception. Conceived, designed, developed and implemented the data warehouse solution from scratch. Analyzed the existing systems and the business user requirements for tactical and strategic needs.
+Defined the Architecture and the various phases to create the data warehouse / BI and visualization space.
+        Environment: SAP Business Objects Data Services /SSIS / SQL Server / Salesforce / Tableau / HPALM
+
+Project: EDW Reporting / EPIC Clarity Reporting – Stanford Hospital and Clinic, USA (July 2011 to Aug 2013)
+Stanford Health and Clinic is known worldwide for advanced patient care provided by its physicians and staff, particularly for the treatment of rare, complex disorders. SHC is recognized as one of “Americas Best Hospitals” and is ranked in the top 20 US hospitals.
+
+Epic Clarity - Clarity is Epic’s enterprise-wide reporting system specifically designed to meet the reporting requirements for large healthcare organizations. It is used for analytical reporting with Weekly, Monthly, Quarterly and Yearly comparison data is needed.
+EDW: Data extracted to the Common Warehouse utilizing BO Data Integrator / SSIS Tool to command an Extract Transform Load (ETL) Process. The self-service reporting cluster provides a set of transactional reports using reporting tool.
+Lead the team to work on new development with BODS/ BO skill, enhancements & bug fixing of Crystal reports and Epic-ETL Module. Tracking the status of the work for the different teams, updating the project plan, monitoring the team & coordinating with the onsite team.
+Detailed planning for effective project management and monitoring the project progress as well as designed the database structure and review design/codes and performance analysis as associate Project manager.
+       Environment: SAP Business Objects Data Integrator / Business Objects / QlikView / SSIS / EPIC ETL Tool/ Oracle
+
+Project: Customer System Reporting – Elsevier, USA (Dec 2008 to Jun 2011)
+Overview:  CSRT   is   used   internally   by   Elsevier   business   personnel   to   report   on
+customer metadata captured   through   the   Customer   System and Customer   System
+Admin Tool. The main purpose of this tool is to report on various kinds of data captured
+by the Customer System; this tool has been enhanced to provide usage reporting on
+the Customer System Admin Tool. Scopus and Science Direct users are authenticated
+through Customer Systems. The Admin Tool Usage Reports provides various admin
+reports based on the user activity in the Admin Tool. Customer System controls the
+A&E for both Scopus and Science Direct applications.
+External users (businesspeople who want to access changes in accounts and/or usage
+patterns) access the RT (reporting tool) via the Customer System application.  Anyone
+defined in CS with a role that allows access to CSRT (or RT) will have an active link to
+CSRT.
+Overview:  CSRT   is   used   internally   by   Elsevier   business   personnel   to   report   on
+customer metadata captured   through   the   Customer   System and Customer   System
+Admin Tool. The main purpose of this tool is to report on various kinds of data captured
+by the Customer System; this tool has been enhanced to provide usage reporting on
+the Customer System Admin Tool. Scopus and Science Direct users are authenticated
+through Customer Systems. The Admin Tool Usage Reports provides various admin
+reports based on the user activity in the Admin Tool. Customer System controls the
+A&E for both Scopus and Science Direct applications.
+External users (businesspeople who want to access changes in accounts and/or usage
+patterns) access the RT (reporting tool) via the Customer System application.  Anyone
+defined in CS with a role that allows access to CSRT (or RT) will have an active link to
+CSRT.
+Overview:  CSRT   is   used   internally   by   Elsevier   business   personnel   to   report   on
+customer metadata captured   through   the   Customer   System and Customer   System
+Admin Tool. The main purpose of this tool is to report on various kinds of data captured
+by the Customer System; this tool has been enhanced to provide usage reporting on
+the Customer System Admin Tool. Scopus and Science Direct users are authenticated
+through Customer Systems. The Admin Tool Usage Reports provides various admin
+reports based on the user activity in the Admin Tool. Customer System controls the
+A&E for both Scopus and Science Direct applications.
+External users (businesspeople who want to access changes in accounts and/or usage
+patterns) access the RT (reporting tool) via the Customer System application.  Anyone
+defined in CS with a role that allows access to CSRT (or RT) will have an active link to
+CSRT.
+Overview: CSRT is used internally by Elsevier business personnel to report on customer metadata captured through the Customer System and Customer System Admin Tool. The main purpose of this tool is to report on various kinds of data captured by the Customer System; this tool has been enhanced to provide usage reporting on the Customer System Admin Tool. Scopus and Science Direct users are authenticated through Customer Systems. The Admin Tool Usage Reports provides various admin reports based on the user activity in the Admin Tool. Customer System controls the A&E for both Scopus and Science Direct applications.
+External users (businesspeople who want to access changes in accounts and/or usage patterns) access the RT (reporting tool) via the Customer System application.  Anyone defined in CS with a role that allows access to CSRT (or RT) will have an active link to CSRT
+Involving the Project management activity includes Project Plan, Estimation and interacts with Quality Auditing.
+Responsible to design and implement an enterprise Data Warehouse to meet the decision support needs of users in the area of Scopus and Science Direct applications.
+Designed a three tier-based Data Warehouse architecture.
+Created the Data Warehouse Data Model to store atomic level data and the summarized data.
+Created the Design for Extraction process from legacy systems using combined techniques of Data Replication and Change Data Capture.
+      Environment: SAP Business Objects Data Integrator / Business Objects / Oracle 11g / Power Design
+   
+Project: ProSTAR (Promotional Spend Tracking and Reporting) – AstraZeneca, USA (Jan 2008 to Dec 2008)
+Objective: The objective of this project is to provide the AstraZeneca Compliance team, with a new Reporting Tool that will address requirements of Management Reports, Field Reports and State Level Reports. The system shall also provide alerts and thresholds to the field staff and management, over a given period. 
+The Commercial Compliance Reporting System initiative at AstraZeneca is aimed at replacing the current time consuming, labor intensive manual reporting system with an automated reporting tool, which shall provide flexibility in addressing the future requirements as additional States enact legislation’s for reporting Sales and Marketing spend information.
+Consolidated the requirements and worked to create the Enterprise Data Model along with the Logical Data Model for the system using ERWIN CASE tool. Created Entities, attributes, relationships and the data dictionary for the system. 
+In addition to transactional systems, also created Data Structures for Corporate Data Warehousing for Decision Support Systems (DSS). Analyzed, designed and created the Data Warehouse model which includes, data structures, Meta Data, and design to transform and load data into warehouse. Also looked into aspects of Multidimensional Databases verses the Relational/OLAP.
+        Environment: Informatica /MicroStrategy / Dot Net / ILOG / Oracle 10g / Erwin
+
+Project: PREMIA (General Insurance Product) – Middle East Client, UAE (Dec 2005 to Dec 2007)
+PREMIA (Profitable Relationships through Effective Management of Insurance Activities) is an enterprise-class insurance management and control system that supports underwriting, claims, and re-insurance services, backed by comprehensive financial accounting, reporting and analysis. It has the capability of mirroring the exact business needs of the insurance company. The product is designed such that the insurance company does not have to distort its functioning and business plan; rather, the system fits in very comfortably into the user’s system of functioning. The product takes care of end-to-end flow of business documents within the organization, starting from the Quotation given to a customer, to the Policy and Schedules and the generation of relevant Financial Documents
+Main responsibility was to interact with the client to understand their requirement, doing the impact analysis in the existing system and making SRS according to the requirement.
+Designing the Project Plan, Estimation and interact with Quality Auditing.
+Doing the technical design and assigning task to the Team member, updating the higher authority about the status and making sure that the delivery is within the deadline.
+Detailed planning for effective project management and monitoring the project progress as well as designed the database structure and review design/codes and performance analysis as associate Project Lead.
+Extend technical, post-implementation and maintenance support to the client.
+Assisted the downstream teams (Design, Development and Test) to onboard the source data successfully).
+Environment: Oracle 9i&10g / Forms 6i&10g / Report 6i&10g / Toad / Oracle Report Builder / VSS
+
+Project:  Information Management System (IMS) – Indo Jordan, India / Jordan (Sep 2003 to Nov 2005)
+A complete listing of merchandise or stock on hand, work in progress, raw materials, and Finished goods on hand, etc., made each year by a business concern, the objects or items represented on such a list, as a merchant's stock of goods, the aggregate value of a stock of goods. Raw material from the time of its receipt at an industrial plant for manufacturing purposes to the time it is sold. A catalog of natural resources esp. a count or estimate of wildlife and game in an area, the act of making a catalog or detailed listing.
+Work with Oracle to develop the Material Management systems.
+Worked on all phases of the Software Development – Requirements elicitation (Use Case), Analysis, Design, Construction, Testing and Implementation.
+Developing Used case and requirement specification document from client input and legacy system analysis.
+Actively involved in the construction phase and coordinated onsite and offshore activities.
+Designed Relation tables and actively involved in developing SQL queries for the application.
+Assisted Project Manager in Project Planning, Schedules monitoring, and resource utilization.
+Assist to VB Team.
+Environment: Oracle 9i / Forms 6i / Report 6i / VB / Crystal Report, Toad

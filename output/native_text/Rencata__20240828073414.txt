@@ -1,0 +1,53 @@
+Skills
+Experience
+HCL Technology
+Wintwin Technologies
+EDWARDS Lifesciences
+1/2/2019
+CARDIAC SCIENCE LCAED SERVER Device management software
+1/6/2018 - 1/1/2019 (7 months)
+NBCUniversal Campus
+1/4/2017 - 1/6/2018 (14 months)
+Projects
+Worked on Angular 7 and later migrated to Angular 8. Handled the entire UI side
+development as the sole UI resource. Used ngx-bootstrap and material design with
+Angular 8 for data display and management. Implemented the LazyLoading concept
+to improve application performance. Provided support for 14 languages using
+ngx-translate. Ensured code quality through adherence to standards and bug fixes
+using karma and jasmine. Conducted cross-browser and cross-platform compatibility
+testing, code optimization, and unit testing. Explored and implemented innovative
+ideas.
+ASP .NET
+MVC
+Web API
+SQL Server
+Dotnetazure@gmail.com
+Phone: 9842434679
+DotNetAzure
+Worked on Angular 7 and Node JS. Handled the entire UI side development as the
+sole UI resource. Created wireframes, designed the file structure, and maintained
+files. Used ngx-bootstrap and material design with Angular 8 for data display and
+management. Developed RESTful web services using Node JS and Express JS. Created
+reusable components and directives. Implemented the LazyLoading concept to
+improve application performance. Provided support for 14 languages using
+ngx-translate. Ensured code quality through adherence to standards and bug fixes
+using karma and jasmine. Conducted cross-browser and cross-platform compatibility
+testing, code optimization, and unit testing. Explored and implemented innovative
+ideas.
+Worked as a UI developer to build a new web application. Started with Angular 2 and
+later migrated to Angular 6. Used ngx-bootstrap and material design with Angular 6
+for data display and management. Created RESTful web services using Node JS and
+Express JS. Created reusable components and directives. Implemented the
+LazyLoading concept to improve application performance. Ensured code quality
+through adherence to standards and bug fixes using karma and jasmine. Conducted
+cross-browser and cross-platform compatibility testing, code optimization, and unit
+testing. Explored and implemented innovative ideas.
+Education
+Degree
+College
+Year
+MCA
+Madras University at Chennai
+BCA
+Sree Ragavendra Arts &
+Science Collage Chidambaram

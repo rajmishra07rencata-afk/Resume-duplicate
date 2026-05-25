@@ -1,0 +1,104 @@
+Chaitanya Gotmare
+Nagpur, Maharashtra, India. | gotmarechaitanya@gmail.com | +918446398294 | Linkedin-Chaitanya Gotmare
+SUMMARY
+Dedicated and highly skilled Senior Python
+Developer with 2 years and 8 months of
+experience in designing, implementing, and
+maintaining software solutions. Proficient in
+Python, SQL, Selenium, Web Scraping.
+Adept at leading development teams,
+solving complex problems, and delivering
+high-quality, efficient code. Seeking
+opportunities to contribute technical
+expertise and innovation to a dynamic
+organization.
+EDUCATION
+Yeswantrao Chavan College of
+Engineering, Nagpur (2016-2020)
+Bachelor of Engineering (B.E.) in
+Mechanical Engineering Grade : 8/10
+P.M.B.S, Nagpur, India (2016)
+Maharashtra State Board of Secondary &
+Higher Secondary Education (MSBSHSE)
+Major: Mathematics, Physics, Chemistry
+and Computer Science Grade : 81 %
+SKILLS
+•Programming Languages: Python, SQL
+•Database Management: MySQL
+•Libraries and Frameworks: PyQt5,
+Selenium, Beautiful Soup, Pandas, NLTK,
+TensorFlow, Matplotlib
+•Software Interface: RestAPI
+•Web Development: Html,
+Django(Beginners level)
+•Automation: RPA(Robotic Process
+Automation), Task Scheduler
+•Version Control: Git, SVN
+•Testing and QA: Selenium(Python, JAVA)
+•Software Packages: MS Word, MS Excel,
+MS PowerPoint, Gitlab, Google Sheets
+•Software Tools: Eclipse, VS Code,
+SublimeText
+SOFT SKILLS
+•Experience in handling customer incidents
+and strong customer focus in solutions.
+•Strong Analytical and Problem Solving
+Ability and Data Management.
+•Team Leadership and Collaboration
+•Strong Communication and
+Documentation Skills
+ACHIEVEMENTS
+•Awarded for Outstanding Contribution in
+Delivery Excellence. Capgemini | Q-3 (July
+22 - Sept 22)
+LANGUAGES
+•English, Hindi, Marathi
+WORK EXPERIENCE
+S&V CODING Pvt. Ltd., Delhi, India
+Senior Python Developer (April’23-Present)
+Business Unit : Development
+Requirement: UI Development
+•Led a team of 5 in designing and implementing Python-based solutions for end
+to end process development and maintenance of custom web scraping tools for
+gathering ticketing data from multiple online sources.
+•Developed and maintained web scraping applications using Selenium and
+Beautiful Soup, extracting and parsing data from various websites, resulting in
+data accuracy, increasing speed and reducing time.
+•Designed and maintained PyQt5-based desktop applications, delivering
+user-friendly interfaces and enhancing user experience.
+•Collaborated with cross-functional teams to gather and analyze software
+requirements, ensuring the alignment of software solutions with business goals.
+•Monitored and maintained scraping tools to adapt to changes in the structure of
+ticketing websites or to address issues with data quality.
+•Researched and implemented data storage solutions on MySQL database, to
+organize and manage scraped ticketing data efficiently.
+•Assisted in optimizing website and API performance through code
+improvements.
+•Contributed to the design of user interfaces for ticketing data display and user
+interaction.
+•Highly appreciated work with delivery proven results.
+Capgemini Technology Services Pvt. Ltd. Bangalore, India.
+Senior Data Analyst (March’21–March’23)
+Business Unit : Research and Development
+Client: AIRBUS & BOMBARDIER
+Requirement: Process Development
+•End to end solution delivered for Simplified Technical English(STE-Checker) tool
+using AI/ML packages in Python.
+•The tool is capable of identifying errors in individual sentences as well as in large
+files.
+•Libraries used NLTK, GingerIt, TensorFlow, pandas.
+•End to end solution delivered for Callout Validation and verification tool.
+•The tool is capable of identifying callouts present on illustration as well as text.
+•Coordinated with client for improving quality of the tool.
+•Accuracy of tool resulted in decreasing 90 % of manual efforts and reduction in
+time by 95 %.
+•Highly efficient tool with accurate results.
+•Automated desktop application using RPA (Robotic Process Automation)
+framework and worked on SubVersion for version control.
+COURSES
+•MOOC- Agile Software Development on Coursera. Certificate
+•Automation, Coursera | July 2022 Certificate
+•Exploratory Data Analysis for Machine Learning | Dec 2022 Certificate
+•Beginner Deep Learning. Coursera | June 2021 Certificate
+CERTIFICATIONS
+•Data Mining and Machine Learning on Udemy(on going).

@@ -1,0 +1,112 @@
+GET IN CONTACT 
+ 
+Mobile: +91-9042678048 
+ 
+Email:  dilip.kumar.feb1802@gmail.com 
+ 
+ 
+PERSONAL DETAILS 
+Total Experience 2 Years, 0 Months 
+Current Location  Chennai 
+Date of Birth 
+Feb 18, 1998 
+Gender 
+Male 
+Marital Status 
+Single / Unmarried 
+ 
+ 
+SKILLS 
+UNIX 
+Software Engineer 
+Software Development 
+Production Support 
+Backend Development 
+Troubleshooting 
+Application Development 
+Application Support 
+SQL Development 
+Software Support 
+Oracle Development 
+Software Design 
+Plsql Development 
+SQL 
+ 
+ 
+TECHNICAL SKILLS 
+Oracle SQL 
+Oracle Pl/Sql 
+SQL, PL/SQL, UNIX 
+SQL Developer 
+Windows(All Versions) 
+PROFILE SUMMARY 
+ 
+I Have 2 years of Experience in IT industries in 
+the areas of ORACLE Development and 
+Production Support. Worked on Production 
+Support troubleshooting the application and 
+resolving bugs. Experience in application 
+development and production support of large 
+and critical network with 24/7 uptime. Strong 
+experience in writing Complex queries using 
+Analytical Functions, Joins and Sub Queries in 
+Oracle SQL.  Expertise in Client-Server 
+application development using Oracle 11g, 
+PL/SQL, SQL*PLUS. Proficient in creation, 
+modification and effectively use of database 
+objects like Tables, views, Constraint, 
+Sequences, Indexes, Group Functions, Stored 
+Procedures, Packages, Trigger. Involved in 
+resolving production problems for the 
+applications and ensure all support service level 
+agreements are met. Good understanding and 
+expertise of the software development life cycle. 
+ Ability to work in teams and independently 
+with minimal supervision to meet deadlines. 
+ 
+ 
+EDUCATION HISTORY 
+ 
+Graduation 
+ 
+Course 
+B.Tech/B.E.( Civil) 
+College 
+SRM Valliammai engineering college 
+Year of Passing 
+2021 
+ 
+ 
+WORK EXPERIENCE 
+Dec 2021 to Present 
+ 
+Software Engineer at Versuche Technologies Pvt Ltd 
+ 
+ Working as Software Engineer with Versuche 
+Technologies Pvt Ltd, Chennai from December 2021 to till 
+now. PROJECT-1 Project Title : WBCP Client : WesBanco 
+Bank, USA Environment : Oracle 11g, SQL, PL/SQL, UNIX 
+Roles &Responsibilities:  Understanding the business and 
+its requirements carrying out impact analysis.  
+Involved in full development cycle of Planning, Analysis, 
+Design, Development, Testing and Implementation.  
+Created Procedures, Triggers, Functions and Packages.  
+ 
+Dilip Kumar V 
+Software Engineer seeking roles in Software Development,Production 
+Support,Backend Development,Fullstack 
+Development,Troubleshooting,Application Development,Application Support,SQL 
+Development,Software Support,oracle development,plsql development 
+ 
+LANGUAGES KNOWN 
+English 
+Tamil 
+Created and modified PL/SQL scripts for data conversions. 
+ Database designing and preparation of design documents.  
+Checking and completion of process and report generation  
+Resolved issues with assigned SLA. 
+ Implementation of the application on Production Server. 
+Analyze and Troubleshoot issues in the Reporting 
+Application and underlying SQLs. Prepared root cause 
+analysis for problems occurred. Database designing and 
+preparation of design documents
