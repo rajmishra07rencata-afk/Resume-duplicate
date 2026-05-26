@@ -11,17 +11,14 @@ class TextValidator:
 
         text = text.strip()
 
-        # Too small
-        if len(text) < 100:
+        if len(text) < 50:
             return False
 
-        # Word count
         words = re.findall(r'\b[A-Za-z]{2,}\b', text)
 
-        if len(words) < 20:
+        if len(words) < 8:
             return False
 
-        # Alphabet ratio
         alpha_chars = sum(c.isalpha() for c in text)
 
         visible_chars = sum(
@@ -34,7 +31,11 @@ class TextValidator:
 
         ratio = alpha_chars / visible_chars
 
-        if ratio < 0.5:
+        # =========================================
+        # RELAXED: resumes have dates, pipes,
+        # bullets, phone numbers which lower ratio
+        # =========================================
+        if ratio < 0.20:   # was 0.30
             return False
 
         return True
