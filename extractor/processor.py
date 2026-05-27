@@ -7,6 +7,7 @@ from extractor.pdf_extractor import PDFExtractor
 from extractor.docx_extractor import DOCXExtractor
 from extractor.validator import TextValidator
 from extractor.pdf_to_image import PDFToImage
+from extractor.text_cleaner import TextCleaner
 
 
 class ResumeProcessor:
@@ -14,15 +15,11 @@ class ResumeProcessor:
     def __init__(self, doc_extractor, azure_ocr, ocr_worker):
 
         self.doc_extractor = doc_extractor
-        self.azure_ocr = azure_ocr
-        self.ocr_worker = ocr_worker
+        self.azure_ocr     = azure_ocr
+        self.ocr_worker    = ocr_worker
 
     # =========================================
     # COM RETRY HELPER
-    #
-    # Word COM can reject calls if it is busy
-    # or not fully released from previous use.
-    # Retry with delay solves RPC_E_CALL_REJECTED
     # =========================================
 
     def _com_retry(self, fn, retries=3, delay=3):
@@ -32,7 +29,6 @@ class ResumeProcessor:
         for attempt in range(1, retries + 1):
 
             try:
-
                 return fn()
 
             except Exception as e:
@@ -45,7 +41,6 @@ class ResumeProcessor:
                 )
 
                 if attempt < retries:
-
                     print(f"[COM RETRY] Waiting {delay}s...")
                     time.sleep(delay)
 
@@ -53,29 +48,20 @@ class ResumeProcessor:
 
     # =========================================
     # KILL LEFTOVER WORD PROCESSES
-    #
-    # Zombie Word.exe blocks new COM instances.
-    # Kill them before retrying.
     # =========================================
 
     def _kill_word_processes(self):
 
         try:
-
-            os.system(
-                "taskkill /f /im WINWORD.EXE >nul 2>&1"
-            )
-
+            os.system("taskkill /f /im WINWORD.EXE >nul 2>&1")
             time.sleep(2)
-
             print("[COM] Killed leftover Word processes")
 
         except Exception as e:
-
             print(f"[COM] Could not kill Word: {e}")
 
     # =========================================
-    # DOCX → PDF  (with retry)
+    # DOCX → PDF
     # =========================================
 
     def convert_docx_to_pdf(self, path):
@@ -88,15 +74,12 @@ class ResumeProcessor:
             pythoncom.CoInitialize()
 
             word = None
-            doc = None
+            doc  = None
 
             try:
 
-                word = win32com.client.DispatchEx(
-                    "Word.Application"
-                )
-
-                word.Visible = False
+                word = win32com.client.DispatchEx("Word.Application")
+                word.Visible      = False
                 word.DisplayAlerts = 0
 
                 abs_path = os.path.abspath(path)
@@ -107,21 +90,16 @@ class ResumeProcessor:
                     ConfirmConversions=False
                 )
 
-                # Give Word time to fully load document
                 time.sleep(1)
 
                 pdf_path = tempfile.mktemp(suffix=".pdf")
-
-                # 17 = wdFormatPDF
                 doc.SaveAs(pdf_path, FileFormat=17)
 
-                # Give Word time to finish writing
                 time.sleep(1)
 
                 return pdf_path
 
             except Exception as e:
-
                 raise
 
             finally:
@@ -138,26 +116,19 @@ class ResumeProcessor:
                 except:
                     pass
 
-                # Give Word time to fully release COM
                 time.sleep(1)
-
                 pythoncom.CoUninitialize()
 
         try:
-
             return self._com_retry(_attempt, retries=3, delay=3)
 
         except Exception as e:
-
-            # Last resort: kill zombie Word and try once more
-            print("[COM] All retries failed. Killing Word and retrying...")
-
+            print("[COM] All retries failed. Killing Word...")
             self._kill_word_processes()
-
             return _attempt()
 
     # =========================================
-    # DOC → PDF  (with retry)
+    # DOC → PDF
     # =========================================
 
     def convert_doc_to_pdf(self, path):
@@ -170,39 +141,28 @@ class ResumeProcessor:
             pythoncom.CoInitialize()
 
             word = None
-            doc = None
+            doc  = None
 
             try:
 
-                word = win32com.client.DispatchEx(
-                    "Word.Application"
-                )
-
-                word.Visible = False
+                word = win32com.client.DispatchEx("Word.Application")
+                word.Visible       = False
                 word.DisplayAlerts = 0
 
                 abs_path = os.path.abspath(path)
 
-                doc = word.Documents.Open(
-                    abs_path,
-                    ReadOnly=True
-                )
+                doc = word.Documents.Open(abs_path, ReadOnly=True)
 
-                # Give Word time to fully load document
                 time.sleep(1)
 
                 pdf_path = tempfile.mktemp(suffix=".pdf")
-
-                # 17 = wdFormatPDF
                 doc.SaveAs(pdf_path, FileFormat=17)
 
-                # Give Word time to finish writing
                 time.sleep(1)
 
                 return pdf_path
 
             except Exception as e:
-
                 raise
 
             finally:
@@ -219,21 +179,15 @@ class ResumeProcessor:
                 except:
                     pass
 
-                # Give Word time to fully release COM
                 time.sleep(1)
-
                 pythoncom.CoUninitialize()
 
         try:
-
             return self._com_retry(_attempt, retries=3, delay=3)
 
         except Exception as e:
-
-            print("[COM] All retries failed. Killing Word and retrying...")
-
+            print("[COM] All retries failed. Killing Word...")
             self._kill_word_processes()
-
             return _attempt()
 
     # =========================================
@@ -247,22 +201,38 @@ class ResumeProcessor:
         extracted_text = ""
 
         # =========================================
-        # STEP 1 — NATIVE EXTRACTION
+        # STEP 1 — SCANNED PDF DETECTION
+        #
+        # If PDF has no selectable text, skip
+        # native extraction entirely and go
+        # straight to OCR. Avoids wasting time
+        # on blank text validation.
+        # =========================================
+
+        if ext == ".pdf" and PDFExtractor.is_scanned(file_path):
+
+            print(f"Scanned PDF detected: {file_path}")
+            print("Skipping native extraction → going straight to OCR")
+
+            return self._run_ocr_pipeline(
+                file_path,
+                ext,
+                extracted_text=""
+            )
+
+        # =========================================
+        # STEP 2 — NATIVE TEXT EXTRACTION
         # =========================================
 
         try:
 
             if ext == ".pdf":
 
-                extracted_text = PDFExtractor.extract_text(
-                    file_path
-                )
+                extracted_text = PDFExtractor.extract_text(file_path)
 
             elif ext == ".docx":
 
-                extracted_text = DOCXExtractor.extract_text(
-                    file_path
-                )
+                extracted_text = DOCXExtractor.extract_text(file_path)
 
             elif ext == ".doc":
 
@@ -274,36 +244,52 @@ class ResumeProcessor:
 
                 return {
                     "status": "failed",
-                    "text": "",
+                    "text"  : "",
                     "reason": f"Unsupported file type: {ext}",
-                    "stage": "native_extraction"
+                    "stage" : "native_extraction"
                 }
 
         except Exception as e:
 
             return {
                 "status": "failed",
-                "text": "",
+                "text"  : "",
                 "reason": str(e),
-                "stage": "native_extraction"
+                "stage" : "native_extraction"
             }
 
         # =========================================
-        # STEP 2 — VALIDATE NATIVE TEXT
+        # STEP 3 — VALIDATE NATIVE TEXT
         # =========================================
 
         if TextValidator.is_text_good(extracted_text):
 
             print(f"Native text OK: {file_path}")
 
+            # Clean before returning
+            clean_text = TextCleaner.clean(extracted_text)
+
             return {
                 "status": "native_text",
-                "text": extracted_text
+                "text"  : clean_text
             }
 
         # =========================================
-        # STEP 3 — OCR FALLBACK
+        # STEP 4 — OCR FALLBACK
         # =========================================
+
+        print(f"Native text failed validation: {file_path}")
+
+        return self._run_ocr_pipeline(file_path, ext, extracted_text)
+
+    # =========================================
+    # OCR PIPELINE
+    # Extracted into separate method so both
+    # scanned detection and validation failure
+    # can call it without code duplication
+    # =========================================
+
+    def _run_ocr_pipeline(self, file_path, ext, extracted_text):
 
         print(f"OCR fallback triggered: {file_path}")
 
@@ -312,36 +298,29 @@ class ResumeProcessor:
         try:
 
             # =========================================
-            # STEP 3a — CONVERT TO PDF
+            # CONVERT TO PDF
             # =========================================
 
             if ext == ".pdf":
-
                 pdf_path = file_path
 
             elif ext == ".docx":
-
-                pdf_path = self.convert_docx_to_pdf(
-                    file_path
-                )
+                pdf_path = self.convert_docx_to_pdf(file_path)
 
             elif ext == ".doc":
-
-                pdf_path = self.convert_doc_to_pdf(
-                    file_path
-                )
+                pdf_path = self.convert_doc_to_pdf(file_path)
 
             else:
 
                 return {
                     "status": "failed",
-                    "text": extracted_text,
+                    "text"  : extracted_text,
                     "reason": "Unsupported OCR file type",
-                    "stage": "ocr_conversion"
+                    "stage" : "ocr_conversion"
                 }
 
             # =========================================
-            # STEP 3b — PDF → IMAGES
+            # PDF → IMAGES
             # =========================================
 
             images = PDFToImage.convert(pdf_path)
@@ -350,29 +329,25 @@ class ResumeProcessor:
 
                 return {
                     "status": "failed",
-                    "text": extracted_text,
+                    "text"  : extracted_text,
                     "reason": "No images generated from PDF",
-                    "stage": "pdf_to_image"
+                    "stage" : "pdf_to_image"
                 }
 
             print(f"Pages to OCR: {len(images)}")
 
             # =========================================
-            # STEP 3c — OCR EACH PAGE
+            # OCR EACH PAGE
             # =========================================
 
             for page_num, img in enumerate(images, start=1):
 
                 print(f"  OCR page {page_num}/{len(images)}")
 
-                image_stream = io.BytesIO(img)
-
+                image_stream  = io.BytesIO(img)
                 result_holder = []
 
-                self.ocr_worker.submit(
-                    image_stream,
-                    result_holder
-                )
+                self.ocr_worker.submit(image_stream, result_holder)
 
                 page_text = result_holder[0] if result_holder else ""
 
@@ -384,31 +359,34 @@ class ResumeProcessor:
 
             return {
                 "status": "failed",
-                "text": extracted_text,
+                "text"  : extracted_text,
                 "reason": str(e),
-                "stage": "ocr_fallback"
+                "stage" : "ocr_fallback"
             }
 
         # =========================================
-        # STEP 4 — VALIDATE OCR TEXT
+        # VALIDATE OCR TEXT
         # =========================================
 
         ocr_text = ocr_text.strip()
 
         if TextValidator.is_text_good(ocr_text):
 
+            # Clean OCR text before returning
+            clean_text = TextCleaner.clean(ocr_text)
+
             return {
                 "status": "ocr_text",
-                "text": ocr_text
+                "text"  : clean_text
             }
 
         # =========================================
-        # STEP 5 — FINAL FAIL
+        # FINAL FAIL
         # =========================================
 
         return {
             "status": "failed",
-            "text": ocr_text,
+            "text"  : ocr_text,
             "reason": "OCR text failed validation",
-            "stage": "ocr_validation"
+            "stage" : "ocr_validation"
         }
