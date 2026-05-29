@@ -26,10 +26,11 @@ class OCRWorker:
                 result_holder.append(text)
 
             except Exception as e:
-
+                # THIS IS THE FIX: print the actual Azure error so you can see it
+                import traceback
                 print(f"[OCRWorker ERROR] {e}")
+                traceback.print_exc()          # <-- add this line
                 result_holder.append("")
-
             finally:
 
                 # Signal that work is done
@@ -52,3 +53,5 @@ class OCRWorker:
         if not finished:
             print("[OCRWorker] Timeout waiting for OCR result")
             result_holder.append("")
+
+

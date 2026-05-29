@@ -65,3 +65,5 @@ class AzureOCRExtractor:
                     text += line.text + "\n"
 
         return text.strip()
+
+

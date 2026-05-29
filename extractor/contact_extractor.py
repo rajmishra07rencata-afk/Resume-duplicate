@@ -9,11 +9,13 @@ class ContactExtractor:
 
     EMAIL_RE = re.compile(
         r'''
+        \b
         [a-zA-Z0-9._%+\-]+
         @
         [a-zA-Z0-9.\-]+
         \.
-        (?:com|in|org|net|edu|gov|co\.in)
+        [a-zA-Z]{2,}
+        \b
         ''',
         re.IGNORECASE | re.VERBOSE
     )
@@ -22,20 +24,29 @@ class ContactExtractor:
     # GENERIC INTERNATIONAL PHONE
     #
     # Supports:
-    # (718) 555-0100
-    # +1 718 555 0100
+    # +91 98765 43210
     # +91 9876543210
+    # 98765 43210
+    # 987-654-3210
+    # (044) 1234-5678
     # 9876543210
-    # 718.555.0100
     # =========================================
 
     GENERIC_PHONE_RE = re.compile(
         r'''
+        (?<!\d)                        # not preceded by a digit
         (?:
-            (?:\+?\d{1,3}[\s\-\.]?)?      # optional country code
-            (?:\(?\d{2,5}\)?[\s\-\.]?)?  # optional area code
-            \d{3,5}[\s\-\.]?\d{3,5}[\s\-\.]?\d{2,5}
+            (?:\+?\d{1,3}[\s\-\.]?)?   # optional country code
+            (?:\(?\d{2,5}\)?[\s\-\.]?)? # optional area code
+            (?:
+                \d{3,5}[\s\-\.]?\d{3,5}[\s\-\.]?\d{2,5}   # 3 groups
+                |
+                \d{5}[\s\-\.]?\d{5}                         # 2 groups mobile
+                |
+                \d{10,15}                                   # continuous
+            )
         )
+        (?!\d)                           # not followed by a digit
         ''',
         re.VERBOSE
     )
@@ -45,11 +56,11 @@ class ContactExtractor:
     # =========================================
 
     INVALID_PATTERNS = [
-
-        re.compile(r'^(19|20)\d{2}$'),   # years
-        re.compile(r'^(\d)\1{5,}$'),     # 1111111111
-        re.compile(r'^12345'),           # fake sequence
-        re.compile(r'^98765$'),          # OCR junk
+        re.compile(r'^(19|20)\d{2}$'),      # years
+        re.compile(r'^(\d)\1{5,}$'),          # 1111111111
+        re.compile(r'^12345'),               # fake sequence
+        re.compile(r'^98765$'),              # OCR junk
+        re.compile(r'^\d{4,6}$'),            # too short alone
     ]
 
     # =========================================
@@ -63,7 +74,6 @@ class ContactExtractor:
             return ""
 
         matches = cls.EMAIL_RE.finditer(text)
-
         emails = []
 
         for match in matches:
@@ -72,18 +82,17 @@ class ContactExtractor:
 
             # Remove OCR trailing junk
             email = re.sub(
-                r'(com|in|org|net|edu|gov)([A-Z].*)$',
+                r'([a-z]{2,})([A-Z][a-zA-Z]+)$',
                 r'\1',
                 email
             )
 
-            email = email.strip(".,;:|]}>)")
+            email = email.strip(".,;:|]}>)\"'")
 
             if cls._is_valid_email(email):
                 emails.append(email)
 
         emails = list(dict.fromkeys(emails))
-
         return emails[0] if emails else ""
 
     # =========================================
@@ -96,15 +105,17 @@ class ContactExtractor:
         if '@' not in email:
             return False
 
-        local, domain = email.split('@', 1)
+        local, domain = email.rsplit('@', 1)
 
         if '.' not in domain:
             return False
 
         tld = domain.split('.')[-1]
 
-        # Reject OCR garbage TLDs
-        if len(tld) > 6:
+        if not tld.isalpha() or len(tld) < 2 or len(tld) > 10:
+            return False
+
+        if len(local) < 1:
             return False
 
         return True
@@ -120,43 +131,24 @@ class ContactExtractor:
             return ""
 
         text = cls._normalize_text(text)
-
         candidates = []
-
-        # =====================================
-        # FIND ALL PHONE CANDIDATES
-        # =====================================
 
         matches = cls.GENERIC_PHONE_RE.finditer(text)
 
         for match in matches:
 
             raw = match.group().strip()
-
             cleaned = cls._clean_phone(raw)
 
             if cls._is_valid_phone(cleaned):
 
                 formatted = cls._format_phone(cleaned)
-
                 candidates.append(formatted)
-
-        # =====================================
-        # REMOVE DUPLICATES
-        # =====================================
 
         candidates = list(dict.fromkeys(candidates))
 
         if not candidates:
             return ""
-
-        # =====================================
-        # PRIORITY SORTING
-        #
-        # Prefer:
-        # 1. country code
-        # 2. longer numbers
-        # =====================================
 
         candidates.sort(
             key=lambda x: (
@@ -174,20 +166,11 @@ class ContactExtractor:
     @classmethod
     def _normalize_text(cls, text):
 
-        # Remove zero-width chars
         text = re.sub(
-            r'[\u200b\u200c\u200d]',
+            r'[\u200b\u200c\u200d\ufeff]',
             '',
             text
         )
-
-        # Join broken OCR phone lines
-        # Example:
-        # 98765
-        # 43210
-        #
-        # becomes:
-        # 9876543210
 
         text = re.sub(
             r'(\d)\s*\n\s*(\d)',
@@ -195,7 +178,6 @@ class ContactExtractor:
             text
         )
 
-        # Normalize spaces
         text = re.sub(r'[ \t]+', ' ', text)
 
         return text
@@ -209,24 +191,23 @@ class ContactExtractor:
 
         raw = raw.strip()
 
-        # Normalize:
-        # (+91) -> +91
-
         raw = re.sub(
             r'\(\s*(\+\d+)\s*\)',
             r'\1',
             raw
         )
 
-        # Keep only digits and +
         cleaned = re.sub(
             r'[^\d+]',
             '',
             raw
         )
 
-        # Fix multiple +
         if cleaned.count('+') > 1:
+            parts = cleaned.split('+')
+            cleaned = '+' + ''.join(parts[1:])
+
+        if '+' in cleaned and not cleaned.startswith('+'):
             cleaned = cleaned.replace('+', '')
 
         return cleaned
@@ -240,7 +221,6 @@ class ContactExtractor:
 
         digits = re.sub(r'\D', '', phone)
 
-        # Preserve international format
         if phone.startswith('+'):
             return "+" + digits
 
@@ -255,17 +235,14 @@ class ContactExtractor:
 
         digits = re.sub(r'\D', '', phone)
 
-        # International length
         if len(digits) < 10 or len(digits) > 15:
             return False
 
-        # Reject bad patterns
         for pattern in cls.INVALID_PATTERNS:
 
             if pattern.search(digits):
                 return False
 
-        # Reject repeated digits
         if len(set(digits)) == 1:
             return False
 

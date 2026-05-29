@@ -41,18 +41,10 @@ class TextValidator:
             return False
 
         # -----------------------------------------
-        # WORD COUNT
-        # Relaxed threshold for resumes
-        # -----------------------------------------
-
-        words = re.findall(r"\b[A-Za-z]{2,}\b", text)
-
-        if len(words) < 5:
-            return False
-
-        # -----------------------------------------
-        # EMAIL SIGNAL
-        # Strong resume indicator
+        # CONTACT INFO BYPASS (NEW)
+        #
+        # If text has email OR phone, it's almost
+        # certainly a valid resume. Don't be strict.
         # -----------------------------------------
 
         if re.search(
@@ -62,12 +54,20 @@ class TextValidator:
         ):
             return True
 
+        if re.search(
+            r'(?:\+?\d{1,3}[\s\-\.]?)?(?:\(?\d{2,5}\)?[\s\-\.]?)?\d{3,5}[\s\-\.]?\d{3,5}[\s\-\.]?\d{2,5}',
+            text
+        ):
+            return True
+
         # -----------------------------------------
-        # PHONE SIGNAL
+        # WORD COUNT
         # -----------------------------------------
 
-        if re.search(r'\b[6-9]\d{9}\b', text):
-            return True
+        words = re.findall(r"\b[A-Za-z]{2,}\b", text)
+
+        if len(words) < 5:
+            return False
 
         # -----------------------------------------
         # RESUME KEYWORDS
@@ -86,7 +86,6 @@ class TextValidator:
 
         # =========================================
         # ALPHA RATIO CHECK
-        # More relaxed for resumes
         # =========================================
 
         alpha_chars = sum(c.isalpha() for c in text)
@@ -101,8 +100,6 @@ class TextValidator:
 
         ratio = alpha_chars / visible_chars
 
-        # OLD = 0.20
-        # NEW = 0.12
         if ratio < 0.12:
             return False
 
