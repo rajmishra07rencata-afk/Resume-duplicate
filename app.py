@@ -14,7 +14,7 @@ load_dotenv()
 AZURE_ENDPOINT = os.getenv("AZURE_ENDPOINT")
 AZURE_KEY = os.getenv("AZURE_KEY")
 
-RESUME_FOLDER = "resumes"
+RESUME_FOLDER = "regex_fail"
 
 OUTPUT_NATIVE = "output/native_text"
 OUTPUT_OCR    = "output/ocr_required"

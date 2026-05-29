@@ -1,5 +1,0 @@
-ORM		:	Entity Framework Code First
-
-Servers			             : 	IIS 8.5
-0883218922
-Malini.S1@@@d.com
