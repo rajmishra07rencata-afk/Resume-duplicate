@@ -1,39 +1,26 @@
-CHANCHAL
-SHARMA
+CHANCHAL SHARMA
 OFFICE MANAGER
-CONTACT INFO
-State your career goals and
-(718) 555-0100
-show how they align with
-chanchals@example.com
-the job description you're
-www.interestingsite.com
-targeting. Be brief and keep
-Albany, NY
-it from sounding generic. Be
-yourself.
+State your career goals and show how they align with the job description you're targeting. Be brief and keep it from sounding generic. Be yourself.
+
+CONTACT
+ INFO
+(718) 555-0100 chanchals@example.com www.interestingsite.com Albany, NY
+
 EXPERIENCE
-OFFICE MANAGER, The Phone Company
-Jan 20XX - Current
-Summarize your key responsibilities and accomplishments.
-Where appropriate, use the language and words you find in the
-specific job description. Be concise, targeting 3-5 key areas.
+
+OFFICE MANAGER, The Phone Company Jan 20XX - Current
+Summarize your key responsibilities and accomplishments. Where appropriate, use the language and words you find in the specific job description. Be concise, targeting 3-5 key areas.
 OFFICE MANAGER, Nod Publishing
 Mar 20XX - Dec 20XX
-Summarize your key responsibilities and accomplishments.
-Here again, take any opportunity to use words you find in the
-job description. Be brief.
-OFFICE MANAGER, Southridge Video
-Aug 20XX - March 20XX
-Summarize your key responsibilities and accomplishments.
-Where appropriate, use the language and words you find in the
-job description. Be concise, targeting 3-5 key areas.
+Summarize your key responsibilities and accomplishments. Here again, take any opportunity to use words you find in the job description. Be brief.
+OFFICE MANAGER, Southridge Video Aug 20XX - March 20XX
+Summarize your key responsibilities and accomplishments. Where appropriate, use the language and words you find in the job description. Be concise, targeting 3-5 key areas.
+
 EDUCATION
+ 
 SKILLS
-A.S. H.R. MANAGEMENT
-Data analysis
-Bellows College
-.
-Project management
-Sep 20XX - May 20XX
-· Communication
+
+A.S. H.R. MANAGEMENT Bellows College Sep 20XX - May 20XX
+* Data analysis
+* Project management
+* Communication

@@ -1,219 +1,175 @@
-YOKESHWARAN A 
- 
- 
- 
-*Phone No: 8526538410* 
-*Email Id : Yokeshparthiban@gmail.com* 
- 
- 
-  
-PROFESSIONAL SUMMARY  
- 
- 
- 
-Having 5.3 years of experience in TCS in which 2.2 years of experience in Software Testing. 
-and at CitiusTech, worked as a Quality Assurance Engineer for 1.2 years. 
-Expertise in working with Selenium Web Driver using Cucumber framework. 
-Experience on Working with Cucumber for Automation testing Reports. 
-Hands on Experience in other frameworks like TestNG, Junit, and Data Driven Framework. 
-Experience on developing a framework using a design pattern - Page Object Model. 
-Expertise in working with Bit Bucket as my Source Management Tool. 
-Have a good knowledge and hands on Experience in handling of Defect Management Tool JIRA. 
-Experience in writing Xpath expressions to identify web elements. 
- Expert in working in Methodology like Agile, Agile – Scrum Model. 
-Experience in logging defects using JIRA, performed defect tracking and reporting. 
-Good Knowledge in Core Java concepts Collection, Strings and Exception Handling. 
-Have experience on working E-Commerce, Air Line and Healthcare Domain. 
-Quick learner with the ability to grasp and learn new technologies. 
-Experience in preparing and executing test cases for Client Requirements and Web Application. 
-Experience in Web Based Applications Testing. 
-  
-WORK EXPERIENCE  
- 
- 
- 
-➢ Having 5.3 years of experience in TATA CONSULTANCY SERVICES as Senior Process Associate  and 
-Automation Test Engineer. 
- 
-➢ Having 1.2 years of experience in CitiusTech Healthcare Technology Private Limited as Quality Assurance 
-Engineer. 
- 
-  
-PROJECTS   
- 
- 
-PROJECT 1: 
-Client 
-: Athena Health 
-Domain 
-: Healthcare 
-Tools 
-: Selenium, TestNG. 
- 
-Description: 
- 
-Athena Health creates innovative healthcare technology that connects clinicians, patients, payers, and partners 
-in differentiated ways. Athena Health is a leading provider of network-enabled software and services for 
-medical groups and health systems. 
- 
- 
-ROLES AND RESPONSIBILITIES: 
- 
-➢ Analysing the Business Requirements and Functional Requirements and identifying various test scenarios 
-to be tested. 
- 
-➢ Involved in writing automation script by using Selenium WebDriver with TestNg (TDD). 
- 
-➢ Prepare the Test scenarios, Test cases, and Test data. 
- 
-➢ Self-review and Peer-review the test cases 
- 
-➢ Executing the Functional, Non-functional Test cases 
- 
-➢ Logging the defects in JIRA and track the defects until it gets fixed 
- 
-➢ Retest the failed test cases and Regression Testing 
- 
-➢ Preparing the Test execution reports for the pass and failed test cases 
- 
-➢ Send daily reports to the Manager 
- 
-➢ Understanding how Web application works and its tier architectures 
- 
-➢ Involved in preparing the Daily status report and Weekly status report and sharing it with the client and 
-with the management. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-PROJECT 2: 
-Client 
-: FatFace 
-Domain 
-: E-Commerce 
-Tools 
-: Selenium, BDD Cucumber 
- 
-Description: 
- 
-Fat Face is a British lifestyle clothing and accessories retailer, this company offers all clothing, accessories, 
-shoes, beauty products. 
- 
- 
-ROLES AND RESPONSIBILITIES: 
- 
-➢ Analysing the user stories, prepare the test scenario based on acceptance criteria. 
- 
-➢ Involved in writing automation script by using Selenium WebDriver with Cucumber. 
- 
-➢ Developing BDD tests using Cucumber by writing feature file and Step definition. 
- 
-➢ Implemented Page Object Model automation frameworks using Selenium 
- 
-➢ Involved in testing the application utilizing the Scrum (Agile) methodology. 
- 
-➢ Regression Script execution and analyse the results. 
- 
-➢ Setup the Automation framework using Selenium to run test cases in multiple browsers and platforms. 
- 
-➢ Raise and track defect until closure. Re-test the resolved defects. 
- 
-➢ Debug and fix the script issues. 
- 
-➢ Participated in the all-Agile ceremonies - planning daily scrum calls, spring review and sprint retrospective. 
- 
-➢ Used Git as code repository to manage code reviews. 
- 
-➢ Involved in the Continuous Integration of the automation framework with Jenkins 
-PROJECT 3: 
-Client 
-: Aer Lingus 
-Domain 
-: Airline 
-Tools 
-: Selenium, TestNg 
- 
-Description: 
- 
-Aer Lingus is an international airline. We can book a flight ticket, and this airline operates in Ireland. 
- 
-ROLES AND RESPONSIBILITIES: 
- 
-➢ Analysing the Business Requirements and Functional Requirements and identifying various test scenarios 
-to be tested. 
- 
-➢ Involved in writing automation script by using Selenium WebDriver with TestNg (TDD). 
- 
-➢ Prepare the Test scenarios, Test cases, and Test data. 
- 
-➢ Self-review and Peer-review the test cases 
- 
-➢ Executing the Functional, Non-functional Test cases 
- 
-➢ Logging the defects in JIRA and track the defects until it gets fixed 
- 
-➢ Retest the failed test cases and Regression Testing 
- 
-➢ Preparing the Test execution reports for the pass and failed test cases 
- 
-PROJECT 4: 
- 
-Client 
-: Citibank 
-Domain 
-: Banking 
-Tools 
-: Sanctions Screening Applications 
- 
- 
- 
-Description: 
- 
-Citibank offers multiple banking services that help you find the right credit cards, open a bank account for 
-checking, & savings, or apply for mortgage 
- 
- 
-ROLES AND RESPONSIBILITIES: 
- 
-➢ Handled daily financial authorization and sanctions report and Name and Address reports for screening as 
-per GCG UK Sanctions Screening policy. 
-➢ Having a knowledge in Citidirect Screening applications. 
- 
-➢ Having knowledge in NESS (Name and Entity Sanctions Screening). 
- 
-➢ Prepared RCSA grid and get approval from clients and RCSA Testers. 
- 
-➢ Prepare report for the teams’ production and also update the MIS on daily basis. 
- 
-➢ Ensure escalations are reviewed and control point has been discussed with team lead. 
- 
- 
- 
- 
-  
-EDUCATION  
- 
- 
-Graduated B.Sc in 2017 at Ramakrishna Mission Vivekananda College, Chennai. 
- 
- 
- 
-  
-DECLARATION  
- 
-I hereby that the information given above is true to the best of my knowledge. 
- 
- 
- 
-Date: 
-Signature 
-Place: Chennai 
+YOKESHWARAN A
+
+*Phone No: 8526538410*
+*Email Id : Yokeshparthiban@gmail.com*
+
+PROFESSIONAL 
+SUMMARY
+
+Having 5.3 years of 
+experience
+ in TCS in which 2.2 years of 
+experience
+ in Software Testing.
+and at CitiusTech, worked as a Quality Assurance Engineer for 1.2 years.
+Expertise in working with Selenium Web Driver using Cucumber framework.
+
+Experience
+ on Working with Cucumber for Automation testing Reports.
+Hands on 
+Experience
+ in other frameworks like TestNG, Junit, and Data Driven Framework.
+
+Experience
+ on developing a framework using a design pattern - Page Object Model.
+Expertise in working with Bit Bucket as my Source Management Tool.
+Have a good knowledge and hands on 
+Experience
+ in handling of Defect Management Tool JIRA.
+
+Experience
+ in writing Xpath expressions to identify web elements.
+Expert in working in Methodology like Agile, Agile - Scrum Model.
+
+Experience
+ in logging defects using JIRA, performed defect tracking and reporting.
+Good Knowledge in Core Java concepts Collection, Strings and Exception Handling.
+Have 
+experience
+ on working E-Commerce, Air Line and Healthcare Domain.
+Quick learner with the ability to grasp and learn new technologies.
+
+Experience
+ in preparing and executing test cases for Client Requirements and Web Application.
+
+Experience
+ in Web Based Applications Testing.
+
+WORK 
+EXPERIENCE
+
+➢ Having 5.3 years of 
+experience
+ in TA CONSULTANCY SERVICES as Senior Process Associate and
+Automation Test Engineer.
+
+➢ Having 1.2 years of 
+experience
+ in CitiusTech Healthcare Technology Private Limited as Quality Assurance
+Engineer.
+
+PROJECTS
+
+PROJECT 1:
+Client
+: Athena Health
+Domain
+: Healthcare
+Tools
+: Selenium, TestNG.
+
+Description:
+
+Athena Health creates innovative healthcare technology that connects clinicians, patients, payers, and partners
+in differentiated ways. Athena Health is a leading provider of network-enabled software and services for
+medical groups and health systems.
+
+ROLES AND RESPONSIBILITIES
+:
+
+➢ Analysing the Business Requirements and Functional Requirements and identifying various test scenarios
+to be tested.
+
+➢ Involved in writing automation script by using Selenium WebDriver with TestNg (TDD).
+
+➢ Prepare the Test scenarios, Test cases, and Test data.
+
+➢ Self-review and Peer-review the test cases
+
+➢ Executing the Functional, Non-functional Test cases
+
+➢ Logging the defects in JIRA and track the defects until it gets fixed
+
+➢ Retest the failed test cases and Regression Testing
+
+➢ Preparing the Test execution reports for the pass and failed test cases
+
+➢ Send daily reports to the Manager
+
+➢ Understanding how Web application works and its tier architectures
+
+➢ Involved in preparing the Daily status report and Weekly status report and sharing it with the client and
+with the management.
+
+PROJECT 2:
+: FatFace
+: E-Commerce
+: Selenium, BDD Cucumber
+
+Fat Face is a British lifestyle clothing and accessories retailer, this company offers all clothing, accessories,
+shoes, beauty products.
+
+➢ Analysing the user stories, prepare the test scenario based on acceptance criteria.
+
+➢ Involved in writing automation script by using Selenium WebDriver with Cucumber.
+
+➢ Developing BDD tests using Cucumber by writing feature file and Step definition.
+
+➢ Implemented Page Object Model automation frameworks using Selenium
+
+➢ Involved in testing the application utilizing the Scrum (Agile) methodology.
+
+➢ Regression Script execution and analyse the results.
+
+➢ Setup the Automation framework using Selenium to run test cases in multiple browsers and platforms.
+
+➢ Raise and track defect until closure. Re-test the resolved defects.
+
+➢ Debug and fix the script issues.
+
+➢ Participated in the all-Agile ceremonies - planning daily scrum calls, spring review and sprint retrospective.
+
+➢ Used Git as code repository to manage code reviews.
+
+➢ Involved in the Continuous Integration of the automation framework with Jenkins
+
+PROJECT 3:
+: Aer Lingus
+: Airline
+: Selenium, TestNg
+
+Aer Lingus is an international airline. We can book a flight ticket, and this airline operates in Ireland.
+
+PROJECT 4:
+
+: Citibank
+: Banking
+: Sanctions Screening Applications
+
+Citibank offers multiple banking services that help you find the right credit cards, open a bank account for
+checking, & savings, or apply for mortgage
+
+➢ Handled daily financial authorization and sanctions report and Name and Address reports for screening as
+per GCG UK Sanctions Screening policy.
+➢ Having a knowledge in Citidirect Screening applications.
+
+➢ Having knowledge in NESS (Name and Entity Sanctions Screening).
+
+➢ Prepared RCSA grid and get approval from clients and RCSA Testers.
+
+➢ Prepare report for the teams' production and also update the MIS on daily basis.
+
+➢ Ensure escalations are reviewed and control point has been discussed with team lead.
+
+EDUCATION
+
+Graduated B.Sc in 2017 at Ramakrishna Mission Vivekananda College, Chennai.
+
+DECLARATION
+
+I hereby that the information given above is true to the best of my knowledge.
+
+Date:
+Signature
+Place: Chennai
 (Yokesh A)

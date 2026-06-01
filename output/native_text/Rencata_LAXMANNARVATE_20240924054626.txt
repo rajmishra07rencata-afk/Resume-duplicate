@@ -1,175 +1,149 @@
-RESUME 
+RESUME
+
+Mr. LAXMAN R. NARVATE
+
+Contact
+ no: +91 9975827159
+Email ID:narvate.laxman92@gmail.com
+
+OBJECTIVE
+
+Seeking a challenging and rewarding opportunity with a organization,this recognizes my
+true potential and effectively utilizes my excellent analytical and technical 
+skills
+.
+
+PROFILE
  
-Mr. LAXMAN R. NARVATE 
-Contact no: +91 9975827159 
-Email ID:narvate.laxman92@gmail.com 
-OBJECTIVE 
- 
- 
-Seeking a challenging and rewarding opportunity with a organization,this recognizes my 
-true potential and effectively utilizes my excellent analytical and technical skills. 
-PROFILE SUMMARY 
- 
- 
-● 
-A competent professional with 3.6 years of overall IT experience in Software testing 
-● 
-Having Experience in Investment Banking And Loan Origination System. 
-● 
-Good understanding of Software Development Life Cycle (SDLC). 
-● 
-Well versed with Software Testing Life Cycle (STLC). 
-● 
-Good knowledge and understanding of Defect Life Cycle. 
-● 
-Knowledge of Agile Scrum Methodologies. 
-● 
-Experience in Functional Testing, Retesting, Regression Testing, Sanity Testing. 
-● 
-Understanding and analyzing test requirements. 
-● 
-Good knowledge of preparation of test cases and its execution with reference of test 
-plan. 
-● 
-Work closely with other testers and developers with bug fixes and Defect with its 
-priority. 
-● 
-Participate in scrum meeting to discuss about project progress report every day. 
-● 
-Knowledge to perform bug reporting and tracking process using HPALM. 
-● 
-Basic knowledge of SQL Testing. 
-● 
-Basic knowledge of API Testing. 
- 
-TECHNICAL SKILL AND EXPERTISE 
- 
- 
-● Operating System: Windows 7 and above. 
-● Tools: HPALM, POSTMAN 
-● Database: SQL server 2014. 
-● Manual Testing Skills: Functional Testing, Database Testing, Regression and Re-testing. 
- 
-PROFESSIONAL EXPERIANCE 3 YEARS 
- 
- 
-Currently working with COGNIZANT TECHNOLOGY SOLUTION From DEC 2018 to till date. 
-ACADEMIC DETAILS 
- 
- 
-● B.E. From SVERI’S College of Engg.Pandharpur.        -Solapur University. 
- 
-PROJECT UNDERTAKEN 
- 
- 
-Project Name (1) 
-- Investment Banking 
-Role 
-- Manual Tester. 
-Domain 
-- BFSI 
-Testing 
-- Functional Testing. 
- 
-Description : 
- 
-Investment banking denotes certain activities of a financial services company or a corporate 
-division that consist in advisory-based financial transactions on behalf of individuals, 
-corporations, and governments.  
- 
-Traditionally associated with corporate finance, such a bank might assist in raising financial 
-capital by underwriting or acting as the client's agent in the issuance of debt or 
-equity securities.  
- 
-An investment bank may also assist companies involved in mergers and acquisitions (M&A) and 
-provide ancillary services such as market making, trading of derivatives and equity securities, 
-FICC services (fixed income instruments, currencies, and commodities) or research 
-(macroeconomic, credit or equity research).  
- 
-Most investment banks maintain prime brokerage and asset management departments in 
-conjunction with their investment research businesses. As an industry, it is broken up into 
-the Bulge Bracket (upper tier), Middle Market (mid-level businesses), and boutique 
-market (specialized businesses). 
-Project Name  (2)                       -Loan Origination System 
-Role                                               -Manual test engineer 
-Domain                                         -BFSI 
-Testing                                          - Functional testing 
- 
-Description: 
- 
- 
-Lending and Borrowing money in context of for future repayment of the principal amount 
-along with interest or other charges. 
- Using loan origination system, businesses can process and approve faster 
- 
-Work on Fin none Application and testing models LOS. Loan origination system is platform for 
-centrally managing and automating different stages of the loan serving cycle, i.e. loan 
+SUMMARY
+
+●
+A competent professional with 3.6 years of overall IT 
+experience
+ in Software testing
+Having 
+Experience
+ in Investment Banking And Loan Origination System.
+Good understanding of Software Development Life Cycle (SDLC).
+Well versed with Software Testing Life Cycle (STLC).
+Good knowledge and understanding of Defect Life Cycle.
+Knowledge of Agile Scrum Methodologies.
+
+Experience
+ in Functional Testing, Retesting, Regression Testing, Sanity Testing.
+Understanding and analyzing test requirements.
+Good knowledge of preparation of test cases and its execution with reference of test
+plan.
+Work closely with other testers and developers with bug fixes and Defect with its
+priority.
+Participate in scrum meeting to discuss about project progress report every day.
+Knowledge to perform bug reporting and tracking process using HPALM.
+Basic knowledge of SQL Testing.
+Basic knowledge of API Testing.
+
+TECHNICAL SKILL AND EXPERTISE
+
+● Operating System: Windows 7 and above.
+● Tools: HPALM, POSTMAN
+● Database: SQL server 2014.
+● Manual Testing 
+Skills
+: Functional Testing, Database Testing, Regression and Re-testing.
+
+PROFESSIONAL EXPERIANCE 3 YEARS
+
+Currently working with COGNIZANT TECHNOLOGY SOLUTION From DEC 2018 to till date.
+
+ACADEMIC
+ DETAILS
+
+● B.E. From SVERI'S College of Engg.Pandharpur. -Solapur University.
+
+PROJECT UNDERTAKEN
+
+Project Name (1)
+- Investment Banking
+Role
+- Manual Tester.
+Domain
+- BFSI
+Testing
+- Functional Testing.
+
+Description :
+
+Investment banking denotes certain activities of a financial services company or a corporate
+division that consist in advisory-based financial transactions on behalf of individuals,
+corporations, and governments.
+Traditionally associated with corporate finance, such a bank might assist in raising financial
+capital by underwriting or acting as the client's agent in the issuance of debt or
+equity securities.
+An investment bank may also assist companies involved in mergers and acquisitions (M&A) and
+provide ancillary services such as market making, trading of derivatives and equity securities,
+FICC services (fixed income instruments, currencies, and commodities) or research
+(macroeconomic, credit or equity research).
+Most investment banks maintain prime brokerage and asset management departments in
+conjunction with their investment research businesses. As an industry, it is broken up into
+the Bulge Bracket (upper tier), Middle Market (mid-level businesses), and boutique
+market (specialized businesses).
+Project Name (2) -Loan Origination System
+Role -Manual test engineer
+Domain -BFSI
+Testing - Functional testing
+
+Description:
+
+Lending and Borrowing money in context of for future repayment of the principal amount
+along with interest or other charges.
+ Using loan origination system, businesses can process and approve faster
+Work on Fin none Application and testing models LOS. Loan origination system is platform for
+centrally managing and automating different stages of the loan serving cycle, i.e. loan
 application,document verification and credit approval with automated underwriting
- 
-Roles and Responsibilities 
- 
- 
-Understanding the Business Requirement Specifications and prepared test cases. 
- 
-Designing Test Cases, Execution of the test cases and reporting the bugs. 
- 
-Conducted Functional testing with Valid and Invalid inputs for positive and negative 
- 
-testing. 
- 
-Communicates with Functional Analyst on any issue clarifications. 
- 
-Preparing Defect report as per severity and priority Active participation in Bug triage 
- 
-meetings. 
- 
-Modifying the Tests and Conducting Regression Testing. 
- 
-Detecting the bugs and classifying them based on the severity and reporting. 
- 
-Regression testing performed on every new build of the application. 
- 
-Reporting the Coverage status of test performed on the daily/weekly basis. 
- 
-Attended Project meetings and interacted with other team members in order to resolve 
- 
-the problems. 
- 
-Participation in Test Closure activities. 
- 
-Execute the test cases based on the requirements (SRS). 
- 
-Performed functionality testing, regression testing and Database Testing 
- 
-Updated the bug status and discussed with developers to resolve the bugs. 
- 
- 
-PERSONAL DETAILS 
- 
- 
- Full Name 
-: Laxman R.Narvate 
- DOB 
-: 01/06/1992 
- Languages 
-: English, Marathi, Hindi. 
- Nationality 
-: Indian 
- Marital Status 
-: Single 
- Current Address 
-: Flat no.202 sankalp apartment, Adarsh nagar Ravet , pune 412105 
-DECLARATION 
- 
- 
-This is to state that the information furnished above is true and correct to my knowledge and 
-understanding. 
-Yours sincerely, 
-Place: 
-Signature 
- 
- 
-Date: 
-/ 
-/ 
+
+Roles and Responsibilities
+
+Understanding the Business Requirement Specifications and prepared test cases.
+Designing Test Cases, Execution of the test cases and reporting the bugs.
+Conducted Functional testing with Valid and Invalid inputs for positive and negative
+testing.
+Communicates with Functional Analyst on any issue clarifications.
+Preparing Defect report as per severity and priority Active participation in Bug triage
+meetings.
+Modifying the Tests and Conducting Regression Testing.
+Detecting the bugs and classifying them based on the severity and reporting.
+Regression testing performed on every new build of the application.
+Reporting the Coverage status of test performed on the daily/weekly basis.
+Attended Project meetings and interacted with other team members in order to resolve
+the problems.
+Participation in Test Closure activities.
+Execute the test cases based on the requirements (SRS).
+Performed functionality testing, regression testing and Database Testing
+Updated the bug status and discussed with developers to resolve the bugs.
+
+PERSONAL DETAILS
+
+ Full Name
+: Laxman R.Narvate
+ DOB
+: 01/06/1992
+ 
+Languages
+
+: English, Marathi, Hindi.
+ Nationality
+: Indian
+ Marital Status
+: Single
+ Current Address
+: Flat no.202 sankalp apartment, Adarsh nagar Ravet , pune 412105
+DECLARATION
+
+This is to state that the information furnished above is true and correct to my knowledge and
+understanding.
+Yours sincerely,
+Place:
+Signature
+
+Date:
+/
 (Mr.Laxman R. Narvate)

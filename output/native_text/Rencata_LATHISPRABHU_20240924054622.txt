@@ -1,135 +1,135 @@
-LATHIS PRABHU.S 
-    Email:lathis2504@gmail.com 
- Mobile: 9884121376                                             52/121, Mayor Basudeva St, 
-                                                                                                                                                    Old Washermen pet 
-                                                                                       Chennai-600021                                                    
- 
-                                           
-Career Objective 
-Aim to be associated with progressive organization that provides the opportunities 
-for personal and professional development as well as to pursue excellence. 
- 
-Professional Experience 
-Having 9+ years of experience, as technical lead and infra operational 
-managed(Windows) and currently works in Wipro technology as a Team Lead. 
- 
- 
- Technical Skills 
-• Outlook to O365 migration 
-• Zscaler application testing 
-• Installing & troubleshooting applications through SCCM. 
-• Handling BMC ticking tool and EOD report maintance 
-• Team and vendor management, 
-• CMMD support for VIP user 
-• Capacity planning for new servers, Network device 
-• Vendor & Compliance Management 
-• Asset Management 
-• Incident Management 
-• Problem Management 
-• Leadership / Teambuilding 
-• knowledge on Windows servers 2008,2012R2, 2016,2019,2022 and CA ARC Server 11.5, 
-• Perform Windows Server Management and Maintenance. 
-• Monitoring Tools Used-, HP operation manager for windows. 
-• Tape backup restoring 
- 
-Current Organization 
- 
-• Organization : Wipro Technology 
-• Designation 
-: operational support 
-• Period 
-: June2019 to present 
- 
- 
- 
-Roles &Responsibilities 
-  
-• Team lead for south region and maintaining more than 50 Engineer for onsite location 
-• Handling Vip call and Escalation call 
-• VPN related issues and supporting for all other application 
-• Coordinating with client application testing like Pact, prolendz ,procredit. 
-• Support for SQL and visual studio 17,19 Version related issue 
-• Checking the Host & User Policy to access the applications. 
-• MacAfee related issue and Decryption 
-• Maintenance of physical and virtual infrastructure inventory. 
-• Provide administration and tier 3 operational support for servers, workstations and 
-applications in a Windows Active Directory environment. 
- 
-Outlook to O365 migration 
- 
-• PST backup Upgrade to 0365 
-• Storge Maintains  
-• CMMD support  
-• Mail id creation password reset and Unlock 
-• POP3 to exchange conversion 
-• License validation from client end    
- 
- 
-Team Management 
- 
-• Mentoring and Motivation 
-• Handling operational functions like creating the shift roster’s and shift management. 
-• Setting objectives and conducting appraisals. 
-• Ensuring a highly motivating work culture for teams. 
- 
- 
-Incident Management 
- 
-• Driving the efficiency and effectiveness of the incident management process 
-• Monitoring the effectiveness of incident management and making 
-recommendations for improvement 
-• Driving, developing, managing & maintaining the major incident process & associated 
-procedures 
-• Reviewing and auditing the process 
-• Ensuring that all IT teams follow the incident management process for every incident 
-• Owns all Incidents and Service Requests throughout the lifecycle 
- 
- 
-Asset Management 
- 
-• Implementing the service asset management policy and standards 
-• Agreeing scope of the asset management processes, function, the items that are to be 
-controlled, and the information that is to be recorded 
-• Developing asset management standards, asset management plans and procedures 
-• Ensuring that the asset management methods and processes are properly 
-approved and communicated to staff before being implemented 
-• Proposes/agrees interfaces with change management ,problem management, 
-• network management, release management, computer operations, finance and 
-administration functions 
-• Proposing IT Budget for financial year for all Hardware and Software. 
- 
- 
-Previous Organization 
- 
-• Employed in IT SOURCE Pvt Ltd L1 Server support engineer at the client place of 
-United India Insurance Pvt Ltd, Chennai. May 2018 to till April2019 
- 
- Wintel Operations 
- 
-• Installing and Configuring of windows 2000, 2003,2008and 2012 servers and Solving 
-Operating System related issues. 
-• Handling, IBM X series 220, 236,345,346 & 366, Dell Power Edge server R910, R710, 
-R900, 2950, R710, R620,HP blades (HP Proliant BL 480c G1, BL460 G7, BL685cG1 DL580 
-G5, DL 360G5 & DL360 G9)Server and Racker. 
-• Installation of Symantec Antivirus server version 12.1.0 as well as client version on 
-servers and also checking the VDF 
-• Checking the firmware updates of BIOS, SCSI HDD on all IBM, DELL,HP servers. 
-• Performing Disaster Recovery operations (Business Continuity Plan and DR Testing in 
-each quarter). 
- 
-Working Experiences 
-• Employed in Infiniminds Private limited L1 Server support engineer at the client place 
-of STANDARD CHARTERED GBs(June 2017 to till May 2018) 
-• Employed in Care IT Solution L2 desktop engineer at the client place of 
-             STANDARD CHARTERED GBS (June 2015 to till June 2017) 
-• Employed in LAKSHMI ENGINEERING from Mar-2014 to May 2015 
-• Employed in Recol Management Service from Dec-2012 to Feb-2014 
- 
-Educational Qualification 
-• Completed BE in Electronics and Communication Engineering department with 69%at 
-VEL MULTI TECH SRS ENGINEERING, CHENNAI ANNA UNIVERSITY, CHENNAI. 
- 
- 
-Date: 
-Yours Sincerely 
+LATHIS PRABHU.S
+ Email:lathis2504@gmail.com
+Mobile: 9884121376 52/121, Mayor Basudeva St,
+Old Washermen pet
+ Chennai-600021
+
+Career 
+Objective
+
+Aim to be associated with progressive organization that provides the opportunities
+for personal and professional development as well as to pursue excellence.
+
+Professional 
+Experience
+
+Having 9+ years of 
+experience
+, as technical lead and infra operational
+managed(Windows) and currently works in Wipro technology as a Team Lead.
+
+Technical 
+Skills
+
+* Outlook to O365 migration
+* Zscaler application testing
+* Installing & troubleshooting applications through SCCM.
+* Handling BMC ticking tool and EOD report maintance
+* Team and vendor management,
+* CMMD support for VIP user
+* Capacity planning for new servers, Network device
+* Vendor & Compliance Management
+* Asset Management
+* Incident Management
+* Problem Management
+* Leadership / Teambuilding
+* knowledge on Windows servers 2008,2012R2, 2016,2019,2022 and CA ARC Server 11.5,
+* Perform Windows Server Management and Maintenance.
+* Monitoring Tools Used-, HP operation manager for windows.
+* Tape backup restoring
+
+Current Organization
+
+* Organization : Wipro Technology
+* Designation
+: operational support
+* Period
+: June2019 to present
+
+Roles &Responsibilities
+
+* Team lead for south region and maintaining more than 50 Engineer for onsite location
+* Handling Vip call and Escalation call
+* VPN related issues and supporting for all other application
+* Coordinating with client application testing like Pact, prolendz ,procredit.
+* Support for SQL and visual studio 17,19 Version related issue
+* Checking the Host & User Policy to access the applications.
+* MacAfee related issue and Decryption
+* Maintenance of physical and virtual infrastructure inventory.
+* Provide administration and tier 3 operational support for servers, workstations and
+applications in a Windows Active Directory environment.
+
+Outlook to O365 migration
+
+* PST backup Upgrade to 0365
+* Storge Maintains
+* CMMD support
+* Mail id creation password reset and Unlock
+* POP3 to exchange conversion
+* License validation from client end
+
+Team Management
+
+* Mentoring and Motivation
+* Handling operational functions like creating the shift roster's and shift management.
+* Setting objectives and conducting appraisals.
+* Ensuring a highly motivating work culture for teams.
+
+Incident Management
+
+* Driving the efficiency and effectiveness of the incident management process
+* Monitoring the effectiveness of incident management and making
+recommendations for improvement
+* Driving, developing, managing & maintaining the major incident process & associated
+procedures
+* Reviewing and auditing the process
+* Ensuring that all IT teams follow the incident management process for every incident
+* Owns all Incidents and Service Requests throughout the lifecycle
+
+Asset Management
+
+* Implementing the service asset management policy and standards
+* Agreeing scope of the asset management processes, function, the items that are to be
+controlled, and the information that is to be recorded
+* Developing asset management standards, asset management plans and procedures
+* Ensuring that the asset management methods and processes are properly
+
+approved and communicated to staff before being implemented
+* Proposes/agrees interfaces with change management ,problem management,
+* network management, release management, computer operations, finance and
+administration functions
+* Proposing IT Budget for financial year for all Hardware and Software.
+
+Previous Organization
+
+* Employed in IT SOURCE Pvt Ltd L1 Server support engineer at the client place of
+United India Insurance Pvt Ltd, Chennai. May 2018 to till April2019
+
+Wintel Operations
+
+* Installing and Configuring of windows 2000, 2003,2008and 2012 servers and Solving
+Operating System related issues.
+* Handling, IBM X series 220, 236,345,346 & 366, Dell Power Edge server R910, R710,
+R900, 2950, R710, R620,HP blades (HP Proliant BL 480c G1, BL460 G7, BL685cG1 DL580
+G5, DL 360G5 & DL360 G9)Server and Racker.
+* Installation of Symantec Antivirus server version 12.1.0 as well as client version on
+servers and also checking the VDF
+* Checking the firmware updates of BIOS, SCSI HDD on all IBM, DELL,HP servers.
+* Performing Disaster Recovery operations (Business Continuity Plan and DR Testing in
+each quarter).
+
+Working Experiences
+* Employed in Infiniminds Private limited L1 Server support engineer at the client place
+of STANDARD CHARTERED GBs(June 2017 to till May 2018)
+* Employed in Care IT Solution L2 desktop engineer at the client place of
+STANDARD CHARTERED GBS (June 2015 to till June 2017)
+* Employed in LAKSHMI ENGINEERING from Mar-2014 to May 2015
+* Employed in Recol Management Service from Dec-2012 to Feb-2014
+
+Educational Qualification
+* Completed BE in Electronics and Communication Engineering department with 69%at
+VEL MULTI TECH SRS ENGINEERING, CHENNAI ANNA UNIVERSITY, CHENNAI.
+
+Date:
+Yours Sincerely
 Place:

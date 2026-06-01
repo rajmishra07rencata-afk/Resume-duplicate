@@ -1,115 +1,87 @@
 Deepak Palanisamy
- Microsoft Certified Technology Specialist SQL Server 2008
+Microsoft Certified Technology Specialist SQL Server 2008
+deepak06_mkn@yahoo.comMobile: +91 8608845457
+P.No-58,
+P.R Nager,
+Hyderabad.
 
-       
-                                                                                                                       P.No-58,
-                                                                                                           P.R Nager,
-                                                                                                           Hyderabad.
-                                                                 
-
-Objective:	
+Objective
+:
 Seeking a position in a challenging environment and clawing the way to the top of corporate ladder by productively contributing towards the growth of the organization with highest value of work ethics as well as client satisfaction.
+Professional 
+Experience
+:
+Currently working as Software Engineer at Adaequare Info Pvt ltd, Hyderabad. (From : June 2016 to Till date)
+Nineteen Months Worked as Software Engineer at Raga Designers, Nungambakkam ,Chennai. ( From : Nov 2014 to June 2016)
+Fourteen Months Worked as Junior Software Engineer at Signa Technologies Navalur, Chennai. (From : Aug 2013 to Oct 2014)
 
-Professional Experience:
-Currently working as Software Engineer at Adaequare Info Pvt ltd, Hyderabad. (From  : June 2016 to Till date)
-Nineteen Months Worked as Software Engineer at Raga Designers, Nungambakkam ,Chennai. ( From  :  Nov 2014 to June 2016)
-Fourteen Months Worked as Junior Software Engineer at Signa Technologies Navalur, Chennai. (From  :  Aug 2013 to Oct 2014)
-	
-Academic Qualification:
-Msc (Software Engineering) from A.V.C College of Engineering with 75% in 2012. 
+Academic
+ Qualification:
+Msc (Software Engineering) from A.V.C College of Engineering with 75% in 2012.
 Higher Secondary (12th) from Kalaimahal Higher Secondary School with 65% in March 2007.
 High School (10th) from Kalaimahal Higher Secondary School with 64% in April 2005.
-
 Certification
-
 Microsoft Certified Technology Specialist SQL Server 2008.
-Completed a Course Diploma in .Net Technologies at NIIT, T.Nagar Chennai. 
-
-
+Completed a Course Diploma in .Net Technologies at NIIT, T.Nagar Chennai.
 Technical Expertise:
-
-       Language		:  C# and C++	
-       Web Application		:  ASP.NET 4.0 and IIS 7
-       Windows Application		:  WPF, Winforms
-       Framework		:  .NET Framework 4.5.2
-       Tools		:  Microsoft Visual Studio 2015
-                                                       and SQL Server 2014 
-       DBMS		:  SQL 
-       Service		:  Web Api 2.0 	
-
-Project’s Summary:
-
-Project#1:					
-Title					:   GST Billing System
-Client       		           	:   Adaequare Info Pvt Ltd
-Role                        	           	:   Software Developer
-Framework		          		:   .Net 4.5.2 with WPF(MVVM) 
-Database    		           	:   Microsoft SQL Server 2014
-Service    		           	:   Web Api 2.0
-	
-Project Description:       
-The concept of GST Billing System to calculate tax for goods and services. It is easy for Tax Filing and tax returns. The project consists in a WPF application that can be used by logistics company to handle the clients, their tax based upon CGST,IGST and SGST as per government tax laws. This system consists of Masters, Transactions like sale order, purchase order, sale invoice, purchase invoice, sale credit note, sale debit note etc. Reports like gstr1,gstr2 for tax reports which is submitted to Government. The services that are provided is by the customer through the system. The Main objective to build the system this is to provide easy to calculate tax calculations . With this system, tax filing will become easier and systematic to replace traditional system.
- 	
-Project#2:					
-Title					:   Restaurant Management System
-Client       		           	:   Blue Matrix Solutions, Malaysia
-Role                        	           	:   Software Developer
-Framework		          		:   .Net 4.0 with WPF
-Database    		           	:   My SQL-XAMPP
-	
-Project Description:          
- 	The concept of restaurant table order management system. It will keep everything as simple as possible. The project consists in a WPF application that can be used by employees in a restaurant to handle the clients, their orders and can help them easily find free tables or place orders. This system wake to provide service facility to restaurant and also to the customer. The services that are provided is food ordering and reservation table management by the customer through the system. The Main objective to build the system this is to provide ordering and reservation service to the customer. With this system, ordering will become easier and systematic to replace traditional system.
-Project#3:					
-Title					:   Retailer Management System. 
-Client       		           	:   Blue Matrix Solutions, Malaysia.
-Role                        	           	:   Team Member
-Framework		          		:   .Net 4.0 with WPF
-Database    		           	:   Microsoft SQL Server 2008
-
-		
+Language: C# and C++
+Web Application: ASP.NET 4.0 and IIS 7
+Windows Application: WPF, Winforms
+Framework: .NET Framework 4.5.2
+Tools: Microsoft Visual Studio 2015
+and SQL Server 2014
+DBMS: SQL
+Service: Web Api 2.0
+Project's 
+Summary
+:
+Project#1:
+Title: GST Billing System
+Client : Adaequare Info Pvt Ltd
+Role : Software Developer
+Framework : .Net 4.5.2 with WPF(MVVM)
+Database : Microsoft SQL Server 2014
+Service : Web Api 2.0
 Project Description:
-The scope of the system is to automate the report generation for the “Retailer Management System” using the data provided by regional users using either by the excel templates or screens. The system is a windows application through which the regional users would be able to key in generates a reports. The super (Admin) would be able verify the data and generate reports. The supplier to get the products and generate an invoice details to the supplier. This project contains three modules. Admin screen will be used to store the master details in database and system configuration details. The user can view the Sales Invoice, Purchase, and Purchase invoice Return are using for transaction and generate Reports and maintain an accounts details. 
-
-Project#4:					
-Title					:   Timesheet Management System
-Client       		           	:   Signa Technologies
-Role                        	           	:   Software Developer
-Framework		          		:   .Net 4.0
-Database    		           	:   Microsoft SQL Server 2008
-Scripting Language		:    HTML, CSS 
-	
-Project Description:          
-	An online Timesheet Application has divided in to two Modules Admin and User .Admin can enter the Project Details, Customer and Task Details for every User. User can enter the Task and Working Hours and Notes .Based on the Timesheet Entry User can generate the Report as well. User can send the Report Daily Basis as well as Weekly Basis. The Main Advantage of the Timesheet Application is to Tracking Time of the Project. When the Project Started, and when it’s ended. We can easily find the Cost Estimation of the Project and the current status of the Project. The Details are stored in the Database.
-
-
-
-Project#5:					
-Title					:    Parts Catalogue Approval System. 
-Client       		           	:   Federal Mogul, USA
-Role                        	           	:   Team Member
-Framework		          		:   .Net 3.5
-Database    		           	:   Microsoft SQL Server 2008
-Scripting Language		:    HTML, CSS 
-
-	
-Project Description:
-The scope of the system is to automate the report generation for the “Parts Catalogue Approval System” using the data provided by regional users using either by the excel templates or screens. The system is a web application through which the regional users would be able to key in data or upload Bulk data using browse and upload feature provided in the input screen. The super user (Admin) would be able verify the data and generate reports. Upon approval, the reports would be sent to respective recipients through email. This project contains 3 modules. Master Screen will be used to store the Master details in database. 
-
-
+The concept of GST Billing System to calculate tax for goods and services. It is easy for Tax Filing and tax returns. The project consists in a WPF application that can be used by logistics company to handle the clients, their tax based upon CGST,IGST and SGST as per government tax laws. This system consists of Masters, Transactions like sale order, purchase order, sale invoice, purchase invoice, sale credit note, sale debit note etc. Reports like gstr1,gstr2 for tax reports which is submitted to Government. The services that are provided is by the customer through the system. The Main 
+objective
+ to build the system this is to provide easy to calculate tax calculations . With this system, tax filing will become easier and systematic to replace traditional system.
+Project#2:
+Title: Restaurant Management System
+Client : Blue Matrix Solutions, Malaysia
+Framework : .Net 4.0 with WPF
+Database : My SQL-XAMPP
+The concept of restaurant table order management system. It will keep everything as simple as possible. The project consists in a WPF application that can be used by employees in a restaurant to handle the clients, their orders and can help them easily find free tables or place orders. This system wake to provide service facility to restaurant and also to the customer. The services that are provided is food ordering and reservation table management by the customer through the system. The Main 
+objective
+ to build the system this is to provide ordering and reservation service to the customer. With this system, ordering will become easier and systematic to replace traditional system.
+Project#3:
+Title: Retailer Management System.
+Client : Blue Matrix Solutions, Malaysia.
+Role : Team Member
+Database : Microsoft SQL Server 2008
+The scope of the system is to automate the report generation for the "Retailer Management System" using the data provided by regional users using either by the excel templates or screens. The system is a windows application through which the regional users would be able to key in generates a reports. The super (Admin) would be able verify the data and generate reports. The supplier to get the products and generate an invoice details to the supplier. This project contains three modules. Admin screen will be used to store the master details in database and system configuration details. The user can view the Sales Invoice, Purchase, and Purchase invoice Return are using for transaction and generate Reports and maintain an accounts details.
+Project#4:
+Title: Timesheet Management System
+Client : Signa Technologies
+Framework : .Net 4.0
+Scripting Language: HTML, CSS
+An online Timesheet Application has divided in to two Modules Admin and User .Admin can enter the Project Details, Customer and Task Details for every User. User can enter the Task and Working Hours and Notes .Based on the Timesheet Entry User can generate the Report as well. User can send the Report Daily Basis as well as Weekly Basis. The Main Advantage of the Timesheet Application is to Tracking Time of the Project. When the Project Started, and when it's ended. We can easily find the Cost Estimation of the Project and the current status of the Project. The Details are stored in the Database.
+Project#5:
+Title: Parts Catalogue Approval System.
+Client : Federal Mogul, USA
+Framework : .Net 3.5
+The scope of the system is to automate the report generation for the "Parts Catalogue Approval System" using the data provided by regional users using either by the excel templates or screens. The system is a web application through which the regional users would be able to key in data or upload Bulk data using browse and upload feature provided in the input screen. The super user (Admin) would be able verify the data and generate reports. Upon approval, the reports would be sent to respective recipients through email. This project contains 3 modules. Master Screen will be used to store the Master details in database.
 personal details:
+DOB: 04rd Jan, 1990
+Sex : Male
+Marital Status : Single
 
-DOB				:   04rd Jan, 1990
-Sex 				:   Male
-Marital Status          		:   Single
-Languages			:   English, Tamil.
-
+Languages
+: English, Tamil.
 DECLARATION:
-
-I hereby declare that the above mentioned details are true to the best of my knowledge. 
-
-
-Date	:
-
-Place	:
- 
-                               	(Deepak P)
+I hereby declare that the above mentioned details are true to the best of my knowledge.
+Date:
+Place:
+(Deepak P)
+deepak06_mkn@yahoo.com
+Mobile: +91 8608845457

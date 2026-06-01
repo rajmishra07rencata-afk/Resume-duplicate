@@ -1,88 +1,90 @@
-Indhumathinallasamy33@gmail.com   
-+91 9442321036   
-Erode, Tamil Nadu, India 
-indhumathi-nallasamy-5a3405172 
- 
- 
- 
- 
- 
- 
-WORK EXPERIENCE 
-Software Engineer (Test Automation) 
-Cognizant Technology Solutions 
-Designation  : Associate 
-01/2019 – Present 
-Responsibilities  
-• Understanding and analyzing the functional 
-specifications 
-• Test case preparation and Regression execution 
-• Bug tracking and reporting using Rally test 
-management tool 
-• Requirement analysis, development of test 
-script in programming language Java using 
-Selenium with TestNG framework 
-• Automating API testing using REST Assured 
-• Involved in maintain and scheduling automation
-scripts & analyzing the results 
-• Participated in Daily Scrum meeting and  
-Standup meeting 
- 
-EDUCATION 
-Bachelor of Engineering (Electronics and 
-Communication Engineering) 
-Velalar College of Engineering & Technology 
-Erode 
-08/2014 – 04/2018                                 7.04/10 
- 
- 
- 
-SKILLS 
-PROJECTS 
-Client – Great American Insurance Group 
-       05/2019 – Present 
-Great American Insurance Group is an US company which is 
-engaged primarily in property and casualty insurance. 
-LANGUAGES 
-Cooking 
-Playing Football 
-WORKFLOW 
-Agile Methodology 
-• Creating automation test scripts, Executing and 
-maintaining automation test cases.  
-• Involved in the development of framework and 
-scripts. Working on Continuous Integration 
-environment with Jenkins tool.  
- 
-Professional Summary 
-Professional Quality Analyst with 3.5 years of experience in software 
-quality process. Proven knowledge in testing tools, automation test 
-and continuous integration in Agile work methodology. 
-Selenium  
- Eclipse 
-Maven 
-JUnit 
-Jenkins 
-Manual Testing 
-Rally 
-TestNG 
-Git Hub 
-Agile methodology 
-   Java 
-DOMAIN 
- 
- 
-Insurance 
-English 
-Professional proficiency 
-Tamil 
-Native or Bilingual Proficiency 
-Indhumathi Nallasamy 
-REST Assured 
-API Testing 
-Framework Design 
-INTEREST 
-CERTIFICATION 
-Udemy - Selenium WebDriver With Java  
+Indhumathinallasamy33@gmail.com
++91 9442321036
+Erode, Tamil Nadu, India
+indhumathi-nallasamy-5a3405172
+
+WORK 
+EXPERIENCE
+
+Software Engineer (Test Automation)
+Cognizant Technology Solutions
+Designation : Associate
+01/2019 - Present
+Responsibilities
+* Understanding and analyzing the functional
+specifications
+* Test case preparation and Regression execution
+* Bug tracking and reporting using Rally test
+management tool
+* Requirement analysis, development of test
+script in programming language Java using
+Selenium with TestNG framework
+* Automating API testing using REST Assured
+* Involved in maintain and scheduling automation
+scripts & analyzing the results
+* Participated in Daily Scrum meeting and
+Standup meeting
+
+EDUCATION
+
+Bachelor of Engineering (Electronics and
+Communication Engineering)
+Velalar College of Engineering & Technology
+Erode
+08/2014 - 04/2018 7.04/10
+
+SKILLS
+
+PROJECTS
+
+Client - Great American Insurance Group
+05/2019 - Present
+Great American Insurance Group is an US company which is
+engaged primarily in property and casualty insurance.
+
+LANGUAGES
+
+Cooking
+Playing Football
+WORKFLOW
+Agile Methodology
+* Creating automation test scripts, Executing and
+maintaining automation test cases.
+* Involved in the development of framework and
+scripts. Working on Continuous Integration
+environment with Jenkins tool.
+
+Professional 
+Summary
+
+Professional Quality Analyst with 3.5 years of 
+experience
+ in software
+quality process. Proven knowledge in testing tools, automation test
+and continuous integration in Agile work methodology.
+Selenium
+ Eclipse
+Maven
+JUnit
+Jenkins
+Manual Testing
+Rally
+TestNG
+Git Hub
+ Java
+DOMAIN
+
+Insurance
+English
+Professional proficiency
+Tamil
+Native or Bilingual Proficiency
+Indhumathi Nallasamy
+REST Assured
+API Testing
+Framework Design
+INTEREST
+CERTIFICATION
+Udemy - Selenium WebDriver With Java
 https://www.udemy.com/certificate/UC-b1bd9afc-9845-
 4e49-928b-1a8c1c90fa7e

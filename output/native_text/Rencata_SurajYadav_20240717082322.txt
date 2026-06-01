@@ -1,173 +1,151 @@
-SURAJ KUMAR YADAV  
-Mob: +91 9120156501 
-E-mail: surajkumaryadav0955@gmail..com  
-Location: New Delhi 
-    
-Summary:    
-    
-• 
-Experienced QA professional with having 2 plus  years of experience in automation testing, 
-manual testing, and API testing.    
-• 
-Proven ability to design, develop, and execute test plans, identify and report defects, and 
-collaborate with cross functional teams to deliver high quality software products.    
-• 
-Adept at using various testing tools and methodologies to ensure the reliability and functionality 
-of applications.   
-• 
-Functional expertise in Manual/ Automation Testing (Individual Contributor & 
-Selenium Automation Engineer) using Selenium WebDriver, Automation Framework 
-(Data Driven with POM) 
-• 
-Expertise in Automation Testing Frameworks like TestNG ,Cucumber  
-• 
-Rich & qualitative experience in Automation of Object Repository & Test Data 
-Management from different Data Sources Excel, XML, with API Apache POI. 
-• 
-Established and enforced Standard Test Processes and Deliverables (including defect 
-management and quality metric reporting) within the process to streamline testing and 
-support automation & manual testing 
-• 
-Understanding of Web based Application Automation using Selenium WebDriver with 
-Java, TestNG,  Maven Framework Development 
-• 
-Excellence in gathering and understanding requirements of clients & other multiple 
-stakeholders (at strategic and tactical levels), followed by translation into technical 
-requirements & provisioning of suitable solutions 
-• 
-Excelled in analysis & review of user, business & system requirements; writing of test 
-cases, defect reporting, system testing, documentation, maintaining and delivering RTM; 
-monitored, documented, & reported current status of defects for each testing cycle & 
-overall project management 
-• 
-Knowledge of Agile Delivery, Life-Cycle Management Tools (JIRA), Software Testing 
-Standards, Methods and  Conventions                    
-• 
-Effective in creating test estimation document, test cases & test plans, executing the 
-same, arriving at the schedules & conducting reviews; managed test plan execution and 
-reported the results 
-• 
-Seeking opportunities to contribute expertise and drive continuous improvement in testing 
-processes.    
- 
-Manual  
-    
-• 
-Created detailed test plans, test cases, and executed manual tests for web applications, 
-identifying critical defects and ensuring high quality software releases.    
-• 
-Conducted functional, and regression testing consistently meeting project deadlines.    
-• 
-Collaborated with cross functional teams to reproduce, analyze, and report defects using JIRA, 
-facilitating effective communication between development and QA teams.    
-SM WEB SOLUTIONS PVT. LTD.    
-QA Engineer    
-• 
-Conducted exploratory testing to uncover usability issues and provide user centric feedback to 
-improve the overall user experience.   
- 
- 
-API Tester    
-    
-• 
-Designed and executed APIs Testing using Postman, validating data integrity, error handling, and 
-authentication mechanisms.    
-• 
-Developed automated API test scripts using Postman collections and reducing testing time by 
-20%.    
-• 
-Worked closely with development teams to understand API specifications and ensure accurate 
-testing of endpoints.    
-• 
-Utilized SQL queries to perform database validations and verify data consistency between APIs 
-and databases.    
- 
-Skills:    
-    
-    
-Testing Tools:    
-Selenium WebDriver, Core Java, TestNG , Cucumber 
-Programming Languages:    
-Java    
-Automation Frameworks:    
-Hybrid Framework, Page Object Model (POM), Data Driven Testing    
-Version Control:    
-Git  
-Defect Tracking:    
-JIRA    
-API Testing:    
-RESTful APIs, JSON, XML, API Testing using Postman    
-Testing Methodologies:    
-Agile, Scrum    
-Database:    
-SQL, MySQL    
-Operating Systems:    
-Windows, Linux    
-Test Report:    
-Extents Report, TestNG Report    
-IDE:    
-Eclipse    
-Operating System:    
-Windows 7, 10,11    
-    
-    
- 
- 
- 
- 
- Professional Experience:     
-     
-  Automation Tester SM WebSolutions  Pvt. Ltd.  | From September 2021  to till now| New Delhi. 
-• 
-Developed and maintained automation scripts using Selenium WebDriver, Java, and TestNG, 
-resulting in a 30% reduction in regression testing time.    
-• 
-Implemented the Page Object Model (POM) design pattern to enhance test script 
-maintainability and reusability.    
-• 
-Collaborated with developers and product managers to define test scenarios and ensure 
-comprehensive test coverage.    
-• 
-Participated in daily stand up meetings and provided valuable insights to improve the quality of 
-the product.       
-Projects:    
-    
- 
-Project Title: Info Solutions CRM (Web & Mobile App) 
-Role:  Automation Tester  .                                            
-Client: Africa based Industrial Marketing Company 
-Environment: Windows 10, Development, Pre-Production, Production 
-Tools & IDE: Java, Eclipse, Selenium Web Driver 
-Testing Framework: POM 
-Project Description: 
-Info Solution CRM is web & mobile app based Customer Relationship Management 
-software for managing customer relations in a better way. One can use the Info Solution 
-CRM software for client’s organization-wide sales, marketing, customer support, and 
-inventory, functions. Info Solution CRM can manage Sales Force Automation (which 
-includes Leads, Accounts, Contacts, Potentials, Sales Forecasts, Quotes, Sales Orders, 
-Invoices and so on), Marketing Automation (Which includes Campaigns, Lead 
-Generation, and Mass Mailing Lists). 
- 
-Education:    
-    
-• 
-Graduation BSC from ALLAHABAD in 2021 . 
-• 
-12th Completed from UP BOARD in 2018.    
-• 
-10th Completed From ICSE  in 2015.    
-PERSONAL DETAILS 
- 
-• 
-Gender: Male 
-• 
- Date of Birth: 8th July 1999 
-• 
- Marital Status: Single 
-• 
- Nationality: Indian 
-• 
- Languages Known: English and Hindi 
-• 
-Address: Sant Ravidas Nagar Bhadohi ,Uttar Pradesh, 
+SURAJ KUMAR YADAV
+Mob: +91 9120156501
+E-mail: surajkumaryadav0955@gmail..com
+Location: New Delhi
+
+Summary
+:
+
+*
+Experienced QA professional with having 2 plus years of 
+experience
+ in automation testing,
+manual testing, and API testing.
+Proven ability to design, develop, and execute test plans, identify and report defects, and
+collaborate with cross functional teams to deliver high quality software products.
+Adept at using various testing tools and methodologies to ensure the reliability and functionality
+of applications.
+Functional expertise in Manual/ Automation Testing (Individual Contributor &
+Selenium Automation Engineer) using Selenium WebDriver, Automation Framework
+(Data Driven with POM)
+Expertise in Automation Testing Frameworks like TestNG ,Cucumber
+Rich & qualitative 
+experience
+ in Automation of Object Repository & Test Data
+Management from different Data Sources Excel, XML, with API Apache POI.
+Established and enforced Standard Test Processes and Deliverables (including defect
+management and quality metric reporting) within the process to streamline testing and
+support automation & manual testing
+Understanding of Web based Application Automation using Selenium WebDriver with
+Java, TestNG, Maven Framework Development
+Excellence in gathering and understanding requirements of clients & other multiple
+stakeholders (at strategic and tactical levels), followed by translation into technical
+requirements & provisioning of suitable solutions
+Excelled in analysis & review of user, business & system requirements; writing of test
+cases, defect reporting, system testing, documentation, maintaining and delivering RTM;
+monitored, documented, & reported current status of defects for each testing cycle &
+overall project management
+Knowledge of Agile Delivery, Life-Cycle Management Tools (JIRA), Software Testing
+Standards, Methods and Conventions
+Effective in creating test estimation document, test cases & test plans, executing the
+same, arriving at the schedules & conducting reviews; managed test plan execution and
+reported the results
+Seeking opportunities to contribute expertise and drive continuous improvement in testing
+processes.
+
+Manual
+
+Created detailed test plans, test cases, and executed manual tests for web applications,
+identifying critical defects and ensuring high quality software releases.
+Conducted functional, and regression testing consistently meeting project deadlines.
+Collaborated with cross functional teams to reproduce, analyze, and report defects using JIRA,
+facilitating effective communication between development and QA teams.
+SM WEB SOLUTIONS PVT. LTD.
+QA Engineer
+
+Conducted exploratory testing to uncover usability issues and provide user centric feedback to
+improve the overall user 
+experience
+.
+
+API Tester
+
+Designed and executed APIs Testing using Postman, validating data integrity, error handling, and
+authentication mechanisms.
+Developed automated API test scripts using Postman collections and reducing testing time by
+20%.
+Worked closely with development teams to understand API specifications and ensure accurate
+testing of endpoints.
+Utilized SQL queries to perform database validations and verify data consistency between APIs
+and databases.
+
+Skills
+:
+
+Testing Tools:
+Selenium WebDriver, Core Java, TestNG , Cucumber
+Programming 
+Languages
+:
+Java
+Automation Frameworks:
+Hybrid Framework, Page Object Model (POM), Data Driven Testing
+Version Control:
+Git
+Defect Tracking:
+JIRA
+API Testing:
+RESTful APIs, JSON, XML, API Testing using Postman
+Testing Methodologies:
+Agile, Scrum
+Database:
+SQL, MySQL
+Operating Systems:
+Windows, Linux
+Test Report:
+Extents Report, TestNG Report
+IDE:
+Eclipse
+Operating System:
+Windows 7, 10,11
+
+Professional 
+Experience
+:
+
+Automation Tester SM WebSolutions Pvt. Ltd. | From September 2021 to till now| New Delhi.
+Developed and maintained automation scripts using Selenium WebDriver, Java, and TestNG,
+resulting in a 30% reduction in regression testing time.
+Implemented the Page Object Model (POM) design pattern to enhance test script
+maintainability and reusability.
+Collaborated with developers and product managers to define test scenarios and ensure
+comprehensive test coverage.
+Participated in daily stand up meetings and provided valuable insights to improve the quality of
+the product.
+
+Projects
+:
+
+
+Project Title: Info Solutions CRM (Web & Mobile App)
+Role: Automation Tester .
+Client: Africa based Industrial Marketing Company
+Environment: Windows 10, Development, Pre-Production, Production
+Tools & IDE: Java, Eclipse, Selenium Web Driver
+Testing Framework: POM
+Project Description:
+Info Solution CRM is web & mobile app based Customer Relationship Management
+software for managing customer relations in a better way. One can use the Info Solution
+CRM software for client's organization-wide sales, marketing, customer support, and
+inventory, functions. Info Solution CRM can manage Sales Force Automation (which
+includes Leads, Accounts, Contacts, Potentials, Sales Forecasts, Quotes, Sales Orders,
+Invoices and so on), Marketing Automation (Which includes Campaigns, Lead
+Generation, and Mass Mailing Lists).
+
+Education
+:
+
+Graduation BSC from ALLAHABAD in 2021 .
+12th Completed from UP BOARD in 2018.
+10th Completed From ICSE in 2015.
+PERSONAL DETAILS
+
+Gender: Male
+Date of Birth: 8th July 1999
+Marital Status: Single
+Nationality: Indian
+
+Languages
+ Known: English and Hindi
+Address: Sant Ravidas Nagar Bhadohi ,Uttar Pradesh,
 India. 221401

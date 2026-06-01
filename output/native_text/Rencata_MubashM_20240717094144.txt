@@ -6,13 +6,23 @@ Mubash M
 Mail Id:- mubash13m@gmail.com
 Phone No :- 8157959080, 9496599080
 Male, 25 Years
+
 SUMMARY
+
 -- Passionate to Learn new technologies and its implementations
--- Over 3 year 11 month experience as developer in SQL, PL\SQL, Python and ETL tools. 
--- Experience in Leading 12 - 15 member team across SQL, Python and ETL . 
--- Experience in Object oriented Design and implementation.
+-- Over 3 year 11 month 
+experience
+ as developer in SQL, PL\SQL, Python and ETL tools.
+-- 
+Experience
+ in Leading 12 - 15 member team across SQL, Python and ETL .
+-- 
+Experience
+ in Object oriented Design and implementation.
 -- Data Analysis, pre execute the plan before going to production development, Quality ensuring
-ACADEMIC QUALIFICATION
+
+ACADEMIC
+ QUALIFICATION
 B.A Sociology
 2023
 IGNUO
@@ -23,11 +33,12 @@ Government Engineering College Idukki
 Dropped
 Class XII
 2015
-Kerala State Board of Secondary Education
+Kerala State Board of Secondary 
+Education
+
 87.42
 Class X
 2013
-Kerala State Board of Secondary Education
 87
 INDUSRTY INTERFACE
 Medisweans Solutions
@@ -38,18 +49,24 @@ Worked on Data entry section
 Standout IT Solutions Pvt Ltd
 Software Engineer
 Feb 2020 - Present
-Working on Database design 
+Working on Database design
 Working Dataload and maintanace in Database
 Working in ETL Development for Automation purposes
 Working on Python implementation in Database(Based on requirments)
-PROJECTS UNDERTAKEN 
-Academic Projects
-Hospital Management System and Data Sharing 
+
+PROJECTS
+ UNDERTAKEN
+
+Academic
+ 
+Projects
+
+Hospital Management System and Data Sharing
 (Mini Project)
-Studied the lacking automated hospital managementsystems 
+Studied the lacking automated hospital managementsystems
 in Govt. Hospitals Kerala
 Created a Web Using HTML, PHP, CSS and MYSQL
-Prepare a research paper on the basis of project and 
+Prepare a research paper on the basis of project and
 published in GRD Journals
 Centralized Hospital Management
 and Secure Data Sharing System
@@ -57,108 +74,123 @@ for Gov. Hospitals in Kerala (Main
 Project)
 Continuation of Mini Project using python
 Studied how to make it centralized and give more security
-Proffesssional Projects
+Proffesssional 
+Projects
+
 CLAIM FILING PORTALS
-Claim Filing Portals are web projects for customer involved 
-in class action settlement cases. Each portal will be 
-customized according to customer requirements. The portal 
-helps the users for submitting their claims online to the 
+Claim Filing Portals are web 
+projects
+ for customer involved
+in class action settlement cases. Each portal will be
+customized according to customer requirements. The portal
+helps the users for submitting their claims online to the
 claim administration company.
-Monitoring the progress and support colleagues during 
+Monitoring the progress and support colleagues during
 development issues and bug fixes.
 ADMINISTRATION PORTALS
-Administration Portals are web projects for clients to handle 
-the data according to their needs. Project includes Login, 
-Database Handling, Creating and modifying procedures, 
+Administration Portals are web 
+projects
+ for clients to handle
+the data according to their needs. Project includes Login,
+Database Handling, Creating and modifying procedures,
 functions, triggers.
-Monitoring the progress and support colleagues during 
-development issues and bug fixes.
-9-Dec-2023
-mubash13m@gmail.com
+
 Page 2
-8157959080, 9496599080
-Proffesssional Projects
 CLAIM FILING PORTAL AUTOMATION
-Claim fling portal automation are based on ETL tools like 
-SSIS. This will help to extract the data from database and 
-customisation according to the client. It will happen thorugh 
-a button click. They can download the reprts from the portal 
-after the extract process complete. The portal itself gives a 
+Claim fling portal automation are based on ETL tools like
+SSIS. This will help to extract the data from database and
+customisation according to the client. It will happen thorugh
+a button click. They can download the reprts from the portal
+after the extract process complete. The portal itself gives a
 status of each case extracts too.
-Monitoring the progress and support colleagues during 
-development issues and bug fixes.
 MANAGE CLIENTS PORTAL
-Manage Client Portals are web projects for clients to handle 
-the data according to their needs. Project includes Login, 
-Database Handling, Creating and modifying procedures, 
-functions, triggers. This portal helps store their client details 
-and their informations. Also they can track the data recived 
+Manage Client Portals are web 
+projects
+ for clients to handle
+functions, triggers. This portal helps store their client details
+and their informations. Also they can track the data recived
 months and their schedules
-Monitoring the progress and support colleagues during 
-development issues and bug fixes.
 CLIENT PORTAL
-Client portal helps the premium clients to view their cases 
-in Class action, its settlements and their accounts and all. 
-This portal intract with Claims Filing portal and Manage 
-Clients Portal, the premium clients can message their 
-manager for each case and get the status from this portal. 
-Mostly the premium clients can intract with their manager 
-and also view their all details abount cases and its status 
-thorugh this. This will also include SSIS automation in 
+Client portal helps the premium clients to view their cases
+in Class action, its settlements and their accounts and all.
+This portal intract with Claims Filing portal and Manage
+Clients Portal, the premium clients can message their
+manager for each case and get the status from this portal.
+Mostly the premium clients can intract with their manager
+and also view their all details abount cases and its status
+thorugh this. This will also include SSIS automation in
 report genration and Calculation parts and status populating.
-Monitoring the progress and support colleagues during 
-development issues and bug fixes.
 Conduct peer-to-peer code reviews.
 Daily Task Tracker
-Daily Task Tracker are web projects for in office users to 
-handle the works according to their needs and track their 
-status from strat to end. Project includes Login, Database 
-Handling, Creating and modifying procedures, functions, 
+Daily Task Tracker are web 
+projects
+ for in office users to
+handle the works according to their needs and track their
+status from strat to end. Project includes Login, Database
+Handling, Creating and modifying procedures, functions,
 triggers.
-Monitoring the progress and support colleagues during 
-development issues and bug fixes.
+
 ACHIEVEMENTS
+
 Business Events
 Awarded First Prize in Epiphany 16, the Ideation Boot Camp conducted by E-Cell NIT Trichy
+
 Publications
-Published a paper on the topic Centralized Hospital Management and Data Sharing System for Government 
+
+Published a paper on the topic Centralized Hospital Management and Data Sharing System for Government
 Hospitals in Kerala at GRD Journals on March 2019. (My article ID is GRDCF013067)
 Internships
-Completed internship training program in “Android App Development” at IBAND Technologies, Infopark, 
+Completed 
+internship
+ 
+training
+ program in "Android App Development" at IBAND Technologies, Infopark,
 Kochi from 16/07/2018 to 30/07/2018 (Certificate Link :- )
-Completed Google Cloud Ready Facilitator, its a cloud training program directed by Google banglore. Explored 
-more in google cloud and done labs in Qwilabs. Also after the training I trained 600+ students accross different 
-colleges in Kerala on Google Cloud. 
+Completed Google Cloud Ready Facilitator, its a cloud 
+training
+ program directed by Google banglore. Explored
+more in google cloud and done labs in Qwilabs. Also after the 
+training
+ I trained 600+ students accross different
+colleges in Kerala on Google Cloud.
 (Certificate Link :- https://drive.google.com/file/d/17gl8CxW7dACDDny5aZ6HYxowcJm9zKi3/view?
 usp=sharing )
-Completed internship training program in “ETHICAL HACKING AND CYBER SECURITY” at Appin 
+Completed 
+internship
+ 
+training
+ program in "ETHICAL HACKING AND CYBER SECURITY" at Appin
 Technology Lab, Kochi from 01/08/2019 to 07/08/2019
-9-Dec-2023
-mubash13m@gmail.com
+
 Page 3
-8157959080, 9496599080
 Others
-Attended the State Level Evaluation of YIP 2019 challenge on 31st December 2019 by Kerala Government and 
-K-DISC,  (Ref: Idea ID No: IDEA/2019/341 (HOSPITAL MANAGEMENT SYSTEM)
-Awarded Certification of Participation for the Project presentation at the second round of 8th CSI-InApp 
-National Student Project Award 2019 
-Awarded Certification of Participation in Illuminate 2016 on Business Model Workshop the program 
+Attended the State Level Evaluation of YIP 2019 challenge on 31st December 2019 by Kerala Government and
+K-DISC, (Ref: Idea ID No: IDEA/2019/341 (HOSPITAL MANAGEMENT SYSTEM)
+Awarded Certification of Participation for the Project presentation at the second round of 8th CSI-InApp
+National Student Project Award 2019
+Awarded Certification of Participation in Illuminate 2016 on Business Model Workshop the program
 organized by E-Cell IIT Bombay, as part of EUREKA 16 hosted by GEC Idukki
-Awarded Certification of Participation in the 3rd National Conference on Emerging Research Trends in 
-Engineering (ERTE’19), organized by Department of Electrical and Electronics Engineering at Adi Shankara 
+Awarded Certification of Participation in the 3rd National Conference on Emerging Research Trends in
+Engineering (ERTE'19), organized by Department of Electrical and Electronics Engineering at Adi Shankara
 Institute of Engineering and Technology Kalady
-Awarded Certification of Participation in technical session on FOSS for Industry 4.0 the program conducted by 
+Awarded Certification of Participation in technical session on FOSS for Industry 4.0 the program conducted by
 ICFOSS, as part of FYPM 18-19
-Awarded Certification of Participation in IoT Challenge 2016 conducted by i3indya Technologies in association 
+Awarded Certification of Participation in IoT Challenge 2016 conducted by i3indya Technologies in association
 with Techfest 2016 IIT Bombay and IEDC of SCET Kodakara
-Awarded Certification of Attendance in Prograssive Web Apps Workshop by GOOGLE  conducted during 
+Awarded Certification of Attendance in Prograssive Web Apps Workshop by GOOGLE conducted during
 IEDC Summit 2019 by Kerala Startup Mission
+
 INTERESTS
+
 Participate in tech talk
 Collect more information in new upcoming Technologies, Study new technologies
 Interest in attending tech talks and workshops
-TECHNICAL SKILLS
-Web Languages
+TECHNICAL 
+SKILLS
+
+Web 
+Languages
+
 HTML, PHP, PYTHON (Basics)
 Platforms
 Google Cloud, AWS(Starter)
@@ -166,7 +198,9 @@ Data Base \ Integration services
 MSSQL, MYSQL, SSIS, Lambda service (Starter)
 Source-Code Editor
 Visual studio code, Notepad++, Jupytor notebook
-My Profile 
+My 
+Profile
+
 Linkedin
 https://www.linkedin.com/in/mubash-m/
 Github

@@ -1,33 +1,149 @@
 Ajay Kumar P
-Contact: +91-8072023750
-E-Mail: ajay.ios0066@gmail.com
 
+Contact
+: +91-8072023750
+E-Mail: ajay.ios0066@gmail.com
 MIDDLE LEVEL ASSIGNMENTS
-A versatile, high-energy mobile application developer with the distinction of executing prestigious projects of large magnitude within strict time schedule
-PROFILE SUMMARY
-• A Mobile Application Developer with nearly 7.7 years of experience in Software Development, Application Maintenance & Support and Project Execution
-•    Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management
-•   Well versed with iPhone Application Development (Enterprise Mobility Solutions)
-•    Experienced in working with clients, business managers and technical teams for executing           concurrent projects
-•     Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, Objective-c, Swift, iPhone Applications.)
-ORGANISATIONAL EXPERIENCE 
+A versatile, high-energy mobile application developer with the distinction of executing prestigious 
+projects
+ of large magnitude within strict time schedule
+
+PROFILE
+ 
+SUMMARY
+
+* A Mobile Application Developer with nearly 7.7 years of 
+experience
+ in Software Development, Application Maintenance & Support and Project Execution
+* Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management
+* Well versed with iPhone Application Development (Enterprise Mobility Solutions)
+* Experienced in working with clients, business managers and technical teams for executing concurrent 
+projects
+
+* Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, 
+Objective
+-c, Swift, iPhone Applications.)
+ORGANISATIONAL 
+EXPERIENCE
+
+Company : HIK IT Technology service, Chennai.
+Designation : Software Engineer.
+Duration : Sep '02-2014 to Sep '24 - 2016
+Company : QR Solutions (India) Pvt. ltd, Kallukuzhi, Tiruchirappalli.
+Designation : Sr. Software Engineer
+Duration : Oct '23-2016 to June '29 - 2018
+Company : Piccosoft Software labs India Private Limited.
+Designation : Sr. Software Engineer.
+Duration : June'15- 2019 to May'31-2021.
+Company : National Informatic Center (On contract through Akal Consultancy)
+Designation : Software Application Support Engineer.
+Duration : Sept' 07- 2021 to Aug '31-2022.
+Company : Primates Development Pvt Ltd.
+Designation : Senior Mobile Developer.
+Duration : Sept' 26- 2022 to current.
 Handling various technical aspects like coding of modules using the given design specifications, debugging and fixing the defects as well as analyzing its root cause.
 Ensuring that business requirements and functional specifications for the module coded by me are retested and fulfilled before the code is delivered for integration.
 Coordinating with team members for system design, integration, application maintenance, etc.
 Cooperating with other teams across the organization for efficient work progress.
 Following the best practices for project support and documentation assets by the peers.
-Understanding & mapping client’s requirements/enhancements to the product, implementing solutions that effectively resolve problems or provide improvement.
-IT SKILLS
-                                                                         EDUCATION
-B. Sc Physics in Bishop Heber College with CGPA of 6.5 during the academic year 2007-2010.
-M. Sc IT in SRM University with CGPA of 7.5 during the academic year 2011-2013.
+Understanding & mapping client's requirements/enhancements to the product, implementing solutions that effectively resolve problems or provide improvement.
+IT 
+SKILLS
 
+Domain (Mobile Application):iPhone Application Development (EnterpriseMobility)
+Platform : iOS, AngularJS.
+Programming 
+Languages
+ : 
+Objective
+-C, Swift, JavaScript, HTML, CSS.
+Operating Systems : Mac.
+Development Environments : Xcode. Visual Studio Code.
+Tools or SDKs : IOS SDK Platform Tools, Facebook /Twitter SDK, PayPal
+SDK, QuickBlox Chat SDK.
+Others : JSON, XML, SOAP, REST, GIT,GITHUB.
 
-PROFESSIONAL PROJECTS
+EDUCATION
+
+B. Sc Physics in Bishop Heber College with CGPA of 6.5 during the 
+academic
+ year 2007-2010.
+M. Sc IT in SRM University with CGPA of 7.5 during the 
+academic
+ year 2011-2013.
+PROFESSIONAL 
+PROJECTS
+
+1. | Project Title | : Chiro Board Review(CBR)
+Project Description | : Study for the NBCE exam with Chiropractic Board Review. With over 3,400 questions in multiple-choice format just like your NBCE exam. CBR has taken the time to choose from top questions most asked in the NBCE exam. Don't be surprised if you encounter 40% to 50% of the questions during your Board exam.
+Technical Details | : Client server communication, Facebook/Twitter SDK and Google chart for statistics Report
+Team Size | : 1
+URL:https://itunes.apple.com/in/app/chiro-board review/id1071316329?mt=8
+2. | Project Title | : My School Pass
+Project Description | : My School Pass monitors student movement in and around the school building using technological advances to better secure school buildings and by providing valuable data to improve instruction. My School pass is uniquely designed to provide schools with increased accountability, security and additional data otherwise unavailable to school leaders.
+This digital technology allows students to use their own smartphone/tablets or school issued technology to request a "hall pass" to various locations previously approved by your staff.
+Technical Details | : Data retrieve from server(Client server communication)
+Team Size | : 2
+URL:https://itunes.apple.com/in/app/my-school-pass/id1060905733?mt=8
+3. | Project Title | : Trendy Craft Shows
+Project Description | : Trendy Craft Shows are designed to promote shows, give customers turn by turn directions to your event. Option for others to rate and chat with you about your event! Trendy Market is a buy sell art and craft market with a direct sales market place to enhance your sales! It has built-in PayPal, chat option and quantity option to list multiple items you have handmade, shipping is done outside of the app! Another great feature of the Trendy Craft Show app, it has a built-in business card directory, so you can list your business from 6 to 12 months on the app. This is a great way for people who are searching for shows and customers to find you and chat with you and better understand what goes into your business and stand out in the business card directory.
+Technical Details | : Data retrieved from server(Client server communication), PayPal SDK, Google Map SDK and QuickBlox chat SDK.
+4. | Project Title | : Vehicle eVal
+Client | : AutoSportsGroup, Sydney - Australia
+Role | : Sr.Software Engineer
+Environment | : Xcode 8.0, Swift 3.0,Sql Lite, PHP, Mysql, Json, Sales Force, Wso2, Mule soft
+Description | : Vehicle eval is ERP Apps, designed a vehicle sales assistant application which would extend the functionality of its Dealer Application Gateway (DAG). The major goal of the new solution is to support conducting vehicle evaluations with a mobile application. The new functionality should be seamlessly to CRM systems via Enterprise Service Bus but should be fully functional without such integration
+Responsibilities | Implemented log in / log out, browse vehicles, browse leads, browse calendar, 1browse vehicle evaluation requests, book a vehicle evaluation, conduct a vehicle evaluation, cancel a vehicle evaluation, use fleet car, organize service loan car.
+Implemented signature pad.
+Integrated damage report while conducting process and end a vehicle process.
+Implemented running process for every vehicle.
+Gradle build process optimization.
+Take part in organizing the team process.
+Develop new features for app functionality in vehicle evaliOS application.
+5. | Project Title | : Customer App -eVal
+Client | : Auto Sports Group, Sydney - Australia
+Environment | : Xcode 8.0,Swift 3.0,Sql Lite, PHP, Mysql, Json, Sales Force, Wso2, Mule soft.
+Description | : Customer App gives easy access to vehicle information.App users will be able to request for a test drive, service request for a specific vehicle. The dealer on getting the test drives request or service request. User will be able to view the dealer manager or a salesperson 
+contact
+ details depends upon distance.
+Responsibilities | Develop new features for app functionality in Customer App eval android application.
+Implemented sms gateway for verified mobile number.
+Register / log in / log out.
+Search vehicles & Request test drive.
+Create service request.
+Browse request history using calendar.
+Search dealer.
+Notification for promotions using firebase.
+
+Contact
+ Us.
+Implemented navigation route for dealership.
+Set preferred dealers.
+Implemented social login - Google
+Take a part in organizing team process.application.
+6. | Project Title | : SprutCommerce
+Client | : Product
+Environment | : Xcode 10.3, Swift 3.0,Sql Lite, PHP, Laravel, Mysql, Json
+Description | : Spurtcommerce is free open source e-commerce platform for online merchants. Spurtcommerce provides a professional and reliable foundation that can support a successful online store. This foundation appeals to a wide range of users; from web developers looking for a readily available solution that can be simply customized for an eCommerce need, saving time and cost on development and for shop owners to quickly launch their business online for the first time. Spurtcommerce has a wide range of features that gives you a strong hold over the customization of your store. With this easy to customize solution, you may support your online shop live up to its fullest potential
+Responsibilities | Develop new features for app functionality in SprutCommerce iOS application.
+Implemented Email Verification when Singup.
+Implemented a Featured products & Today's deal.
+Search related Products.
+Can add the products in Wishlist for future use.
+Implemented Add to cart to checkout the products through paypal or COD.
+Implemented Facebook login and gmail login.
+Can add multiple work and home addresses.
+Customers can view the list of orders and details of every placed on your ecommerce website.
+7. Project Title: : iRAD( Integrated Road Accident Database).
+Role : Software Application Support Engineer.
+Environment : Visual Studio Code, JavaScript, Hybrid Mobile App, Xcode 11, PHP, HTML, Css, Json.
 PERSONAL DETAILS
+Father's Name | : Mr. S. Pradeep Kumar
+Date of Birth | : 18thJuly 1990
+Address | : #4, 1st cross street, Ravanan nagar, Puzhuthivakkam,
+Chennai - 600091
 
-I hereby declare that the above informations are true and correct to the best of my knowledge and belief.	
-
-
-
-                                                                                                                                (Ajay Kumar. P)
+Languages
+ Known | : Tamil and English
+I hereby declare that the above informations are true and correct to the best of my knowledge and belief.
+(Ajay Kumar. P)

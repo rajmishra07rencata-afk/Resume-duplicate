@@ -1,238 +1,175 @@
- Oracle Financial functional consultant 
- 
- 
- 
- 
- 
- 
- 
- 
-Name: Harinath G 
-Email: harinath.oracle83@gmail.com 
- 
- 
- 
-Phone: +91-9182794903. 
- 
- 
- 
- OBJECTIVE 
-To grow as a Functional Consultant for oracle app financials where I can  capitalize my skills 
-and abilities to the fullest extent and which will give me ample  opportunities for professional 
-growth and learning, making the best of it towards achieving the goals of the organization, 
-having my contributions duly valued. 
- 
- Professional Summary: 
-Total I have 3.5 years of experience in Fusion / E-Business suite as a Financial Functional 
-consultant (R12 and R13). 
- 
- Summary: 
- 
-• 
-Working and process knowledge of General ledger (GL), Accounts Payable (AP), and 
-Accounts Receivable (AR).  
-• 
-Have knowledge on Cash Management and Fixed Assets modules.  
-• 
-Experience in full Life Cycle Implementation on Oracle Application.  
-• 
-Experience in using Oracle AIM and OUM of project implementation methodologies.   
-• 
-Prepared Functional Documents like (BR.100), (MD.50).  
-• 
-Deliverables and Test Cases (TE.40) for GL, AP and AR modules.  
-• 
-Prepared documents for UAT and Test scripts.  
-• 
-Excellent understanding of business process flow in (P2P).  
-• 
-Good team work and has ability to understand and adapt to new technologies and 
-environment faster.  
-• 
-Involved in onsite conference calls and interacting with client users to resolve issue 
-quickly.  
-• 
-Done the Configuration for AP, and AR modules as per the client needs. 
- 
- Academic: 
- 
- 
- 
-• 
-B.COM computers passed out in the year 2017.  
- 
- Work Experience: 
- 
-    Organization  
-         Designation  
-                Duration  
-HCL Technologies 
-Functional consultant 
-November 2019 to Till date 
- 
- 
- 
- 
-3. Project Details  
-Fusion Cloud R13 Implementation  
-Client  
-JFE 
-Role  
-Oracle Functional Consultant  
-Duration  
-Mar-22 to Till date 
-Modules  
-GL, AP, AR and FA  
- 
- 
- Project Description: 
- 
-JFE's steel sheet are used in large quantities in fields deeply related to everyday life,  
-including passenger cars and trucks in the automotive field, white goods and IT 
-products in home electric appliances, steel houses, metal roofing and other building 
-materials, and containers such as beverage cans and drum cans. JFE Steel 
-Corporation is committed to developing and producing easy-to-use steel sheet 
-products that contribute to reducing environmental loads, saving energy, and 
-conserving resources.  
- 
- 
- Roles and Responsibilities: 
- 
-• 
-My responsibility as an Offshore Consultant for modules (General Ledger, Accounts 
-Payable, Accounts Receivable and Fixed Assets) of Oracle R13.  
-• 
-Working on the project by using OUM methodology.  
-• 
-Analyzing the current business process flow related to General Ledger, Accounts 
-Payables, Accounts Receivables and Fixed Assets.  
-• 
-Prepare other project Documents like MC-050, AN-050.  
-• 
-Prepared User Manuals & Implementation Guides for each Module.  
-• 
-Configured GL, AP, AR and FA setups in all Instances like Dev. and Test.   
-• 
-Involved in All stages of the project and KICK Off Meeting with Client. 
-• 
-Attending the Weekly Status Meeting with project team to update the status of the 
-assigned issues.  
- 
- 
- 
-• 
-Resolved issues during UAT Stage and given to Users for testing. 
-• 
- Assigning and handling tickets as per the TAT.  
-• 
-Provided Training on Chart of Account Designing  
-• 
-Worked on Customized Sandbox as this is one of the functionality we can do the 
-Structure, Appearance and Page Composer. 
-• 
-Involved in Enterprise structure configuration and sub ledger application key setups. 
- 
- 
-2. Project Details  
-Fusion Cloud R13 Implementation  
-Client  
-Mamco 
-Role  
-Oracle Functional Consultant  
-Duration  
-Jan-21 to Mar-22 
-Modules  
-GL, AP, and AR  
- 
- 
- Project Description: 
- 
-At Mamco, we design and manufacture high quality AC and DC electric motors for Original 
-Equipment Manufacturers (OEM’s). We manufacture motors for a wide range of 
-commercial, industrial and consumer applications. Mamco specializes in motors used in 
-power transmission and fluid motion. We use a whole system approach to maximize value 
-for our customers. For generations, Mamco’s core business of electric motors and systems 
-has grown to include universal motors, permanent magnet motors, part sets, assemblies 
-and related products 
- 
- 
- Roles and Responsibilities: - 
- 
-• 
-Data fixes provided by oracle before it is applied on instance. Preparing document for 
-current business process (RD030), mapping client requirement with oracle fusion cloud 
-system.  
-• 
-Preparing solutions blueprint for future business process (RD011).  
-• 
-Configuring Financial Applications using FSM (Functional Setups Manager).  
-• 
-Prepared Gap Document and Open issues document.  
-• 
-Documented Configuration setups as per requirements (MC050).  
-• 
-Prepared documents for UAT and Test scripts for AP and AR modules.  
-• 
-Prepared User training materials (SOP) with screenshots for each module.  
-• 
-Involved Post production support and resolved issues based on priority.   
-• 
-Verify and perform impact analysis on various  
- 
- 
- 
-• 
-Involved in onsite conference calls and interacting with client users to resolve issue 
-quickly.  
-• 
-Done the Configuration for all financial offering in Test, Development and Production 
-Instance 
- 
-1. Project Details 
-R12 Implementation And Support   
-Client  
-CapitaLand Limited 
-Role  
-Associate Consultant  
-Duration  
-Nov-19 to Dec-20  
-Modules  
-GL, AP, and AR  
- 
- 
- Project Description: 
- 
-CapitaLand Limited is a Singapore based real estate company. Formed in November 2000 
-as a result of a merger of DBS Land and Pidemco Land, it is one of Asia's largest real 
-estate companies headquartered and listed in Singapore. The company leverages its 
-significant asset base, design and development capabilities, active capital management 
+ Oracle Financial functional consultant
+
+Name: Harinath G
+Email: harinath.oracle83@gmail.com
+
+Phone: +91-9182794903.
+
+ 
+OBJECTIVE
+
+To grow as a Functional Consultant for oracle app financials where I can capitalize my 
+skills
+
+and abilities to the fullest extent and which will give me ample opportunities for professional
+growth and learning, making the best of it towards achieving the goals of the organization,
+having my contributions duly valued.
+
+ Professional 
+Summary
+:
+Total I have 3.5 years of 
+experience
+ in Fusion / E-Business suite as a Financial Functional
+consultant (R12 and R13).
+
+ 
+Summary
+:
+
+*
+Working and process knowledge of General ledger (GL), Accounts Payable (AP), and
+Accounts Receivable (AR).
+Have knowledge on Cash Management and Fixed Assets modules.
+
+Experience
+ in full Life Cycle Implementation on Oracle Application.
+
+Experience
+ in using Oracle AIM and OUM of project implementation methodologies.
+Prepared Functional Documents like (BR.100), (MD.50).
+Deliverables and Test Cases (TE.40) for GL, AP and AR modules.
+Prepared documents for UAT and Test scripts.
+Excellent understanding of business process flow in (P2P).
+Good team work and has ability to understand and adapt to new technologies and
+environment faster.
+Involved in onsite conference calls and interacting with client users to resolve issue
+quickly.
+Done the Configuration for AP, and AR modules as per the client needs.
+
+ 
+Academic
+:
+
+B.COM computers passed out in the year 2017.
+
+ Work 
+Experience
+:
+
+ Organization
+ Designation
+ Duration
+HCL Technologies
+Functional consultant
+November 2019 to Till date
+
+3. Project Details
+Fusion Cloud R13 Implementation
+Client
+JFE
+Role
+Oracle Functional Consultant
+Mar-22 to Till date
+Modules
+GL, AP, AR and FA
+
+ Project Description:
+
+JFE's steel sheet are used in large quantities in fields deeply related to everyday life,
+including passenger cars and trucks in the automotive field, white goods and IT
+products in home electric appliances, steel houses, metal roofing and other building
+materials, and containers such as beverage cans and drum cans. JFE Steel
+Corporation is committed to developing and producing easy-to-use steel sheet
+products that contribute to reducing environmental loads, saving energy, and
+conserving resources.
+
+ 
+Roles and Responsibilities
+:
+
+My responsibility as an Offshore Consultant for modules (General Ledger, Accounts
+Payable, Accounts Receivable and Fixed Assets) of Oracle R13.
+Working on the project by using OUM methodology.
+Analyzing the current business process flow related to General Ledger, Accounts
+Payables, Accounts Receivables and Fixed Assets.
+Prepare other project Documents like MC-050, AN-050.
+Prepared User Manuals & Implementation Guides for each Module.
+Configured GL, AP, AR and FA setups in all Instances like Dev. and Test.
+Involved in All stages of the project and KICK Off Meeting with Client.
+Attending the Weekly Status Meeting with project team to update the status of the
+assigned issues.
+
+Resolved issues during UAT Stage and given to Users for testing.
+Assigning and handling tickets as per the TAT.
+Provided 
+Training
+ on Chart of Account Designing
+Worked on Customized Sandbox as this is one of the functionality we can do the
+Structure, Appearance and Page Composer.
+Involved in Enterprise structure configuration and sub ledger application key setups.
+
+2. Project Details
+Mamco
+Jan-21 to Mar-22
+GL, AP, and AR
+
+At Mamco, we design and manufacture high quality AC and DC electric motors for Original
+Equipment Manufacturers (OEM's). We manufacture motors for a wide range of
+commercial, industrial and consumer applications. Mamco specializes in motors used in
+power transmission and fluid motion. We use a whole system approach to maximize value
+for our customers. For generations, Mamco's core business of electric motors and systems
+has grown to include universal motors, permanent magnet motors, part sets, assemblies
+and related products
+
+ 
+Roles and Responsibilities
+: -
+
+Data fixes provided by oracle before it is applied on instance. Preparing document for
+current business process (RD030), mapping client requirement with oracle fusion cloud
+system.
+Preparing solutions blueprint for future business process (RD011).
+Configuring Financial Applications using FSM (Functional Setups Manager).
+Prepared Gap Document and Open issues document.
+Documented Configuration setups as per requirements (MC050).
+Prepared documents for UAT and Test scripts for AP and AR modules.
+Prepared User 
+training
+ materials (SOP) with screenshots for each module.
+Involved Post production support and resolved issues based on priority.
+Verify and perform impact analysis on various
+
+Done the Configuration for all financial offering in Test, Development and Production
+Instance
+
+1. Project Details
+R12 Implementation And Support
+CapitaLand Limited
+Associate Consultant
+Nov-19 to Dec-20
+
+CapitaLand Limited is a Singapore based real estate company. Formed in November 2000
+as a result of a merger of DBS Land and Pidemco Land, it is one of Asia's largest real
+estate companies headquartered and listed in Singapore. The company leverages its
+significant asset base, design and development capabilities, active capital management
 strategies, and extensive market network and operational capabilities to develop high-
-quality real estate products and services. Its two core markets are Singapore and China, 
-while Indonesia, Malaysia and Vietnam have been identified as new growth markets.  
- Roles and Responsibilities: - 
- 
-• 
-Involved in the implementation project using AIM methodology.  
-• 
-Prepared AIM Documents BP40 and BR100 Documents as per client requirement 
-• 
-Shared documents to the End users to participate for UAT and updating test results  
-• 
-Designed Functional specification documents for Custom objects (MD50).  
-• 
-Involved in user acceptance testing, preparation on test scripts (TE 040) and integration 
-testing.  
-• 
-Direct interactions with users and seeking information as required resolving the issues. 
-• 
-Prepared User Manuals for GL, AP and Assets and shared those to client as a Training 
-Document. 
-• 
-Working on ticketing system  
-• 
-Supporting Oracle User for their daily issues on Financials 
-• 
-Resolving customer issues through direct interaction, working with Oracle team through 
-SRs for critical issue resolutions and reporting to PM on daily basis. 
-• 
+quality real estate products and services. Its two core markets are Singapore and China,
+while Indonesia, Malaysia and Vietnam have been identified as new growth markets.
+
+Involved in the implementation project using AIM methodology.
+Prepared AIM Documents BP40 and BR100 Documents as per client requirement
+Shared documents to the End users to participate for UAT and updating test results
+Designed Functional specification documents for Custom objects (MD50).
+Involved in user acceptance testing, preparation on test scripts (TE 040) and integration
+testing.
+Direct interactions with users and seeking information as required resolving the issues.
+Prepared User Manuals for GL, AP and Assets and shared those to client as a 
+Training
+
+Document.
+Working on ticketing system
+Supporting Oracle User for their daily issues on Financials
+Resolving customer issues through direct interaction, working with Oracle team through
+SRs for critical issue resolutions and reporting to PM on daily basis.
 Working with Oracle Support for resolving Critical and Transactional Issues

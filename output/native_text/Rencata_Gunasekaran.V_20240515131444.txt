@@ -1,106 +1,103 @@
-Gunasekaran.V	
-e-mail: gunakarur@gmail.com	                   
-
+Sensitivity: Internal & Restricted
+Gunasekaran.V
+e-mail: gunakarur@gmail.com
 Phone +966-540246738
 
+Summary
 
+Information Security Professional with 10+ years of 
+experience
+ in Managed Security operations, Vulnerability Management, Enterprise risk management with exposure to Security Design and Implementations.
 
+Certifications
+ and Trainings
+ISO/IEC 27001:2013 Lead Auditor
+CEH-Certified Ethical Hacker
+Qualysguard Certified Specialist.
+Nexpose Certified Administrator
+Splunk Power user Certified | Key 
+Skills
 
-Information Security Professional with 10+ years of experience in Managed Security operations, Vulnerability Management, Enterprise risk management with exposure to Security Design and Implementations.
-
-
+Vulnerability Management
+Web Application security
+Email security
+Load Balancer
+Web Application Firewall
+IT Security management
+Enterprise Risk Management
 Vulnerability and Penetration Testing: Nexpose, Nessus, Qualysguard, n-Circle, Nmap, MBSA
-Web Application Security: AppSpider, HP Fortify, Burp Suite, ZAP proxy 
+Web Application Security: AppSpider, HP Fortify, Burp Suite, ZAP proxy
 Load Balancer: F5 Load Balancer
 Web Application Firewall: F5 Web application firewall
-Security Compliance: Qualysguard Policy Compliance, Nessus Security center  
-SIEM/Log analyzers:  Splunk/Wireshark
+Security Compliance: Qualysguard Policy Compliance, Nessus Security center
+SIEM/Log analyzers: Splunk/Wireshark
 Email Security: Symantec Messaging gateway
 Web Security: Mcafee Web gateway
 Endpoint Security: Mcafee End point protection Suite
 
+Experience
 
+Current Organization:Wipro Technologies
+Period:November 2011 to till date
+Designation:Information Security Lead
+Client worked for: Leading Automobile Finance company in Saudi
 
-
-Current Organization:		Wipro Technologies 
-Period:				November 2011 to till date
-Designation:			Information Security Lead
-
-Client worked for			:	 Leading Automobile Finance company in Saudi
-Roles and responsibilities: 
-
-Leading a team of 13 members on delivering IT Security projects using multiple Security Information and Event Management (SIEM) used in Security Operations Centre at the global level in 24 *7 environment. 
+Roles and responsibilities
+:
+Leading a team of 13 members on delivering IT Security 
+projects
+ using multiple Security Information and Event Management (SIEM) used in Security Operations Centre at the global level in 24 *7 environment.
 Design & Implementation of SOC, building SOC operations, handling transition activity for SIEM setup.
 Develop, maintain and Periodic review of standards and policies and update as necessary
-Delivering Weekly/Monthly reports to Stakeholders and maintaining SLA’s as per the Contract
+Delivering Weekly/Monthly reports to Stakeholders and maintaining SLA's as per the Contract
 Identify the areas of improvement and develop 30-60 plans to implement the necessary changes
 Understanding the customer requirement and implementation of each solution in a best fit
 SOC activities including configuring alerts and reports, creating visual dashboards in Mcafee Nitro
-Update/Review the existing play books and use cases in SIEM 
+Update/Review the existing play books and use cases in SIEM
 Performing Web application penetration testing using automated tools like Appspider, Burp Suite
 End to end operations of Mcafee ePO with VSE
 Handling Mcafee Web proxy including administration activities
 Handling vulnerability management program.
 Assist in internal ISO audits and ERM audits
-
-Client worked for			:	 Saudi National Oil company
-Roles and responsibilities: 
-
-Handling end-to end operations of Email gateway, Antivirus, Web gateway including administration, configuring and updating policies, creating alerts and reports 
+Client worked for: Saudi National Oil company
+Handling end-to end operations of Email gateway, Antivirus, Web gateway including administration, configuring and updating policies, creating alerts and reports
 SOC activities including managing Splunk, configuring alerts and reports, creating visual dashboards
-Performing Web application penetration testing using automated tools like Appspider, Burp Suite
 Performing Secure code review using HP fortify and identifying the flaws.
-Handling vulnerability management program.
 Performing Vulnerability assessment using Nessus security center
 Providing recommendation for the development teams on the identified defects, following up with concerned teams and performing retest to get it fixed.
 Performing Internal audits based on ISO 27001.
 Conducting security assessments for Operating systems using tools and automated scripts
-Conducting security assessments for Databases using automated and manual methods 
-
-
-
-Client worked for			:	 US leading Internet Service Provider
-Roles and responsibilities: 
-
+Conducting security assessments for Databases using automated and manual methods
+Client worked for: US leading Internet Service Provider
 Performing Web application penetration testing using automated tools like Web Inspect, Burp Suite
 Updating the defects in HP ALM for easier tracking
 Publishing technical reports to concern teams.
 Following it up with different technical teams to remediate the known issue.
 Handling comprehensive vulnerability management program.
 Performing application security configuration checks
-Conducting security assessments for Operating systems using tools and automated scripts
-Conducting security assessments for Databases using automated and manual methods 
 Defining security standards and policies for network devices like switches and routers
-
-Clients worked for			:  	US Leading Retail Store
-Roles and responsibilities: 
-
+Clients worked for: US Leading Retail Store
 Performing Vulnerability assessment and penetration testing and provides mitigation recommendation
 Assist in defining the scope and Information security policies.
 Conducting internal vulnerability assessments for PCI.
 Conduct gap assessment and implement corrective/preventive actions.
 Develop, maintain and Periodic review of standards and policies and update as necessary.
 Assist in internal audit based on defined Service-Oriented Architecture.
+Academics
+Master of Engineering in Computer Science (2011) -8.3 CGPA. Sri Krishna college of Engineering and Technology, Coimbatore, India.
+Personal InformationPersonal Information
+Date of Birth:30-10-1987
+Nationality:Indian
+Address:Al Khobar, Saudi Arabia
+Passport No:R8235823
+Declaration:
+I do hereby declare that the particulars of information stated herein above are true, correct and complete to the best of my knowledge and belief.
+PLACE: Khobar Gunasekaran.V
 
+Summary
 
+Experience
 
+Academics
 
-
-Master of Engineering in Computer Science (2011) -8.3 CGPA. Sri Krishna college of Engineering and Technology, Coimbatore, India.  
-
-
-
- 
-Date of Birth			:	30-10-1987
-Nationality		:	Indian
-Address				:	Al Khobar, Saudi Arabia
-Passport No			:	R8235823
-
-
-Declaration:  
-
-                  I do hereby declare that the particulars of information stated herein above are true, correct and complete to the best of my knowledge and belief. 
-
-
-
- PLACE:  Khobar                                                                                                                             Gunasekaran.V
+Personal Information

@@ -1,36 +1,111 @@
-ANITHA RAPHEL 
-AUTOMATION TEST ENGINEER 
+ANITHA RAPHEL
+AUTOMATION TEST ENGINEER
 I am an enthusiastic personality always hungry for challenging tasks that pushes me to my limits. I strongly believe in approaching a task smartly to attain an optimal solution. I am an excellent analytical and logical thinker who can be trained with least efforts and a learner with least mentoring.
-	
-  anitharaphel10@gmail.com          +91 9176722062    No: 6/5,7th main road, MGR Nagar, Chennai-42
+anitharaphel10@gmail.com +91 9176722062 No: 6/5,7th main road, MGR Nagar, Chennai-42
+ACHIEVEMENTSRockstar Rookie (Feb 2020)Recipient of H&PS Rockstar Rookie for dedication and professionalism on Job and delivered high performanceACHIEVEMENTSRockstar Rookie (Feb 2020)Recipient of H&PS Rockstar Rookie for dedication and professionalism on Job and delivered high performanceCERTIFICATIONSDCA- Diploma in Computer Application Course (05/2012 - 11/2012)From CSCCertified SAFe® 5 Practitioner (11/2020 - 11/2021)From Scaled Agile AcademyUiPath-Robotic Process Automation Level 1 (March 2019) UiPath AcademyCERTIFICATIONSDCA- Diploma in Computer Application Course (05/2012 - 11/2012)From CSCCertified SAFe® 5 Practitioner (11/2020 - 11/2021)From Scaled Agile AcademyUiPath-Robotic Process Automation Level 1 (March 2019) UiPath AcademyWORK 
+EXPERIENCE
+2018 -2019 Accenture Associate Software Engineer Feb 2018 to Nov 2019Responsibilities /Tasks:Preparing functional, regression test cases based on the requirement ensuring proper test coverage.Created detailed test design and test strategy for use on diverse 
+projects
+ throughout application system life cycle.Sanity, Smoke, Functional and Regression testing of Mobile, Web and Windows application.Defect logging and Tracking using JIRA and HP ALM.Mobile App Manual Testing on various Oss - iPhone, iPad, Android using Real Device.2019 -Present Accenture SELENIUM Automation Tester Nov 2019 to Present Responsibilities /Tasks:Prepared Test Plan and Test Case Design Document based on Functional Requirements Specifications document.Developed the workflows as per client requirement.Developing, testing, and maintaining the Selenium (Java) scripts.Proficient in all phases of SDLC such as Analysis, Design, Development, Integration, Implementation and Maintenance Experienced in an Agile and Waterfall Model.1+ Years of 
+experience
+ in working with Selenium WebDriver.Expert with xpath expression and 
+experience
+ with TESTNG Annotation as well as Jenkins execution.WORK 
+EXPERIENCE
+2018 -2019 Accenture Associate Software Engineer Feb 2018 to Nov 2019Responsibilities /Tasks:Preparing functional, regression test cases based on the requirement ensuring proper test coverage.Created detailed test design and test strategy for use on diverse 
+projects
+ throughout application system life cycle.Sanity, Smoke, Functional and Regression testing of Mobile, Web and Windows application.Defect logging and Tracking using JIRA and HP ALM.Mobile App Manual Testing on various Oss - iPhone, iPad, Android using Real Device.2019 -Present Accenture SELENIUM Automation Tester Nov 2019 to Present Responsibilities /Tasks:Prepared Test Plan and Test Case Design Document based on Functional Requirements Specifications document.Developed the workflows as per client requirement.Developing, testing, and maintaining the Selenium (Java) scripts.Proficient in all phases of SDLC such as Analysis, Design, Development, Integration, Implementation and Maintenance Experienced in an Agile and Waterfall Model.1+ Years of 
+experience
+ in working with Selenium WebDriver.Expert with xpath expression and 
+experience
+ with TESTNG Annotation as well as Jenkins execution.EDUCATIONBachelor of Computer SciencePrince Shri Venkateshwara Arts and Science College, Chennai06/2014 - 05/2017EDUCATIONBachelor of Computer SciencePrince Shri Venkateshwara Arts and Science College, Chennai06/2014 - 05/2017 PROFESSIONAL SKILLSProgramming Language: C, JAVA, VB ScriptAutomation testing tools: Selenium, RPA(UiPath) Web technologies: HTMLVersion control tool: GitTesting framework: TestNGTest Management tools: JIRA, HP ALMAutomation Server: Jenkins (Both ADS and QMS) PROFESSIONAL SKILLSProgramming Language: C, JAVA, VB ScriptAutomation testing tools: Selenium, RPA(UiPath) Web technologies: HTMLVersion control tool: GitTesting framework: TestNGTest Management tools: JIRA, HP ALMAutomation Server: Jenkins (Both ADS and QMS)
+LANGUAGESTamil EnglishNative ProficientLANGUAGESTamil EnglishNative ProficientSOFT 
+SKILLS
+ SOFT 
+SKILLS
 
+Perfectionist
 
-
-
-
-
-
-
-PROJECTS: 
-
-
-
-Checked Mobile App (KP-Beta) on various Oss - iPhone, iPad, Android using Real Device.
-
+PROJECTS
+:
+| Client: Kaiser Permanente| Project: KP-Mobile | Jun 2018 - Nov 2019 || Client: Kaiser Permanente| Project: KP-Mobile | Jun 2018 - Nov 2019 |
+Checked Mobile App (KP-Beta) on various Oss - iPhone, iPad, Android using Real Device.
 Executed test scripts, logged Defects, and worked to resolve issues noted in testing process.
-
 Acquired End to End knowledge in Pharmacy Center Team (KP Mobile).
-
 Preparing functional, regression test cases based on the requirement ensuring proper test coverage.
-
 Sanity, Smoke, Functional and Regression testing of Mobile, Web and Windows application.
-
-
+| Client: Kaiser Permanente | Project: KP-School of Medicine | Nov 2019 - Present || Client: Kaiser Permanente | Project: KP-School of Medicine | Nov 2019 - Present |
 Prepared Test Plan and Test Case Design Document based on Functional Requirements Specifications document.
-Executed Mobile, Windows, Web application via Manual and Real Device. 
+Executed Mobile, Windows, Web application via Manual and Real Device.
 Developed Automation scripts using Selenium Web driver to reduce a manual effort for Regression Testing.
-
 Proficient in all phases of SDLC such as Analysis, Design, Development, Integration, Implementation and Maintenance Experienced in an agile Development Environment and scrum.
-
 Worked with Mobile (Perfecto), Windows, Web application end-to-end process of automation using Selenium WebDriver.
-Working experience Xpath, Maven and TESTNG annotations. Worked entire Module in KPSOM as Unit4, Student Portal, Integration, and Elentra Modules.
+Working 
+experience
+ Xpath, Maven and TESTNG annotations. Worked entire Module in KPSOM as Unit4, Student Portal, Integration, and Elentra Modules.
+
+ACHIEVEMENTS
+
+Rockstar Rookie (Feb 2020)
+Recipient of H&PS Rockstar Rookie for dedication and professionalism on Job and delivered high performance
+
+CERTIFICATIONS
+
+DCA- Diploma in Computer Application Course (05/2012 - 11/2012)
+From CSC
+Certified SAFe® 5 Practitioner (11/2020 - 11/2021)
+From Scaled Agile Academy
+UiPath-Robotic Process Automation Level 1 (March 2019)
+UiPath Academy
+WORK 
+EXPERIENCE
+
+2018 -2019 Accenture
+Associate Software Engineer
+Feb 2018 to Nov 2019
+Responsibilities /Tasks:
+Created detailed test design and test strategy for use on diverse 
+projects
+ throughout application system life cycle.
+Defect logging and Tracking using JIRA and HP ALM.
+Mobile App Manual Testing on various Oss - iPhone, iPad, Android using Real Device.
+2019 -Present Accenture
+SELENIUM Automation Tester
+Nov 2019 to Present
+Developed the workflows as per client requirement.
+Developing, testing, and maintaining the Selenium (Java) scripts.
+Proficient in all phases of SDLC such as Analysis, Design, Development, Integration, Implementation and Maintenance
+Experienced in an Agile and Waterfall Model.
+1+ Years of 
+experience
+ in working with Selenium WebDriver.
+Expert with xpath expression and 
+experience
+ with TESTNG Annotation as well as Jenkins execution.
+
+EDUCATION
+
+Bachelor of Computer Science
+Prince Shri Venkateshwara Arts and Science College, Chennai
+06/2014 - 05/2017
+PROFESSIONAL 
+SKILLS
+
+Programming Language: C, JAVA, VB Script
+Automation testing tools: Selenium, RPA(UiPath)
+Web technologies: HTML
+Version control tool: Git
+Testing framework: TestNG
+Test Management tools: JIRA, HP ALM
+Automation Server: Jenkins (Both ADS and QMS)
+
+LANGUAGES
+
+Tamil English
+Native Proficient
+SOFT 
+SKILLS
+
+Perfectionist
+| Client: Kaiser Permanente| Project: KP-Mobile | Jun 2018 - Nov 2019 |
+| Client: Kaiser Permanente | Project: KP-School of Medicine | Nov 2019 - Present |

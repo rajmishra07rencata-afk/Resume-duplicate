@@ -1,169 +1,185 @@
-AJEX V SCARIA 
-No:85/2, 5th Cross, Maruthi Nagar, Madiwala 
-Mob:9035801494 Email: ajexv14@gmail.com 
- 
-PROFESSIONAL SUMMARY 
-EMC Certified Storage Engineer with outstanding skill in mass storage systems like EMC 
-Symmetrix (VMAX), DMX, XtremIO, VPLEX and HPE 3PAR. Experienced in Brocade 8510 
-troubleshooting issues, Access gateways and handling the VMware vSphere features like 
-VMotion, HA, DRS and FT with 4 plus years relevant experience. 
-EDUCATION 
- 
-Bachelor of Computer Applications,  
- 
-Kristu Jyoti College of Management and Technology, (2011 – 2014). 
- 
-CORE SKILLS 
-• Storage Administrator, Symmetrix Solutions Specialist Version 7.0 (EMCSA) 
-• Hands on experience with EMC Symmetrix VMAX, DMX, XtremIO and VPLEX Stora
-ge arrays. 
-• Creating and restoring snapshots in VMware.  
-• Manage Active directory, DNS, DHCP and terminal servers. 
-•  Creation and deletion of users account in Active directory.  
-• Handling the known features of VMware including VMotion, HA, DRS, FT.  
-• Knowledge in VPLEX Storage Provisioning and Volume Management 
-• Knowledge in XtremIO Installation and Configuration 
-• Managing Host Access to Block Storage. 
-• Basic Knowledge in Brocade Switching Concepts 
-• Skilled on Symcli and Symwin (tool which is used for EMC storage device operations). 
-• Thorough knowledge of storage tiering using FAST and VLUN Migration. 
-• Local and Remote Replication. 
-• Block Storage Provisioning and Management. 
- 
- 
- 
- 
- 
- 
-SECONDARY SKILLS 
-• Operating System:   Linux, MS Windows 
-• Problem solver and highly analytical 
-• Team leadership and supervisory skills  
- 
-CERTIFICATIONS 
-• EMC certified professional (ISM v2 certified). 
-• Storage Administrator, Symmetrix Solutions Specialist Version 7.0 (EMCSA) 
- 
- 
-HONORS 
-• 
-Recognized and awarded as best employee for VMAX team. 
-• 
-Recognized and awarded as Shining Star of 2018 from Cerner Healthcare  
-• 
-Received highest number of CSAT surveys for EMC VMAX chat team. 
-• 
-Awarded as best Footballer of the Year in College Level. 
- 
- 
-PERSONAL INFORMATION: 
- 
-• Date of Birth               :    15-02-1992 
-• Gender 
- 
-:     Male 
-• Nationality 
- 
-:     Indian 
-• Languages Known 
-:     English, Malayalam, Tamil and Hindi 
- 
-WORK EXPERIENCE 
-Cerner Healthcare – Manyata Tech Park, Bangalore 2017 July – Present 
-Duration: August 2017 – till date  
- 
-Role: Storage Engineer 
- 
-Global Health Care 
- 
-Around 200 PB’s of data (both structured and unstructured) 
- 
-1000+ Brocade Enterprise SAN Fabrics. 
- 
-190+ Multi-vendor Storage arrays like HP, EMC, IBM etc. 
- 
-Responsibilities 
-Administration and Troubleshooting EMC Symmetrix VMAX, DMX. 
- 
-• Hands on experience in Device Creation, Mapping and Masking 
-• Knowledge in Host Connectivity Considerations 
-• Knowledge in Implementing VLUN Migration, Open Replicator, Federated Tiered Stora
-ge, Fast DP and Fast VP 
-• Knowledge in Implementing Timefinder and SRDF 
-• Hands on Experience in Unisphere and Symcli. 
-• Hands on experience in Performance Management  
-• Knowledge in troubleshooting VMAX front end issues.  
- 
- 
-Other Responsibilities: 
- 
-• Identifying, troubleshooting and resolving SAN problems 
-• Handling the known features of VMware including VMotion, HA, DRS, FT etc.  
-• Providing advanced escalation support, including engaging supplier support 
-• Intermediate Experience in supporting HP 3PAR and P9500 
-• Knowledge in Brocade Switch Fabric Operating System 
-• Practical, hands-on experience with Hewlett Packard/Brocade SAN products 
-• Intermediate experience with following OSes: Linux, Windows Server 
-• Hands on Experience in Brocade Access Gateway 
-• Improvising the performance levels of all storage devices from SAN level. 
-• Knowledge in IP, TCP/IP, iSCSI and Fibre channel protocols 
-• Comparing reports from OCI/ HP PA/ NetApp Latency checker for better analysis on Per
-formance metrics. 
-• Taking training sessions of new employees. 
- 
- 
-Block Storage Provisioning and Management 
-RAID Groups, LUNs, Pools and Pool LUNs, FAST VP, Data-at-Rest Encryption 
- 
-Managing Host Access to Storage 
-Access Logix, LUN masking, mapping, and configuration. Hands on Experience in basic trouble
-shooting of Windows Server, Esxi and basic knowledge in Active Directory, DNS and DHCP. 
-Local Replication  
-Symmetrix TimeFinder configuration and management. 
-   
-Remote Replication and DR solutions 
-Symmetrix Remote Data Facility (SRDF) configuration and management. 
- 
-Wipro Technologies - Corporate office, Bangalore– 2014-2017 June 
- 
- 
-Duration: October 2014 – August 2017  
-Role: Storage Engineer 
-Client: DELL EMC 
-Supporting Multiclient Worldwide  
-Responsibilities 
-• Experience in troubleshooting EMC Symmetrix V-Max, DMX4, DMX3 Series. 
-• Troubleshooting of VMAX systems which includes like Thin-Provisioning and 
-Automated Storage Tiering. 
-• Experience in troubleshooting of backup management and disaster recovery 
-administration using EMC TimeFinder family (Snaps, Clones and BCVs), Remote 
-replication technique (SRDF) 
-• Responsible for troubleshooting and resolving routine issues like one-path-down, hosts 
-not seeing storage, HBA failures, and zoning/masking/storage allocation and 
-performance issues. 
-• Primary responsibilities include handling incoming SR’s on a day to day basis providing 
-resolution to the customers, keeping in check the best resolution to the issue in a timely 
-manner. 
-• Monitoring the working of the arrays and perform a frequent health-check. 
-• Provides on Call support to the Customer Engineer in Fixing the hardware issues Via 
-Live troubleshooting using Remote Technology. 
- 
-ACTIVITIES 
-• Playing Football 
-• Watching Documentary Films  
-• Playing Computer Games. 
- 
-DECLERATION 
-  
-I do hereby declare that the information and facts stated herein above are true, correct and 
-complete to the best of my knowledge and belief. 
- 
-Place: Bangalore 
- 
- 
- 
- 
- 
- 
- 
-     AJEX V SCARIA
+AJEX V SCARIA
+No:85/2, 5th Cross, Maruthi Nagar, Madiwala
+Mob:9035801494 Email: ajexv14@gmail.com
+
+PROFESSIONAL 
+SUMMARY
+
+EMC Certified Storage Engineer with outstanding skill in mass storage systems like EMC
+Symmetrix (VMAX), DMX, XtremIO, VPLEX and HPE 3PAR. Experienced in Brocade 8510
+troubleshooting issues, Access gateways and handling the VMware vSphere features like
+VMotion, HA, DRS and FT with 4 plus years relevant 
+experience
+.
+
+EDUCATION
+
+Bachelor of Computer Applications,
+
+Kristu Jyoti College of Management and Technology, (2011 - 2014).
+
+CORE 
+SKILLS
+
+* Storage Administrator, Symmetrix Solutions Specialist Version 7.0 (EMCSA)
+* Hands on 
+experience
+ with EMC Symmetrix VMAX, DMX, XtremIO and VPLEX Stora
+ge arrays.
+* Creating and restoring snapshots in VMware.
+* Manage Active directory, DNS, DHCP and terminal servers.
+* Creation and deletion of users account in Active directory.
+* Handling the known features of VMware including VMotion, HA, DRS, FT.
+* Knowledge in VPLEX Storage Provisioning and Volume Management
+* Knowledge in XtremIO Installation and Configuration
+* Managing Host Access to Block Storage.
+* Basic Knowledge in Brocade Switching Concepts
+* Skilled on Symcli and Symwin (tool which is used for EMC storage device operations).
+* Thorough knowledge of storage tiering using FAST and VLUN Migration.
+* Local and Remote Replication.
+* Block Storage Provisioning and Management.
+
+SECONDARY 
+SKILLS
+
+* Operating System: Linux, MS Windows
+* Problem solver and highly analytical
+* Team leadership and supervisory 
+skills
+
+CERTIFICATIONS
+
+* EMC certified professional (ISM v2 certified).
+
+HONORS
+*
+Recognized and awarded as best employee for VMAX team.
+Recognized and awarded as Shining Star of 2018 from Cerner Healthcare
+Received highest number of CSAT surveys for EMC VMAX chat team.
+Awarded as best Footballer of the Year in College Level.
+
+PERSONAL INFORMATION
+:
+
+* Date of Birth : 15-02-1992
+* Gender
+
+: Male
+* Nationality
+
+: Indian
+* 
+Languages
+ Known
+: English, Malayalam, Tamil and Hindi
+
+WORK 
+EXPERIENCE
+
+Cerner Healthcare - Manyata Tech Park, Bangalore 2017 July - Present
+Duration: August 2017 - till date
+
+Role: Storage Engineer
+
+Global Health Care
+
+Around 200 PB's of data (both structured and unstructured)
+
+1000+ Brocade Enterprise SAN Fabrics.
+
+190+ Multi-vendor Storage arrays like HP, EMC, IBM etc.
+
+Responsibilities
+Administration and Troubleshooting EMC Symmetrix VMAX, DMX.
+
+* Hands on 
+experience
+ in Device Creation, Mapping and Masking
+* Knowledge in Host Connectivity Considerations
+* Knowledge in Implementing VLUN Migration, Open Replicator, Federated Tiered Stora
+ge, Fast DP and Fast VP
+* Knowledge in Implementing Timefinder and SRDF
+* Hands on 
+Experience
+ in Unisphere and Symcli.
+* Hands on 
+experience
+ in Performance Management
+* Knowledge in troubleshooting VMAX front end issues.
+
+Other Responsibilities:
+
+* Identifying, troubleshooting and resolving SAN problems
+* Handling the known features of VMware including VMotion, HA, DRS, FT etc.
+* Providing advanced escalation support, including engaging supplier support
+* Intermediate 
+Experience
+ in supporting HP 3PAR and P9500
+* Knowledge in Brocade Switch Fabric Operating System
+* Practical, hands-on 
+experience
+ with Hewlett Packard/Brocade SAN products
+* Intermediate 
+experience
+ with following OSes: Linux, Windows Server
+* Hands on 
+Experience
+ in Brocade Access Gateway
+* Improvising the performance levels of all storage devices from SAN level.
+* Knowledge in IP, TCP/IP, iSCSI and Fibre channel protocols
+* Comparing reports from OCI/ HP PA/ NetApp Latency checker for better analysis on Per
+formance metrics.
+* Taking 
+training
+ sessions of new employees.
+
+Block Storage Provisioning and Management
+RAID Groups, LUNs, Pools and Pool LUNs, FAST VP, Data-at-Rest Encryption
+
+Managing Host Access to Storage
+Access Logix, LUN masking, mapping, and configuration. Hands on 
+Experience
+ in basic trouble
+shooting of Windows Server, Esxi and basic knowledge in Active Directory, DNS and DHCP.
+Local Replication
+Symmetrix TimeFinder configuration and management.
+
+Remote Replication and DR solutions
+Symmetrix Remote Data Facility (SRDF) configuration and management.
+
+Wipro Technologies - Corporate office, Bangalore- 2014-2017 June
+
+Duration: October 2014 - August 2017
+Client: DELL EMC
+Supporting Multiclient Worldwide
+* 
+Experience
+ in troubleshooting EMC Symmetrix V-Max, DMX4, DMX3 Series.
+* Troubleshooting of VMAX systems which includes like Thin-Provisioning and
+Automated Storage Tiering.
+* 
+Experience
+ in troubleshooting of backup management and disaster recovery
+administration using EMC TimeFinder family (Snaps, Clones and BCVs), Remote
+replication technique (SRDF)
+* Responsible for troubleshooting and resolving routine issues like one-path-down, hosts
+not seeing storage, HBA failures, and zoning/masking/storage allocation and
+performance issues.
+* Primary responsibilities include handling incoming SR's on a day to day basis providing
+resolution to the customers, keeping in check the best resolution to the issue in a timely
+manner.
+* Monitoring the working of the arrays and perform a frequent health-check.
+* Provides on Call support to the Customer Engineer in Fixing the hardware issues Via
+Live troubleshooting using Remote Technology.
+
+ACTIVITIES
+* Playing Football
+* Watching Documentary Films
+* Playing Computer Games.
+
+DECLERATION
+
+I do hereby declare that the information and facts stated herein above are true, correct and
+complete to the best of my knowledge and belief.
+
+Place: Bangalore

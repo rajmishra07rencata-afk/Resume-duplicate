@@ -1,46 +1,29 @@
-AMBER KHAN 
-
-
-
-CO NT ACT	CAREER O B JECT IVE
-
-
-
-    (714) 717-6017
-    Amber.khan@rencata.com
-
+AMBER KHAN
+CO NT ACTCAREER O B JECT IVE
+(714) 717-6017
+Amber.khan@rencata.com
 7872 Natoma St
 Eastvale, CA 92880
-
-Skilled applicant seeking a position as an analyst. Possesses the skills to effectively communicate and the determination to solve complicated business problems. Looking for a position that supports my technical skills to advance company development and organization.
-
-
-
-
-ADD IT IO NA L SK ILLS	PRO FESSIO NAL EX PER IENCE
-
-
+Skilled applicant seeking a position as an analyst. Possesses the 
+skills
+ to effectively communicate and the determination to solve complicated business problems. Looking for a position that supports my technical 
+skills
+ to advance company development and organization.
+ADD IT IO NA L SK ILLSPRO FESSIO NAL EX PER IENCE
 Self-motivated problem solver
-
 Ability to understand new concepts and responsibilities quickly
+Excellent interpersonal and communication 
+skills
 
-Excellent interpersonal and communication skills
+Exceptional research ability and analytical 
+skills
 
-Exceptional research ability and analytical skills
-
-
-E DUC ATION 
-
-
-
+E DUC ATION
 California State University, Fullerton, CA
 Bachelor of Arts in Anthropology, May 2020
-
 Orange Coast College, Costa Mesa, CA
 Associate of Arts, May 2013
-
 Hair California Beauty Academy / Saddleback College, CA Esthetician, November 2017
-
 Lambda Alpha Honors Society
 Rencata
 QA Business Analyst, March 2022-Present
@@ -54,7 +37,6 @@ Managed level one client support ticket inbox
 Tested Loan Origination Software
 Compiled operational reports for the IT Operations department with data from support tickets, QA & UAT reported defects
 Researched and proposed business rules to address issues raised by clients in production and UAT
-
 Routh, Crabtree, Olsen, P.S.
 Legal Assistant Analyst, August 2010-July 2012
 Partnered with developers to build most effective system pipeline for evictions process

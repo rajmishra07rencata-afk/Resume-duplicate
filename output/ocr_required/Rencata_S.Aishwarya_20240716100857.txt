@@ -1,113 +1,95 @@
 CONTACT
-S. Aishwarya
-aishudolly15@gmail.com
-INCIDENT, CHANGE, RELEASE & CONFIGURATION
-@9677982163
-MANAGER [6+ YEARS] 'ITIL & IIT
+
+X aishudolly15@gmail.com
+9677982163
 Chennai
-CLOUDCOMPUTING CERTIFIED
-TECHNICAL SKILLS
+TECHNICAL 
+SKILLS
+
 CloudPlus
-SUMMARY
-ITSM - BMC
-*** "Emerging Change & Release manager, from a competitive
-Remedy
-background with over all 6 years of experience accumulated from
+ITSM - BMC Remedy
 Power BI
-companies with top notch industry standards". ***
 Sharepoint
 SAP
 AWS -
-EXPERIENCE
 Foundation
-Change Manager - Service Management
-Jul 2016 - Present
-Windows and
-Operations
-0365
-Tata Consultancy Services - Chennai
-SERVICE
-· Handling E2E server changes
-.
-MANAGEMENT
-Network related changes
-· UNIX, WINDOWS, Endpoints Patches
-OPERATIONS
-Browsers, SAP & Patches
-· Configuration Management Database
-Incident, Change and Release
-·Onboarding changes for Adoption
-Management
-· Backup and Database related changes
-· Mentor & coordinator for new tool onboarding and training
-Configuration Management
-· Good exposure towards both B2B and B2C application
-CMDB
-· Well trained in handling E2E applications configuration and management
-· Accumulated strength in both "Incident" and "Problem" management
-Change and Release Tracking/
-Scheduling
-EDUCATION
+Windows and 0365
+SERVICE MANAGEMENT OPERATIONS
+Incident, Change and Release Management
+Configuration Management - CMDB
+Change and Release Tracking/ Scheduling
 Project Management
-M.C.A
-May 2018 - Jul 2021
-Technical & Change Advisory
-University of Madras
-Master of computer Application - 70% Aggregate
-Board
-B.Sc .,
-Jun 2013 - Jun 2016
+Technical & Change Advisory Board
 Release review meetings
-University of Madras
-SAFe Agile
-Bachelor of Computer Application - 83% Aggregate
-S/W Testing Basics
-PROJECTS
-Risk Assessment &
-Tata Global Beverages
-Sep 2019 - Present
-Management
-Change, Release & Incident Manager
-Tata Global Beverages -
+SAFe AgileS/W Testing Basics
+Risk Assessment & Management
 CloudOps (AWS)
-· Owning complete CAB Management
-· Scheduling releases and tracking releases in tool
-· Conduct release readiness review involving all stake holders
+
 AWARDS
-· Facilitate discussions with Engineering, Implementation, CS and Customers
-· Actively monitoring the need for change
-Best Performer for the
-· Troubleshooting level-2 of Incident Management
-year - 2021-22
-· Risk registry manager and maintenance
-TCS
-· Updating the Configuration Management
-For managing release &
-· Onboarding the applications in CMDB
-changes effectively for 2+ years
-· Server Configuration Life Cycle Management
-consistently
-Best performer for the
-Tata Consumer Products
+
+Best Performer for the year - 2021-22 TCS
+For managing release & changes effectively for 2+ years consistently
+Best performer for the quarter - 2020 TCS
+Maintained KPI and achieved targeted SLA based on client's requirements
+Cutomer Empathy Award for year - 2019 TCS
+Went above and beyond the expectation in resolving customer queries, that resulted in direct customer appreciationS. Aishwarya
+INCIDENT, CHANGE, RELEASE & CONFIGURATION MANAGER [6+ YEARS] 'ITIL & IIT CLOUDCOMPUTING CERTIFIED
+
+SUMMARY
+
+*** "Emerging Change & Release manager, from a competitive background with over all 6 years of 
+experience
+ accumulated from companies with top notch industry standards". ***
+
+EXPERIENCE
+
+Change Manager - Service Management Operations
+Jul 2016 - Present
+Tata Consultancy Services - Chennai
+. Handling E2E server changes
+. Network related changes
+* UNIX, WINDOWS, Endpoints Patches
+* Browsers, SAP & Patches
+* Configuration Management Database
+* Onboarding changes for Adoption
+* Backup and Database related changes
+. Mentor & coordinator for new tool onboarding and 
+training
+
+. Good exposure towards both B2B and B2C application
+* Well trained in handling E2E applications configuration and management
+. Accumulated strength in both "Incident" and "Problem" management
+
+EDUCATION
+
+M.C.A University of Madras
+Master of computer Application - 70% Aggregate
+Jun 2013 - Jun 2016
+B.Sc., University of Madras Bachelor of Computer Application - 83% Aggregate
+
+PROJECTS
+
+Tata Global Beverages Change, Release & Incident Manager
+Sep 2019 - Present
+Tata Global Beverages -
+* Owning complete CAB Management
+* Scheduling releases and tracking releases in tool
+* Conduct release readiness review involving all stake holders
+* Facilitate discussions with Engineering, Implementation, CS and Customers
+. Actively monitoring the need for change
+. Troubleshooting level-2 of Incident Management
+* Risk registry manager and maintenance
+* Updating the Configuration Management
+* Onboarding the applications in CMDB
+* Server Configuration Life Cycle Management
+Tata Consumer Products Change & Release Manager
 Jul 2016 - Sep 2019
-quarter - 2020
-Change & Release Manager
-TCS
-Maintained KPI and achieved
-· Meeting all the requirements for change initiation
-· RFC - Request for change
-targeted SLA based on client's
-· Technical Advisory Board
-requirements
-· CAB - Change Advisory Board
-· Emergency Change management - E-CAB
-· Change Freeze activities
-Cutomer Empathy Award
-Follow ups with Upstream and Downstream teams
-for year - 2019
-· CAB Time management
-TCS
-Went above and beyond the
-expectation in resolving
-customer queries, that resulted
-in direct customer appreciation
+* Meeting all the requirements for change initiation
+* RFC - Request for change
+* Technical Advisory Board
+. CAB - Change Advisory Board
+* Emergency Change management - E-CAB
+* Change Freeze activities
+* Follow ups with Upstream and Downstream teams
+* CAB Time management
+May 2018 - Jul 2021

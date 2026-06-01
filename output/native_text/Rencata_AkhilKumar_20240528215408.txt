@@ -2,69 +2,91 @@ Akhil Kumar k.m
 Mobile: +91-9048039352
 Kazhakootam , Trivandrum
 Email:akhil.yobz@gmail.com
-CAREER OBJECTIVE
+CAREER 
+OBJECTIVE
+
 To seek a challenging position in the IT industry and thereby establish a global identity, look for the opportunity where I
-can improve my quality and project management skills.
-PROFILE SUMMARY
+can improve my quality and project management 
+skills
+.
+
+PROFILE
+ 
+SUMMARY
+
 ●
-7+  years experience in Asp.Net MVC Application Development.
-●
-Hands on experience on .NET (3.5/4.0/4.5/4.7), ASP.NET MVC , Web api, WCF, Typescript, Angular,
+7+ years 
+experience
+ in Asp.Net MVC Application Development.
+Hands on 
+experience
+ on .NET (3.5/4.0/4.5/4.7), ASP.NET MVC , Web api, WCF, Typescript, Angular,
 Infragistics, Telerik, Linq, Visual Studio 2010/2012/2013,2015,2017 IIS 7 and SQL Server 2008(R2),
 Jira, Bluebird and Jenkins.
-●
-Hands on experience in entity-framework and three tier architecture.
-●
+Hands on 
+experience
+ in entity-framework and three tier architecture.
 Been to Germany for an Onsite of 3 months as part of Volkswagen project.
-●
 Professional Scrum Master (PSM1) certification from Scrum.org.
-●
 Rich exposure to Software Development Life Cycle (SDLC) and Agile.
-●
 Strong in Object Oriented concepts for software design and implementation.
-●
-Experience in Unit Testing to deliver quality products.
-●
-Experience with NUNIT and Visual Studio Test Projects.
-●
-Experience in HL7 message standard.
-ACADEMIC PROFILE
+
+Experience
+ in Unit Testing to deliver quality products.
+
+Experience
+ with NUNIT and Visual Studio Test 
+Projects
+.
+
+Experience
+ in HL7 message standard.
+
+ACADEMIC
+ 
+PROFILE
+
 MASTER OF COMPUTER APPLICATION | MAY 2013 | KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND
 TECHNOLOGY, MADURATHANGAM
 Major: Computer Application With
 the aggregate of 6. 97 CGPA
 BACHELOR OF SCIENCE|MAY 2009|MALABAR CHRISTIAN COLLEGE CALICUT
-· Major: Physics
-· With the aggregate of 51. 00 CGPA
+* Major: Physics
+* With the aggregate of 51. 00 CGPA
 HIGH SCHOOL CERTIFICATE | APRIL 2004 | ATHOLI HIGHER SECONDARY SCHOOL, ATHOLI
-· Major: State Board
-· With the aggregate of 62.00%
+* Major: State Board
+* With the aggregate of 62.00%
 SECONDARY SCHOOL LEAVING CERTIFICATE | APRIL 2006| PALORA HSS, ULLIYERI
-· Major: State Board
-· With the aggregate of 52.00%
-EMPLOYMENT HISTORY
-Feb 2020– To Till Date
+* With the aggregate of 52.00%
+
+EMPLOYMENT
+ HISTORY
+Feb 2020- To Till Date
 UST Global , Trivandrum
 UST is a global digital transformation solutions provider. For more than 20 years, UST has worked side by
-side with the world’s best companies to make a real impact through transformation. Powered by
+side with the world's best companies to make a real impact through transformation. Powered by
 technology, inspired by people and led by purpose, UST partners with their clients from design to
 operation. With deep domain expertise and a future-proof philosophy, UST embeds innovation and agility
-into their clients’ organizations.
-October 2017– Feb 2020
+into their clients' organizations.
+October 2017- Feb 2020
 Palnar Transmedia Pvt Ltd , Trivandrum
 Palnar Transmedia Pvt. Ltd. is a Software Consultancy and Development company located in India having
 development centers/offices in Germany, USA, Netherlands and Switzerland
-October 2015 – October 2017
+October 2015 - October 2017
 Computer Science corporation(DXC) , Chennai
 Computer Sciences Corporation (CSC) was an American multinational corporation that provided
 information technology (IT) services and professional services. On April 3, 2017, it merged with HPE
 Enterprise Services to create DXC Technology
-August 2014 – October 2015
+August 2014 - October 2015
 Icegen Computing pvt Ltd , Chennai
 ICEGEN provides increased productivity with high quality at a lower cost as a result of our global
 operations capability. Our core focus is on developing unique, valuable and innovative enterprise- class
-solutions targeting the Medical and Healthcare, Banking and Financial and Education sector.
-PROFESSIONAL SUMMARY
+solutions targeting the Medical and Healthcare, Banking and Financial and 
+Education
+ sector.
+PROFESSIONAL 
+SUMMARY
+
 PROJECT : TFM(Tax Form Management)
 Client : Equifax
 The project consists of different applications which perform various functions from preparing a tax form for the end
@@ -76,7 +98,6 @@ make them available for the employee. There is another website that contains var
 Key technologies and tools involved are GCP,Web api,Asp.net
 Mvc,Angular,Python,Jquery,Oracle,Json,Bitbucket,Jira,Bluebird Jenkins
 PROJECT : AE-UPS
-Client : Equifax
 United Parcel Service - One of the largest package delivery company around the globe. AEUPS is a project which
 automated the entire onboarding procedure to digital from job search to the last signature by converting their
 operation like jobsearch, documentation, appointments, game integrations, video integration, internal candidate
@@ -87,10 +108,13 @@ Analyze the production issues and provide the fix.
 Participate in continuous improvement initiatives.
 Key technologies and tools involved are Asp.net 4.5,4.7, WCF, Bootstrap, Visual studio 2019, MS SQL server,
 Github,Jira,Bluebird Jenkins
+
 PROJECT : Project Management Application
 Client : Volkswagen
 Tools Used: ASP.Net MVC , C#, MS SQL Server, Typescript, Infragistics.
-Details: This is a web application which is used for managing projects in the automotive industry. This application
+Details: This is a web application which is used for managing 
+projects
+ in the automotive industry. This application
 consists of Project
 module, User Management and Role Assigning Module, QA module, Issue Management module, Dashboard and
 Report module.
@@ -110,7 +134,9 @@ Conduct all scrum activities like retro , sprint planning, refinement and review
 PROJECT : GOCGM Taxi Application (Application for Taxi scheduling and hiring.)
 Main areas of work include development of WebAPI service functions and handling and modifying JSON
 datas for Android and IOS team. Created Supporting functions for Weekly Report and handled Website of
-the Application.Languages/Environment : C#, .Net 4.5, WebAPI2, HTML,XML, CSS, AJAX, MongoDB, SQL
+the Application.
+Languages
+/Environment : C#, .Net 4.5, WebAPI2, HTML,XML, CSS, AJAX, MongoDB, SQL
 Server 2012.
 PROJECT : LORENZO NATIONAL HEALTH SERVICE [UK]
 Client : National Health Service [NHS]
@@ -126,18 +152,22 @@ of all the Patient problem details from all parts of Product Activities.
 Handled Identity Management Patient relation information. Involved and worked in Test Automation
 Framework (TAF).
 Roles/Responsibilities: Product Developer
-Work experience in agile methodology.
+Work 
+experience
+ in agile methodology.
 Get assigned with CRs (Change Requests)/USs (User Stories) and complete them as deliverables within
-the  given deadlines
+the given deadlines
 Involved in the development of User Stories for POMR, CNS and other care activities.
-Bugs fixed in the user care activities and Profile Editor.
+
+Bugs fixed in the user care activities and 
+Profile
+ Editor.
 Involved in the localization of some of the care activities.
 Involved in the UI design for Silverlight pages and other Aspx pages.
-Performed Unit Testing for the developed User Stories.
 PROJECT: FEEDBACK APPLICATION(MOBILE APPLICATION)
 CLIENT: FORTIS ESCORTS HEART INSTITUTE
 The project is mainly focused on patient feedback about the hospital.The project mainly to take feedback from
-inpatient and out  patient.The application is developed cross platform using PhoneGap. jQuery Mobile is a
+inpatient and out patient.The application is developed cross platform using PhoneGap. jQuery Mobile is a
 touch-optimized web framework (also known as a mobile framework), more specifically a JavaScript library,
 currently being developed by the .Net project team. The development focuses on creating a framework compatible
 with a wide variety of smartphones and tablet computers,sss made necessary by the growing but heterogeneous

@@ -1,24 +1,25 @@
-CAREER OBJECTIVE
+Parveen BegamEmail: parveenbegam1706@gmail.comContact: +91 6369516558
+CAREER 
+OBJECTIVE
 
-                   To work in an ambitious environment where I can bestow all my technical knowledge, problem solving and interpersonal skills efficiently for the enrichment of the organization.
-
+To work in an ambitious environment where I can bestow all my technical knowledge, problem solving and interpersonal 
+skills
+ efficiently for the enrichment of the organization.
 IT PROFICIENCY
-				
 Operating system :Windows 7, Windows 10
 Concepts: Agile Methodology, Database Management System
-Tools:  Visual Studio, SQL Server Management
+Tools: Visual Studio, SQL Server Management
 Office Tools: MS Word, MS Excel and MS Powerpoint
+WORK 
+EXPERIENCE
 
-
-WORK EXPERIENCE
-
-
-SENSIPLE, CHENNAI – 2022- 2023
-
+SENSIPLE, CHENNAI - 2022- 2023
 Role : Junior Developer
 Operating System: Windows 10
 Tools: Visual Studio, SQL Server Management, Sonarqube
-Languages :  C#(ASP.Net) ,SQL(DML)
+
+Languages
+ : C#(ASP.Net) ,SQL(DML)
 Communication Utilities: Teams, Microsoft Outlook, Zoom
 Responsibilities:
 Developed and maintained .NET applications, ensuring functionality and performance meet project requirements.
@@ -26,37 +27,31 @@ Implemented DML SQL queries to extract, manipulate, and manage data within relat
 Conducted debugging and troubleshooting activities to identify and resolve software issues.
 Participated in code reviews to ensure code quality, adherence to coding standards, and best practices.
 Engaged in the planning and execution of software testing procedures to validate system functionality.
-
-
-INTERPERSONAL  SKILL
-
+INTERPERSONAL SKILL
 Ability to build relationship and set up trust rapidly.
 Confident and Determined
-Ability to cope up with different situations.  
+Ability to cope up with different situations.
 Quick Learner
 Optimistic Person
-
-
-BASIC ACADEMIC CREDENTIALS 
-
-
+BASIC 
+ACADEMIC
+ CREDENTIALS
 B.TECH - Computer Science Engineering at Christ College of Engineering, Puducherry in 2017 - 2021.
 82% in Vivekanadha Higher Secondary School, Puducherry in 2016.
-
-
 PERSONAL DETAILS
-
-Father Name    	:	Noor Mohamed
-Date of Birth    		:	17th  June 2000
-Language Known	:	Tamil & English 
-Marital Status 		:	Single
-Nationality        	:	Indian  
-Interest & Hobbies	:	Art & Craft
-
-
-
+Father Name :Noor Mohamed
+Date of Birth :17th June 2000
+Language Known:Tamil & English
+Marital Status :Single
+Nationality :Indian
+Interest & 
+Hobbies
+:Art & Craft
 DECLARATION
-
 I hereby declare that the above information furnished by me are true to the best of my knowledge and belief.
+Place:Chennai
+Parveen Begam
+Email: parveenbegam1706@gmail.com
 
-Place:	Chennai
+Contact
+: +91 6369516558

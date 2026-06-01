@@ -1,49 +1,126 @@
-CAREER OBJECTIVE
-Seeking for a job to obtain a creative and challenging position in an organization that gives me an opportunity for self-improvement and leadership, while contributing to the symbolic growth of the organization with my technical, innovative and logical skills.
+JAYAMANICKAM DHARMARAJAN | 
+Contact
+: +91 8838411148
+Email: iamdynamickj@gmail.com
+CAREER 
+OBJECTIVE
 
-PROFILE SUMMARY
-A dynamic Software Engineer with 4.3 years of work experience in Dot Net technology; currently spearheading the task as a Senior Developer.
-Hands-on experience in C#, VB dotnet languages for developing Windows application using Component based Scalable Logical Architecture (CSLA) framework.
+Seeking for a job to obtain a creative and challenging position in an organization that gives me an opportunity for self-improvement and leadership, while contributing to the symbolic growth of the organization with my technical, innovative and logical 
+skills
+.
+
+PROFILE
+ 
+SUMMARY
+
+A dynamic Software Engineer with 4.3 years of work 
+experience
+ in Dot Net technology; currently spearheading the task as a Senior Developer.
+Hands-on 
+experience
+ in C#, VB dotnet 
+languages
+ for developing Windows application using Component based Scalable Logical Architecture (CSLA) framework.
 Worked extensively with Data Adapter,Dataset,Data Reader as a part of ADO.NET to access and Update database
-Experience in INFRAGISTICS 4.1 for developing the user interface(s) for the application.
-Experience in SAP Crystal tool for developing the reports; integrated to application user interface.
+
+Experience
+ in INFRAGISTICS 4.1 for developing the user interface(s) for the application.
+
+Experience
+ in SAP Crystal tool for developing the reports; integrated to application user interface.
 Expertise in writing Stored Procedures in SQL Server 2008, 2014 to transform the data required for reporting.
 Expertise in SQL Server Database Design, Database Maintains and triggers using SQL server 2014
 Good working knowledge in designer tool such as Infragistics
 Sound knowledge in ASP dotnet.
 Excellent communicator with talent for problem solving and ability to handle multiple functions and activities in high pressure environments with tight deadlines and limited supervision.
-Diligent team builder, dedicated, hardworking and focused individual with sound analytical skills of self-defining performance parameters and ability to objectively evaluate results.
-Subject Matter Expert in 
+Diligent team builder, dedicated, hardworking and focused individual with sound analytical 
+skills
+ of self-defining performance parameters and ability to objectively evaluate results.
+Subject Matter Expert in
 CSLA Framework Technology
 Customizing UI design using Infragistics
 C# &VB. Net
 Designing DML, DDL, DCL and TCL
 SAP Crystal Reports
-Application & DB Migrate and Upgrade 
+Application & DB Migrate and Upgrade
+TECHNICAL 
+SKILLS
 
+Languages
 
+C#
+VB Dot net
+CSS3
+HTML 4.01
+UI Tools
+Infragistics 4.1
+Infragistics 19.1 | Scripts
+SQL
+UNIX Commands
+PL / SQL
+Reporting Tools
+SAP Crystal
+Development Tools
+Visual Studio 2010,2017 | Database
+MS SQL Server -2014
+PROFESSIONAL 
+EXPERIENCE
 
-
-TECHNICAL SKILLS
-
-PROFESSIONAL EXPERIENCE
-ALSAIE INFORMATION TECHNOLOGY., Chennai	MAR’15 – Till Date
+ALSAIE INFORMATION TECHNOLOGY., ChennaiMAR'15 - Till Date
 Designation: Senior Developer
-
-
-
-
-
 PROJECT DETAILS
+Client / Title : | Al Ekar Hydraulic/ Accounting Management System Integrated with Inventory
+Role : | Developer
+Project 
+Summary
+: | Establish a full finance based application integrated with inventory, this application adapts to the unique ways of your business whether you want to manage working capital or control Inventory. This System having COA, Customer and Supplier outstanding, Purchase modules with backend as SQL 2014 and UI design using Infragistics.
+Responsibilities : | Understanding the requirements and design.
+Developing the application based on the design document.
+Database Design and Table Creation based on the required structure.
+Stored Procedure Preparation.
+Developing the Application based on client requirements.
+Bug fixing.
 
+Achievements
+ : | 10% reduction in manpower cost.
+Achieved 99% accuracy in report.
+Client / Title : | Extrovert Spa, Bahrain / Appointment Management System (AMS)
+Project 
+Summary
+: | This Project is a customer service oriented where we will be providing the appointment for the needs of the customers. The software was required to provide convenience to saloon customers (service appointment hirer) to book appointments using a user friendly calendar. This application is windows based and developed using CSLA Framework. SQL server is used for backend and UI designs are Infragistics and SAP Crystal reports are used for generating Reports. The solution offers salon owners to generate trend reports on a daily, weekly, monthly and annual basis. Also progress reports, revenue 
+summary
+, service spread, retail sales spread, service-provider sales. Each report can be exported to Excel, CSV, PDF or text formats.
+DB Design which align with client Infrastructure.
+Creation of Stored Procedure.
+Scheduling a daily jobs.
+Conducting the peer review on the code.
+Performing Unit testing.
+Providing the support on the UAT phase.
+Production Support for Live applications.
+
+Achievements
+ : | Increased 20 % in sales and revenue.
+Retained 50% customer by automating AMS.
+Client / Title : | Delta Construction, CrownMEP, Crown Industries, Bahrain Scrap Mould /Biometric Fingerprint based Attendance Management System
+Project 
+Summary
+: | Establish an employee attendance system which could effectively manage attendance of employee. It is a windows application backend is SQL 2014 and UI design are Infragistics. Export the data into the Excel format report Reporting covers development of various aggregate, detailed, navigation between reports
+and integration with MS Excel is done on daily and monthly basis.
+Responsibilities :
+
+Achievements
+ : | Understanding the requirements and design.
+Developing the database application based on the requirements.
+Table creation with the required structures in the MS Access.
+Developed the interface to export the data into MS Excel.
+Responding to the queries / issues raised by the client.
+Increased report accuracy from 90 to 97%.
+70% reduces the operational cost.
 EDUCATIONAL AND PROFESSIONAL CREDENTIALS
-
-B.Tech (INFORMATION TECHNOLOGY), 2013 – 64%
+B.Tech (INFORMATION TECHNOLOGY), 2013 - 64%
 Anjalai Ammal Mahalingam Engineering College, affiliated to Anna University.
-HSC, 2009 – 67%
+HSC, 2009 - 67%
 Little Flower Higher Secondary School, Kumbakonam.
-
-SSLC, 2007 – 69%
-Little Flower Higher Secondary School, Kumbakonam.
+SSLC, 2007 - 69%
 TRAININGS ATTENDED
 Level 1 Engineer program at FLEXTRONICS India (Pvt) Ltd., Chennai.

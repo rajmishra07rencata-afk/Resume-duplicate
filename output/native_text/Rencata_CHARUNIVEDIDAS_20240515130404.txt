@@ -1,245 +1,166 @@
-CHARUNIVEDIDA S 
-Email: charunivedida@gmail.com 
-Mobile: 9952719728 
- 
-OBJECTIVE 
-Aspiring for challenging assignments in the field of testing and automation; wish to achieve high career growth 
-through a continuous learning process and prove to be an asset for the organization. 
- 
- 
- 
-PROFESSIONAL SUMMARY 
- 
-3 years of experience as Test Engineer. 
- 
-Good Experience in Manual Testing for Web-based applications. 
- 
-Hands-on experience in Testing Techniques and designs for Functionality Testing. 
- 
-Good exposure in Selenium WebDriver automation testing tool. 
- 
-Hands-on experience in TestNG Framework. 
- 
-Good exposure in Page Object Model [POM] design pattern. 
- 
-Good Experience in Bug Tracking Tools like JIRA. 
- 
-Experience in Scrum Framework on Agile Methodology. 
- 
-Good knowledge in Automation Testing. 
- 
-Well versed with all stages of SDLC and STLC. 
- 
-Hands-on experience in Test Cases preparation and writing Bug Reports. 
- 
-Good Exposure towards Test Plan, Testing Techniques and Testing Methodologies. 
- 
-Flexible and versatile to adapt to any new environment and work. 
- 
- 
- 
- 
- 
-TECHNICAL SKILLS 
-Testing Approach & Tool 
-Manual Testing, Selenium WebDriver 
-Integrated Development Environment 
-Eclipse IDE 
-Frameworks 
-TestNG Framework 
-Processes 
-Agile-Scrum 
-Bug Tracking Tool 
-JIRA 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-WORK EXPERIENCE 
-Company Name: AITRAAZ TECHNOLOGIES (P) LTD 
-Duration: December 2018 – January 2022 
- 
- 
- 
- 
-EDUCATION 
-2017-2019       MBA International business management, 
-Annamalai university, Chidambaram. 
- 
-2011-2014       B. TECH Electronics and communication engineering, 
-Manakula vinayagar institute of technology, Puducherry. 
- 
-2008 -2011     Diploma Electronics and communication engineering, 
-Karaikal polytechnic college Karaikal, Puducherry. 
- 
- 
- 
-PROJECTS 
- 
-Project Title #1 
- 
-Description 
-Lowe's 
- 
- 
-Lowe's is the second largest home decoration and hardware 
-chain store in the United States, with more than 2,000 stores 
-in the United States.In addition to physical stores, Lowe's also 
-sells various building materials, household and gardening 
+CHARUNIVEDIDA S
+Email: charunivedida@gmail.com
+Mobile: 9952719728
+
+OBJECTIVE
+
+Aspiring for challenging assignments in the field of testing and automation; wish to achieve high career growth
+through a continuous learning process and prove to be an asset for the organization.
+
+PROFESSIONAL 
+SUMMARY
+
+3 years of 
+experience
+ as Test Engineer.
+
+Good 
+Experience
+ in Manual Testing for Web-based applications.
+
+Hands-on 
+experience
+ in Testing Techniques and designs for Functionality Testing.
+
+Good exposure in Selenium WebDriver automation testing tool.
+
+Hands-on 
+experience
+ in TestNG Framework.
+
+Good exposure in Page Object Model [POM] design pattern.
+
+Good 
+Experience
+ in Bug Tracking Tools like JIRA.
+
+Experience
+ in Scrum Framework on Agile Methodology.
+
+Good knowledge in Automation Testing.
+
+Well versed with all stages of SDLC and STLC.
+
+Hands-on 
+experience
+ in Test Cases preparation and writing Bug Reports.
+
+Good Exposure towards Test Plan, Testing Techniques and Testing Methodologies.
+
+Flexible and versatile to adapt to any new environment and work.
+
+TECHNICAL 
+SKILLS
+
+Testing Approach & Tool
+Manual Testing, Selenium WebDriver
+Integrated Development Environment
+Eclipse IDE
+Frameworks
+TestNG Framework
+Processes
+Agile-Scrum
+Bug Tracking Tool
+JIRA
+
+WORK 
+EXPERIENCE
+
+Company Name: AITRAAZ TECHNOLOGIES (P) LTD
+Duration: December 2018 - January 2022
+
+EDUCATION
+
+2017-2019 MBA International business management,
+Annamalai university, Chidambaram.
+
+2011-2014 B. TECH Electronics and communication engineering,
+Manakula vinayagar institute of technology, Puducherry.
+
+2008 -2011 Diploma Electronics and communication engineering,
+Karaikal polytechnic college Karaikal, Puducherry.
+
+PROJECTS
+
+Project Title #1
+
+Description
+Lowe's
+
+Lowe's is the second largest home decoration and hardware
+chain store in the United States, with more than 2,000 stores
+in the United States.In addition to physical stores, Lowe's also
+sells various building materials, household and gardening
 equipment, furniture and tools online through its own e-
-commerce platform. 
- 
- 
-Environment 
-Manual Testing, Selenium web driver, TestNG, POM, 
-Windows 10 
- 
- 
-Roles and Responsibility              
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Understanding the Client Requirements and 
-functionality of test cases 
- 
-Implementing best approach depending on business 
-requirements 
- 
-Preparing and Executing test cases 
- 
-Preparing Defect reports and assigning the defects to 
-the developer 
- 
-Defect Tracking and Reporting in JIRA 
- 
-Followed Agile methodology 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Project Title #2 
- 
-Description 
-                               Mudah.my 
- 
- 
-                         Mudah.my is the Malaysian largest market place, 
-                               Head office is in Kuala Lumpur, Malaysia market It is a          
-online market place.People can sell/buy varieties of        
-products and goods.It has many categories,myself in 
-Electronics like Mobile phones,Gadgets and Accessories.  
-                     
- 
- 
- 
-Environment 
-                       Manual testing,Selenium-TestNG,POM 
- 
- 
-Roles and Responsibility     
- 
-Understanding the Client Requirement document  
- 
-Involved in Implementing the TestNG Framework   
- 
-Updating the test cases and executing on daily 
-basis 
- 
-Followed Agile methodology 
- 
-Defect and Reporting using JIRA 
- 
- 
- 
- 
- 
- 
-Personal Profile : 
- 
- 
-  Date of Birth : 
- 
-Nationality : 
- 
-Marital Status : 
- 
-Gender : 
- 
-Permanent Address : 
- 
- 
- 
- 
- 
- 
-14.11.1992 
- 
- 
- 
-Indian 
- 
- 
- 
-Married 
- 
- 
- 
- 
-Male 
- 
- 
- 
-73 East street, Kottucherry, Karaikal, Pudhucherry. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Place: Karaikal                                                                                 
-Date: 
- 
- 
- 
- 
- 
- 
- 
+commerce platform.
+
+Environment
+Manual Testing, Selenium web driver, TestNG, POM,
+Windows 10
+
+Roles and Responsibility
+
+Understanding the Client Requirements and
+functionality of test cases
+
+Implementing best approach depending on business
+requirements
+
+Preparing and Executing test cases
+
+Preparing Defect reports and assigning the defects to
+the developer
+
+Defect Tracking and Reporting in JIRA
+
+Followed Agile methodology
+
+Project Title #2
+
+ Mudah.my
+
+Mudah.my is the Malaysian largest market place,
+Head office is in Kuala Lumpur, Malaysia market It is a
+online market place.People can sell/buy varieties of
+products and goods.It has many categories,myself in
+Electronics like Mobile phones,Gadgets and Accessories.
+
+Manual testing,Selenium-TestNG,POM
+
+Understanding the Client Requirement document
+
+Involved in Implementing the TestNG Framework
+
+Updating the test cases and executing on daily
+basis
+
+Defect and Reporting using JIRA
+
+Personal 
+Profile
+ :
+
+Date of Birth :
+
+Nationality :
+
+Marital Status :
+
+Gender :
+
+Permanent Address :
+
+14.11.1992
+
+Indian
+
+Married
+
+Male
+
+73 East street, Kottucherry, Karaikal, Pudhucherry.
+
+Place: Karaikal
+Date:
+
 (CHARUNIVEDIDA.S)

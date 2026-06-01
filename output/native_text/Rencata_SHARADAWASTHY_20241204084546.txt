@@ -2,12 +2,18 @@ SHARAD AWASTHY
 Email: sharad.awasthy@gmail.com,
 45.sharad@gmail.com
 Phone: +91 7827203977, 7415317376
+
 Objective
+
 My career options are guided by my sense of satisfaction challenged involved, variety
 in learning and opportunities for growth. In this stage of my career, I am interested in
 enhancing my learning by working with high responsibility across various
-professional skills.
+professional 
+skills
+.
+
 Skills
+
 CCNP642-813(Switching), CCNA-640-802, ITIL, PCNSA
 AZ-104, AZ-500, Windows (98, 2000, XP, 7), Linux
 TCP/IP, BGP, OSPF, VPN
@@ -25,7 +31,9 @@ CSCO11749291
 - PCNSA
 - AZ-104
 - AZ-500
+
 Experience
+
 Infosys Ltd
 1/3/2016
 Boss Technology (Sub. Con. in Infosys)
@@ -34,4 +42,5 @@ Acliv Technologies Pvt. Ltd
 1/7/2014 - 1/4/2015
 JK Techno soft
 1/9/2012 - 1/4/2014
+
 Projects

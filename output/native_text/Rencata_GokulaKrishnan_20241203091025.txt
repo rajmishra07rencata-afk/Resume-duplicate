@@ -1,176 +1,165 @@
-Classification: Public 
-Gokula Krishnan S 
-NO. 3 Sathaya Sai Nagar 
-Veppampattu – 602024 
-Thiruvallur Dist. 
-Contact : +91 80725 11935 
-Mail :krishgokul146@gmail.com 
- 
-SYNOPSIS 
- 
- A result oriented professional with 4 years of experience in supply chain management and primarily in 
-areas of purchase , Material management, Logistics and Accounting in finance. Experienced in ERP 
-SAP S4 HANA 
- Accounting & Finance Operations, Payment related works and Handling with vendors. 
- 
-CAREER OBJECTIVE 
- 
-Build a challenging career in an industry that will fully exploit my skills. I want to emerge as a 
-successful, true professional through my 'Can Do’ attitude, hard work, confidence personality, 
-high motivation & always willing to work in any critical situation. 
- 
- PROFESSIONAL EXPERENCE 
- 
-                        Maersk Global Service India Pvt Ltd 
-                        Designation : Accounts payable associate 
-                        Period : May 2023 – Till 
-   
-   Worked as Accounts Payable logistic region invoice processing, Error resolution and query handling                              
- responsible for providing support to all vendor queries relating to invoice payments and analysis relating  
- payment queries. 
- 
- Creating purchase order 
- Goods receipt note posting 
- Invoice receipt posting 
- MS excel, Vlookup, Pivot table 
- Bank reconsilation 
- Outlook and Email management 
-  
- Review and validate basic essentials of valid invoice like supplier details, PO, Bank account, 
-Invoice number, Invoice date etc. 
- Release the invoices for payments timely and accurately 
- Ensure that all pay run gets completed as agree with the customer 
- Follow up with requisitions ( via calls/emails or tickets ) to solve invoice issues as per the AP 
-guideline 
- Able to think through how to reduce helpdesk queries and help in process improvements 
- Adhere their internal compliance policy and guidelines established by the management on their 
-daily operational activities 
- Perform daily internal audit to ensure all invoices / queries are handled as per the guidelines 
- Review and process invoices along with providing the resolutions. 
-                              
- 
-Classification: Public 
-PREVIOUS EXPERIENCE 
- 
-KTV Health Food Pvt Ltd., (Joint Venture in Adani Wilmar Ltd) 
-Designation : Order management, Order to cash & Purchase 
-Period : May 2021 – DEC 2022 
- 
-Worked as Procurement Specialist in KTV Health food PVT LTD, Chennai in Essential oil manufacturing 
-Industry for Food, Telecommunication and Networking Customers. Experienced in SAP S4 HANA.  
-In KTV 
-⮚ 
-As a sales in charge I work end to end from taking up the orders, We use to feed the contract using the 
-T CODE ( VA41 ) and following it up till delivery to the customer. 
-⮚ 
-I used to interact with customers directly via telephone and take up the Sales orders. 
-Once the invoice has been raised by the billing department we used to follow up the 
-payment procedures from the customers, using the T CODE ( FBL5N ) 
-⮚ 
-To post a manual incoming payment clearance using transaction T CODE ( F-28 ) 
-⮚ 
-Reversing a cleared invoice, used for canceling T CODE ( FBRA ) 
-⮚ 
-To adjust the payment against an existing invoice, clear the customer open items T CODE ( F-32 ) 
-⮚ 
-Responsible for administering and organizing manufacturing and production department. 
-⮚ 
-   By using the SAP T CODE ( VA01 ), we used to feed the Sale order using the 
-customer identification number (Customer code). 
-⮚ 
-Responsible for contract negotiation, price discounting and vendor cost-negotiation from the initial quote 
-through price negotiation. 
-⮚ 
-Follow-up with concern department for payment release within committed days to the vendor. 
-⮚ 
-Experienced, results-oriented purchasing professional with exceptional abilities in building/developing 
-internal teams and vendor relationships and skilled in managing material. 
- 
- PREVIOUS ORGANIZATION 
-Tenth Planet Technologies Pvt Ltd 
-Designation: Procure To Pay 
-Period : Jun 2019 – APR 2021 
- 
-Responsibilities 
- 
- Prepare Purchase Order, Sale Invoice. 
- Preparing Sale Invoice as per monthly plan schedule, and then communicate with sales manager 
-to execute as per ordered quantity of goods to supply. 
-  Preparing the Monthly Purchase Order, GRIR pending report, Bank reconciliation statement. 
- 
-Purchasing 
- 
-⮚ 
-Releasing New Purchase orders (POs) to the suppliers based on the demand loaded in system. 
-⮚ 
-Delivery confirmations should be received within TAT. 
-⮚ 
-Supplier to be questioned for the delayed commit date than the agreed date. 
-⮚ 
-Existing POs to be monitored until the components arrive the warehouse. 
- 
-Inventory Management 
-⮚ 
-Inventory check will be done on monthly and quarterly basis and excess stock available will be 
-depleted by sharing the excess to other projects internally or to the sister sites. 
- 
-Classification: Public 
-⮚ 
-During the demand drop from customers, the request will be sent to suppliers to reschedule the 
-request date of the existing orders in order to avoid the inventory for the respective month or quarter of the 
-year. 
- 
-Logistics 
-⮚ 
-Receiving packing information from the suppliers. 
-⮚ 
-Advising the Forwarder details based on the weight, location and incoterms. 
-⮚ 
-Shipping documents to be checked and verified with Customs dept. 
-⮚ 
-Tracking the shipment. 
-⮚ 
-Deciding Mode of transport based on the criticality of the component. 
- 
- Cost Control 
-⮚ 
-Monitoring and blocking all the orders with buying cost greater than selling cost. 
-⮚ 
-Negotiating with suppliers based on the raw material and making charges of the component. 
-⮚ 
-Customer approval of liability is maintained for extra costs. 
- 
- TECHINICAL EXPERIENCE 
- 
- Extensive knowledge in Sap S4 HANA, 
- MS Word, MS Excel, PowerPoint. 
- Computer related operations. 
- Operating Systems: Win 7, Win 8.1 & Win10. 
- Type writing in English 
- ACADEMIC DETAILS 
- 
- 10TH with 62 % - Maharishi Vidya Mandhir Higher Secondary School Gummidipundi2010 to2011. 
- 12TH with 68% - ST.Marys Matric Higher Secondary School Gummidipundi, 2012 to2013. 
- B. Com with 74% - A.M.Jain Arts and science College, Meenambakkam 2013 to2016. 
- 
-  PERSONAL DETAILS 
- 
-Date of Birth           : 25th April1996 
-Father’s Name        : G.Srinivasan 
-Mother’s Name       : S.Dhanalakshmi 
-Gender                    : Male 
-Mother Tongue       : Telugu 
-MaritalStatus          : Un-Married 
-Languages Knows  : Tamizh, Telugu & 
-English 
- 
-DECLARATION 
- 
-I hereby declare that the above mentioned information is true to the best of my 
-knowledge and belief. I further undertake that the rule and regulation of the organization will be obeyed  
-by me, and I shall obey by all decision of the management. 
- 
-Date : 
-Your’s Truthful, 
-Place : Chennai 
+Classification: Public
+Gokula Krishnan S
+NO. 3 Sathaya Sai Nagar
+Veppampattu - 602024
+Thiruvallur Dist.
+
+Contact
+ : +91 80725 11935
+Mail :krishgokul146@gmail.com
+
+SYNOPSIS
+
+ A result oriented professional with 4 years of 
+experience
+ in supply chain management and primarily in
+areas of purchase , Material management, Logistics and Accounting in finance. Experienced in ERP
+SAP S4 HANA
+ Accounting & Finance Operations, Payment related works and Handling with vendors.
+
+CAREER 
+OBJECTIVE
+
+Build a challenging career in an industry that will fully exploit my 
+skills
+. I want to emerge as a
+successful, true professional through my 'Can Do' attitude, hard work, confidence personality,
+high motivation & always willing to work in any critical situation.
+
+PROFESSIONAL EXPERENCE
+
+Maersk Global Service India Pvt Ltd
+Designation : Accounts payable associate
+Period : May 2023 - Till
+
+Worked as Accounts Payable logistic region invoice processing, Error resolution and query handling
+responsible for providing support to all vendor queries relating to invoice payments and analysis relating
+payment queries.
+
+ Creating purchase order
+ Goods receipt note posting
+ Invoice receipt posting
+ MS excel, Vlookup, Pivot table
+ Bank reconsilation
+ Outlook and Email management
+
+ Review and validate basic essentials of valid invoice like supplier details, PO, Bank account,
+Invoice number, Invoice date etc.
+ Release the invoices for payments timely and accurately
+ Ensure that all pay run gets completed as agree with the customer
+ Follow up with requisitions ( via calls/emails or tickets ) to solve invoice issues as per the AP
+guideline
+ Able to think through how to reduce helpdesk queries and help in process improvements
+ Adhere their internal compliance policy and guidelines established by the management on their
+daily operational activities
+ Perform daily internal audit to ensure all invoices / queries are handled as per the guidelines
+ Review and process invoices along with providing the resolutions.
+
+PREVIOUS 
+EXPERIENCE
+
+KTV Health Food Pvt Ltd., (Joint Venture in Adani Wilmar Ltd)
+Designation : Order management, Order to cash & Purchase
+Period : May 2021 - DEC 2022
+
+Worked as Procurement Specialist in KTV Health food PVT LTD, Chennai in Essential oil manufacturing
+Industry for Food, Telecommunication and Networking Customers. Experienced in SAP S4 HANA.
+In KTV
+⮚
+As a sales in charge I work end to end from taking up the orders, We use to feed the contract using the
+T CODE ( VA41 ) and following it up till delivery to the customer.
+I used to interact with customers directly via telephone and take up the Sales orders.
+Once the invoice has been raised by the billing department we used to follow up the
+payment procedures from the customers, using the T CODE ( FBL5N )
+To post a manual incoming payment clearance using transaction T CODE ( F-28 )
+Reversing a cleared invoice, used for canceling T CODE ( FBRA )
+To adjust the payment against an existing invoice, clear the customer open items T CODE ( F-32 )
+Responsible for administering and organizing manufacturing and production department.
+By using the SAP T CODE ( VA01 ), we used to feed the Sale order using the
+customer identification number (Customer code).
+Responsible for contract negotiation, price discounting and vendor cost-negotiation from the initial quote
+through price negotiation.
+Follow-up with concern department for payment release within committed days to the vendor.
+Experienced, results-oriented purchasing professional with exceptional abilities in building/developing
+internal teams and vendor relationships and skilled in managing material.
+
+PREVIOUS ORGANIZATION
+Tenth Planet Technologies Pvt Ltd
+Designation: Procure To Pay
+Period : Jun 2019 - APR 2021
+
+Responsibilities
+
+ Prepare Purchase Order, Sale Invoice.
+ Preparing Sale Invoice as per monthly plan schedule, and then communicate with sales manager
+to execute as per ordered quantity of goods to supply.
+ Preparing the Monthly Purchase Order, GRIR pending report, Bank reconciliation statement.
+
+Purchasing
+
+Releasing New Purchase orders (POs) to the suppliers based on the demand loaded in system.
+Delivery confirmations should be received within TAT.
+Supplier to be questioned for the delayed commit date than the agreed date.
+Existing POs to be monitored until the components arrive the warehouse.
+
+Inventory Management
+Inventory check will be done on monthly and quarterly basis and excess stock available will be
+depleted by sharing the excess to other 
+projects
+ internally or to the sister sites.
+
+During the demand drop from customers, the request will be sent to suppliers to reschedule the
+request date of the existing orders in order to avoid the inventory for the respective month or quarter of the
+year.
+
+Logistics
+Receiving packing information from the suppliers.
+Advising the Forwarder details based on the weight, location and incoterms.
+Shipping documents to be checked and verified with Customs dept.
+Tracking the shipment.
+Deciding Mode of transport based on the criticality of the component.
+
+Cost Control
+Monitoring and blocking all the orders with buying cost greater than selling cost.
+Negotiating with suppliers based on the raw material and making charges of the component.
+Customer approval of liability is maintained for extra costs.
+
+TECHINICAL 
+EXPERIENCE
+
+ Extensive knowledge in Sap S4 HANA,
+ MS Word, MS Excel, PowerPoint.
+ Computer related operations.
+ Operating Systems: Win 7, Win 8.1 & Win10.
+ Type writing in English
+
+ACADEMIC
+ DETAILS
+
+ 10TH with 62 % - Maharishi Vidya Mandhir Higher Secondary School Gummidipundi2010 to2011.
+ 12TH with 68% - ST.Marys Matric Higher Secondary School Gummidipundi, 2012 to2013.
+ B. Com with 74% - A.M.Jain Arts and science College, Meenambakkam 2013 to2016.
+
+PERSONAL DETAILS
+
+Date of Birth : 25th April1996
+Father's Name : G.Srinivasan
+Mother's Name : S.Dhanalakshmi
+Gender : Male
+Mother Tongue : Telugu
+MaritalStatus : Un-Married
+
+Languages
+ Knows : Tamizh, Telugu &
+English
+
+DECLARATION
+
+I hereby declare that the above mentioned information is true to the best of my
+knowledge and belief. I further undertake that the rule and regulation of the organization will be obeyed
+by me, and I shall obey by all decision of the management.
+
+Date :
+Your's Truthful,
+Place : Chennai
 Gokula Krishnan

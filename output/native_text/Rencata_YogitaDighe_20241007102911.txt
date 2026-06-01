@@ -1,227 +1,149 @@
-Yogita Dighe 
-Automation Test Engineer 
- 
-Mail ID:  yogita.testing32@gmail.com 
- 
- 
-                                            Phone:  217 350 7788 
- 
-PROFESSIONAL SUMMARY 
- 
-• 
-A dynamic professional with 8 Years of experience in Software Industry. 
-• 
-5.2 years’ of Experience in Automation testing of software applications and products by 
-applying complete Software Development Life Cycle (SDLC) and testing Methodologies. 
-• 
-Worked extensively in Automation testing using Selenium with JAVA and UFT-VB Script 
-• 
-Experience includes performance for key roles in Software Testing, Offshore and Onsite Co-
-ordination, Defect Management, Test Design, Test Case Writing and Execution. 
-• 
-Worked extensively on ALM-UFT integrated BPT approach, Hybrid framework and Keyword 
-driven Framework. 
-• 
-Proficient in using Object repository in UFT. 
-• 
-Worked on BDD framework and TestNG framework for Selenium 
-• 
-Expertise in the automation of GUI based and desktop and web-based application 
-• 
-Proficient in preparing test scripts, writing SQL Queries and executing those in SQL 
-• 
-Involved in various phases of Testing, Requirement analysis, Design, Execution and Defect 
-reporting & Tracking using HP ALM. 
- 
-TECHNICAL SKILLS 
- 
- 
- 
- 
-Employer:  Humana, USA                    
- 
- 
- 
-                     Designation: Automation Testing QA 
-    
-Client: Humana 
-                              
-                                                  Work Period: Sept 2020 –Till date 
-Project Description: 
-• 
-Humana is a for-profit American health insurance company. It has been the third largest 
-health insurance in the nation 
- 
-Responsibilities: 
-• 
-Leading and monitoring a team. 
-• 
-Automation of test cases using Selenium with Java for PAHub application 
-• 
-Maintaining BDD Framework for Selenium 
-• 
-Strongly managed all the software development and testing life cycles. 
-• 
-Executing regression test cases 
-• 
-Defect Management using QTest 
-Technologies 
-Automation Testing with Selenium-Java and UFT, Functional 
-Testing  
-Framework 
-TestNG, BDD Framework in Selenium, BPT, Keword Driven and 
-Hybrid framework in UFT 
-Tools 
- Selenium-Java, UFT,  Jenkins, GitHub, HP-ALM, QTest 
-Programming Languages 
-VB Scripting, C Language, Core Java 
-Operating Systems 
-Microsoft Windows 
-Database 
-SQL Server 
-Methodologies 
-Agile, Waterfall 
-• 
-Strongly managed all the functional, Integration, Automation, smoke testing and 
-Regression testing on maintenance and development projects. 
-• 
-Attending Client calls/Meetings on daily basis to have better understanding on 
-requirements. 
-• 
-Coordinating offshore team and delivering the quality product to customer. 
-• 
-Metrics collections, Defect report generation, daily status update to client are primary 
-roles. 
-• 
-Assisting new team members in grasping the domain knowledge of the project 
- 
- 
-Environment: Automation Testing, Selenium, Jenkins, GitHub, QTest,Agile Model 
- 
-Employer:  FedEx, USA                                     
- 
- 
- 
-     Designation: Automation Testing QA 
-    
-Client: FedEx 
- 
- 
-                              
- 
-                         Period: Jan 2019 to Aug 2020 
-Project Description: 
-• 
-FedEx is an American multinational conglomerate holding company which focuses on 
-transportation, e-commerce, and business services 
- 
-Responsibilities: 
- 
-• 
-Leading and mentoring a team. 
-• 
-Automation of test cases using Selenium and UFT tool. 
-• 
-Maintaining Data Driven Framework for UFT and BDD framework for Selenium. 
-• 
-Strongly managed all the software development and testing life cycles. 
-• 
-Executing regression test scripts using Jenkins. 
-• 
-Defect Management using ALM 
-• 
-Identification and preparation of test data/scenario for test execution. 
-• 
-Attending Client calls/Meetings on daily basis to have better understanding on 
-requirements. 
- 
- 
-Environment: Automation Testing, Selenium, UFT 14.00, Jenkins, GitHub, QTest, Agile Model 
- 
- 
-Employer:  Accenture in India                                    
- 
- 
-   Designation: Automation Testing QA 
-    
-Client: Prudential 
- 
-                                                                                Period:  Sep 2016 Oct 2018 
-Project Description: 
-• 
-Prudential is one of the top US life insurers and one of the largest life insurance companies 
-worldwide. The firm is perhaps best known for its individual life insurance, though it also 
-sells group life and disability insurance, as well as annuities 
- 
- 
-Responsibilities: 
-• 
-Requirement analysis and Test case creation. 
-• 
-Execution of regression test cases using Quality Center tool 
-• 
-Execution of automated scripts using UFT 11.53 
-• 
-Maintaining Business Process Test and Hybrid framework 
-• 
-Strongly managed all the software development and testing life cycles. 
-• 
-Defect Management using QC-Application Life Cycle Management Tool 
-• 
-Strongly managed all the functional, Integration, Automation, smoke testing and 
-Regression testing on maintenance and development projects. 
-• 
-Defect retest and re-execute the impacted scenarios after fix. 
- 
-Environment: Functional Testing, Automation Testing, UFT 11.53, Quality Center, VBScript, Waterfall 
-model 
- 
-Environment: Automation Testing, UFT 14.00, VBScript, Selenium, ALM, Jenkins, GitHub, Agile Model 
- 
-Employer:    TCS in India                               
- 
- 
- 
- Designation: Functional Testing QA 
-    
-Client: Ontario Teachers' Pension Plan 
- 
- 
-                 Period: April 2014 to August 2016 
-Project Description: 
-• 
-The Ontario Teachers' Pension Plan is Canada's largest single-profession pension plan. They 
-pay defined benefit pensions and invest plan assets on behalf of retired and working 
-teachers. 
- 
- 
-Responsibilities: 
-• 
-Automation of test cases using UFT 11.53 
-• 
-Maintaining Business Process Test and Hybrid framework 
-• 
-Strongly managed all the software development and testing life cycles. 
-• 
-Executing regression test cases using Quality Center tool 
-• 
-Defect Management using QC-Application Life Cycle Management Tool 
-• 
-Strongly managed all the functional, Integration, Automation, smoke testing and 
-Regression testing on maintenance and development projects. 
-• 
-Identification and preparation of test data/scenario for test execution. 
- 
- 
-Environment: Automation Testing, UFT 11.53, Quality Center, VBScript, Agile Model 
- 
- 
-Certifications:  
-• 
-Testing Certification from Mind Scripts Technologies, Pune. 
-• 
-UFT Training 
-• 
-Selenium Training 
-• 
+Yogita Dighe
+Automation Test Engineer
+
+Mail ID: yogita.testing32@gmail.com
+
+Phone: 217 350 7788
+
+PROFESSIONAL 
+SUMMARY
+
+*
+A dynamic professional with 8 Years of 
+experience
+ in Software Industry.
+5.2 years' of 
+Experience
+ in Automation testing of software applications and products by
+applying complete Software Development Life Cycle (SDLC) and testing Methodologies.
+Worked extensively in Automation testing using Selenium with JAVA and UFT-VB Script
+
+Experience
+ includes performance for key roles in Software Testing, Offshore and Onsite Co-
+ordination, Defect Management, Test Design, Test Case Writing and Execution.
+Worked extensively on ALM-UFT integrated BPT approach, Hybrid framework and Keyword
+driven Framework.
+Proficient in using Object repository in UFT.
+Worked on BDD framework and TestNG framework for Selenium
+Expertise in the automation of GUI based and desktop and web-based application
+Proficient in preparing test scripts, writing SQL Queries and executing those in SQL
+Involved in various phases of Testing, Requirement analysis, Design, Execution and Defect
+reporting & Tracking using HP ALM.
+
+TECHNICAL 
+SKILLS
+
+Employer: Humana, USA
+
+Designation: Automation Testing QA
+
+Client: Humana
+
+Work Period: Sept 2020 -Till date
+Project Description:
+Humana is a for-profit American health insurance company. It has been the third largest
+health insurance in the nation
+
+Responsibilities:
+Leading and monitoring a team.
+Automation of test cases using Selenium with Java for PAHub application
+Maintaining BDD Framework for Selenium
+Strongly managed all the software development and testing life cycles.
+Executing regression test cases
+Defect Management using QTest
+Technologies
+Automation Testing with Selenium-Java and UFT, Functional
+Testing
+Framework
+TestNG, BDD Framework in Selenium, BPT, Keword Driven and
+Hybrid framework in UFT
+Tools
+Selenium-Java, UFT, Jenkins, GitHub, HP-ALM, QTest
+Programming 
+Languages
+
+VB Scripting, C Language, Core Java
+Operating Systems
+Microsoft Windows
+Database
+SQL Server
+Methodologies
+Agile, Waterfall
+
+Strongly managed all the functional, Integration, Automation, smoke testing and
+Regression testing on maintenance and development 
+projects
+.
+Attending Client calls/Meetings on daily basis to have better understanding on
+requirements.
+Coordinating offshore team and delivering the quality product to customer.
+Metrics collections, Defect report generation, daily status update to client are primary
+roles.
+Assisting new team members in grasping the domain knowledge of the project
+
+Environment: Automation Testing, Selenium, Jenkins, GitHub, QTest,Agile Model
+
+Employer: FedEx, USA
+
+Client: FedEx
+
+Period: Jan 2019 to Aug 2020
+FedEx is an American multinational conglomerate holding company which focuses on
+transportation, e-commerce, and business services
+
+Leading and mentoring a team.
+Automation of test cases using Selenium and UFT tool.
+Maintaining Data Driven Framework for UFT and BDD framework for Selenium.
+Executing regression test scripts using Jenkins.
+Defect Management using ALM
+Identification and preparation of test data/scenario for test execution.
+
+Environment: Automation Testing, Selenium, UFT 14.00, Jenkins, GitHub, QTest, Agile Model
+
+Employer: Accenture in India
+
+Client: Prudential
+
+Period: Sep 2016 Oct 2018
+Prudential is one of the top US life insurers and one of the largest life insurance companies
+worldwide. The firm is perhaps best known for its individual life insurance, though it also
+sells group life and disability insurance, as well as annuities
+
+Requirement analysis and Test case creation.
+Execution of regression test cases using Quality Center tool
+Execution of automated scripts using UFT 11.53
+Maintaining Business Process Test and Hybrid framework
+Defect Management using QC-Application Life Cycle Management Tool
+Defect retest and re-execute the impacted scenarios after fix.
+
+Environment: Functional Testing, Automation Testing, UFT 11.53, Quality Center, VBScript, Waterfall
+model
+
+Environment: Automation Testing, UFT 14.00, VBScript, Selenium, ALM, Jenkins, GitHub, Agile Model
+
+Employer: TCS in India
+
+Designation: Functional Testing QA
+
+Client: Ontario Teachers' Pension Plan
+
+Period: April 2014 to August 2016
+The Ontario Teachers' Pension Plan is Canada's largest single-profession pension plan. They
+pay defined benefit pensions and invest plan assets on behalf of retired and working
+teachers.
+
+Automation of test cases using UFT 11.53
+Executing regression test cases using Quality Center tool
+
+Environment: Automation Testing, UFT 11.53, Quality Center, VBScript, Agile Model
+
+Certifications
+:
+Testing Certification from Mind Scripts Technologies, Pune.
+UFT 
+Training
+
+Selenium 
+Training
+
 SQL Server 2008

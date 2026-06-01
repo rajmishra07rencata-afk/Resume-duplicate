@@ -1,106 +1,93 @@
 BOOPATHI SELVAM
-
 .Net C# | MVC | Kendo Telerik MVC & Jquery | SQL Server| WCF | WebAPI | JQuery | Angular
+To Acquire my knowledge, 
+experience
+, attitudes and capacities within a company, in order to grow as a better person in financially as well as professionally
+boopathiit016@gmail.com | +91 9750967996
 
-To Acquire my knowledge, experience, attitudes and capacities within a company, in order to grow as a better person in financially as well as professionally
+Profile
+ 
+Summary
 
-
-
-Profile Summary
-
-Over 5+ years of experience in Microsoft Technologies like C#, .Net 5.0, MVC 4 & 5, ADO.NET, Kendo telerik MVC & Jquery ,SQL Server-2008 R2 & 2012 and Web Service Like WCF
-
+Over 5+ years of 
+experience
+ in Microsoft Technologies like C#, .Net 5.0, MVC 4 & 5, ADO.NET, Kendo telerik MVC & Jquery ,SQL Server-2008 R2 & 2012 and Web Service Like WCF
 and Web API C#.
-
-In Good Experience in developing the single page Application using AngularJS.
-
+In Good 
+Experience
+ in developing the single page Application using AngularJS.
 Strong foundation in JQuery along with Angular 6.1 and Cordova Mobile platforms.
 
-Experience of working in the complete Software development life cycle involving development, documentation and testing.
+Experience
+ of working in the complete Software development life cycle involving development, documentation and testing.
 
 Skills
 
-
-
- Professional Work Experience
-
+Programming Language | : | C, C# .
+Web Technologies | : | HTML/HTML5, CSS, JavaScript, JQuery, JSON, Apache.
+IDE & Tools | : | Visual Studio, Visual Code and Notepad++
+Database Tools | : | MS SQL Server 2016, MySQL.
+Version Control | : | SVN & Githup.
+JavaScript Libraries | : | JQuery, Angular JS, Bootstrap, Angular CLI.
+Deployment | : | IIS Server and Amazon EC2.
+Key Responsibilities
+C# MVC
+&Kendo | SQL &
+Jquery | WCF &
+MYSQL
+WebAPI | Reports | Angular
+CLI | Cordova
+Professional Work 
+Experience
 
 From Dec 9th 2015 to Till Date Working with Winsar InfoSoft Pvt. Ltd at Chennai as Software Developer.
-
 Winsar infosoft provides Comprehensive software solutions for the hospitality industry covering Various aspects of operations.
-
-
 Project Technology Role
-
-
-: “WINHMS - GL (General Ledger), SM (Sales&Marketing).
-
+: "WINHMS - GL (General Ledger), SM (Sales&Marketing).
 : Asp.Net 4.0,MVC 4.0,C#, WCF (XML&JSON) , WebAPI, Ajax, Jquery,
 Angular 6, Kendo Telerik UI Design, SQL Server-2010 R2.
-
 : Developer & Integration.
-
-
 Description:
-WIHMS – General Ledger is works as a central respository for accounting data transferred from all sub ledgers or modules like accounts payable, accounts receivable, cash management, fixed assets, purchasing and projects.
-
+WIHMS - General Ledger is works as a central respository for accounting data transferred from all sub ledgers or modules like accounts payable, accounts receivable, cash management, fixed assets, purchasing and 
+projects
+.
 WINHMS - Sales&Marketing is allows activities which begin from contacting customers which are referred to as pre sales activities to be recorded. It also allows tracking of each customer orders right from placing an order to dispatch to material for that particular order and customer.
-
 My Responsibilities:
-
-	From jun’1st 2014 to Oct’30 2015 Working with Purple Business Services at Salem as Software Engineer.
-
-
-
+- | Involved in Kendo Telerik UI Frond End and Design, Coding, Design and Test Phases.
+- | Used Jquery extensively for performing client side validations.
+- | Introduced WebAPI using JSON for fast Request & Response in All Transaction Pages.
+From jun'1st 2014 to Oct'30 2015 Working with Purple Business Services at Salem as Software Engineer.
 Project
-
-
 : Global School Management System (GSMS)
-
-
 Technology
-
 : Asp.Net 4.0,MVC 2.0,C#, SQL Server-2008 R2
-
-
 Reporting Tools
-
 : RDLC Reports
-
-
 Role
-
 : Developer.
-
-
-
-
-Description:
-Global School Management System is a web application used to maintain Student, Staff information’s and generating
-
+Global School Management System is a web application used to maintain Student, Staff information's and generating
 Fees, Bills and Hostel Bills for students in School. To reduce time consumption for School Billing, Staff Salary Assign,
 Daily Incomes and Expenses for a School.
-My Responsibilities:
-
+- | Involved in UI Frond End Design, Coding, Design and Test Phases
+- | Used Java-Script extensively for performing client side validations
+- | Involved in writing Queries.
 
 Education
 
 .
-
 2014 B.Tech(IT) - Bachelor of Technology (Information Technology) from Mahendra Engineering College at Namakkal, Anna University. CGPA - 6.84.
-
 2010 12th Standard - Maths Biology from Govt Boys Hr sec School at Salem, Jalakandapuram ,State Board. 65%.
+2008 10th Standard - from Govt Boys Hr sec School at Salem, Jalakandapuram ,State Board. 75%.
+Personal Details
+Father's Name | : Mr. A. Selvam.
+Gender | : Male.
+Date of Birth | : 23 April 1993.
+Nationality | : Indian.
 
-2008   10th Standard - from  Govt Boys Hr sec School at Salem, Jalakandapuram ,State Board. 75%.
+Languages
+ known | : English & Tamil.
 
-
-
-
-
-
-
-
-
-
-
-Date	:	Boopathi Selvam
+Hobbies
+ | : Playing Games, Listening Music.
+Marital Status | : Single.
+Date:Boopathi Selvam

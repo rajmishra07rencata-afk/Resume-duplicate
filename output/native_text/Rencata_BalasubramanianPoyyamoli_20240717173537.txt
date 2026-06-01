@@ -1,127 +1,104 @@
-Balasubramanian Poyyamoli 
- Front-End Angular Developer 
- 
-120, Big Street,                                               Mail Id: bala.poyyamoli94@gmail.com 
-Triplicane, Chennai-05,                                  Mobile: +91 - 7845745158         
-Tamil Nādu, India.                                                       +91 - 8124040090. 
- 
-                                                 
-           
-                                                       
-Professional Summary 
- 
-❖ IT professional with 5+ years of experience in Front End development. 
-❖ Proficient and specialized in working on Angular, JavaScript, Typescript, HTML, 
-CSS and FTL. 
-❖ Experienced Agile/Scrum development 
-❖ Experienced on-promise and SaaS platform products 
-❖ Exposure in end-to-end development of web applications. 
- 
- 
-Technical Skills 
- 
- 
- 
-Front End Technologies 
-Typescript, 
-JavaScript, 
-HTML5, 
-CSS, 
-Bootstrap, Rxjs, Node.js, Key cloak 
- 
-Frameworks 
-Angular 6,8,12 
- 
-Version Control 
-Git 
- 
-Software Tools 
-Docker, Postman, Swagger, IntelliJ IDEA, 
-Visual studio code. 
- 
-Database 
-SQL Server 2014 
- 
- 
- 
- 
-Professional Experience 
- 
-Company name: Temenos (April 2021 to Present) 
- 
-Project Summary 
- 
-1. Project name:  SAAS-Portal. 
-                Client: Temenos. 
-Technical Platform:  Angular 12, HTML, CSS, SQL Server 2014, Node.js, Docker  
-Description: 
- 
-❖ SAAS-Portal acts as a gateway to access various banking services of Temenos with 
-ease and it’s used to monitor the services availed, billing and availed services security with 
-JIRA integration for auto and manual ticket mechanism for issues.  
- 
- 
-Contribution and Roles: 
-• 
-As a software engineer, contributed to front end development.  
-• 
-Collaborate with other teammates to design and implement features. 
- 
- 
-      
- Company name:   Hexaware Technologies (October 2018 to April 2021). 
- 
-Project Summary 
- 
-1. Project name:  ProContact. 
-                Client: Prometric. 
-Technical Platform: Angular, HTML, CSS, Bootstrap, SQL Server 2014,  
-Description: 
- 
-❖ Application allows the user to view the slots available for Exam on the specific date 
-and allows the user to book slot for exam with details.  
- 
-2. Project name:  HEET 
-          Technical Platform:  Angular 8, Nodejs, HTML5, CSS and Bootstrap. 
-Description: 
- 
-❖ An Internal web application for Hexaware employees to book the bus and cab based 
-on current location of the employee, apply for leaves, can view their yearly 
-performance, can apply for jobs to move to new projects 
- 
- 
-Contribution and Roles: 
- 
-• 
-Contributed to frontend development  
-• 
-Collaborate with other programmers to design and implement features. 
- 
- 
-    Company name : Emsang Technologies (June 2017 to September 2018). 
- 
-Project Summary 
- 
-1. Project name:  Touch/Offline 
-Client: Lixil American Standard (North America and Europe). 
-Technical Platform: Angular 6, HTML5, CSS and Bootstrap, SQL Server 2008, 
-Visual Studio 2010, SQL Server 2014.                          
-Description: 
- 
-❖ It is designed to enable data collection at every process points in a plant. It records 
-the number of good pieces, defective pieces, records the defect name and the 
-defective position and the machines used. 
- 
-Contribution and Roles: 
-• 
-Contributed to the development of Applications. 
-• 
-Produced organized, optimized, and documented source code. 
- 
-Declaration 
- 
- 
-I hereby declare that the information mentioned above is true to the best of my 
-knowledge. 
- 
- Chennai, India.                                                                                                           Balasubramanian Poyyamoli.
+Balasubramanian Poyyamoli
+Front-End Angular Developer
+
+120, Big Street, Mail Id: bala.poyyamoli94@gmail.com
+Triplicane, Chennai-05, Mobile: +91 - 7845745158
+Tamil Nādu, India. +91 - 8124040090.
+
+Professional 
+Summary
+
+❖ IT professional with 5+ years of 
+experience
+ in Front End development.
+❖ Proficient and specialized in working on Angular, JavaScript, Typescript, HTML,
+CSS and FTL.
+❖ Experienced Agile/Scrum development
+❖ Experienced on-promise and SaaS platform products
+❖ Exposure in end-to-end development of web applications.
+
+Technical 
+Skills
+
+Front End Technologies
+Typescript,
+JavaScript,
+HTML5,
+CSS,
+Bootstrap, Rxjs, Node.js, Key cloak
+
+Frameworks
+Angular 6,8,12
+
+Version Control
+Git
+
+Software Tools
+Docker, Postman, Swagger, IntelliJ IDEA,
+Visual studio code.
+
+Database
+SQL Server 2014
+
+Professional 
+Experience
+
+Company name: Temenos (April 2021 to Present)
+
+Project 
+Summary
+
+1. Project name: SAAS-Portal.
+Client: Temenos.
+Technical Platform: Angular 12, HTML, CSS, SQL Server 2014, Node.js, Docker
+Description:
+
+❖ SAAS-Portal acts as a gateway to access various banking services of Temenos with
+ease and it's used to monitor the services availed, billing and availed services security with
+JIRA integration for auto and manual ticket mechanism for issues.
+
+Contribution and Roles:
+*
+As a software engineer, contributed to front end development.
+Collaborate with other teammates to design and implement features.
+
+Company name: Hexaware Technologies (October 2018 to April 2021).
+
+1. Project name: ProContact.
+Client: Prometric.
+Technical Platform: Angular, HTML, CSS, Bootstrap, SQL Server 2014,
+
+❖ Application allows the user to view the slots available for Exam on the specific date
+and allows the user to book slot for exam with details.
+
+2. Project name: HEET
+Technical Platform: Angular 8, Nodejs, HTML5, CSS and Bootstrap.
+
+❖ An Internal web application for Hexaware employees to book the bus and cab based
+on current location of the employee, apply for leaves, can view their yearly
+performance, can apply for jobs to move to new 
+projects
+
+Contributed to frontend development
+Collaborate with other programmers to design and implement features.
+
+Company name : Emsang Technologies (June 2017 to September 2018).
+
+1. Project name: Touch/Offline
+Client: Lixil American Standard (North America and Europe).
+Technical Platform: Angular 6, HTML5, CSS and Bootstrap, SQL Server 2008,
+Visual Studio 2010, SQL Server 2014.
+
+❖ It is designed to enable data collection at every process points in a plant. It records
+the number of good pieces, defective pieces, records the defect name and the
+defective position and the machines used.
+
+Contributed to the development of Applications.
+Produced organized, optimized, and documented source code.
+
+Declaration
+
+I hereby declare that the information mentioned above is true to the best of my
+knowledge.
+
+Chennai, India. Balasubramanian Poyyamoli.

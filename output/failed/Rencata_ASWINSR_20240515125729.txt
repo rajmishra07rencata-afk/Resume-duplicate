@@ -1,0 +1,15 @@
+
+STATUS:
+failed
+
+FAILED STAGE:
+ocr_error
+
+FAILURE REASON:
+OCR error: (-2147352567, 'Exception occurred.', (0, 'Microsoft Word', 'The file appears to be corrupted.', 'wdmain11.chm', 25272, -2146822496), None)
+
+====================================
+
+PARTIAL TEXT:
+
+

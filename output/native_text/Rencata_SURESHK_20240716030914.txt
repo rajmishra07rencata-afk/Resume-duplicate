@@ -1,147 +1,137 @@
-SURESH K 
-IT MANAGER 
-Bangalore, India  
-+91 9663166266  
-sureshcanbe@gmail.com  
-LinkedIn Profile  
+SURESH K
+IT MANAGER
+Bangalore, India
++91 9663166266
+sureshcanbe@gmail.com
+LinkedIn 
+Profile
+
+OBJECTIVE
+
+Seeking for a challenging leadership position in IT Infrastructure & network operations where
+I can utilize my technical expertise, management & tactical 
+skills
+ for the growth of organization
+and to further 
+experience
+, enhance my technical & leadership 
+skills
+.
+
+PROFILE
  
- 
-OBJECTIVE 
-Seeking for a challenging leadership position in IT Infrastructure & network operations where 
-I can utilize my technical expertise, management & tactical skills for the growth of organization 
-and to further experience, enhance my technical & leadership skills. 
- 
-PROFILE SUMMARY 
-IT Manager with 11 years of experience focusing on IT Infrastructure operations, DevOps, 
-network builds, projects, programs, people and stakeholder management. Identify, develop 
-and implement new initiatives that increase productivity and profitability for the organization. 
-Ensuring the best customer experience, service delivery, resource planning and development 
-of peoples. Design & support with complete solutions to meet customer needs efficiently with 
-optimized cost. 
- 
-REWARDS & RECOGNITIONS 
-AMAZON 
- 
-The Ace Alliance Award – Q1 2022 
- 
-Milestone Avenger Award - Q3 2021 
- 
-Operations Excellence Award - Q1 2020 
- 
-Spot Award - Q3 2019 
-HCL 
- 
-Best Energetic Engineer Award - 2013 
- 
-Best Energetic Engineer Award - 2014 
- 
-SKILLS 
- 
-IT Infrastructure & Service Management 
- 
-AWS Services Management 
- 
-AWS Data Center Operations 
- 
-Strategy & Vision Planning 
- 
-Hire, Coach & People Development 
- 
-Leadership & Team Building 
- 
-Projects & Lifecycle Management 
- 
-Incident & Change Management 
- 
-Stakeholder Management 
- 
-BCP & Risk Management 
- 
-Budget Administration 
- 
-Decision Making 
- 
-EDUCATION 
-Bachelors Degree - Computer Applications | Madras University 
-Diploma - Computer Engineering | Srinivasa Subbaraya Polytechnic College 
- 
-Courses & Certifications: 
-ITIL 4 Foundation Certified - 2022 
-AWS Technical Essentials - 2022 
-CCNA Course Completed at Besant Technologies, Chennai - 2018 
- 
-2 
- PROFESSIONAL EXPERIENCE 
-IT MANAGER | Amazon India, Bangalore 
-JUN 2016 - PRESENT 
-● 
-Managing the team of 22 Support Engineers across South region and ensuring the support 
-excellence to the Fulfillment Centers, Delivery Stations, Sort Center & Ultra Fresh Center 
-IT infrastructure operations. 
-● 
-Achieved the annual cost savings of $1.8 million for organization by incorporating the new 
-service in replacement of existing service by exploring the AWS services. 
-● 
-Driven the virtual support initiative for Amazon India Field IT and supported for 30% of 
-customer-initiated tickets without involving the onsite support. Apart, achieved the ticket 
-goals of SLA 98%, Quality 100% & CSAT 99% through this support model. 
-● 
-Led the network project for South region and migrated the existing infrastructure (BEN 
-stack) to new infrastructure (GB stack) for 42 delivery centers within 3 months by 
-collaborating with multiple stakeholders (LVC, network delivery, Build leads and facilities) 
-and business operations. 
-● 
-Driven the operational excellence program for improving the CSAT response rate and 
-achieved 20% response rate (from 14%) by creating the awareness, campaigns across 
-customers with the support of field team. 
-● 
-As part of people performance & development, have mentored four senior engineers to 
-support transforming them into managerial role. Promoted three engineers from L3 to L4 
-and led the development plan for eight engineers to support their career growth. 
-● 
-Completed the training of “Making Great Hiring Decisions”. Participated in 80+ hiring 
-events & interviews and hired 24 candidates for Amazon. 
-● 
-Act as a Bar Raiser (reviewer) for planned/emergent changes which impact infrastructure 
-services, and ensuring the risks, rollbacks, authorization, SOPs are assessed properly as to 
-avoid the impact for customers. 
-● 
-Acts as an escalation point for the team for incidents, problems, changes and IT service 
-continuity. 
-● 
-Managing IT strategy, roadmaps, service level management, engineering excellence, 
-processes, standards, governance, enabling technology, projects and program delivery. 
-● 
-Leading and building the teams, creating a positive work environment by developing new 
-opportunities, successful delivery of engagements, monitoring of organizational health 
-and driving of thought leadership. 
- 
-TECHNICAL SUPPORT ENGINEER | Getronics Solutions Pvt Ltd, Bangalore 
-JUN 2015 - MAY 2016 
-● 
-Leading the Levi Strauss (Client) and provided Remote IT & Network Support across India, 
-Bangladesh & Srilanka. 
-● 
-Windows 7 rolled out on 250+ machines within 2 months. 
-● 
-New Corp office built and Warehouse had shifted without any production impact. 
- 
-CUSTOMER SUPPORT ENGINEER | HCL Services India Pvt Ltd, Bangalore 
-JUL 2011 - MAY 2015 
-● 
-Installing and configuring the Windows & MAC Operating System. 
-● 
-Managing user permissions in Active Directory (Password Reset, Unlock, Add Host). 
-● 
-OS & Patch deployment via SCCM 2012 Configuration Manager. 
-● 
-Firmware/iOS upgradation on network devices and making VLAN changes in switches. 
-● 
-Troubleshooting and auditing the Wireless Access Points (Cisco & Mist AP’s). 
-● 
-Network installation, Operations and troubleshooting of Cisco Switches & Routers. 
-● 
-Configuring and providing access for network printer and shared drives. 
-● 
-Monitoring and troubleshooting the MPLS, ILL links. Coordination with IT vendors, ISP & 
+SUMMARY
+
+IT Manager with 11 years of 
+experience
+ focusing on IT Infrastructure operations, DevOps,
+network builds, 
+projects
+, programs, people and stakeholder management. Identify, develop
+and implement new initiatives that increase productivity and profitability for the organization.
+Ensuring the best customer 
+experience
+, service delivery, resource planning and development
+of peoples. Design & support with complete solutions to meet customer needs efficiently with
+optimized cost.
+
+REWARDS & RECOGNITIONS
+AMAZON
+
+The Ace Alliance Award - Q1 2022
+Milestone Avenger Award - Q3 2021
+Operations Excellence Award - Q1 2020
+Spot Award - Q3 2019
+HCL
+Best Energetic Engineer Award - 2013
+Best Energetic Engineer Award - 2014
+
+SKILLS
+
+IT Infrastructure & Service Management
+AWS Services Management
+AWS Data Center Operations
+Strategy & Vision Planning
+Hire, Coach & People Development
+Leadership & Team Building
+
+Projects
+ & Lifecycle Management
+Incident & Change Management
+Stakeholder Management
+BCP & Risk Management
+Budget Administration
+Decision Making
+
+EDUCATION
+
+Bachelors Degree - Computer Applications | Madras University
+Diploma - Computer Engineering | Srinivasa Subbaraya Polytechnic College
+
+Courses & 
+Certifications
+:
+ITIL 4 Foundation Certified - 2022
+AWS Technical Essentials - 2022
+CCNA Course Completed at Besant Technologies, Chennai - 2018
+
+2
+PROFESSIONAL 
+EXPERIENCE
+
+IT MANAGER | Amazon India, Bangalore
+JUN 2016 - PRESENT
+●
+Managing the team of 22 Support Engineers across South region and ensuring the support
+excellence to the Fulfillment Centers, Delivery Stations, Sort Center & Ultra Fresh Center
+IT infrastructure operations.
+Achieved the annual cost savings of $1.8 million for organization by incorporating the new
+service in replacement of existing service by exploring the AWS services.
+Driven the virtual support initiative for Amazon India Field IT and supported for 30% of
+customer-initiated tickets without involving the onsite support. Apart, achieved the ticket
+goals of SLA 98%, Quality 100% & CSAT 99% through this support model.
+Led the network project for South region and migrated the existing infrastructure (BEN
+stack) to new infrastructure (GB stack) for 42 delivery centers within 3 months by
+collaborating with multiple stakeholders (LVC, network delivery, Build leads and facilities)
+and business operations.
+Driven the operational excellence program for improving the CSAT response rate and
+achieved 20% response rate (from 14%) by creating the awareness, campaigns across
+customers with the support of field team.
+As part of people performance & development, have mentored four senior engineers to
+support transforming them into managerial role. Promoted three engineers from L3 to L4
+and led the development plan for eight engineers to support their career growth.
+Completed the 
+training
+ of "Making Great Hiring Decisions". Participated in 80+ hiring
+events & interviews and hired 24 candidates for Amazon.
+Act as a Bar Raiser (reviewer) for planned/emergent changes which impact infrastructure
+services, and ensuring the risks, rollbacks, authorization, SOPs are assessed properly as to
+avoid the impact for customers.
+Acts as an escalation point for the team for incidents, problems, changes and IT service
+continuity.
+Managing IT strategy, roadmaps, service level management, engineering excellence,
+processes, standards, governance, enabling technology, 
+projects
+ and program delivery.
+Leading and building the teams, creating a positive work environment by developing new
+opportunities, successful delivery of engagements, monitoring of organizational health
+and driving of thought leadership.
+
+TECHNICAL SUPPORT ENGINEER | Getronics Solutions Pvt Ltd, Bangalore
+JUN 2015 - MAY 2016
+Leading the Levi Strauss (Client) and provided Remote IT & Network Support across India,
+Bangladesh & Srilanka.
+Windows 7 rolled out on 250+ machines within 2 months.
+New Corp office built and Warehouse had shifted without any production impact.
+
+CUSTOMER SUPPORT ENGINEER | HCL Services India Pvt Ltd, Bangalore
+JUL 2011 - MAY 2015
+Installing and configuring the Windows & MAC Operating System.
+Managing user permissions in Active Directory (Password Reset, Unlock, Add Host).
+OS & Patch deployment via SCCM 2012 Configuration Manager.
+Firmware/iOS upgradation on network devices and making VLAN changes in switches.
+Troubleshooting and auditing the Wireless Access Points (Cisco & Mist AP's).
+Network installation, Operations and troubleshooting of Cisco Switches & Routers.
+Configuring and providing access for network printer and shared drives.
+Monitoring and troubleshooting the MPLS, ILL links. Coordination with IT vendors, ISP &
 PRI for service escalations & restoration supports.

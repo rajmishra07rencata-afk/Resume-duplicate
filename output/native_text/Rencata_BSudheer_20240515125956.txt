@@ -1,21 +1,24 @@
+Page 3 of 3
 B.Sudheer
-Email: sudheer.bathuru@gmail.com	
+Email: sudheer.bathuru@gmail.com
 Mobile: +91- 9566134897
 
-Objective:	
+Objective
+:
 To seek a challenging position that enables me to add values to the organization and excel in all professional opportunities offered to me in the fields of software.
 
-Summary:
-
-4.2Yearsof experience in Microsoft .Net technologies. Beginner in AGILE Methodology.
-
-Having excellent knowledge and experience in MVC,ASP.NET,C#, WCF, WPF, Web API, Microsoft SQL Server, JavaScript, JQuery, Telerik, Html, Ajax, Swagger.
-
-Having good knowledge and experience in Visual Studio Online, Nuget Packages, Code Analysis, Code Metrics, Code Coverage, Code Clone, Style Cop, Unit Test, TFS, SonarLint.
-
-
+Summary
+:
+4.2Yearsof 
+experience
+ in Microsoft .Net technologies. Beginner in AGILE Methodology.
+Having excellent knowledge and 
+experience
+ in MVC,ASP.NET,C#, WCF, WPF, Web API, Microsoft SQL Server, JavaScript, JQuery, Telerik, Html, Ajax, Swagger.
+Having good knowledge and 
+experience
+ in Visual Studio Online, Nuget Packages, Code Analysis, Code Metrics, Code Coverage, Code Clone, Style Cop, Unit Test, TFS, SonarLint.
 Roles & Responsibilities:
-
 Working as a Scrum Team Member to develop the applications.
 Developing Web API and WCF Service for Intermodal & Import modules in ONEVISION application.
 Created Model Diagrams for our ONEVISION-IMPORT application.
@@ -24,80 +27,59 @@ Improved application performance in Programming level.
 Created Build & Release in Visual Studio Online.
 Preparing DTS for Software Requirements.
 Developing Unit Test for WCF and Web API services.
-
-
-Professional Experience:
-
-Currently working as, a Developer in MSC Technology India Pvt Ltd from Dec’15 to till date.
-
-Worked as a Software Engineer in GYG IT Solutions Pvt Ltd  from Oct’13 to Dec’15.
-
-
-
+Professional 
+Experience
+:
+Currently working as, a Developer in MSC Technology India Pvt Ltd from Dec'15 to till date.
+Worked as a Software Engineer in GYG IT Solutions Pvt Ltd from Oct'13 to Dec'15.
 Educational Qualification:
-
-B.Tech , Mekapati Rajamohan Reddy Institue of technology and sciences, Udayagiri
-2009-2013 (First Class with Distinction).
-H.S.C,Viswam junior College, Naidupet, SPSR Nellore
-2007-2009 (First Class).
-S.S.C, Z P P High School, BalireddyPalem
-2006-2007 (First Class).
-
-Project Experience: 
-
-1. OneVision – Container Rental
-Role		: User story estimation, Task split up, VSO Build & Release, Code Reviews
-Environment	: WPF, MVVM, C#, Web Api, Telerik
-Duration	: Ongoing	
-
-Description	: The purpose of the Container Rental project is to provide efficient means of entering and maintaining container rental data. Container Rental is the charge invoiced by MSC to their customers for keeping our equipment (containers, chassis, generator sets) longer than agreed. This is called demurrage, detention or per diem in the agencies. 
+B.Tech , Mekapati Rajamohan Reddy Institue of technology and sciences, Udayagiri2009-2013 (First Class with Distinction).
+H.S.C,Viswam junior College, Naidupet, SPSR Nellore2007-2009 (First Class).S.S.C, Z P High School, BalireddyPalem2006-2007 (First Class).
+Project 
+Experience
+:
+1. OneVision - Container Rental
+Role: User story estimation, Task split up, VSO Build & Release, Code Reviews
+Environment: WPF, MVVM, C#, Web Api, Telerik
+Duration: Ongoing
+Description: The purpose of the Container Rental project is to provide efficient means of entering and maintaining container rental data. Container Rental is the charge invoiced by MSC to their customers for keeping our equipment (containers, chassis, generator sets) longer than agreed. This is called demurrage, detention or per diem in the agencies.
 2. OneVision - Intermodal
-Role	: Analyze, DTS, VSO Build & Release, Developing Controllers, Views, Source Handling                                                         in TFS
-Environment	: MVC 5, C#, JQuery, JavaScript, WPF, Kendo
-Duration	: 6 Months	
-
-Description	: MSC has launched the One Vision program, aiming to build a centralized system, integrating HQ and Agency activities within one System. Intermodal system will record and maintain the each equipment(Container) destinations with Rail, Truck. Intermodal shipping is a method of moving cargo that involves more than one kind of transportation, whether truck, rail, ship or plane. It uses special containers so goods can be transferred from ship to rail to truck without having to be repacked. The most common combination used is truck and rail.
-3. OneVision – Import
-Role		: Analyze, DTS, VSO Build & Release, Developing Controllers, Views, TFS, 
-Environment	: MVC 5, C#, JavaScript, JQuery, WCF, Kendo
-Duration	: 6 Months	
-
-Description	: Import shipping is depending on whether Customs Cleared the Cargo within the Container, we can Track the Status of the Cargo using Delivery Order and Arrival Notice. These all details will record in application which is operated by MSC.
-4.Greyhounds
-Role		: Analyzing the Business Requirement, Developing Controllers, Views
-Environment	: C#, MVC4.0, and Sqlserver2008, Javascript, JQuery, WCF
-Duration	: 14 Months
-
-Description	: Greyhound is Travel Domain project. Web application to book tickets from one place to another place in Australia. It is providing some Experience packages, Tour Packages, Express Booking through application.
-
+Role: Analyze, DTS, VSO Build & Release, Developing Controllers, Views, Source Handling in TFS
+Environment: MVC 5, C#, JQuery, JavaScript, WPF, Kendo
+Duration: 6 Months
+Description: MSC has launched the One Vision program, aiming to build a centralized system, integrating HQ and Agency activities within one System. Intermodal system will record and maintain the each equipment(Container) destinations with Rail, Truck. Intermodal shipping is a method of moving cargo that involves more than one kind of transportation, whether truck, rail, ship or plane. It uses special containers so goods can be transferred from ship to rail to truck without having to be repacked. The most common combination used is truck and rail.
+3. OneVision - Import
+Role: Analyze, DTS, VSO Build & Release, Developing Controllers, Views, TFS,
+Environment: MVC 5, C#, JavaScript, JQuery, WCF, Kendo
+Description: Import shipping is depending on whether Customs Cleared the Cargo within the Container, we can Track the Status of the Cargo using Delivery Order and Arrival Notice. These all details will record in application which is operated by MSC.
+4.GreyhoundsRole: Analyzing the Business Requirement, Developing Controllers, Views
+Environment: C#, MVC4.0, and Sqlserver2008, Javascript, JQuery, WCF
+Duration: 14 Months
+Description: Greyhound is Travel Domain project. Web application to book tickets from one place to another place in Australia. It is providing some 
+Experience
+ packages, Tour Packages, Express Booking through application.
 5. Medical Rep Management System
-Role		: Developing,Bug fixing, Unit Testing 
-Environment	: C#.Net, MVC4, Javascript, Jquery,Entity Framework
-Duration	: 8 Months	
-
-Description	: Medical Representatives are the sales channel of the products of the pharmaceutical company. On behalf of the company, they visit a wide range of people and organizations like pharmacists, doctors, nursing homes and hospitals. Their job may involve extensive travelling to small towns and villages. In short, their physical presence in the company is limited. 
-
+Role: Developing,Bug fixing, Unit Testing
+Environment: C#.Net, MVC4, Javascript, Jquery,Entity FrameworkDuration: 8 Months
+Description: Medical Representatives are the sales channel of the products of the pharmaceutical company. On behalf of the company, they visit a wide range of people and organizations like pharmacists, doctors, nursing homes and hospitals. Their job may involve extensive travelling to small towns and villages. In short, their physical presence in the company is limited.
 6. Propmela
-Role		: Developing,Bug fixing
-Environment	: ASP.NET, C#, SQL
-Duration	: 3 Months	
+Role: Developing,Bug fixing
+Environment: ASP.NET, C#, SQL
+Duration: 3 Months
+Description: This Project enabled the real estate business in an easier way. In this site buyer and sellers can register and advertise their property detail and they can sell it or buy it. This project contains individual, broker, builder and admin modules. All the user activities are captured and it is intimated to the concern user. Needed reports are provided.
 
-Description	: This Project enabled the real estate business in an easier way. In this site buyer and sellers can register and advertise their property detail and they can sell it or buy it. This project contains individual, broker, builder and admin modules. All the user activities are captured and it is intimated to the concern user. Needed reports are provided.
+Personal Information
+:
+Date of Birth: 05 Feb 1992
+Father's Name: B. Brahmaiah
+Marital Status : Unmarried
+Nationality : Indian
 
-Personal Information:
-
-Date of Birth		: 05 Feb 1992
-Father’s Name		: B. Brahmaiah
-Marital Status 		: Unmarried
-Nationality 		: Indian
-Languages Known	: English & Telugu
-Current Address	: 29/55, Mari Amman Koil Street, Attipattu,
-  Ambattur IE, Chennai – 600058
-
-
-Affirmation:							
-		I hereby declare that all above mentioned are true to the best of my knowledge.
-
-
-Place:  Chennai							
-Date:	29-12-2017							              (B.Sudheer)
+Languages
+ Known: English & Telugu
+Current Address: 29/55, Mari Amman Koil Street, Attipattu,
+Ambattur IE, Chennai - 600058
+Affirmation:
+I hereby declare that all above mentioned are true to the best of my knowledge.
+Place: Chennai
+Date:29-12-2017 (B.Sudheer)

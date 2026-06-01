@@ -1,191 +1,169 @@
-TAGORE RAVINDRA M 
-Email: tagore.mavuru@gmail.com 
-Mobile: +91 9441002937 
+TAGORE RAVINDRA M
+Email: tagore.mavuru@gmail.com
+Mobile: +91 9441002937
+
+Professional 
+Summary
+:
+*
+7.5 Years of 
+experience
+ in testing of Web based application and Mobile App across various
+domains such as Healthcare and Finance as an Automation and Manual test engineer.
+Involved in implementing Hybrid Model test automation framework using Selenium.
+* Good exposure on creating scripts in Selenium-Web driver by using Core Java.
+Integrated Selenium automation framework with Continuous tools such as ANT.
+* 
+Experience
+ in design, development and implementation of test automation framework using
+Selenium Web Driver and unit testing frameworks such as Test NG.
+* Hands on working with Auto IT.
+Conducted 
+training
+ programs at organization level on Selenium Web driver.
+* 
+Experience
+ in Functional Testing, Re-Testing, System Testing and Regression Testing
+
+Experience
+ in working with Project Management and Test Case management tools such as JIRA
+and Buganizer.
+
+Experience
+ in authoring of test cases and execution on various browsers and operating systems.
+Participated in weekly status meetings and coordinated with developers and peers to
+Resolve/close defects.
+Flexible and versatile to adapt to any new environment and work on any project.
+
+Technical Expertise
+Automation Tools
+
+:
+Selenium (Web Driver), Espresso
+Frameworks
+
+Test NG
+Programming 
+Languages
+
+Core Java
+Development Editors
+
+Eclipse, ASWB
+Test Case Management Tools
+
+JIRA, Buganizer, Test Tracker
+Version Control Tools
+
+SVN
+Operating Systems
+
+Windows, Linux
+
+Academic
+ Background:
+M.C.A from Aditya Institute of Technology and Management, JNTU Kakinada (2010-2013)
+
+Experience
  
-Professional Summary: 
-• 
-7.5 Years of experience in testing of Web based application and Mobile App across various 
-domains such as Healthcare and Finance as an Automation and Manual test engineer. 
-• 
-Involved in implementing Hybrid Model test automation framework using Selenium. 
-• Good exposure on creating scripts in Selenium-Web driver by using Core Java. 
-• 
-Integrated Selenium automation framework with Continuous tools such as ANT. 
-• Experience in design, development and implementation of test automation framework using 
-Selenium Web Driver and unit testing frameworks such as Test NG. 
-• Hands on working with Auto IT. 
-• 
-Conducted training programs at organization level on Selenium Web driver. 
-• Experience in Functional Testing, Re-Testing, System Testing and Regression Testing 
-• 
-Experience in working with Project Management and Test Case management tools such as JIRA 
-and Buganizer. 
-• 
-Experience in authoring of test cases and execution on various browsers and operating systems. 
-• 
-Participated in weekly status meetings and coordinated with developers and peers to 
-Resolve/close defects. 
-• 
-Flexible and versatile to adapt to any new environment and work on any project. 
- 
- 
- 
-Technical Expertise 
-Automation Tools 
- 
- 
-: 
-Selenium (Web Driver), Espresso 
-Frameworks 
- 
- 
- 
-: 
-Test NG 
-Programming Languages 
- 
-: 
-Core Java  
-Development Editors 
- 
- 
-: 
-Eclipse, ASWB 
-Test Case Management Tools 
- 
-: 
-JIRA, Buganizer, Test Tracker 
-Version Control Tools 
- 
- 
-: 
-SVN 
-Operating Systems 
- 
- 
-: 
-Windows, Linux 
- 
- 
-Academic Background: 
-• 
-M.C.A from Aditya Institute of Technology and Management, JNTU Kakinada (2010-2013) 
- 
-Experience Summary: 
- 
-• 
-Worked as QA Engineer  at Prime KI Software solutions Pvt. Ltd, Hyderabad from Aug 2014 to 
-Nov 2018. 
-• 
-Working as Senior Consultant at Virtusa Systems (INDIA) Private Limited from Nov 2018 to 
-present. 
- 
- 
-PROJECT #1: 
- 
-APPLICATION : PLAY STORE 
- 
-CLIENT: GOOGLE 
-TESTING TYPE: MOBILE APP (ESPRESSO) 
-TEAM SIZE: 5 
- 
-Project Description: 
- 
-                  The main objective of the Project is to automate the PLAY Store Apps android application 
-Mobile Test Cases. Play Store is library where users can download/install applications. 
- 
-Responsibilities: 
- 
-● Worked on migrating the code to Espresso framework for mobile automation 
-● Guiding teammates in writing the use cases. 
-● Worked on new requirements from the client based on new rules and changes. 
-● Involved in development of critical user stories. 
-● Performing management tasks. 
-● Sending Project Daily Status and Consolidated Status to Clients and Leads. 
-● Triaging bugs. 
-● Giving Knowledge Transfer to peers and resolving issues. 
-● Manual testing on new features and writing automation code for new features. 
-● Preparing test plans & tracking them for completion. 
-● Tracking automation runs on a daily basis and resolving or fixing if there are any issues. 
-● Working on Jasmine framework for migration of existing Selenium web test cases to Jasmine 
-framework. 
-● Worked on client tools for testing, application loading in different SDK’s of Android. 
- 
- 
-PROJECT #2: 
- 
-APPLICATION   :  VERTEXSMB 
-CLIENT: VERTEXSMB INC, USA 
-TESTING TYPE: AUTOMATION (SELENIUM-WEBDRIVER) 
-TEAM SIZE:  8 
-Project Description:  
-Vertex SMB provides cloud-based sales and use tax software for calculation and remittance, 
-designed for small to medium-sized companies. Vertex SMB runs on the most advanced calculation and 
-returns software platform in the industry, used by thousands of the largest corporations in the world. 
-Vertex SMB ensures that your calculations are based on accurate rates and rules.  
-Project Title   
- 
-: Vertex SMB 
-Role                
- 
-: QA Engineer 
-Client             
- 
-: Vertex, USA 
-Environment 
- 
- : C#.Net, SQL Server 
-Operating System 
- : Windows 7 
-Testing Tools 
- 
- : Web Driver, Jira, Ant, SVN, TestnG, JUnit, AutoIt. 
- 
-Scope:        
-Vertex, Inc. founded in 1978 services over 10,000 corporate customers for innovative tax 
-processing solutions. Combining advanced technology, sophisticated software, and an exceptional team 
-of experienced tax experts, helps their customers unlock huge process and productivity gains, limit risk, 
-and make tax a more integral, strategic contributor to business success. Vertex SMB is a division created 
-within Vertex to create a new product offering targeted to the Small-Mid Market for Tax calculation  
-Vertex SMB provides cloud-based sales and use tax software for calculation and remittance, 
-designed for small to medium-sized companies. Vertex SMB runs on the most advanced calculation and 
-returns software platform in the industry, used by thousands of the largest corporations in the world. 
-Vertex SMB ensures that your calculations are based on accurate rates and rules. 
-Responsibilities: 
- 
-• 
-Adding/updating the New Classes/Functions for the Selenium IntelliQ Automation Framework. 
-• 
-Developing Automation test scripts related to manual test cases, POR’s and IDE Test scripts 
-• 
-Developing Generic/Reusable functions for Date time stamp, scheduling, database, Web 
-services, Mobile Apps [Android]. 
-• 
-Developing Functions with usage of JavaScript, AutoIT [To run some part of the code] and .vbs 
-functions to support the Execution [Send Email, Initialize, folder cleaning] 
-• 
-Retesting the bugs and Posting bugs in JIRA 
-• 
-Executing the Smoke, Regression, UAT and Scheduler test scripts on DEV/QA/Stage/CS 
-Environments. 
-• 
-Analyzing Test Results, Preparing Result mails and sending  Status Mails on daily bases 
-• 
-Giving the Automation test conversion Estimations. 
-• 
-Preparing Test steps for the Automation Test Scenarios/Datasets. 
- 
- 
- 
-Personal Details 
-    Marital Status  
-: 
-Married 
-    Nationality 
- 
-:             Indian 
-    Languages Known 
-:             English, Telugu, and Hindi 
-    Current location 
-: 
+Summary
+:
+
+Worked as QA Engineer at Prime KI Software solutions Pvt. Ltd, Hyderabad from Aug 2014 to
+Nov 2018.
+Working as Senior Consultant at Virtusa Systems (INDIA) Private Limited from Nov 2018 to
+present.
+
+PROJECT #1:
+
+APPLICATION : PLAY STORE
+
+CLIENT: GOOGLE
+TESTING TYPE: MOBILE APP (ESPRESSO)
+TEAM SIZE: 5
+
+Project Description:
+
+The main 
+objective
+ of the Project is to automate the PLAY Store Apps android application
+Mobile Test Cases. Play Store is library where users can download/install applications.
+
+Responsibilities:
+
+● Worked on migrating the code to Espresso framework for mobile automation
+● Guiding teammates in writing the use cases.
+● Worked on new requirements from the client based on new rules and changes.
+● Involved in development of critical user stories.
+● Performing management tasks.
+● Sending Project Daily Status and Consolidated Status to Clients and Leads.
+● Triaging bugs.
+● Giving Knowledge Transfer to peers and resolving issues.
+● Manual testing on new features and writing automation code for new features.
+● Preparing test plans & tracking them for completion.
+● Tracking automation runs on a daily basis and resolving or fixing if there are any issues.
+● Working on Jasmine framework for migration of existing Selenium web test cases to Jasmine
+framework.
+● Worked on client tools for testing, application loading in different SDK's of Android.
+
+PROJECT #2:
+
+APPLICATION : VERTEXSMB
+CLIENT: VERTEXSMB INC, USA
+TESTING TYPE: AUTOMATION (SELENIUM-WEBDRIVER)
+TEAM SIZE: 8
+Vertex SMB provides cloud-based sales and use tax software for calculation and remittance,
+designed for small to medium-sized companies. Vertex SMB runs on the most advanced calculation and
+returns software platform in the industry, used by thousands of the largest corporations in the world.
+Vertex SMB ensures that your calculations are based on accurate rates and rules.
+Project Title
+
+: Vertex SMB
+Role
+
+: QA Engineer
+
+Client
+
+: Vertex, USA
+Environment
+
+: C#.Net, SQL Server
+Operating System
+: Windows 7
+Testing Tools
+
+: Web Driver, Jira, Ant, SVN, TestnG, JUnit, AutoIt.
+
+Scope:
+Vertex, Inc. founded in 1978 services over 10,000 corporate customers for innovative tax
+processing solutions. Combining advanced technology, sophisticated software, and an exceptional team
+of experienced tax experts, helps their customers unlock huge process and productivity gains, limit risk,
+and make tax a more integral, strategic contributor to business success. Vertex SMB is a division created
+within Vertex to create a new product offering targeted to the Small-Mid Market for Tax calculation
+
+Adding/updating the New Classes/Functions for the Selenium IntelliQ Automation Framework.
+Developing Automation test scripts related to manual test cases, POR's and IDE Test scripts
+Developing Generic/Reusable functions for Date time stamp, scheduling, database, Web
+services, Mobile Apps [Android].
+Developing Functions with usage of JavaScript, AutoIT [To run some part of the code] and .vbs
+functions to support the Execution [Send Email, Initialize, folder cleaning]
+Retesting the bugs and Posting bugs in JIRA
+Executing the Smoke, Regression, UAT and Scheduler test scripts on DEV/QA/Stage/CS
+Environments.
+Analyzing Test Results, Preparing Result mails and sending Status Mails on daily bases
+Giving the Automation test conversion Estimations.
+Preparing Test steps for the Automation Test Scenarios/Datasets.
+
+Personal Details
+Marital Status
+Married
+ Nationality
+
+: Indian
+
+Languages
+ Known
+: English, Telugu, and Hindi
+Current location
 Hyderabad

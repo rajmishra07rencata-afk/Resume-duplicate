@@ -3,67 +3,79 @@ YUSUF RIYAZ A
 DOTNET DEVELOPER
 Email: vkriyaz28@gmail.com
 Phone: +91-8148949301
-To obtain a position in a professional environment that will allow me to utilize and refine my skills and knowledge, so that I
+To obtain a position in a professional environment that will allow me to utilize and refine my 
+skills
+ and knowledge, so that I
 may contribute to the growth and success of the organization .I give the best of mine to improve growth of your company and
 simultaneously improve myself good.
 An Analytical software developer with deep expertise in Microsoft .Net technologies possess around 4+
-years hands of experience.
+years hands of 
+experience
+.
 
-Knowledge and experience in C#, .NET Core, ASP.NET Web API, ASP.NET MVC, ADO.NET, Entity framework
+Knowledge and 
+experience
+ in C#, .NET Core, ASP.NET Web API, ASP.NET MVC, ADO.NET, Entity framework
 (ORM), SQL Server, PostgreSQL, LINQ, Hibernate, Angular
-
-Knowledge and experience in Swagger OpenAPI Standards, Postman , SoupUI
-
-Strong Experience in Agile SDLC
-
-Experience of working in web API development life cycle involving development, testing, and maintenance
-
-Experience working in Azure Develops Pipeline and Deployment
-
-Experience of working in Micro services (.Net Core Web API)
-
-Experience of working in JavaScript, Jquery, AngularJS
-
+Knowledge and 
+experience
+ in Swagger OpenAPI Standards, Postman , SoupUI
+Strong 
+Experience
+ in Agile SDLC
+
+Experience
+ of working in web API development life cycle involving development, testing, and maintenance
+
+Experience
+ working in Azure Develops Pipeline and Deployment
+
+Experience
+ of working in Micro services (.Net Core Web API)
+
+Experience
+ of working in JavaScript, Jquery, AngularJS
 Use source version control tool GIT and TFS for code base management
-
 Can Effectively communicate with Client
-
 Basic knowledge AWS application & Terraform
-Technical Skills
+Technical 
+Skills
+
 Frameworks
 :
 .NET Framework, ASP.NET MVC, .Net Core, .Net Core Web API, Entity
 Framework, Angular
 Tools
-:
 Visual Studio IDE, Vs Code IDE, Postman, Soup, Swagger
-Programming Languages
-:
+Programming 
+Languages
+
 C#, LINQ, Hibernate
 Unit testing
-:
 MSTest
 Operating Systems
-:
 Windows Family
-Scripting Languages
-:
+Scripting 
+Languages
+
 JavaScript, Jquery, AnjularJS
 Versioning Tool
-:
 GIT, TFS
+
 Education
+
 B.Sc. In Information Technology (CGPA 8.25/10)
 Manonmaniam Sundaranar University, Tirunelveli - 627012,Tamilnadu, India.
-,
+
 Professional Experiences
 1. Logicfield Technology Solutions Pvt Ltd,Chennai
 Aug 2019 to Apr 2022
 Designation: Software Engineer
+
 PROJECTS
+
 1. Electronic document management system (EDMS)
 Client
-:
 Middle East
 Environment : ASP.Net 4.0 & 4.5 with C#, SQL SERVER 2014 R2 and JQuery
 Role
@@ -80,29 +92,20 @@ Roles & Responsibilities:
 Involved in creation and modification Stored Procedure.
 Involved in Implementing UI and Business logic.
 2. GBN Marketplace
-Client
 : Middle East
 Environment : MVC, Entity framework, JavaScript, C#, SQL SERVER 2014
-Role
-: Developer
 GBN Worldwide is an interconnected, technology backed, global insurance eco-system made up of independent insurance,
 reinsurance, human capital, and risk management organizations from around the world. As per the given instruction based
 on creating new features and modification
-Roles & Responsibilities:
-Designed Frontend, Development & Local Testing and SQL Tables.
-Involved in creation and modification Stored Procedure.
-Involved in Implementing UI and Business logic.
-,
+
 3. Recruitment, (HRM)
-Client
 : IITM Chennai
 Environment : MVC, Entity framework, JavaScript, C#, SQL SERVER 2012
-Role
-: Developer
 Recruitment Software is a system that automates your entire recruitment process right from posting job online to on-
 boarding of new recruits. IITM Recruit's easy-to-use web based recruitment software is designed specifically for recruiting
-and staffing agencies that prioritize both the candidate and recruiter experience.
-Roles & Responsibilities:
+and staffing agencies that prioritize both the candidate and recruiter 
+experience
+.
 Designed Front end, Development & Local Testing and SQL Tables.
 Involved in creation and modification tables, views, Stored Procedure and SQL Jobs.
 Involved in Implementing UI and Business logic
@@ -110,15 +113,9 @@ Roles & Responsibilities:
 supervision
 2. Aspire Systems Private Limited(India)
 May 2022 to Present
-Designation: Software Engineer
-PROJECTS
 1. Back Office Application
-Client
-:
 Davinci-CloseBO
 Environment : C#, ASP.NET MVC, API, ADO.NET, PostgreSQL, LINQ, Hibernate, Angular, Git, Terraform and AWS.
-Role
-: Developer
 Our Loan service application is primarily a Back Office application where all the management processes for both consumer
 and mortgage loans are carried out in an automated manner.
 This application supports all loan servicing processes from the opening of a loan until the final payment. Both the periodic,
@@ -127,10 +124,9 @@ activities such as early prepayments or intermediate rate revisions are being co
 financial sub administration of the solution.
 An integrated Batch framework and a Configurator form the crux of the application which takes care of the entire
 processing.
-Roles & Responsibilities:
 Involved in Requirement gathering
 Involved in sprint planning and effort estimation
-,
+
 Presented sprint demos to the stakeholders
 Involved in high level and low level designing of the application
 Done development and peer reviews

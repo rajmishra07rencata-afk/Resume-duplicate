@@ -1,47 +1,52 @@
 RESUME
+R.RaguNo.121, West Street,
 
-					
-R.Ragu							No.121, West Street,
-Contact No:8489427691					Muthalaimeduthittu,	
-E-mail:ragummt4144@gmail.com 				Anumanthapuram (Post),
-								Sirkali (T.k), Nagai (D.t).
-To associate with an organization, which gives me an opportunity to improve my   knowledge, enhance my skills in latest technologies, and be part of the team that works towards growth of the organization as well as my personal growth.
+Contact
+ No:8489427691Muthalaimeduthittu,
+E-mail:ragummt4144@gmail.com Anumanthapuram (Post),
+Sirkali (T.k), Nagai (D.t).
 
+OBJECTIVE
 
+To associate with an organization, which gives me an opportunity to improve my knowledge, enhance my 
+skills
+ in latest technologies, and be part of the team that works towards growth of the organization as well as my personal growth.
 
+ACADEMIC
+ 
+PROFILE
 
-   Company Name          Crown Solutions India Private Limited, Chennai
-   Duration                      Aug 2021 to Till now
-   Designation                 Business Associate
-Worked as a test engineer in TAP Airline project. 
-We have performed smoke testing, system testing, integration testing  and complete end to end testing
-E2E testing for all sales application. 
-Validated API  web services, application backlog and database entry
+Degree | Percentage | Name of the Institution | Year of Passing
+DCE | 96% | Srinivasa SubburayaGovernment PolytechnicCollage, Puttur. | 2016
+HSC | 64.8% | Government Higher Secondary School,Kollidam | 2013
+SSLC | 78% | RamakrishnaHigher Secondary School, Kothandapuram. | 2011
+WORK 
+EXPERIENCE
+
+Company Name Crown Solutions India Private Limited, Chennai
+Duration Aug 2021 to Till now
+Designation Business Associate
+JOB RESPONSIBILITIES
+Worked as a test engineer in TAP Airline project.
+We have performed smoke testing, system testing, integration testing and complete end to end testing
+E2E testing for all sales application.
+Validated API web services, application backlog and database entry
 Reported to client with daily status report
 Worked as a test engineer in Lufthansa Airline Altea FM project.
- We have performed functional testing, regression testing and complete end to end testing
-Regression testing for all GUI release with PDT and UAT environment. 
-
-
-
-
-
-  Company Name          Camberwell Technologies, Chennai.
-   Duration                      Oct-2018 Up to July-2021
-   Designation                 Test Engineer
-
+We have performed functional testing, regression testing and complete end to end testing
+Regression testing for all GUI release with PDT and UAT environment.
+Company Name Camberwell Technologies, Chennai.
+Duration Oct-2018 Up to July-2021
+Designation Test Engineer
 Good exposure to all stages of Software Testing Life Cycle (STLC) and Testing methodologies.
 Strong in writing Test Cases and Execute them.
 Involved in Bug Life Cycle.
 Reporting software Bugs Using Defect Tracking report.
 Basic Knowledge in Java concepts.
 Knowledge to work with Selenium automation tool.
-
-
-   Company Name          Telit Solutions Professional & Quality It Solutions, Chennai.
-   Duration                      May-2017 up to Feb 2018
-   Designation                 Technical Support Engineer Trainee
-
+Company Name Telit Solutions Professional & Quality It Solutions, Chennai.
+Duration May-2017 up to Feb 2018
+Designation Technical Support Engineer Trainee
 Assembling and troubleshooting for Desktop and computer hardware components.
 Various operating system installations.
 System backup and maintenance.
@@ -50,33 +55,23 @@ Responsible for interaction with customers, to ensure service levels.
 Installing & adding printers to networks.
 Manage day-to-day customers support.
 Technical support to client requirement.
-
+Technical 
+Skills
 
 Testing Tools: Selenium
-Language        : Java
-
-
-
-
-
-
-
+Language : Java
+MY STRENGTH
 Self-Motivated.
 Ability to work in group.
 Willingness to learn.
 Smart working
+PERSONAL DETAILS
+DateofBirth: 28.05.1996
+Father's Name: P. Rasamani
 
-
-
-
-DateofBirth	: 28.05.1996
-
-Father’s Name	: P. Rasamani
-Languages known: Tamil, English
-
+Languages
+ known: Tamil, English
 I hereby declare that the above furnished details are true to the best of my knowledge.
 Looking forward to working with you.
-
-Place:									Signature		
-
-Date:										(R.Ragu)
+Place:Signature
+Date:(R.Ragu)

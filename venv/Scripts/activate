@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Raj.Mishra\Desktop\Duplicate-detection\venv"
+VIRTUAL_ENV="C:\Users\Kathir.Ezhil\office_work\resume_repo\Resume-duplicate\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

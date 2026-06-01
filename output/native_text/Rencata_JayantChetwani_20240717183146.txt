@@ -1,108 +1,101 @@
 JBJ
-
 Jayant Chetwani
-Contact Nos.: +91 7987140155, +91 9479399176
 
+Contact
+ Nos.: +91 7987140155, +91 9479399176
 E-Mail: chetwanijayant@gmail.com
-
 Network Consultant/IT Analyst
 IT Service Operations & Infrastructure Support, Networking
 Location Preference: PAN India
 
-PROFILE SUMMARY
+PROFILE
+ 
+SUMMARY
 
-
-Offering 6+ years of comprehensive experience in site planning, end-to-end IT Infrastructure, Network Administration (WAN & LAN), and Azure Networking
+Offering 6+ years of comprehensive 
+experience
+ in site planning, end-to-end IT Infrastructure, Network Administration (WAN & LAN), and Azure Networking
 A visionary technocrat with good abilities in liaising with other functional heads for technology development to improve and execute plans, consistently tracking development against plans and seeking strategies for increasing efficiencies.
 Responsible for plan / design / maintenance of Technology / Networking infrastructure.
-Experience in configuring, installing & maintaining Firewalls like ASA, ISR, etc.
 
-Good experience in managing & delivering projects, conducting business analysis to determine requirements, and planning for network implementation at the medium or high scale.
-
+Experience
+ in configuring, installing & maintaining Firewalls like ASA, ISR, etc.
+Good 
+experience
+ in managing & delivering 
+projects
+, conducting business analysis to determine requirements, and planning for network implementation at the medium or high scale.
 AREAS OF EXPERTISE
-
-
 Designing and applying solutions/policies that would meet or exceed functional, operational, performance, analytical, and security requirements while minimizing technical risks in implementation.
 Recommending network infrastructure requirements and upgrading to ensure acceptable levels of Security and Data Recovery plans.
-Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies, and routing.
-Ensuring that the goals of the Incident Management process are achieved; restoring normal service as soon as possible based on customer perspective and within defined SLA. 
+Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies, and routing.
+Ensuring that the goals of the Incident Management process are achieved; restoring normal service as soon as possible based on customer perspective and within defined SLA.
 Managing network asset inventory through the useful lifecycle of each asset
-Having experience on the Firewall migration project.
-Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
-Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs, and subnets on Azure.
+Having 
+experience
+ on the Firewall migration project.
+Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs, and subnets on Azure.
 Setup Azure Virtual Appliances (VMs) to meet security requirements as software-based appliance functions (firewall, WAN optimization, and intrusion detections).
-Contributing to the creation of proposals and marketing material 
- Install and maintain SIEM and security tools in environment. 
-Security policies and procedures, in line with regulation and/or current standards, ISO: 27001 
+Contributing to the creation of proposals and marketing material
+Install and maintain SIEM and security tools in environment.
+Security policies and procedures, in line with regulation and/or current standards, ISO: 27001
 Serve as senior Cyber security Consultant to the various lines of businesses by providing subject matter expertise as it relates to new cloud platforms and emerging cloud technologies.
-Microsoft Virtualization (Hyper-V) Microsoft Active Directory, VDI (Virtual Desktop Infrastructure), SQL Server 2008, 2008 R2, 2012, 2016,2019  also Office 365, Windows 10 / DOS, Azure, Datacenter Migration to Azure
+Microsoft Virtualization (Hyper-V) Microsoft Active Directory, VDI (Virtual Desktop Infrastructure), SQL Server 2008, 2008 R2, 2012, 2016,2019 also Office 365, Windows 10 / DOS, Azure, Datacenter Migration to Azure
 Working on various complex routing according to need workflow.
 Working Network security and Data security Infrastructure.
 Maintaining endpoint to endpoint encryption overflow like Windows Firewall IPSec, Windows IPsec, etc.
-Maintaining  FSR, DFSR solutions for Various sites and cloud infrastructure on windows.
+Maintaining FSR, DFSR solutions for Various sites and cloud infrastructure on windows.
 Troubleshooting& Monitoring of IT Infrastructure with various tools.
-Experience in various wireless networking  WLAN technologies
+
+Experience
+ in various wireless networking WLAN technologies
 Ability to present technical approaches or findings in oral and written format.
 Knowledge of various monitoring tools like Open View, Manage Engines, Solarwinds, Wireshark, etc.).
-Experience on Azure Sentinel.
-Strong research and highly analytical skills are required, especially concerning event classification, event correlation, and root cause analysis.
 
+Experience
+ on Azure Sentinel.
+Strong research and highly analytical 
+skills
+ are required, especially concerning event classification, event correlation, and root cause analysis.
 
-
-
-
-
-EMPLOYMENT DETAILS
-
-
-May 2022 to till date  with LTIMindtree as Information Security Specialist
-
+EMPLOYMENT
+ DETAILS
+May 2022 to till date with LTIMindtree as Information Security Specialist
 Key Result Areas:
-
-Running the Cloud Workloads Discovery for gathering the resources information and Security Assessment.​​
-Analysis of Potential Risks & Security Issues in Current Azure Environment.​
+Running the Cloud Workloads Discovery for gathering the resources information and Security Assessment.​​
+Analysis of Potential Risks & Security Issues in Current Azure Environment.​
 Assessment Reporting.​
-Working and Implemented   the SOC and NOC for the client according to the requirement.
-Quantifying the risks impacting the delivery of QF enterprise strategy on Cloud Security.​
-Provide recommendations based on analysis and assessment of defined  Azure Cloud, CSPM and SIEM.​
+Working and Implemented the SOC and NOC for the client according to the requirement.
+Quantifying the risks impacting the delivery of QF enterprise strategy on Cloud Security.​
+Provide recommendations based on analysis and assessment of defined Azure Cloud, CSPM and SIEM.​
 Establish a Tactical Security Architecture Transformation Plan.​
-Modernize Integrations to Standardized Architecture Ready for Azure Cloud Security Threats and Reach CIS/ NIST Maturity Level Compliance.​
-Use Dashboard and reports to track compliance with Range of standards (PCI-DSS, ISO, NIST, HIPAA/ HITRUST/ SOC, etc..) to increase the security score.​
+Modernize Integrations to Standardized Architecture Ready for Azure Cloud Security Threats and Reach CIS/ NIST Maturity Level Compliance.​
+Use Dashboard and reports to track compliance with Range of standards (PCI-DSS, ISO, NIST, HIPAA/ HITRUST/ SOC, etc..) to increase the security score.​
 Monitoring and assessed the workloads and provide best practice to client.
 Giving recommendation on various infrastructure resources like APP Gateway, Load balancer, Front door etc.
-
-
-
-
-
-
-Nov 2019 –To Apr 2022 with TSG as IT Analyst
-
-Key Result Areas:
-Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
-Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs, and subnets on Azure.
-Setup Azure Virtual Appliances (VMs) to meet security requirements as software-based appliance functions (firewall, WAN optimization, and intrusion detections).
+Nov 2019 -To Apr 2022 with TSG as IT Analyst
 Implementation of required changes in Network devices by following the change management process.
 Configuring firewall rules and providing access to the users as per the user requirement
 Monitor Azure Infrastructure through System Center Operation Manager (SCOM).
- Experienced in configuring VPN and applying security policy on the various platform in Azure & ASA Firewall.
+Experienced in configuring VPN and applying security policy on the various platform in Azure & ASA Firewall.
 Maintaining Policy-based and route-based VPNs with Azure to ASA.
 Creating Remote SSL VPNs and Azure Point to site VPNs for the remote user and server of various types like Certificate-based, Radius based, and Active directory based with different protocols like SSL, open VPN, IKEv2, etc
-Working on various complex routing according to need workflow.
 Convert existing Virtual Machines from Standard to Premium Storage accounts. Patching and validating Virtual Machine in Azure.
-Monitor Azure Infrastructure through System Center Operation Manager (SCOM).
-Managing Windows servers, troubleshooting issues, and working with MS support teams. 
+Managing Windows servers, troubleshooting issues, and working with MS support teams.
 Resolve the issues of the users for systems and networks.
 Integrate other Microsoft security tools into Azure Sentinel.
-Perform investigation and escalation for complex or high severity security threats or incidents on Azure sentinel.
+Perform investigation and escalation for complex or high severity security threats or incidents on Azure sentinel.
 Configured Virtual Network peering between the regions in different subscription
 Configured Azure Encryption for Azure Storage and Virtual Machines, Azure Key Vault services to protect and secure the data for cloud applications.
 Configured Virtual Network Endpoints for Azure Storage.
 Configured Azure Alerts for various Azure Services using Azure Monitor.
-Coordinate with the client making the reliable IT infrastructure. Involved in Cloud Security Infrastructure and design for client’s in-house Azure Applications.
-Direct experience with information security framework including NIST, PCIDSS, CIS, ISO 27001. 
+Coordinate with the client making the reliable IT infrastructure. Involved in Cloud Security Infrastructure and design for client's in-house Azure Applications.
+Direct 
+experience
+ with information security framework including NIST, PCIDSS, CIS, ISO 27001.
 Create technical and managerial level reports and risk assessments for Cloud based applications and infrastructure.
-Develops security strategy and roadmaps to create technical solutions 
+Develops security strategy and roadmaps to create technical solutions
 Providing design-time review and guidance to teams building and deploying new technology on and integrating with services provided by public cloud platforms
 Perform cloud security risk assessment for cloud applications already in Azure.
 Involved in defining cloud security controls for an Azure environment at an Enterprise level.
@@ -117,172 +110,79 @@ Extended and Integrated On-Premises AD to Azure Active Directory.
 Maintained and managed User access using custom RBAC roles.
 Performed migration of servers from On-Premises to Azure Cloud, servers from Classic to Azure Resource Manager.
 Configured Virtual Machines scale sets, Availability sets to manage virtual machines.
-Experience working in Azure Security including RBAC, Azure Security Center, and Azure Monitor.
+
+Experience
+ working in Azure Security including RBAC, Azure Security Center, and Azure Monitor.
 Worked in extending and integrating On-premise and Azure Active Directory.
-Microsoft Virtualization (Hyper-V) Microsoft Active Directory, VDI (Virtual Desktop Infrastructure), SQL Server 2008, 2008 R2, 2012, 2016,2019 also Office 365, Windows 10 / DOS, Azure, Datacenter Migration to Azure
 Maintaining site-to-site connections with Azure to the client and with the ASA.
 Designed VNets and subscriptions to confirm Azure Network Limits.
-
-
-
-
-
-
-April 2019 –Oct 2019 as a Freelancer, Gurgaon as Network Consultant
-
-Key Result Areas:
+April 2019 -Oct 2019 as a Freelancer, Gurgaon as Network Consultant
 Worked towards the achievement of the strategic and operational objectives of the group located across multiple locations in a 7x24x365 environment
-
 Accountable for the support, installation, and maintenance of Switches, routers, and firewalls.
-Making the IT Infrastructure & Network Audit report for various companies, offices & coworking. 
-Microsoft Virtualization (Hyper-V) Microsoft Active Directory, VDI (Virtual Desktop Infrastructure), SQL Server 2008, 2008 R2, 2012, 2016,2019  also Office 365, Windows 10 / DOS, Azure, Datacenter Migration to Azure
-Working Network security and Data security Infrastructure.
-Resolve the issues of the users for systems and networks.
-Analyze and report cyber threats as well as assist in deterring, identifying, monitoring, investigating and analyzing computer network intrusions 
-Implement and integrate different security solution within azure environment 
+Making the IT Infrastructure & Network Audit report for various companies, offices & coworking.
+Analyze and report cyber threats as well as assist in deterring, identifying, monitoring, investigating and analyzing computer network intrusions
+Implement and integrate different security solution within azure environment
 Assist in producing status reports and briefs to senior leadership; provide analysis for correlated information sources
-Ensure all Service Management procedures are being followed and SLA’s met 
+Ensure all Service Management procedures are being followed and SLA's met
 Maintain and help develop operational procedures for the team to use in daily operation
 Coordinate with the client making the reliable IT infrastructure.
-Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
-Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs, and subnets on Azure.
-
-
-
-
-
-May 2018 – March 2019 with Trinity Mobility Private Limited, Bhopal as Project Engineer
-
-Key Result Areas:
-
+May 2018 - March 2019 with Trinity Mobility Private Limited, Bhopal as Project Engineer
 Working in the Network Level 2 / 3 and escalating issue to SPV.
 Following Escalation Matrix /SLA for all incidents reported to ISVs.
 Maintaining the logs and solving the issue arising by the client with the best effort.
-Microsoft Virtualization (Hyper-V) Microsoft Active Directory, VDI (Virtual Desktop Infrastructure), SQL Server 2008, 2008 R2, 2012, 2016,2019  also Office 365, Windows 10 / DOS, Azure, Datacenter Migration to Azure
-Carrying out endpoint security management on cloud servers. 
-Implemented and enforced all security procedures. 
-Performing RCA, virus alerts handling for TCS cloud infrastructure. 
+Carrying out endpoint security management on cloud servers.
+Implemented and enforced all security procedures.
+Performing RCA, virus alerts handling for TCS cloud infrastructure.
 Collaborated with the IT Team to ensure that security software was properly installed on all employee computers.
 Working on the middleware server like Apache tomcat server and appliances.
-
 Monitoring & troubleshooting the issue that arises from the clients and getting resolve the issue.
 Data mining and analyzing for software according to need by the client and development team.
-Coordinate with the client making the reliable IT infrastructure. 
-Working Network security and Data security Infrastructure.
-Deployed TCL IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnet.
-
-
-
-
-March 2017 – March 2018 with Phoenix Simply safe Private Limited, Bhopal as Technical Support Engineer
-
-Key Result Areas:
-
+Deployed TCL IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnet.
+March 2017 - March 2018 with Phoenix Simply safe Private Limited, Bhopal as Technical Support Engineer
 Testing of the Hardware Module in which we have to modify it for client use.
 Testing the suitable software of devices for the platform.
-
 Configuration and Networking of devices & switches with routers to the server or the platform to perform operations Researching the new technologies & equipment for the development of devices.
-Coordinate with the client making the reliable IT infrastructure.
-Working Network security and Data security Infrastructure.
-Resolve the issues of the users for systems and networks.
-Coordinate with the client making the reliable IT infrastructure.
-Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
 Working on various IoT products like GPS, RFID, Sensors, etc.
-Giving training and support to clients of our product and software.
-
-
-
-September 2016 – Feb 2017 with HCIL – Bhopal as SA
-
-Key Result Areas:
-
+Giving 
+training
+ and support to clients of our product and software.
+September 2016 - Feb 2017 with HCIL - Bhopal as SA
 Monitoring & Troubleshooting issues that arise by clients resolving them as soon as possible.
 Desktop support and resolving problems for the smooth running of the Project.
 Testing of Software & issues the bug for making the software much more reliable.
-Following Escalation Matrix /SLA for all incidents reported to ISVs. 
-Microsoft Virtualization (Hyper-V) Microsoft Active Directory, VDI (Virtual Desktop Infrastructure), SQL Server 2008, 2008 R2, 2012, 2016,2019  also Office 365, Windows 10 / DOS, Azure, Datacenter Migration to Azure
-Working Network security and Data security Infrastructure.
-Resolve the issues of the users for systems and networks.
-Coordinate with the client making the reliable IT infrastructure.
-Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
-Data mining and analyzing for software according to need by the client and development team.
-
-
-
-December 2015 – July 2016 with PATH INDIA LTD, Indore as Network Office
-
-Key Result Areas:
-
+December 2015 - July 2016 with PATH INDIA LTD, Indore as Network Office
 Networking and maintaining all the data from peripheral devices to the server.
 Monitoring of the issue and resolving problems for the smooth running of the function.
-
 Giving report of each working site to the upper level for proper channeling of organization.
-Testing of Software & issues the bug for making the software much more reliable.
-Following Escalation Matrix /SLA for all incidents reported to ISVs. 
-Resolve the issues of the users for systems and networks.
-Coordinate with the client making the reliable IT infrastructure.
-
-
-
 TECHNICAL PURVIEW (NETWORK DEVICES & APPLIANCES)
-
-
 Cisco Routers: Cisco 3805, ASR, ISR
-
 Cisco Switches: Cisco Catalyst switch
-
 Cisco Firewall: ASA 55XX series
-
-
 FortiGate:200D Unified Threat Management
-Cloud Platforms: Windows Azure, Windows Server.
-Wireless : Linksys, CCP, Airweg ,Ruckus, Microtek, Meraki and the 
-
-
-
-
+Cloud Platforms: Windows Azure, Windows Server.
+Wireless : Linksys, CCP, Airweg ,Ruckus, Microtek, Meraki and the
 
 AWARDS
 
-
 State Chess Championship
-
 September 2009 selected in top 5 player
-
-Cancer Awareness camp                         August 2006 Represented the school
-
+Cancer Awareness camp August 2006 Represented the school
 Awarded by INSPIRE December 2017
+Represented my project "GPS Tracker with RFID Solution & Fuel Sensor" at the Zonal level and was selected for the National level
 
-Represented my project "GPS Tracker with RFID Solution & Fuel Sensor" at the Zonal level and was selected for the National level 
-
-
-
-
-     EDUCATION
-
+EDUCATION
 
 BE (Electronics & Communication) from GRKIST, RGPV University, Bhopal in 2014 with First Division marks
 
-Certifications:
-
+Certifications
+:
 Cisco Certified Network Associates - Routing & Switching. Cisco Id- CSCO13380928 [2018]
 Onetrust Privacy professional certification.
 AWS Technical Accrediation.
-
-
-
 PERSONAL DETAILS
+Date of Birth: 5th November 1992
 
-
-
-
-
-
-
-
-
-Date of Birth:            5th November 1992
-Languages Known:     English, Hindi 
-
-Address:                     Katni, Madhya Pradesh – India
-Marital Status:          Single
+Languages
+ Known: English, Hindi
+Address: Katni, Madhya Pradesh - India
+Marital Status: Single

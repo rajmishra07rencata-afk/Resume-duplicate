@@ -1,99 +1,95 @@
-1 
- 
-Work Experience 
-Projects 
- 
-                                                                                                                           
- 
- 
-Arthik Arasan N 
-Senior Software Engineer 
-Experienced in .net, angular and 
-nestjs. 
-Arthik Arasan N 
-Senior Software Engineer 
-arthikarasan7@gmai 
-l.com 
+1
+
+Work 
+Experience
+
+Projects
+
+Arthik Arasan N
+Senior Software Engineer
+Experienced in .net, angular and
+nestjs.
+arthikarasan7@gmai
+l.com
 63807992
+
+Possess 4 years of IT 
+experience
+ in the areas of Web Project, Windows Application, and API development.
+Experienced in 
+projects
+ like Cheque Clearance System, Mandate, EFT and RTGS. Experienced in both Credit and debit
+banking 
+projects
+. Worked on API developments in veracious 
+projects
+ under varying conditions and analyzed the
+behavior and stabilized the project. Experienced in item processing applications using simulation tools like IP
+simulators. Experienced using DevOps and in analyzing the requirements working with Business Analysts and Project
+Managers. Effectively worked under high pressurized conditions and experienced in writing most complex queries and
+procedures for complex 
+projects
+.
+
+2020 - Present
+Global Software Solutions
+
+My responsibilities include overseeing new requirements, resolving bugs, and ensuring the stability of
+our premium client.
+
+14 Months
+NPSS Edge
+
+National Payment Systems Strategy(NPSS) or UAE Instant Payment Platform (IPP) is designed to make
+
+Profile
  
- 
- 
- 
-Possess 4 years of IT experience in the areas of Web Project, Windows Application, and API development.  
-Experienced in projects like Cheque Clearance System, Mandate, EFT and RTGS. Experienced in both Credit and debit 
-banking projects. Worked on API developments in veracious projects under varying conditions and analyzed the 
-behavior and stabilized the project. Experienced in item processing applications using simulation tools like IP 
-simulators. Experienced using DevOps and in analyzing the requirements working with Business Analysts and Project 
-Managers. Effectively worked under high pressurized conditions and experienced in writing most complex queries and 
-procedures for complex projects. 
- 
- 
- 
- 
- 
-2020 - Present 
-Senior Software Engineer 
-Global Software Solutions 
- 
-My responsibilities include overseeing new requirements, resolving bugs, and ensuring the stability of 
-our premium client. 
- 
- 
- 
- 
-14 Months 
-NPSS Edge 
- 
-National Payment Systems Strategy(NPSS) or UAE Instant Payment Platform (IPP) is designed to make 
-Profile Summary 
-2 
- 
-Key Skills 
-Node.js 
-Nestjs 
-TypeScript 
-Javascript 
-Postgresql 
-PLSQL Oracle 
-.NET Core 
-Redis 
-Typeorm 
-Kafka 
-Activemq 
-Microservices 
-Restful Web API Development 
-Language 
-English 
-Expert 
-Tamil 
-Expert 
- 
-                                                                                                                     
- 
- 
- 
- 
-payment systems universally interoperable and foster the transition to a cashless society built around 
-real-time. It is the Instant Payment Platform (IPP) that enables real-time faster payments and funds 
-transfers around the clock (24*7) and digital payments across the UAE financial sector. 
- 
-13 Months 
-Torus 9.0 
- 
-Torus 9.0 is a POC project, with a main goal of developing our torus application with latest 
-technologies, more features. 
- 
-3 Months 
-Torus 
- 
-Torus is a NextGen Unified Low code platform that follows a model-driven approach for building, 
-extending, integrating, and deploying rich cloud-based applications rapidly. Using Torus we can create 
-the project based on requirements from the client with very low code. 
- 
-19 Months 
-Veracious Payment Hub 
- 
-VPH is the critical problem solver for Banks created using TORUS. It includes processes like Cheque 
-Clearance System, Mandate, Electronic Fund Transfer, and Real-Time Gross Settlement. Both the Credit 
-and Debit processes are handled in the project. Cheques are scanned and stored as an image file using 
+Summary
+
+2
+
+Key 
+Skills
+
+Node.js
+Nestjs
+TypeScript
+Javascript
+Postgresql
+PLSQL Oracle
+.NET Core
+Redis
+Typeorm
+Kafka
+Activemq
+Microservices
+Restful Web API Development
+Language
+English
+Expert
+Tamil
+
+payment systems universally interoperable and foster the transition to a cashless society built around
+real-time. It is the Instant Payment Platform (IPP) that enables real-time faster payments and funds
+transfers around the clock (24*7) and digital payments across the UAE financial sector.
+
+13 Months
+Torus 9.0
+
+Torus 9.0 is a POC project, with a main goal of developing our torus application with latest
+technologies, more features.
+
+3 Months
+Torus
+
+Torus is a NextGen Unified Low code platform that follows a model-driven approach for building,
+extending, integrating, and deploying rich cloud-based applications rapidly. Using Torus we can create
+the project based on requirements from the client with very low code.
+
+19 Months
+Veracious Payment Hub
+
+VPH is the critical problem solver for Banks created using TORUS. It includes processes like Cheque
+Clearance System, Mandate, Electronic Fund Transfer, and Real-Time Gross Settlement. Both the Credit
+and Debit processes are handled in the project. Cheques are scanned and stored as an image file using
 a windows application.

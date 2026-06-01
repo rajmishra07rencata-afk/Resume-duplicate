@@ -1,95 +1,100 @@
-PERSONAL DETAILS 
-Devadarshan.kannan@gmail.com 
- 
-+91-9962917095 
- 
-LinkedIn 
- 
-GitHub 
-SKILLS 
-➢ 
-C/C++ 
-➢ 
-JAVA 
-➢ 
-Python-Pandas, NumPy 
-➢ 
-Dart programming language 
-➢ 
-Firestore 
-➢ 
-SQL 
-➢ 
-R Programming Language 
- 
-CURRENTLY EXPLORING 
-➢ 
-Matplotlib 
-➢ 
-Scikit-learn 
- 
-CERTIFICATES  
- 
-The Complete Flutter Development 
-Bootcamp with Dart – Udemy 
-June -2023 
+PERSONAL DETAILS
+Devadarshan.kannan@gmail.com
+
++91-9962917095
+
+LinkedIn
+
+GitHub
+
+SKILLS
+
+➢
+C/C++
+JAVA
+Python-Pandas, NumPy
+Dart programming language
+Firestore
+SQL
+R Programming Language
+
+CURRENTLY EXPLORING
+Matplotlib
+Scikit-learn
+
+CERTIFICATES
+
+The Complete Flutter Development
+Bootcamp with Dart - Udemy
+June -2023
 http://ude.my/UC-db9ccc34-867b-4a38-
-8575-12e8353e9b44 
- 
-Certificate for Completion of Python 3.4.3 
-Training -IIT Bombay 
-February - 2022 
-LOCATION:  CHENNAI, INDIA 
- 
- 
- 
-DEVADARSHAN KANNAN 
-ABOUT ME 
-Motivated third-year BTech CSE student specializing in AI and Robotics 
-at VIT University. Eager to secure a software development internship, 
-leveraging my strong aptitude for learning new technologies and 
-solving real-world problems. Detail-oriented, deadline-driven, and 
-skilled in Python, Java, and C++. Committed to effective 
-communication, collaboration, and delivering impactful results to 
-contribute to innovative technology development. 
-EXPERIENCE 
-Microsoft Innovation Club| App Developer (Mar 2023-Present) 
-Dynamic app developer in the Microsoft Innovation Club, mentoring 
-and supporting new members in Flutter development. Collaboratively 
-defined, designed, and launched innovative features for monthly 
-club apps. Provided technical support during events, ensuring 
-seamless software and hardware operation. Developed strong 
-communication, leadership, and mobile app development skills. 
- 
+8575-12e8353e9b44
+
+Certificate for Completion of Python 3.4.3
+
+Training
+ -IIT Bombay
+February - 2022
+LOCATION: CHENNAI, INDIA
+
+DEVADARSHAN KANNAN
+ABOUT ME
+Motivated third-year BTech CSE student specializing in AI and Robotics
+at VIT University. Eager to secure a software development 
+internship
+,
+leveraging my strong aptitude for learning new technologies and
+solving real-world problems. Detail-oriented, deadline-driven, and
+skilled in Python, Java, and C++. Committed to effective
+communication, collaboration, and delivering impactful results to
+contribute to innovative technology development.
+
+EXPERIENCE
+
+Microsoft Innovation Club| App Developer (Mar 2023-Present)
+Dynamic app developer in the Microsoft Innovation Club, mentoring
+and supporting new members in Flutter development. Collaboratively
+defined, designed, and launched innovative features for monthly
+club apps. Provided technical support during events, ensuring
+seamless software and hardware operation. Developed strong
+communication, leadership, and mobile app development 
+skills
+.
+
 CodeChef vit-Chennai chapter | technical team member (Mar 2023-
-Present) 
-Facilitated a two-day workshop on Data Structures and Algorithms 
-(DSA) featuring esteemed speaker Mr. Abdul Bari. Assisted 
-participants in resolving technical challenges and fostered 
-engagement through a DSA quiz. Actively contribute as a technical 
-member in CodeChef VIT Chennai Chapter, enhancing proficiency in 
-problem-solving, algorithmic thinking, and fostering a collaborative 
-coding community. 
-PROJECTS 
-Android apps 
-Skilled Flutter developer adept at crafting minimal yet impactful 
+Present)
+Facilitated a two-day workshop on Data Structures and Algorithms
+(DSA) featuring esteemed speaker Mr. Abdul Bari. Assisted
+participants in resolving technical challenges and fostered
+engagement through a DSA quiz. Actively contribute as a technical
+member in CodeChef VIT Chennai Chapter, enhancing proficiency in
+problem-solving, algorithmic thinking, and fostering a collaborative
+coding community.
+
+PROJECTS
+
+Android apps
+Skilled Flutter developer adept at crafting minimal yet impactful
 mobile applications. Successfully built a range of apps, including To-
-Do list app, Dice game, BMI Calculator, and E-Commerce app. 
-Leveraged APIs, Firestore, and FireAuth for data retrieval, database 
-management, and user authentication. Demonstrated expertise in 
-UI/UX design and delivering seamless functionality. 
- 
-Transport booking system 
-Created an application that integrates the ticket booking systems of 
-railways, airways and buses making it easy for the customers to 
-navigate between and book tickets for different types of transport 
-using python tkinter and file handling concepts. 
- 
-EDUCATION 
-B.Tech CSE with Specialization in AI and Robotics  (Jul 2021-Present) 
-Vellore Institute of Technology, Chennai 
-CGPA:8.67 
- 
-Higher Secondary Education-Computer Science (Apr 2019 – Jun 2021) 
-Chettinad Vidyashram |FIITJEE Integrated Program 
+Do list app, Dice game, BMI Calculator, and E-Commerce app.
+Leveraged APIs, Firestore, and FireAuth for data retrieval, database
+management, and user authentication. Demonstrated expertise in
+UI/UX design and delivering seamless functionality.
+
+Transport booking system
+Created an application that integrates the ticket booking systems of
+railways, airways and buses making it easy for the customers to
+navigate between and book tickets for different types of transport
+using python tkinter and file handling concepts.
+
+EDUCATION
+
+B.Tech CSE with Specialization in AI and Robotics (Jul 2021-Present)
+Vellore Institute of Technology, Chennai
+CGPA:8.67
+
+Higher Secondary 
+Education
+-Computer Science (Apr 2019 - Jun 2021)
+Chettinad Vidyashram |FIITJEE Integrated Program
 96.2% in 12th CBSE board examination, 90% in JEE

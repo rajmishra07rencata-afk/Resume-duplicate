@@ -1,156 +1,157 @@
-CURRICULUM VITAE 
- 
-Milton Jesu Rajan 
-Software Test Analyst 
-Email: jesumilton3@gmail.com 
-+91- 8072322102 
- 
- 
-OBJECTIVE 
- 
- To be involved in a job in which I can make use of my skills with creativity and teamwork that 
-effectively leads to the growth of the organization. 
- 
-PROFESSIONAL SUMMARY 
- 
- Engineering Professional having about 4.3 years of Experience in both Manual Testing and 
-Automation Testing. 
- Experience in Test Automation Tool Selenium. 
- Proficient Knowledge of Selenium Web-Driver, and TestNG Framework. 
- Well-versed with Handling Elements in Selenium Web Driver. 
- Writing Test cases using Element locators, Web Driver methods, Java programming features, TestNG 
-Framework, and Annotations. 
- Converting Manual Test Cases in Automation scripts. 
- Executing Selenium Test Cases and reporting defects. 
- Experience in data-driven Testing and Parallel Test execution using Selenium Web Driver, and 
-TestNG. 
- Familiar with Rest Assured API testing and checking Response JSON 
- Familiar with Programming Fundamentals (Structured Programming and Object-Oriented 
-Programming). 
- Expertise in Bug Reporting and Tracking using the Bug tracking tool “Click Up”.  
- Knowledge in testing both Mobile and Web Based Applications 
- Familiar with Executing SQL Queries and checking the values in DB with View 
- Familiar with Checking API Responses with SOAP API 
- Understanding, Analyzing, and Streamlining Test Requirements. 
- Familiar with Functional and Non-functional Testing. 
- Knowledge of different Levels of Testing (Unit Testing, Integration Testing, System Testing, and 
-Acceptance Testing). 
- Familiar with all phases of the Software Test Life Cycle. 
- Well-versed with Test Documentation (Test Scenario, Test Case, Test Data, Defect Report). 
- Excellent Communication, Interpersonal Skills. Quick Learner, versatile, adaptable, and process-
-oriented with high customer orientation.  
- Familiar with Industry Quality Standards like ISO, CMM/CMMI, and IEEE. 
- 
- 
- 
- 
- 
- 
-EDUCATION 
-Educational 
-Qualification 
- 
-ME-Power Electronics and Drives DMI College of Engineering, Chennai 2014  
- 
-B.E - Electrical and Electronics Engineering  J.P. College of Engineering, Agarakattu 2012  
- 
-Diploma- Electrical and Electronics Engineering  A.S.A Polytechnic College, Tenkasi - 2009  
- 
-H.S.C- Nehru Higher Secondary School, Tenkasi - 2006 
- 
-S.S.L.C- Punitha Arulanandar High School, Agarakattu - 2004 
-Work 
-Experience: 
- 
-Currently working as a Test Analyst in Twinkle Software Solutions Pvt Ltd, Chennai, and 
-Tamilnadu from Nov’2021 to Till Date. 
- 
-Software Test Engineer in Lan-Pack Global Technologies Chennai (Jul 2019 to Oct 2021). 
- Assistant Professor in the ECE Department at DMI College of Engineering 
-Palanchur, Chennai (June 2014 to April 2019). 
-Software 
-Skills 
- 
-Languages                                    : 
-Java, HTML, and JavaScript 
-Databases                                     : 
-MS Access, SQL Server, and MYSQL     
-Automated Testing Tools            : 
-Eclipse, Selenium Web driver, and TestNG 
-Test Management Tools              :     
-Click Up 
-Bug Tracking Tools                     :  
-Click Up, Google Excel, Skype 
-Tools & Utilities                          :   
-Ms-Office, Outlook Express 
-Web Technologies                       : 
-HTML, XML, CSS 
-Awards and 
-Achievements 
-Awarded Star Performer and Best Team of the Year Cash award in Twinkle Software Solutions 
-Pvt Ltd 
- 
-PROFILE 
-Project Title 1: NHIS 
- Client: WHO (PNG Government) 
- Worked in Selenium Web Driver Automation Tool 
- Application Environment: Windows 7, Java, Eclipse, and SQL 
- Testing Method: Automation and Manual Testing 
- Role:  Test Analyst 
-Project Description: 
-  
+CURRICULUM VITAE
+
+Milton Jesu Rajan
+Software Test Analyst
+Email: jesumilton3@gmail.com
++91- 8072322102
+
+OBJECTIVE
+
+To be involved in a job in which I can make use of my 
+skills
+ with creativity and teamwork that
+effectively leads to the growth of the organization.
+
+PROFESSIONAL 
+SUMMARY
+
+ Engineering Professional having about 4.3 years of 
+Experience
+ in both Manual Testing and
+Automation Testing.
+ 
+Experience
+ in Test Automation Tool Selenium.
+ Proficient Knowledge of Selenium Web-Driver, and TestNG Framework.
+ Well-versed with Handling Elements in Selenium Web Driver.
+ Writing Test cases using Element locators, Web Driver methods, Java programming features, TestNG
+Framework, and Annotations.
+ Converting Manual Test Cases in Automation scripts.
+ Executing Selenium Test Cases and reporting defects.
+ 
+Experience
+ in data-driven Testing and Parallel Test execution using Selenium Web Driver, and
+TestNG.
+ Familiar with Rest Assured API testing and checking Response JSON
+ Familiar with Programming Fundamentals (Structured Programming and Object-Oriented
+Programming).
+ Expertise in Bug Reporting and Tracking using the Bug tracking tool "Click Up".
+ Knowledge in testing both Mobile and Web Based Applications
+ Familiar with Executing SQL Queries and checking the values in DB with View
+ Familiar with Checking API Responses with SOAP API
+ Understanding, Analyzing, and Streamlining Test Requirements.
+ Familiar with Functional and Non-functional Testing.
+ Knowledge of different Levels of Testing (Unit Testing, Integration Testing, System Testing, and
+Acceptance Testing).
+ Familiar with all phases of the Software Test Life Cycle.
+ Well-versed with Test Documentation (Test Scenario, Test Case, Test Data, Defect Report).
+ Excellent Communication, Interpersonal 
+Skills
+. Quick Learner, versatile, adaptable, and process-
+oriented with high customer orientation.
+ Familiar with Industry Quality Standards like ISO, CMM/CMMI, and IEEE.
+
+EDUCATION
+
+Educational
+Qualification
+
+ME-Power Electronics and Drives DMI College of Engineering, Chennai 2014
+B.E - Electrical and Electronics Engineering J.P. College of Engineering, Agarakattu 2012
+Diploma- Electrical and Electronics Engineering A.S.A Polytechnic College, Tenkasi - 2009
+H.S.C- Nehru Higher Secondary School, Tenkasi - 2006
+S.S.L.C- Punitha Arulanandar High School, Agarakattu - 2004
+Work
+
+Experience
+:
+Currently working as a Test Analyst in Twinkle Software Solutions Pvt Ltd, Chennai, and
+Tamilnadu from Nov'2021 to Till Date.
+Software Test Engineer in Lan-Pack Global Technologies Chennai (Jul 2019 to Oct 2021).
+ Assistant Professor in the ECE Department at DMI College of Engineering
+Palanchur, Chennai (June 2014 to April 2019).
+Software
+
+Skills
+
+Languages
+ :
+Java, HTML, and JavaScript
+Databases :
+MS Access, SQL Server, and MYSQL
+Automated Testing Tools :
+Eclipse, Selenium Web driver, and TestNG
+Test Management Tools :
+Click Up
+Bug Tracking Tools :
+Click Up, Google Excel, Skype
+Tools & Utilities :
+Ms-Office, Outlook Express
+Web Technologies :
+HTML, XML, CSS
+
+Awards
+ and
+
+Achievements
+
+Awarded Star Performer and Best Team of the Year Cash award in Twinkle Software Solutions
+Pvt Ltd
+
+PROFILE
+
+Project Title 1: NHIS
+ Client: WHO (PNG Government)
+ Worked in Selenium Web Driver Automation Tool
+ Application Environment: Windows 7, Java, Eclipse, and SQL
+ Testing Method: Automation and Manual Testing
+ Role: Test Analyst
+Project Description:
+
 NHIS is mainly known as the National Health Information System provides the underpinnings for decision-
-making and has four key functions: data generation, compilation, analysis and synthesis, and communication and 
-use. Our health information system collects data from the health sector and other relevant sectors, analyses the data 
-to ensure their overall quality, relevance, and timeliness, and converts data into information for health-related 
-decision-making. Our Health information systems serve multiple users and a wide array of purposes that can be 
-summarized as the generation of information to enable decision-makers at all levels of the health system to identify 
-problems and needs, make evidence-based decisions on health policy, and allocate scarce resources optimally. Data 
-from different sources are used for multiple purposes at different levels of the healthcare system., We can use both 
-the Web Portal and Android Application of NHIS to view and make entries of Health Centre records of all kinds of 
-Diseases in both a daily and Monthly basis and also can visualize data as Dashboards, Graphs, and in the form of 
-Reports 
-Responsibilities: 
-● Designed test scripts using Selenium Web Driver 
-● Involved in Data driven testing using the POM framework 
-● Involved in the creation of a Test plan and responsible for creating test cases from Functional 
-Requirements. 
-● Involved in Automation environment setup using Eclipse, Java, and Selenium Web Driver. 
-● Used TestNG Framework for writing Test cases. 
-● Analyzing the Manual test cases for the feasibility of Automation in the Regression phase. 
-● Create manual test cases and report bugs with JIRA 
-● Execute SQL Queries and cross-check the values in DB with View 
-● Cross Check API response of JSON using SOAP UI and also using Rest Assured API Web Service 
-● Perform Unit Testing, Integration Testing, System Testing, and User Acceptance Testing 
- 
-Project Title 2:  MRL Fingerprint Verification 
- Client: Mineral Resources Lihir Ltd (PNG Government) 
- Application Environment: Windows 7, JIRA, Microsoft Excel, Fingerprint Device and SQL 
- Testing Method: Manual Testing 
- Role: Test Analyst 
-Project Description:  
-            MRL is an application mainly used by MRL Capital, which is the trustee of the Lihirians equity trust whose 
-assets now comprise proceeds of the sale of shares held for the Lihirians in the then Lihir Gold Ltd. Soipang said 
-these proceeds have been invested in real estate, trading shares, and other liquid assets in Papua New Guinea and 
-Australia. They have used this for the Registration purpose of Landowners to invest in Trade or any Real Estate and 
-also to Verify and authenticate the particulars of the individuals during their revisit. For Registration, We can use 
-both the Web Portal and Android Application, but for Verification, we can use only the Android Application to 
-assist with third-party fingerprint devices. 
-Responsibilities: 
-● Understand the user requirements using the SRS Document. 
-● Create manual test cases and report bugs with JIRA 
-● Understanding the test plan and identifying the scenario based on the requirements.  
-●  Performed Functionality, Re-Testing, and Regression Testing.  
-●  Designing and developing Test Cases based on functional requirements.   
-● Write test cases and be involved in the Execution of Test cases.  
-●  Logged the bugs into Bugzilla and shared them with the production team.  
-● Providing knowledge transfer to team members regarding the flow of execution 
-● Sending reports on a daily, weekly, and monthly basis. 
- 
- 
- 
- 
- 
-Date:  
-Place: Chennai 
-                                                                                                                           MILTON JESU RAJAN
+making and has four key functions: data generation, compilation, analysis and synthesis, and communication and
+use. Our health information system collects data from the health sector and other relevant sectors, analyses the data
+to ensure their overall quality, relevance, and timeliness, and converts data into information for health-related
+decision-making. Our Health information systems serve multiple users and a wide array of purposes that can be
+summarized as the generation of information to enable decision-makers at all levels of the health system to identify
+problems and needs, make evidence-based decisions on health policy, and allocate scarce resources optimally. Data
+from different sources are used for multiple purposes at different levels of the healthcare system., We can use both
+the Web Portal and Android Application of NHIS to view and make entries of Health Centre records of all kinds of
+Diseases in both a daily and Monthly basis and also can visualize data as Dashboards, Graphs, and in the form of
+Reports
+
+Responsibilities:
+● Designed test scripts using Selenium Web Driver
+● Involved in Data driven testing using the POM framework
+● Involved in the creation of a Test plan and responsible for creating test cases from Functional
+Requirements.
+● Involved in Automation environment setup using Eclipse, Java, and Selenium Web Driver.
+● Used TestNG Framework for writing Test cases.
+● Analyzing the Manual test cases for the feasibility of Automation in the Regression phase.
+● Create manual test cases and report bugs with JIRA
+● Execute SQL Queries and cross-check the values in DB with View
+● Cross Check API response of JSON using SOAP UI and also using Rest Assured API Web Service
+● Perform Unit Testing, Integration Testing, System Testing, and User Acceptance Testing
+
+Project Title 2: MRL Fingerprint Verification
+ Client: Mineral Resources Lihir Ltd (PNG Government)
+ Application Environment: Windows 7, JIRA, Microsoft Excel, Fingerprint Device and SQL
+ Testing Method: Manual Testing
+MRL is an application mainly used by MRL Capital, which is the trustee of the Lihirians equity trust whose
+assets now comprise proceeds of the sale of shares held for the Lihirians in the then Lihir Gold Ltd. Soipang said
+these proceeds have been invested in real estate, trading shares, and other liquid assets in Papua New Guinea and
+Australia. They have used this for the Registration purpose of Landowners to invest in Trade or any Real Estate and
+also to Verify and authenticate the particulars of the individuals during their revisit. For Registration, We can use
+both the Web Portal and Android Application, but for Verification, we can use only the Android Application to
+assist with third-party fingerprint devices.
+● Understand the user requirements using the SRS Document.
+● Understanding the test plan and identifying the scenario based on the requirements.
+● Performed Functionality, Re-Testing, and Regression Testing.
+● Designing and developing Test Cases based on functional requirements.
+● Write test cases and be involved in the Execution of Test cases.
+● Logged the bugs into Bugzilla and shared them with the production team.
+● Providing knowledge transfer to team members regarding the flow of execution
+● Sending reports on a daily, weekly, and monthly basis.
+
+Date:
+Place: Chennai

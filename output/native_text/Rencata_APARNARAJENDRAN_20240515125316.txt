@@ -1,527 +1,168 @@
-APARNA RAJENDRAN  
- 
-E-MAIL​:​  ​aparnachinjumr@gmail.com 
-Contact No: ​+91 9884460973 
-Location:​ Chennai 
- 
- 
-OBJECTIVE: 
-To work in the most challenging position with an organization that provides sufficient opportunities to 
-learn and to contribute. 
-PROFESSIONAL SUMMARY: 
+APARNA RAJENDRAN
+
+E-MAIL​:​ ​aparnachinjumr@gmail.com
+
+Contact
+ No: ​+91 9884460973
+Location:​ Chennai
+
+OBJECTIVE
+:
+To work in the most challenging position with an organization that provides sufficient opportunities to
+learn and to contribute.
+PROFESSIONAL 
+SUMMARY
+:
 ●
-●
-Extensive knowledge of Client/Server and Web based applications using  ASP.NET 
-●
-Having experience in software development and unit testing. 
-●
-Hands on in application development using with C# and ADO.NET. 
-●
-Experience in writing T-SQL query using MS SQL Server 2008. 
-●
-Experience in technical support. 
-●
-●
-Excellent communication and interpersonal skills. 
-●
-Good domain knowledge in the area of School Management with RFID, HRMS and Inventory 
-System. 
-●
-Experience in analysis, coding, designing and Supporting of various systems. 
-●
-Good working knowledge of HTML, DHTML, CSS, XML, AJAX. 
-●
-Strong Skills in developing 3-Tier and N-Tier Architecture systems deployed on windows 
-platform. 
-●
-Excellent analytical skills with Proficiency in debugging and Problem Solving. 
-●
-Extensive Object Oriented Design and Development skills. 
-●
-Experience in designing and implementation of web applications using ASP.NET including 
-client-side scripting using JavaScript. 
- 
- 
-WORKING EXPERIENCE: 
- 
-•
+Extensive knowledge of Client/Server and Web based applications using ASP.NET
+Having 
+experience
+ in software development and unit testing.
+Hands on in application development using with C# and ADO.NET.
+
+Experience
+ in writing T-SQL query using MS SQL Server 2008.
+
+Experience
+ in technical support.
+Excellent communication and interpersonal 
+skills
+.
+Good domain knowledge in the area of School Management with RFID, HRMS and Inventory
+System.
+
+Experience
+ in analysis, coding, designing and Supporting of various systems.
+Good working knowledge of HTML, DHTML, CSS, XML, AJAX.
+Strong 
+Skills
+ in developing 3-Tier and N-Tier Architecture systems deployed on windows
+platform.
+Excellent analytical 
+skills
+ with Proficiency in debugging and Problem Solving.
+Extensive Object Oriented Design and Development 
+skills
+.
+
+Experience
+ in designing and implementation of web applications using ASP.NET including
+client-side scripting using JavaScript.
+
+WORKING 
+EXPERIENCE
+:
+
+*
 Working as ​Sr. Software Engineer for ​ConnectiyaSoft​, Calicut, India from ​January 2017 to
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-•
+
 Worked as ​Sr. Software Engineer for ​Alzon Solutions​, Calicut, India from ​August 2015 to January
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-2017. 
-•
-Worked as a ​Sr. Software engineer​ in ​Meshilogic Software, Calicut​ (July  2014-July 2015) 
-•
-Worked as a ​Jr. Software engineer​ in ​Sotech Solutions, Calicut​ (Nov  2011-May 2014) 
- 
-EDUCATIONAL QUALIFICATION: 
-●
-Master of Computer Applications (MCA-2011) from Bharathiyar University. 
-●
-Bachelor of Computer Applications (BCA-2008) from Calicut University. 
- 
- 
- 
- 
- 
-6+ year experience in .net Technologies.
+
+2017.
+Worked as a ​Sr. Software engineer​ in ​Meshilogic Software, Calicut​ (July 2014-July 2015)
+Worked as a ​Jr. Software engineer​ in ​Sotech Solutions, Calicut​ (Nov 2011-May 2014)
+
+EDUCATIONAL QUALIFICATION:
+Master of Computer Applications (MCA-2011) from Bharathiyar University.
+Bachelor of Computer Applications (BCA-2008) from Calicut University.
+
+6+ year 
+experience
+ in .net Technologies.
 (1.1/2.0/3.5/4.0), AngularJs, ADO.NET, C#, VB.NET, Web Services, Telerik Rad Controls.
 Ability to learn and develop using new technology quickly.
 Februaryµ2018.
- 
-TECHNICAL PROFICIENCY: 
-Operating System                         : Windows7, Windows8, Windows10 
-Programming Languages             :  C#, .Net,MVC,WPF 
-Report                                            : Crystal Report 
-Scripting Languages                     : HTML ,JavaScript, VBScript,Angular JS 
-Database                                        : SQL Server 2008 (T-SQL) 
- 
-PROFESSIONAL EXPERIENCE: 
-PROJECT​ #1: ​INVENTORY MANAGEMENT SYSTEM​: 
-TOOLS​ : C#.net, .Net framework4.0, SQL server 2008, Ado.net. 
-ROLE ​: Software Engineer. 
-Project Description: 
+
+TECHNICAL PROFICIENCY:
+Operating System : Windows7, Windows8, Windows10
+Programming 
+Languages
+ : C#, .Net,MVC,WPF
+Report : Crystal Report
+Scripting 
+Languages
+ : HTML ,JavaScript, VBScript,Angular JS
+Database : SQL Server 2008 (T-SQL)
+
+PROFESSIONAL 
+EXPERIENCE
+:
+PROJECT​ #1: ​INVENTORY MANAGEMENT SYSTEM​:
+TOOLS​ : C#.net, .Net framework4.0, SQL server 2008, Ado.net.
+ROLE ​: Software Engineer.
+Project Description:
 Inventory Software is designed to handle all the needs in most efficient, effective &
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
+
 accurate way. Billing and Inventory Solution is committed to provide the best supporting system for the
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Business upgrading itself from time to time according to the market needs. It’s offering a wide range of
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
-easy Inventory Solution which is best suited for financial accounting and inventory information. 
- 
-PROJECT ​#2: ​HUMAN RESOURCE MANAGEMENT SYSTEM​: 
-TOOLS ​: C#.net, .Net framework4.0, SQL server 2008, Ado.net. 
-ROLE​ : Software Engineer. 
-Project Description: 
+
+Business upgrading itself from time to time according to the market needs. It's offering a wide range of
+
+easy Inventory Solution which is best suited for financial accounting and inventory information.
+
+PROJECT ​#2: ​HUMAN RESOURCE MANAGEMENT SYSTEM​:
+TOOLS ​: C#.net, .Net framework4.0, SQL server 2008, Ado.net.
+ROLE​ : Software Engineer.
 Human resource management is the strategic and coherent approach to the management of an
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 organization's most valued assets - the people working there who individually and collectively
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 contribute to the achievement of the objectives of the business. We have automated all your business
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-process so that you can focus on growing your business. 
- 
-PROJECT​ #3: ​SCHOOL MANAGEMENT SYSTEM WITH RFID​: 
-TOOLS ​: C#.net, .Net framework4.0, SQL server 2008, Ado.net. 
-ROLE ​: Software Engineer. 
-Project Description: 
-It’s a product for schools which serves them to make their school management easy. With the
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+process so that you can focus on growing your business.
+
+PROJECT​ #3: ​SCHOOL MANAGEMENT SYSTEM WITH RFID​:
+It's a product for schools which serves them to make their school management easy. With the
+
 help of this portal the school management, students, teachers as well as parents would be benefited.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 iCare, an id to care students, is a complete RFID based automatic student monitoring system. This
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
+
 automated school management system improve the school management process more easy and
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 efficient. Also provide better interaction among students, teachers, parents and the authority. Offer
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 absolute security for the students and also provide perfect students tracking to the parents. iCare is
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 based on radio frequency. Automatic identification technology to ascertain the student entrance and
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-exits from the institution. iCare also provides a complete ERP for the school management. 
- 
- 
- 
-Responsibilities: 
- 
-●
-Involved in Coding, Design and Test Phases. 
-●
-Involved in writing Queries, Stored Procedures. 
-●
-Developed application logic using C#. 
-●
+
+exits from the institution. iCare also provides a complete ERP for the school management.
+
+Responsibilities:
+
+Involved in Coding, Design and Test Phases.
+Involved in writing Queries, Stored Procedures.
+Developed application logic using C#.
 Used N-tier architecture for presentation layer, the Business and Data Access Layers and were
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-coded using C#. 
-●
-Used Crystal Reports to generate the reports. 
-●
-Written stored procedures, triggers using SQL in SQL SERVER 2008. 
-●
-Worked intensely on the User Interface. 
- 
- 
-PROJECT​ #4: ​RESTAURANT MANAGEMENT SYSTEM ​: 
-TOOLS ​: C#.net, .Net framework4.0, SQL server 2008, Ado.net. 
-ROLE ​: Software Engineer. 
-Project Description: 
+
+coded using C#.
+Used Crystal Reports to generate the reports.
+Written stored procedures, triggers using SQL in SQL SERVER 2008.
+Worked intensely on the User Interface.
+
+PROJECT​ #4: ​RESTAURANT MANAGEMENT SYSTEM ​:
 ​Tomato presents your restaurant menu in a digital form which is interactive with striking
- 
- 
- 
- 
- 
- 
-   
- 
- 
-   
- 
- 
- 
+
 visuals. It is an easy-to-use solutions that is highly customizable to meet every requirement of any
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 restaurant type​.It is an ​automated process allows your staff to attend and service your guests more
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-efficiently increasing the rotation of customers per table and less waiting time for the customers. It’s
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+efficiently increasing the rotation of customers per table and less waiting time for the customers. It's
+
 increase your average bill value by up selling items, specials, etc. by promoting them with pictures and
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-up-to-date information. 
- 
- 
-Responsibilities: 
- 
-●
-Involved in Coding, Design and Test Phases. 
-●
-Involved in writing Queries, Stored Procedures. 
-●
-Developed application logic using C#. 
-●
-Used N-tier architecture for presentation layer, the Business and Data Access Layers and were
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-coded using C#. 
-●
-Used Crystal Reports to generate the reports. 
-●
-Written stored procedures, triggers using SQL in SQL SERVER 2008. 
-●
-Worked intensely on the User Interface. 
- 
- 
-PROJECT​ #5: ​BULKSMS(PRODUCT)​: 
-TOOLS 
-ROLE ​: Software Engineer. 
-Project Description:   
-      ​                   It’s a web based Enterprise wide application which gives users to do bulk sms and 
-features related to sms. 
-Responsibilities: 
- 
-●
-Involved in Coding, Design and Test Phases. 
-●
-Involved in writing Queries, Stored Procedures. 
-●
-Developed application logic using C# and Asp.net MVC. 
-●
-Used N-tier architecture for presentation layer, the Business and Data Access Layers and were
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-coded using C#. 
-●
-Written stored procedures, triggers using SQL in SQL SERVER 2008. 
+
+up-to-date information.
+
+PROJECT​ #5: ​BULKSMS(PRODUCT)​:
+TOOLS
+​ It's a web based Enterprise wide application which gives users to do bulk sms and
+features related to sms.
+
+Developed application logic using C# and Asp.net MVC.
+
 :¶C#,Asp.net¶MVC,¶HTML,¶AngularJs,¶JavaScript,¶Ajax,¶JQuery,¶SQL¶server¶2008,¶Ado.net.
- 
- 
-DECLARATION: 
- 
-I hereby declare that the above information is correct to the best of my knowledge and belief. 
- 
+
+DECLARATION:
+
+I hereby declare that the above information is correct to the best of my knowledge and belief.
+
 Chennai
-                             Aparna Rajendran

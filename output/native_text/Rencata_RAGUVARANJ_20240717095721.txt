@@ -1,226 +1,156 @@
-RAGUVARAN J 
-Email Id: j.raguvaran95@gmail.com  
-SOFTWARE TEST ENGINEER 
-Mobile: +91 7904886214 
- 
-CAREER OBJECTIVE 
- 
-To get exposure in the challenging work environment in a renowned organization having ample 
-scope for self-improvement and contribute to the organization to the maximum possible extent 
- 
-PROFESSIONAL OVERVIEW : 
- 
-Having overall 5 years of Experience in Software testing (Manual) and having knowledge in 
-Selenium& Automation Testing. 
- 
-Experience in testing Web applications. 
- 
-Experience in preparing potential test cases and logging defects in JIRA tool. 
- 
-Good experience in creating, modifying and selenium automation scripts. 
- 
-Posting the issues in Defect Tracking tools (JIRA) with proper Priority. 
- 
-Good experience in Sanity, Smoke, Functional, UI, SIT, Compatibility and Regression Testing. 
- 
-Good understanding of SDLC, STLC, Bug Life Cycle, Traceability Matrix. 
- 
-Involving in giving daily and weekly status report to team members. 
- 
-Worked on Test management /Defect Tracking tool Jira. 
- 
-Experience on Writing the Scripts using Selenium WebDriver, Test Ng, Core Java. 
- 
-Good Experience in SQL to Retrieve the Data 
- 
-Good knowledge on web services tools Post Man and Rest API and understanding of HTTP 
-code responses 
- 
-Parse the response JSON and validated the DATA using JAVA. 
- 
-Created and maintained automated test script for API testing using JAVA/TestNG. 
- 
-Update the framework with helper methods if any while developing REST API automation scripts. 
- 
-WORK EXPERIENC 
- 
- 
-Working as Associate Testing Engineer in WIPRO LTD   Outworx (payroll) from Dec 2022 to  Feb 
-2024. 
- 
-Worked as Associate Testing Engineer in MSC Technology India PVT.LTD from   Dec 2019 to Sep 
-2022. 
- 
-Worked as Software Testing Engineer in CMA CGM Shared Service Center India PVT.LTD from Jan 
-2018 to Aug 2019. 
-TECHNICAL SKILLS 
- 
-Software Testing 
-: Selenium Automation, Manual 
- 
-Programming Language 
-: Java 
- 
-Unit testing tools 
-: TestNG, Junit 
- 
-Version Tracking Tool 
-: Git 
- 
-Test Management Tools 
-: JIRA 
- 
-Automation 
-: Functional UI/API 
- 
-API 
-: Postman (Manual), Rest Assured (Automation) 
-QUALIFICATION: 
- 
- 
-B.com(I.S.M) - Dharmamurthi Rao Bhahadur Calavala Cunnan Chetty's Hindu college (2017)-65% 
- 
-H.S.C –  S.S.V.V Matriculation (2014)-61% 
- 
-SSC -  Don Bosco Matriculation (2012)-67 % 
- 
-PROJECT DETAILS: 
- 
-#Project -1 DHL Logistics: 
- 
-DHL Global Forwarding, Freight (DGFF) needs to improve its finance and logistics processes across its five 
-Global Service Centers (GSC). Its goal is to create a global process automation hub to remove internal 
-process bottlenecks and position the entire organization to continue to provide top-notch service. Its 
-solution is a classical Human Delivery Center structure complemented by a Virtual Delivery Center 
-  
- 
-Roles & Responsibilities 
- 
- 
-Understand the business requirements provided by clients. 
- 
-Responsible for preparing effort estimates and creating subtasks in JIRA and 
-presenting in sprint planning. 
- 
-Responsible for developing test plan, test scenarios and test cases for each sprint. 
- 
-Test Automation using Selenium Web driver Cucumber Framework 
- 
-Responsible for all execution activities such as Cross browser, Mobile, Postman-API, Rest 
-Assured, Smoke and Regression testing. 
- 
-Defect analysis, Defect Reporting and Daily tracking and presenting defects to clients in daily 
-stand-upcall. 
- 
-Effectively interacted with clients on updating test status and test cases. 
- 
-Modifying existing scenarios and developed on according to our new changes. 
- 
-Responsible for performing execution once new code is deployed to QA and 
-UAT environment. 
- 
-Responsible for performing Database Testing in MySQL with DML commands 
- 
- 
- 
-#Project - 2 
- 
-Ecuador Exports and Imports 
- 
-To manifesting bill of lading, Generating / creating various reports for Agencies and make sure to 
-achieve the Service Level Agreement as agreed with agencies. Communicate with the agency for updates, 
-Escalations and clarifications. Handling Documentation related queries from both customer & Agencies. 
-Communicate with agency and customer to get missing details of complete the shipment. 
- 
- 
- 
- 
- 
-         Roles & Responsibilities 
- 
- 
-Understanding and Analyzing the Application under Test in terms of Object Identification. 
- 
-Test Automation using Selenium Web driver Cucumber Framework. 
- 
-Creating Test scenarios and Collecting Test Data. 
- 
-Identifying end to end scenarios and code modularity. 
- 
-Creating reusable components. 
- 
-Responsible for identifying Regression test cases and converting test case to test script using Selenium 
-WebDriver. 
- 
- 
-Actively involved in writing and maintenance of test scripts and to run test cases on various browsers 
-under Data driven framework using Page Object model, TestNG and Apache POI. 
- 
-Utilize ID, X-path and other locators to locate elements on Webpages for the Application under test. 
- 
-Creating and enhancing Test Cases (Test Scripts) using Element locators, WebDriver methods, Java 
-programming concepts. 
- 
-#Project - 3 
- 
-Vietnam Exports and Imports 
-  
-To manifesting bill of lading, Generating / creating various reports for Agencies and make sure to 
-achieve the Service Level Agreement as agreed with agencies. Communicate with the agency for updates, 
-Escalations and clarifications. Handling Documentation related queries from both customer & Agencies. 
-Communicate with agency and customer to get missing details of complete the shipment. 
- 
- Roles &Responsibilities 
- 
- 
-Understanding and Analyzing the Application under Test in terms of Object Identification. 
- 
-Test Automation using Selenium Web driver Cucumber Framework. 
- 
-Creating Test scenarios and Collecting Test Data. 
- 
-Identifying end to end scenarios and code modularity. 
- 
-Creating reusable components. 
- 
-Responsible for identifying Regression test cases and converting test case to test script using Selenium 
-WebDriver. 
- 
-Actively involved in writing and maintenance of test scripts and to run test cases on various browsers 
-under Data driven framework using Page Object model, TestNG and Apache POI. 
- 
-Utilize ID, X-path and other locators to locate elements on Webpages for the Application under test. 
- 
-Creating and enhancing Test Cases (Test Scripts) using Element locators, WebDriver methods, Java 
-programming concepts. 
- 
-PERSONAL DETAILS: 
- 
-Name 
-: J.Raguvaran 
- 
-Date of Birth 
-: 26-09-1995 
- 
-Sex 
-: Male 
- 
-Nationality 
-: Indian 
- 
-Marital status 
-: Married 
- 
-Languages Known 
-: Tamil, English 
- 
- 
- 
-DECLARATION 
- 
-I hereby declare that all the information provided is true to the best of my knowledge. 
- 
-Place: Chennai 
-Date: 
- 
+RAGUVARAN J
+Email Id: j.raguvaran95@gmail.com
+SOFTWARE TEST ENGINEER
+Mobile: +91 7904886214
+
+CAREER 
+OBJECTIVE
+
+To get exposure in the challenging work environment in a renowned organization having ample
+scope for self-improvement and contribute to the organization to the maximum possible extent
+
+PROFESSIONAL OVERVIEW :
+
+Having overall 5 years of 
+Experience
+ in Software testing (Manual) and having knowledge in
+Selenium& Automation Testing.
+
+Experience
+ in testing Web applications.
+
+Experience
+ in preparing potential test cases and logging defects in JIRA tool.
+Good 
+experience
+ in creating, modifying and selenium automation scripts.
+Posting the issues in Defect Tracking tools (JIRA) with proper Priority.
+Good 
+experience
+ in Sanity, Smoke, Functional, UI, SIT, Compatibility and Regression Testing.
+Good understanding of SDLC, STLC, Bug Life Cycle, Traceability Matrix.
+Involving in giving daily and weekly status report to team members.
+Worked on Test management /Defect Tracking tool Jira.
+
+Experience
+ on Writing the Scripts using Selenium WebDriver, Test Ng, Core Java.
+Good 
+Experience
+ in SQL to Retrieve the Data
+Good knowledge on web services tools Post Man and Rest API and understanding of HTTP
+code responses
+Parse the response JSON and validated the DATA using JAVA.
+Created and maintained automated test script for API testing using JAVA/TestNG.
+Update the framework with helper methods if any while developing REST API automation scripts.
+
+WORK EXPERIENC
+
+Working as Associate Testing Engineer in WIPRO LTD Outworx (payroll) from Dec 2022 to Feb
+2024.
+Worked as Associate Testing Engineer in MSC Technology India PVT.LTD from Dec 2019 to Sep
+2022.
+Worked as Software Testing Engineer in CMA CGM Shared Service Center India PVT.LTD from Jan
+2018 to Aug 2019.
+TECHNICAL 
+SKILLS
+
+Software Testing
+: Selenium Automation, Manual
+Programming Language
+: Java
+Unit testing tools
+: TestNG, Junit
+Version Tracking Tool
+: Git
+Test Management Tools
+: JIRA
+Automation
+: Functional UI/API
+API
+: Postman (Manual), Rest Assured (Automation)
+
+QUALIFICATION:
+
+B.com(I.S.M) - Dharmamurthi Rao Bhahadur Calavala Cunnan Chetty's Hindu college (2017)-65%
+H.S.C - S.S.V.V Matriculation (2014)-61%
+SSC - Don Bosco Matriculation (2012)-67 %
+
+PROJECT DETAILS:
+
+#Project -1 DHL Logistics:
+
+DHL Global Forwarding, Freight (DGFF) needs to improve its finance and logistics processes across its five
+Global Service Centers (GSC). Its goal is to create a global process automation hub to remove internal
+process bottlenecks and position the entire organization to continue to provide top-notch service. Its
+solution is a classical Human Delivery Center structure complemented by a Virtual Delivery Center
+
+Roles & Responsibilities
+
+Understand the business requirements provided by clients.
+Responsible for preparing effort estimates and creating subtasks in JIRA and
+presenting in sprint planning.
+Responsible for developing test plan, test scenarios and test cases for each sprint.
+Test Automation using Selenium Web driver Cucumber Framework
+Responsible for all execution activities such as Cross browser, Mobile, Postman-API, Rest
+Assured, Smoke and Regression testing.
+Defect analysis, Defect Reporting and Daily tracking and presenting defects to clients in daily
+stand-upcall.
+Effectively interacted with clients on updating test status and test cases.
+Modifying existing scenarios and developed on according to our new changes.
+Responsible for performing execution once new code is deployed to QA and
+UAT environment.
+Responsible for performing Database Testing in MySQL with DML commands
+
+#Project - 2
+
+Ecuador Exports and Imports
+
+To manifesting bill of lading, Generating / creating various reports for Agencies and make sure to
+achieve the Service Level Agreement as agreed with agencies. Communicate with the agency for updates,
+Escalations and clarifications. Handling Documentation related queries from both customer & Agencies.
+Communicate with agency and customer to get missing details of complete the shipment.
+
+Understanding and Analyzing the Application under Test in terms of Object Identification.
+Test Automation using Selenium Web driver Cucumber Framework.
+Creating Test scenarios and Collecting Test Data.
+Identifying end to end scenarios and code modularity.
+Creating reusable components.
+Responsible for identifying Regression test cases and converting test case to test script using Selenium
+WebDriver.
+
+Actively involved in writing and maintenance of test scripts and to run test cases on various browsers
+under Data driven framework using Page Object model, TestNG and Apache POI.
+Utilize ID, X-path and other locators to locate elements on Webpages for the Application under test.
+Creating and enhancing Test Cases (Test Scripts) using Element locators, WebDriver methods, Java
+programming concepts.
+
+#Project - 3
+
+Vietnam Exports and Imports
+
+Roles &Responsibilities
+
+PERSONAL DETAILS:
+Name
+: J.Raguvaran
+Date of Birth
+: 26-09-1995
+Sex
+: Male
+Nationality
+: Indian
+Marital status
+: Married
+
+Languages
+ Known
+: Tamil, English
+
+DECLARATION
+
+I hereby declare that all the information provided is true to the best of my knowledge.
+
+Place: Chennai
+Date:
+
 (RAGUVARAN J)

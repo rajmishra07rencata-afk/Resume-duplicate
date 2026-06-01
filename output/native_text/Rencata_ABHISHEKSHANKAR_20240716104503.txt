@@ -1,15 +1,23 @@
-ABHISHEK SHANKAR 				Email:spectrumon@gmail.com	
-Hyderabad						
-Cntact no +919013774240			           
+Please visit my Blog Business Intelligence/ETLhttp://pentahogeek.blogspot.in/
+Sensitivity: Internal & Restricted
+ABHISHEK SHANKAR Email:spectrumon@gmail.com
+Hyderabad
+Cntact no +919013774240
 http://Pentaho geek.blogspot.in
 
-Objective:
-13+ years of experience with Business Intelligence / ETL,Responsible for the overall development life cycle of the solution and manage complex projects, resolve technical challenges needed between the different functional groups - Technology, Operations Infrastructure, CyberSecurity, and Product Development (PD). Manage the day-to-day project plan. Lead project level retrospectives and RCAs (Root Cause Analysis) with clear next steps, action items, and follow-up.
+Objective
+:
+13+ years of 
+experience
+ with Business Intelligence / ETL,Responsible for the overall development life cycle of the solution and manage complex 
+projects
+, resolve technical challenges needed between the different functional groups - Technology, Operations Infrastructure, CyberSecurity, and Product Development (PD). Manage the day-to-day project plan. Lead project level retrospectives and RCAs (Root Cause Analysis) with clear next steps, action items, and follow-up.
 Strong knowledge of, Big data, cloudera,Pentaho Data Integration (PDI),
-Good experience on Handling large datasets/Data lake from different data sources by using big data technology 
-My Blog for support on  Data migration and Business intelligence
+Good 
+experience
+ on Handling large datasets/Data lake from different data sources by using big data technology
+My Blog for support on Data migration and Business intelligence
 http://Pentahogeek.blogspot.in
-
 Lead strategic initiatives in engineering excellence and technology upgrade
 Solution architect for Data integration and business intelligence systems
 Deep understanding of Data Engineering
@@ -17,32 +25,61 @@ Design business process, data flow, and architecture
 Plan, design, manage, execute, and deliver robust innovative software solutions
 Coach and Mentor
 Team development
-
-Technical Skills: -
-
-
+Technical 
+Skills
+: -
+Area | Years of 
+experience
+ | Details
+Operating System | - | Linux, Red Hat ,Ubuntu (10.04,12.1) , Windows 7,10 server, centos 6.0
+Language | - | Java/J2EE, JavaScript, C, SQL. PLsql
+BI Front End | 13+ yr | Pentaho report Designer, CDE
+Database | 13+ yr | MySQL Server5.5, Mongo DB, Postgres9.1, Oracle 9i, 11g, 2016, Microsoft SQL Server, Orientdb.Cassendra, neo4j,
+Cloud | 10+ yr | AWS EC2,S3 ,Azure, GCP
+Messaging system | 7+ yr | Kafka (10) messaging system, JMS
+Mainframe | 3+ yr | Migrated data from mainframe to Oracle 2016
+Web Technology | 9+ yr | HTML. FTL, JSP, JavaScript, jQuery, XML
+Data Migration | 10+ yr | ispirer, Striim, AWS SCT
+Reporting Tool | 7+ yr | Pentaho, BIRT (Business Intelligence and Reporting tool) used Pentaho as ETL tool, workbench scheme, for creating OLAP cubes
+IDE | 5+ | Eclipse
+Big Data Technology | 9+ yr | Hadoop cluster (3.0), Mongo DB, Hive, Pig, HDFS, NoSQL, mongo DB, Weka(3.6),Kafka 9.0,Phonenix,Ambari,HDP Hadoop, Cloudera 7.0 (CDP)
+Pentaho | 13+ yr | Customized Pentaho Bi server for different database like oracle ms-sql (Microsoft SQL server ) ,MySQL ,and fully customized the look and feel of bi-server, Applied "RBAC" (Role based Access control) created OLAP cubes and Dynamic Dashboards, configured saiku analytics for Pentaho , Pentaho Report Designer, Community Dashboard Editor,(CDE),PDI(kettle),created OLAP (Star schema) for data cubes. Scheduled. Used Pentaho for data migration. Created Dynamic, static, graphical, tabular, sub reports (inline and banded) Reports using PRD (Pentaho report Designer) with multiple / single/ OLAP/ ETL Data source. Created Dash board by using CDE.
+Carte server clustering
+Data Streaming | Striim, Kafka
+Apache | Developed and Deployed war file in Ofbiz for BIRT and Alfresco Customized Tomcat for above applications Jboss. Deployed alfresco and Pentaho on jboss 6 and 5.1,4,0
+Jboss | Deployed alfresco, Ofbiz 10.04 and Pentaho on jboss 6 and 5.1,4,0
+ETL | 13+ yr | Pentaho Data Integration, PDI version 7,8.2.. 9 Talend 7.3,TIC, Ab-initio
+Quality Assurance Tool | 12+ yr | Jira 6.0, Mentis 2.0,
+Version control tool / CICD | 12+ yr | Tortoise Subversion library 1.9, Bitbucket
 Roles and Responsibility
-Accountable for the end-to-end planning and implementation of complex projects and/or Agile teams. Lead and negotiate, scope, schedule, budget, risks, deployments and communications for projects and initiatives.
-Coach multiple teams through the software development process using Agile, Scrum, and Lean practices and work openly and boldly across all functions and geographies to ensure projects are developed and deployed with quality and timely delivery into our production systems.
+Accountable for the end-to-end planning and implementation of complex 
+projects
+ and/or Agile teams. Lead and negotiate, scope, schedule, budget, risks, deployments and communications for 
+projects
+ and initiatives.
+Coach multiple teams through the software development process using Agile, Scrum, and Lean practices and work openly and boldly across all functions and geographies to ensure 
+projects
+ are developed and deployed with quality and timely delivery into our production systems.
 Guide groups through processes that help them come to solutions and make decisions.
 As an Architect I am responsible for designing different data pipe lines using Different ETL tools like Pentaho, Talend, ab-initio etc. Designed ETL process which can Ingest data from Different sources like XML,Delimitedfiles, JSON,Binary, PDFs,Flat files, REST and SOAP web services, FTP, Databases tables, NO SQL Like Mongo, Mainframe Systems, DB2, MySQL, Oracle, Postgres, Neo4j.
 Created Data ware house and DataMart on OLAP and OLTP based on requirement.
-Good experience in creating Data Lake in on premise server or on cloud like AWS, GCP and Azure.
+Good 
+experience
+ in creating Data Lake in on premise server or on cloud like AWS, GCP and Azure.
 
 Projects
+
 Current:- This project is one of the largest Electronics components seller from Europe.In this project we have to create datalake , which can Ingest data from multiple sources and put in Data lake.
 We used cloud era platform for big data systems and used AWS s3 as storage. Our ETL pipe line Ingesting data from different sources like SAP, Kafka, sales force ,Oracle,SQL servers and putting into Data lake.
 Project#1:- Requirement is read data from Denodo views and lodging to Anaplan.
-Once data is exported to csv files from Denodo using pentaho, we have to load these data to AWS S3  location and later we have to load this data to Anaplan models using web services call. 
+Once data is exported to csv files from Denodo using pentaho, we have to load these data to AWS S3 location and later we have to load this data to Anaplan models using web services call.
 Later for logging and auditing purpose we are capturing failed/rejected records by Anaplan server into csv files and later these csv files we are storing in a AWS s3 location
 Project#2:-Requirement is to Migrate Legacy systems to big data platform.
-Legacy system contains data in different sources such as different Databases, Flat files, excel, web services and PDF files as well. Requirement is to get data from different sources convert them and load them to Data lake such as HDFS, Mongo DB, Kafka or phoenix table. Later these data is used in reports Analysis and cubes. 
+Legacy system contains data in different sources such as different Databases, Flat files, excel, web services and PDF files as well. Requirement is to get data from different sources convert them and load them to Data lake such as HDFS, Mongo DB, Kafka or phoenix table. Later these data is used in reports Analysis and cubes.
 Project#3:- This project is for MUFG Union Bank USA,
 This project is for extracting desired data from multiple file in to predefined format and then after loading this data to database. There are several types of files as source file such as PDF, XML, MS Excel, Text, Emails, CSV and Databases. We have to extract desired data from these sources validate them according to predefines format then after we need load this data to database/My Access. Some data we need to load to mongo DB and then after to RDBMS MySQL /My Access.
 Project# 4This project is for making complete BI solution for our client, there were requirement to create a data ware house so that this can be used to feed data to several Dashboards/reports.
-Project #5: Berkshire Insurance:  This project is for extracting desired data from multiple data source and load to data MySQL database , . Later these data is used for creating OLTP (live reports) and OLAP (Historical reports) Analysis and data cubes
-
-
+Project #5: Berkshire Insurance: This project is for extracting desired data from multiple data source and load to data MySQL database , . Later these data is used for creating OLTP (live reports) and OLAP (Historical reports) Analysis and data cubes
 Professional History:
 Architect at Wipro ltd http://http://www.wipro.comJuly 2019 till date
 Technical Architect at Sagarsoft http://www.sagarsoft.comHyderabad July2017 to July 2019
@@ -50,18 +87,20 @@ Senior Consultant at Aujas Network https://www.aujas.com/ Bangalore March 2016 J
 BI Architect at Netlink Software Pvt Ltd http://www.netlink.comGurgaon June 2015 till March 2016
 Team Lead at Polaris Financial Technology http://www.polarisft.comGurgaon August 2014 till June 2015
 Senior software Engineer at R system International http://www.rsystems.com/ Noida Jully-2013 -July 2014
-Software Engineer at NIIT Limited (www.niit.com) Gurgaon Nov 2011 –Dec 2012
-Software Engineer at Sarathi Solutions Private Limited http://http://www.sarathisolutions.comBangalore Apr 2009– Nov 2011
-
+Software Engineer at NIIT Limited (www.niit.com) Gurgaon Nov 2011 -Dec 2012
+Software Engineer at Sarathi Solutions Private Limited http://http://www.sarathisolutions.comBangalore Apr 2009- Nov 2011
 Educational Qualification
 Bachelor of engineering from Visvesvaraya technological university in June 2008
-Personal Information   
-Name:-Abhishek Shankar  
-Current Location:-Hyderabad, India
-LinkedIn profile 
-https://in.linkedin.com/in/shankar-abhishek-2872b418
 
-Declaration:- 
+Personal Information
+
+Name:-Abhishek Shankar
+Current Location:-Hyderabad, India
+LinkedIn 
+profile
+
+https://in.linkedin.com/in/shankar-abhishek-2872b418
+Declaration:-
 I hereby declare that the information furnished above is true to the best of my knowledge.
 Date:
 Place: Hyderabad, India

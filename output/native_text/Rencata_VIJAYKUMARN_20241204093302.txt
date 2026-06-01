@@ -1,160 +1,159 @@
-VIJAYKUMAR.N 
-Vijaykumar.ncbe@gmail.com 
-+917871679432 
- 
- 
-CAREER OBJECTIVE:- 
-Looking for Technical support / Networking challenging job, where I can utilize my talent 
-and knowledge. I want to learn from the organization and grow with organization. 
- 
-ACADEMIC CREDENTIALS:- 
- 
-QUALFICATION 
-BOARD/UNIVERSITY 
-  
-YEAR 
-  PERCENTAGE 
-B.SC 
-COMPUTER 
-SCIENCE 
-KG College of Arts & 
-Science 
-2015-2018 
-70% 
-HSC 
-Government Higher 
-Secondary School 
-2014-2015 
-74% 
-SSLC 
-Government Higher 
-Secondary School 
-2012-2013 
-80% 
- 
-ADDITIONAL QUALLFICATION:- 
- 
-• 
-Course completed in CCNA Routing and Switching from Appex Technologies, Coimbatore 
-• I have been studying the Red Hat (Linux) course from Refinement solutions 
-(Coimbatore) 
-TECHNICAL SKILL:- 
- 
-➢ Operating Systems 
-: Windows 10, Windows 8, Windows 7 
-➢ Email Clients 
-: Microsoft outlook 
-➢ Network concept 
-: DHCP and FTP 
-➢ Remote Access 
-: Remote Access software and Network Sharing 
-➢ Antivirus 
-: Trend micro,Seqrite, 
- 
-PROFESSIONAL SUMMARY:- 
- 
-My Total Experience in IT Career is 3 years. 
- 
-➢ 
-Critical aspects of troubleshooting on desktop and various devices. 
-➢ 
-Flexible and adaptable, able to work in ambiguous situations. 
-Curriculum 
-WORK EXPERIENCE: vThink Global Technologies Pvt.Ltd, Chennai 
-System/Network Engineer From -16-08-2021 to Present. 
-➢ Excellent in problem solving and technical skills and confident decision marking for enabling 
-effective solution leading to quality deliverables. 
- 
- 
-JOB ROLE & RESPONSIBILITIES:- 
- 
-➢ OS formatting, OS up gradation with all user data backup and all basic S/W 
-installation 
-➢ 
-Wi-Fi & LAN Network issue 
-➢ 
-HP Printer Installation and Paper Jam issue. 
-➢  Antivirus Installation on Server and Client machine, Monitoring on all client 
-machines. 
-➢ 
-Knowledge of DNS, TCP/IP and other networking concepts. 
-➢ 
-Maintaining server architecture security and creating system backups 
-➢ 
-Windows upgrade from software center and monthly windows security patch updates. 
-➢ 
-Close bulk tickets monthly / weekly from Ticketing Tool. 
-➢ Monitoring and health checkups of Windows/ Linux Server CPU, Disk, Memory 
-➢ Install and configure software and hardware. 
-➢ Manage network, servers and technology tools. 
- 
-PROVIOUS WORK EXPERIENCE: - 
-I have worked with Precision Infomatic Pvt.Ltd. (Coimbatore) as an Associate System 
-Engineer from 03 Oct 2019 to 08 Aug 2021 
- 
-JOB DETAILS AND PROFILES:- 
-❖ Worked at Client Site Bajaj Allianz General Insurance Co.Ltd 
-Coimbatore as System Engineer 
-❖ Identifying & Troubleshooting of OS related problems 
-❖ Installed operating systems, applications, service packs etc. 
-❖ Installing Server & clients, managing and monitoring the Anti-Virus server 
-and its updates 
-❖ Co-ordination with customers through mail, phone handing issues over 
-phone. 
-❖ Managing calls Remotely through VNC, Mstsc 
-❖ Prioritizing trouble calls and following up to ensure resolution. 
-❖ Installing and configuring Aspect 7.1 and maintaining the servers and 
-coordinating for any major issues with higher level technical team 
-❖ Coordinating with service provider for Network issues. 
-❖ Check user domain password expiry date and id lock, web id lock issue 
-❖ VPN (citrix gateway application issue). 
-❖ Laptop/desktop configuration, user configuration and allocation. 
-❖ Bit locker encryption and decryption. 
-❖ SCCM Client installation and Un-installation, Certificate update and 
-related troubleshooting 
-❖ Handling ticketing tool portal and office mails. 
-❖ Kodak scanner installation and Printer installation, printer jam issue, not 
-scanning on mail 
-❖ Installation of printer with sharing, scanner other hardware and 
-troubleshooting of devices 
-HARDWARE AND SOFTWARE RELATED PROBLEM:- 
-❖ O.S formatting, O.S up gradation with all user data backup and all basic s/w 
-installation. 
-❖ Laptop/Desktop configuration, user configuration and allocation. 
-❖ Bit locker encryption and decryption. 
-❖ Antivirus installation, update. 
-❖ SCCM Client installation and update. 
-❖ Handling ticketing tool portal and office mails. 
-❖ Printer cartridge issue, paper jam, not getting print, not scanning on mail. 
-❖ Kodak scanner installation, Barcode machine. 
-❖ VC room handling. 
- 
-PERSONAL TRAITS:- 
-➢ Hardworking and confident 
-➢ My mind is receptive to learning new things regardless of the source. 
-➢ Friendly and articulate 
-➢ Punctual and Honest 
- 
-PERSONAL DETAILS:- 
- 
-Full Name 
-: VIJAYAKUMAR N 
-Date of Birth 
-: 29-07-1997 
-Command on Languages 
-: English. Tamil 
-Residence Address 
-: House No 62/93 VOC Nagar 
-Nallamaplayam Road Kavundamplayam 
-Coimbatore- 641030 
-ACKNOWLEDGEMENT:- 
- 
-I do here by declare that particulars of information and facts started above are 
-true, correct and complete to the best of my knowledge and belief. 
- 
- 
- 
- 
-DATE: 
-SIGNATURE 
+VIJAYKUMAR.N
+Vijaykumar.ncbe@gmail.com
++917871679432
+
+CAREER 
+OBJECTIVE
+:-
+Looking for Technical support / Networking challenging job, where I can utilize my talent
+and knowledge. I want to learn from the organization and grow with organization.
+
+ACADEMIC
+ CREDENTIALS:-
+
+QUALFICATION
+BOARD/UNIVERSITY
+
+YEAR
+ PERCENTAGE
+B.SC
+COMPUTER
+SCIENCE
+KG College of Arts &
+2015-2018
+70%
+HSC
+Government Higher
+Secondary School
+2014-2015
+74%
+SSLC
+2012-2013
+80%
+
+ADDITIONAL QUALLFICATION:-
+
+*
+Course completed in CCNA Routing and Switching from Appex Technologies, Coimbatore
+* I have been studying the Red Hat (Linux) course from Refinement solutions
+(Coimbatore)
+TECHNICAL SKILL:-
+
+➢ Operating Systems
+: Windows 10, Windows 8, Windows 7
+➢ Email Clients
+: Microsoft outlook
+➢ Network concept
+: DHCP and FTP
+➢ Remote Access
+: Remote Access software and Network Sharing
+➢ Antivirus
+: Trend micro,Seqrite,
+
+PROFESSIONAL 
+SUMMARY
+:-
+
+My Total 
+Experience
+ in IT Career is 3 years.
+
+➢
+Critical aspects of troubleshooting on desktop and various devices.
+Flexible and adaptable, able to work in ambiguous situations.
+Curriculum
+
+WORK 
+EXPERIENCE
+: vThink Global Technologies Pvt.Ltd, Chennai
+System/Network Engineer From -16-08-2021 to Present.
+➢ Excellent in problem solving and technical 
+skills
+ and confident decision marking for enabling
+effective solution leading to quality deliverables.
+
+JOB ROLE & RESPONSIBILITIES:-
+
+➢ OS formatting, OS up gradation with all user data backup and all basic S/W
+installation
+Wi-Fi & LAN Network issue
+HP Printer Installation and Paper Jam issue.
+➢ Antivirus Installation on Server and Client machine, Monitoring on all client
+machines.
+Knowledge of DNS, TCP/IP and other networking concepts.
+Maintaining server architecture security and creating system backups
+Windows upgrade from software center and monthly windows security patch updates.
+Close bulk tickets monthly / weekly from Ticketing Tool.
+➢ Monitoring and health checkups of Windows/ Linux Server CPU, Disk, Memory
+➢ Install and configure software and hardware.
+➢ Manage network, servers and technology tools.
+
+PROVIOUS WORK 
+EXPERIENCE
+: -
+I have worked with Precision Infomatic Pvt.Ltd. (Coimbatore) as an Associate System
+Engineer from 03 Oct 2019 to 08 Aug 2021
+
+JOB DETAILS AND PROFILES:-
+❖ Worked at Client Site Bajaj Allianz General Insurance Co.Ltd
+Coimbatore as System Engineer
+❖ Identifying & Troubleshooting of OS related problems
+❖ Installed operating systems, applications, service packs etc.
+❖ Installing Server & clients, managing and monitoring the Anti-Virus server
+and its updates
+❖ Co-ordination with customers through mail, phone handing issues over
+phone.
+❖ Managing calls Remotely through VNC, Mstsc
+❖ Prioritizing trouble calls and following up to ensure resolution.
+❖ Installing and configuring Aspect 7.1 and maintaining the servers and
+coordinating for any major issues with higher level technical team
+❖ Coordinating with service provider for Network issues.
+❖ Check user domain password expiry date and id lock, web id lock issue
+❖ VPN (citrix gateway application issue).
+❖ Laptop/desktop configuration, user configuration and allocation.
+❖ Bit locker encryption and decryption.
+❖ SCCM Client installation and Un-installation, Certificate update and
+related troubleshooting
+❖ Handling ticketing tool portal and office mails.
+❖ Kodak scanner installation and Printer installation, printer jam issue, not
+scanning on mail
+
+❖ Installation of printer with sharing, scanner other hardware and
+troubleshooting of devices
+HARDWARE AND SOFTWARE RELATED PROBLEM:-
+❖ O.S formatting, O.S up gradation with all user data backup and all basic s/w
+installation.
+❖ Antivirus installation, update.
+❖ SCCM Client installation and update.
+❖ Printer cartridge issue, paper jam, not getting print, not scanning on mail.
+❖ Kodak scanner installation, Barcode machine.
+❖ VC room handling.
+
+PERSONAL TRAITS:-
+➢ Hardworking and confident
+➢ My mind is receptive to learning new things regardless of the source.
+➢ Friendly and articulate
+➢ Punctual and Honest
+
+PERSONAL DETAILS:-
+
+Full Name
+: VIJAYAKUMAR N
+Date of Birth
+: 29-07-1997
+Command on 
+Languages
+
+: English. Tamil
+Residence Address
+: House No 62/93 VOC Nagar
+Nallamaplayam Road Kavundamplayam
+Coimbatore- 641030
+ACKNOWLEDGEMENT:-
+
+I do here by declare that particulars of information and facts started above are
+true, correct and complete to the best of my knowledge and belief.
+
+DATE:
+SIGNATURE
 VIJAYAKUMAR

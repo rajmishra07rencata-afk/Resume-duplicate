@@ -1,157 +1,148 @@
-RESUME 
+RESUME
+
+GAYATHRI SEKHAR
+E-Mail:gayathrisager3@gmail.com
+Mobile No: +91 - 9629691635
+
+Career 
+Objective
+:
+To work in a challenging and dynamic environment and to keep adding values to the organization that I
+represent and to serve and to myself, while concurrently upgrading my 
+skills
+ and knowledge.
+
+Educational Qualification:
+
+S.No.
+Courses
+ Institute
+University / Board
+Year of
+Completion Marks (%)
+1.
+Bsc
+(Mathematics)
+
+Saradha
+Gangadharan Arts
+and Science
+Collge
+
+Pondicherry University,
+Pondicherry
+2019
+72.16%
+2.
+ HSC
+Subramania
+Bharathiar Govt
+Girls Hr. Sec.
+School
+State of Tamil Nadu
+2016
+79.91%
+3.
+ SSLC
+2014
+93.8%
+
+Technical 
+Skills
+:
+SQL:
+*
+Good knowledge in writing SQL Queries.
+Very good knowledge on DML, DDL, TCL.
+Having knowledge in Joins & Sub-Queries.
+Practiced extensively on Oracle 10g Database.
+
+Manual Testing 
+Skills
+:
+Good Knowledge in SDLC Concepts.
+Very Good Knowledge in Smoke Testing.
+Very Good Knowledge in F.T, I.T.
+Very Good Knowledge on System Testing.
+Very Good Knowledge in ADHOC Testing.
+Very Good Knowledge in Compatibility Testing.
+Thorough Knowledge on Regression Testing.
+Good Knowledge in Performance Testing.
+Very Good Knowledge in STLC.
+Good Knowledge in Writing Test Case's & Test Scenarios.
+
+Strong Knowledge in Defect Life Cycle.
+Good Knowledge in Severity and Priority.
+
+Certification on crowd testing 
+projects
+ using Firecrowd Tool on the E-Commerce, Trading and
+Travel platforms organized by Q spiders.
+
+Agile Methodology:
+Very good Knowledge on Scrum Methodology.
+Very Good in Sprint Planning Meeting.
+Good Knowledge on Scrum Meeting.
+
+Good Knowledge on Sprint Review Meeting.
+Good Knowledge on Sprint Retrospective
+Meeting.
+
+Defect Tracking:
+Good Knowledge on Defect Tracking Tool Like Bugzilla.
+Good in Reporting Defect.
+
+Experience
+ on Scenarios:
+
+I have done more than 100 scenarios(Functionality and Integration)
+
+Personal 
+skills
+:
+Team work 
+skills
+, Able to Work under Pressure.
+
+Strength:
+
+Hobbies
+:
+
+Hard and Smart Worker, Willingness to Learn, Sel-Motivated, Flexible and Adaptable.
+Drawing, Listening Songs and Cooking.
+
+Personal Details:
+
+Father's Name:
+
+Mother's Name:
+R. Sekhar
+
+S. Kamatchi
+
+Address:
+No. 40, Arulpadaiyatchi Street, Nellithope,
+Puducherrry-605005
+Date of Birth:
+21.05.1999
+Gender:
+Female
+Marital Status:
+Single
+
+Languages
+ Known:
+Tamil and English
+
  
- 
-       GAYATHRI  SEKHAR 
-E-Mail:gayathrisager3@gmail.com 
-Mobile No: +91 - 9629691635 
- 
- 
-Career Objective: 
-To work in a challenging and dynamic environment and to keep adding values to the organization that I 
-represent and to serve and to myself, while concurrently upgrading my skills and knowledge. 
- 
-         Educational Qualification: 
- 
-S.No. 
-Courses 
-   Institute 
- University / Board 
-Year of 
-Completion Marks (%) 
-1. 
-Bsc 
-(Mathematics) 
- 
-Saradha 
-Gangadharan Arts 
-and Science 
-Collge  
- 
- 
-Pondicherry University, 
-Pondicherry 
-2019 
-72.16% 
-2. 
-     HSC 
-Subramania 
-Bharathiar Govt 
-Girls Hr. Sec. 
-School 
-State of Tamil Nadu 
-2016 
-79.91% 
-3. 
-     SSLC 
-Subramania 
-Bharathiar Govt 
-Girls Hr. Sec. 
-School 
-State of Tamil Nadu 
-2014 
-93.8% 
- 
-  Technical Skills: 
-SQL: 
-• 
-Good knowledge in writing SQL Queries. 
-• 
-Very good knowledge on DML, DDL, TCL. 
-• 
-Having knowledge in Joins & Sub-Queries. 
-• 
-Practiced extensively on Oracle 10g Database. 
-Manual Testing Skills: 
-• 
-Good Knowledge in SDLC Concepts. 
-• 
-Very Good Knowledge in Smoke Testing. 
-• 
-Very Good Knowledge in F.T, I.T. 
-• 
-Very Good Knowledge on System Testing. 
-• 
-Very Good Knowledge in ADHOC Testing. 
-• 
-Very Good Knowledge in Compatibility Testing. 
-• 
-Thorough Knowledge on Regression Testing. 
-• 
-Good Knowledge in Performance Testing. 
-• 
-Very Good Knowledge in STLC. 
-• 
-Good Knowledge in Writing Test Case’s & Test Scenarios. 
- 
-• 
-Strong Knowledge in Defect Life Cycle. 
-Good Knowledge in Severity and Priority. 
- 
-Certification on crowd testing projects using Firecrowd Tool on the E-Commerce, Trading and 
-Travel platforms organized by Q spiders. 
- 
-   Agile Methodology: 
-• 
-Very good Knowledge on Scrum Methodology. 
-• 
-Very Good in Sprint Planning Meeting. 
-• 
-Good Knowledge on Scrum Meeting. 
- 
-• 
-Good Knowledge on Sprint Review Meeting. 
-Good Knowledge on Sprint Retrospective 
-Meeting. 
- 
- 
- 
-     Defect Tracking: 
-• 
-Good Knowledge on Defect Tracking Tool Like Bugzilla. 
-• 
-Good in Reporting Defect. 
- 
- 
-          Experience on Scenarios: 
- 
-                 I have done more than 100 scenarios(Functionality and Integration)
-          Personal skills: 
-Team work skills, Able to Work under Pressure. 
- 
-Strength: 
-Hobbies: 
- 
-Hard and Smart Worker, Willingness to Learn, Sel-Motivated, Flexible and Adaptable. 
-Drawing, Listening Songs and Cooking. 
- 
-Personal Details: 
- 
-Father’s Name: 
- 
-Mother’s Name: 
-R. Sekhar 
- 
-S. Kamatchi 
- 
-Address: 
-No. 40, Arulpadaiyatchi Street, Nellithope, 
-Puducherrry-605005 
-Date of Birth: 
-21.05.1999 
-Gender: 
-Female 
-Marital Status: 
-Single 
-Languages Known: 
-Tamil and English 
- 
-      Experience: 
-             I have 3 years 8 month working in 3b2 Pagination at Straive. 
-      Declaration: 
- 
-I hereby declare that the above information mentioned is true to my knowledge and conscience. 
- 
- 
-Place: 
-Date: 
+Experience
+:
+I have 3 years 8 month working in 3b2 Pagination at Straive.
+ Declaration:
+
+I hereby declare that the above information mentioned is true to my knowledge and conscience.
+
+Place:
+Date:
 (GAYATHRI .S)

@@ -1,109 +1,104 @@
-LAVANYA PERUGU 
-Thoraipakkam, Chennai, 60009 
-Contact: +91 9030458452 
-E-Mail: perugulavanya1601@gmail.com  
- 
- Professional Summary: 
- 
- 
-Dynamic and creative Programmer Analyst with 5.6 years of experience in software development with 
-additional knowledge of Application Software Designing, Development, Documentation, Debugging, 
-Testing and Implementation.  Having knowledge in backend and frontend development with .Net 
-Core, SQL and Angular. 
- 
- Working Experience: 
- 
-• 
-Working as a .NET Developer in Cognizant Technology Solutions at Coimbatore from December 
-2017 to June 2023 
- 
- Technical Skill: 
- 
-Technologies 
-.Net Core, .Net MVC, Asp.Net, HTML5, CSS, Typescript, 
-Angular 
-Style 
-CSS, Bootstrap 
-Source Control 
-Git(SourceTree), TFS 
-Project Management 
-Azure DevOps 
-DataBase 
-MS-SQL 
- 
- Project experience:  
- 
- 
-Project-1 
- Project Name  
- Client  
-:  AppLens(Project Profiling & Work Profiler) 
-:  Internal 
- Tools Used  
-:  Angular 9 - 15, AngularCLI, HTML5, CSS3, SQL, .Net Core 
- 
-Project  Description  
- Profiling Profiling - Here we can be able to configure the ADM projects such as scope of the project, 
-debt management for the project, services which are eligible for the project. And also, users and their 
-roles are managed under user management. 
-Work Profiler - Handles the tickets against the project which are configured in Project Profiling and 
-Timesheet & Work Effort tracking for the associates. 
-Roles and Responsibilities  
-• 
-Development, Deployment and Product Management 
-• 
-Fixing bugs and troubleshooting. 
-• 
-Reports taking and create Unit Test Document. 
- 
-Academic Qualifications:                                           
- 
-Project-2 
- Project Name  
- Client  
-:  LEAP 
-:  Internal 
- Tools Used  
-:  Angular 9 - 15, AngularCLI, HTML5, CSS3, SQL, .Net Core 
- 
-Project  Description  
- Cognizant Lifecycle Engineering Automation Platform (LEAP) is an AI-powered BOTs platform. It 
-enables seamless integration with Cognizant IP, partner IP, and customer development eco-system for 
-delivering AI-based engineering insights to achieve “First Time Right” across engineering lifecycle 
-stages. This helps bring agility, cost and speed efficiencies to SDLC.  
- 
-Roles and Responsibilities  
-• 
-Designing and developing responsive web application UI Page by using ASP.Net Core 
-• 
-Scripting queries, using Stored Procedures for data extraction from Various Tables on SQL 
-Database 
-• 
-Coding , Unit Testing and Bug Fixing. 
-• 
-Involved in Production support activities. 
- 
- 
- 
-Qualification 
- College / University Name 
-   Year of Passing 
-      Percentage 
-B.Sc. 
-AAR & BMR Degree College 
-2016 
-83 
+LAVANYA PERUGU
+Thoraipakkam, Chennai, 60009
+
+Contact
+: +91 9030458452
+E-Mail: perugulavanya1601@gmail.com
+
+Professional 
+Summary
+:
+
+Dynamic and creative Programmer Analyst with 5.6 years of 
+experience
+ in software development with
+additional knowledge of Application Software Designing, Development, Documentation, Debugging,
+Testing and Implementation. Having knowledge in backend and frontend development with .Net
+Core, SQL and Angular.
+
+Working 
+Experience
+:
+
+*
+Working as a .NET Developer in Cognizant Technology Solutions at Coimbatore from December
+2017 to June 2023
+
+Technical Skill:
+
+Technologies
+.Net Core, .Net MVC, Asp.Net, HTML5, CSS, Typescript,
+Angular
+Style
+CSS, Bootstrap
+Source Control
+Git(SourceTree), TFS
+Project Management
+Azure DevOps
+DataBase
+MS-SQL
+
+Project 
+experience
+:
+
+Project-1
+Project Name
+ Client
+: AppLens(Project Profiling & Work Profiler)
+: Internal
+Tools Used
+: Angular 9 - 15, AngularCLI, HTML5, CSS3, SQL, .Net Core
+
+Project Description
+Profiling - Here we can be able to configure the ADM 
+projects
+ such as scope of the project,
+debt management for the project, services which are eligible for the project. And also, users and their
+roles are managed under user management.
+Work Profiler - Handles the tickets against the project which are configured in Project Profiling and
+Timesheet & Work Effort tracking for the associates.
+
+Roles and Responsibilities
+
+Development, Deployment and Product Management
+Fixing bugs and troubleshooting.
+Reports taking and create Unit Test Document.
+
+Academic
+ Qualifications:
+
+Project-2
+: LEAP
+
+Cognizant Lifecycle Engineering Automation Platform (LEAP) is an AI-powered BOTs platform. It
+enables seamless integration with Cognizant IP, partner IP, and customer development eco-system for
+delivering AI-based engineering insights to achieve "First Time Right" across engineering lifecycle
+stages. This helps bring agility, cost and speed efficiencies to SDLC.
+
+Designing and developing responsive web application UI Page by using ASP.Net Core
+Scripting queries, using Stored Procedures for data extraction from Various Tables on SQL
+Coding , Unit Testing and Bug Fixing.
+Involved in Production support activities.
+
+Qualification
+College / University Name
+Year of Passing
+ Percentage
+B.Sc.
+AAR & BMR Degree College
+2016
+83
 Intermediate
-NRI Academy 
-2012 
-78.9 
-SSC 
-Bishop Azariah Girls High School 
-2010 
-81 
- 
- 
-    I hereby declare that all the details furnished above are true to the best of my knowledge. 
- 
-   Place: Chennai 
-   Date:                                                                                                                                 LAVANYA PERUGU
+NRI Academy
+2012
+78.9
+SSC
+Bishop Azariah Girls High School
+2010
+81
+
+I hereby declare that all the details furnished above are true to the best of my knowledge.
+
+Place: Chennai
+Date: LAVANYA PERUGU

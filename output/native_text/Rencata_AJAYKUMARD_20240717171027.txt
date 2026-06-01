@@ -1,18 +1,32 @@
 AJAYKUMAR D
 5, Big street, kesavarajakuppam, Tiruvallur(dist), Tamilnadu - 631208
 ajaykumard2609@gmail.com | 6382835933
+
 OBJECTIVE
-Highly motivated and dedicated iOS developer with 1 year of professional experience seeking a challenging position in
-adynamic organization where I can contribute my skills and knowledge in developing innovative and user-friendly
+
+Highly motivated and dedicated iOS developer with 1 year of professional 
+experience
+ seeking a challenging position in
+adynamic organization where I can contribute my 
+skills
+ and knowledge in developing innovative and user-friendly
 iOSapplications. I am eager to further enhance my expertise in iOS development while collaborating with a talented team to
 createexceptional mobile experiences.
+
 SUMMARY
+
 ROLES & RESPONSIBILITIES
+
 EXPERIENCE
+
 EDUCATION
+
 SKILLS
+
 Swift (Programming Language)
-Objective C
+
+Objective
+ C
 IPhone Application Development
 IOS Development
 Xcode
@@ -22,8 +36,12 @@ GitHup & GitLap
 Firebase
 Core Data & SQL
 Auto Layout
+
 PROJECTS
-Highly skilled and collaborative iOS developer with 1 year of professional experience in dynamic IT infrastructure
+
+Highly skilled and collaborative iOS developer with 1 year of professional 
+experience
+ in dynamic IT infrastructure
 environments.Organized and deadline-driven, consistently delivering high-quality results. Strong expertise in iOS development,
 with a focus oncreating innovative and user-friendly applications.
 Reviewed and assessed client requirements, wireframes, and designs to ensure technical feasibility. Collaborated closely
@@ -51,6 +69,7 @@ foryou. Keeps your passwords safe and shareable.
 IMPLEMENTATION
 Encryption and Decryption
 Alamofire
+
 LANGUAGE
 Tamil : Read , write and speak
 English : Read , write and speak
@@ -60,11 +79,8 @@ Subscription(payment)
 MyCalling
 This application is used as a softphone for voice and video over IP calling and instant messaging. It is SIP based for all
 call,presence and IM features.
-IMPLEMENTATION
 This application based on Linephone
 Linephone SDK
-Alamofire
-Social login
 Firebase handling
 Callkit
 video call & voice call & group call & call recording
@@ -72,8 +88,6 @@ Individual chat & voice chat & group chat
 AudioName
 AudioName is an application that allows you to record your name and use it for your web presence through various social
 andprofessional networking sites.
-IMPLEMENTATION
-Encryption and Decryption
 NFC tag
 AVFoundation
 Webkit

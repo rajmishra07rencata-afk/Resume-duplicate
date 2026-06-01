@@ -1,58 +1,74 @@
-V Nanda Kishore 
-(Applied Cybersecurity Essential – Hybrid Intensive from Purdue University, Microsoft Certification)                                    
+V Nanda Kishore
+(Applied Cybersecurity Essential - Hybrid Intensive from Purdue University, Microsoft Certification)
 Information Security Analyst
-Professional Summary
-Competent IT professional with 7.6 years of experience in Information Security Stream in maintaining technical Standards, secure configuration guidelines and security patch advisories for various technology groups along with catering to On-demand Evaluation of software against maliciousness & Vulnerabilities. Tracking, monitoring and ensuring compliance of security requirements for all business functions and ensuring standardization of security controls across all business functions
+Professional 
+Summary
+
+Competent IT professional with 7.6 years of 
+experience
+ in Information Security Stream in maintaining technical Standards, secure configuration guidelines and security patch advisories for various technology groups along with catering to On-demand Evaluation of software against maliciousness & Vulnerabilities. Tracking, monitoring and ensuring compliance of security requirements for all business functions and ensuring standardization of security controls across all business functions
+
 Experience
+
 Current company : Infosys limited,
 Current CTC : 9.0 lpa.
 Current Role : Information security analyst
-Notice period : 39 days 
-Tenure : 7.1 years of work experience
+Notice period : 39 days
+Tenure : 7.1 years of work 
+experience
+
 Standards
 Develop and manage security Frameworks, Policies, Processes and Procedures to assist stakeholders which relevant Security recommendations to in turn support them in building and maintaining Security infrastructure
 Cloud security risk governance on AWS and Azure, managing security frameworks and solutions. Working on VPC, S3, EC2, cloud trail, cloud watch, Guard duty, Amazon Macie etc
 Vulnerability Management:
 Evaluating Security risks and delivering appropriate mitigation strategies.
 Assessed servers, endpoints and network devices from security standpoint.
-System and application Vulnerability assessment via Qualys. 
-Software and Web URL Risk Assessment: 
-Assessing software from security point of view and labelling them in the track of the firm’s policy.
-Evaluating public URLs on basis of corporate’s Internet Policy. 
+System and application Vulnerability assessment via Qualys.
+Software and Web URL Risk Assessment:
+Assessing software from security point of view and labelling them in the track of the firm's policy.
+Evaluating public URLs on basis of corporate's Internet Policy.
 Configuration Management:
 Publish Security configuration guidelines based on industry accepted Security Standards, Vendor recommendations and in-house tests so as to ensure reduced attack surface by means of hardened systems and applications
 IT Exception Management
-Handle deviations from the published Hardening Standards and its related Policies, Processes and Procedures. Few examples of such deviations are as follows: 
+Handle deviations from the published Hardening Standards and its related Policies, Processes and Procedures. Few examples of such deviations are as follows:
 Use of Legacy Applications
 Deviations from hardening recommendations
 Usage of unauthorized software for business requirements
 Access requirement for third party URLS from black-listed categories
 Inappropriate use of coding practices in developed applications
-
 Security Tools Policy
 Build and publish relevant Security Tools Policies in relation to various internal tools in use such as, SIEM, Anti-Virus, Qualys,DLP, IDS / IPS, Firewalls etc.
-Patch Advisory Management 
-Send Security advisory notifications to service or platform owners regarding Security patches released by different vendors to assist them take appropriate change management decisions. Indorse essential fixes/patches released by Vendors Org-wide. 
-
+Patch Advisory Management
+Send Security advisory notifications to service or platform owners regarding Security patches released by different vendors to assist them take appropriate change management decisions. Indorse essential fixes/patches released by Vendors Org-wide.
 IT Asset Inventory Management
 Designing a single reliable and efficient system with unified view that can discover managed and unmanaged assets and provide actionable intel to assist in IT and Security operations
+
 Skills
-Standards – ISO, CIS benchmarks 
-Vulnerability Management – Assessment, Remediation & Exception Risk Assessment, Patch Advisory. 
-Configuration Audit – Endpoint, Operating System, Compliance Review
-Malware Analysis – Software and URL Risk Assessment, Static & Dynamic Analysis for Software. 
-Platform – GRC Archer, Cisco ThreatGrid, VirusTotal, vFeed Vulnerability Database
-Active Directory, Microsoft Exchange Server, Windows Server, Microsoft Hyper-V, VMWARE ESXi, Server Provisioning, SCOM, Service-Now, HP-SIM, Microsoft Azure Fundamentals. 
+
+Standards - ISO, CIS benchmarks
+Vulnerability Management - Assessment, Remediation & Exception Risk Assessment, Patch Advisory.
+Configuration Audit - Endpoint, Operating System, Compliance Review
+Malware Analysis - Software and URL Risk Assessment, Static & Dynamic Analysis for Software.
+Platform - GRC Archer, Cisco ThreatGrid, VirusTotal, vFeed Vulnerability Database
+Active Directory, Microsoft Exchange Server, Windows Server, Microsoft Hyper-V, VMWARE ESXi, Server Provisioning, SCOM, Service-Now, HP-SIM, Microsoft Azure Fundamentals.
 Powershell scripting and Python programming knowledge using these technologies successfully deployed automation scripts in the client environment
-Certifications : ACE-HI (Applied Cybersecurity Essentials – Hybrid Intensive) from Purdue University and Microsoft certification- Exam 480: Programming in HTML5 with JavaScript and CSS3
+
+Certifications
+ : ACE-HI (Applied Cybersecurity Essentials - Hybrid Intensive) from Purdue University and Microsoft certification- Exam 480: Programming in HTML5 with JavaScript and CSS3
+
 Education
+
 Major: B. Tech (Computer Science and Engineering) Graduated from Santhiram Engineering College, Nandyal, Kurnool Dist. (2010-2014).
 Higher Secondary Course (12th) from LRG Naidu Jr. College, Hindupur (2008-2010).
 Secondary Course (10th) from Deepthi English Medium High School, Hindupur (2008).
 Personal Details
-Date of Birth:                 06th Sep, 1992
-Languages known:       English ,Telugu , Kannada, Hindi.
-Nationality:                     Indian
-Contact Number:           9741914608/8985340016(whatsapp)
-Email ID:                           vnkishore18@gmail.com
-                                            vnkishore92@gmail.com
+Date of Birth: 06th Sep, 1992
+
+Languages
+ known: English ,Telugu , Kannada, Hindi.
+Nationality: Indian
+
+Contact
+ Number: 9741914608/8985340016(whatsapp)
+Email ID: vnkishore18@gmail.com
+vnkishore92@gmail.com

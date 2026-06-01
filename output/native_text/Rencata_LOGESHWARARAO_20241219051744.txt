@@ -1,105 +1,75 @@
-LOGESHWARA RAO K 
-MOBILE NO: +91 8015588112 
-Email-Id:logeshrao5896@gmail.com 
- 
- 
-Career Objective 
- 
- 
-Aspiring for challenging assignments in the field of testing and automation wish to achieve high career 
-growth through a continuous learning process and prove to be an asset for the organization. 
-Educational Qualification 
- 
- 
- Master of Business Administration – 7.25cgpa  
-Kongu Engineering College, Erode. (2018 - 2020) 
- 
- Bachelor of Science in Computer Science - 6.498cgpa  
-Kongu Arts and Science College,Erode. (2014 - 2017) 
- 
-Profile Summary 
- 
- 
- Having knowledge in Java programming as well as selenium. 
- Having experience in Automation Programming language using Java. 
- Good Understanding of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). 
- Having Knowledge in Functional Testing, Integration Testing, Regression Testing, Black Box Testing. 
- Having experience in Selenium Web Driver. 
- Good experience in creating XPATH. 
- Experience in Data Driven testing Framework and in using Singleton Design Pattern. 
- Experience in TestNG – TDD Framework. 
- Experience in Cucumber – BDD Framework. 
- Having knowledge on Logger, J-Unit, POJO, POM, Page Object Manager. 
- Experience on using Hybrid Framework (Cucumber along with J-Unit). 
- 
-Technical Skills 
- 
- 
- Programming Language 
-:Core Java 
- Automation Testing Tools        
-:Selenium Web Driver 
- Build Tool 
-:Maven 
- Frameworks 
-:TestNG, Cucumber, J-Unit, Data-Driven, Singleton Design Pattern 
- 
-Work Experience 
- 
- 
-City Union Bank 
- 
-April 2021 – May 2022 
- 
-Worked as Relationship Manager 
- 
-Declaration 
- 
- 
-I hereby declare that the information furnished above is the best of my knowledge and belief. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-    Yours Sincerely 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+LOGESHWARA RAO K
+MOBILE NO: +91 8015588112
+Email-Id:logeshrao5896@gmail.com
+
+Career 
+Objective
+
+Aspiring for challenging assignments in the field of testing and automation wish to achieve high career
+growth through a continuous learning process and prove to be an asset for the organization.
+Educational Qualification
+
+ Master of Business Administration - 7.25cgpa
+Kongu Engineering College, Erode. (2018 - 2020)
+
+ Bachelor of Science in Computer Science - 6.498cgpa
+Kongu Arts and Science College,Erode. (2014 - 2017)
+
+Profile
+ 
+Summary
+
+ Having knowledge in Java programming as well as selenium.
+ Having 
+experience
+ in Automation Programming language using Java.
+ Good Understanding of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+ Having Knowledge in Functional Testing, Integration Testing, Regression Testing, Black Box Testing.
+ Having 
+experience
+ in Selenium Web Driver.
+ Good 
+experience
+ in creating XPATH.
+ 
+Experience
+ in Data Driven testing Framework and in using Singleton Design Pattern.
+ 
+Experience
+ in TestNG - TDD Framework.
+ 
+Experience
+ in Cucumber - BDD Framework.
+ Having knowledge on Logger, J-Unit, POJO, POM, Page Object Manager.
+ 
+Experience
+ on using Hybrid Framework (Cucumber along with J-Unit).
+
+Technical 
+Skills
+
+ Programming Language
+:Core Java
+ Automation Testing Tools
+:Selenium Web Driver
+ Build Tool
+:Maven
+ Frameworks
+:TestNG, Cucumber, J-Unit, Data-Driven, Singleton Design Pattern
+
+Work 
+Experience
+
+City Union Bank
+
+April 2021 - May 2022
+
+Worked as Relationship Manager
+
+Declaration
+
+I hereby declare that the information furnished above is the best of my knowledge and belief.
+
+Yours Sincerely
+
 (LOGESHWARA RAO K)

@@ -3,24 +3,32 @@ https://github.com/gnanaraji1712
 No:18, Rajmohan nagar,
 Kamalam street,
 Kompakkam, Villianour,
-Puducherry – 605110.
+Puducherry - 605110.
 gnanaraji1712@gmail.com
-SKILLS 
+
+SKILLS
+
 Data Entry
 Data Analysis
 Quality Analysis
 Quality Control
 Accessibility Books
+
 LANGUAGES
+
 English
 Tamil
 RAJESWARI S
 QUALITY ASSURANCE
-CAREER OBJECTIVE
+CAREER 
+OBJECTIVE
+
 To obtain a challenging and responsible position in the
 area of Software Testing where my knowledge, ability and
 dedication will be utilized.
-WORK EXPERIENCE
+WORK 
+EXPERIENCE
+
 Amnet Systems Pvt Ltd (Quality Assurance)
 2021 - Present
 Testing the eBooks on various devices and platforms
@@ -32,7 +40,9 @@ Verifying that the eBooks meet the accessibility
 requirements for users with disabilities, such as
 providing alternative text for images and ensuring
 proper heading structure.
+
 EDUCATION
+
 SPi Global Pvt Ltd (Quality Assurance)
 2013 - 2020
 Communicating with the production team and the

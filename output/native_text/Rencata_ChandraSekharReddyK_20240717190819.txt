@@ -1,27 +1,26 @@
 Chandra Sekhar Reddy K | SOFTWARE ENGINEER
 Hyderabad | +91 8639702724 | chandrasekharreddy3897@gmail.com
+PROFESSIONAL 
+SUMMARY
 
+Solution-Oriented and problem solver with 4+ years of 
+experience
+ in Embedded Application Development, Testing & Optimization. Highly skilled in collaboration and technical documentation with proficiency in communication.
 
-Solution-Oriented and problem solver with 4+ years of experience in Embedded Application Development, Testing & Optimization. Highly skilled in collaboration and technical documentation with proficiency in communication.
+CORE COMPETENCIES
 
-
-
-Programming languages: C,C++
+Programming 
+languages
+: C,C++
 Static Code Analysis
 Bit Bucket Visual Studio
-Application   Development
+Application Development
 Jira
 Source Tree QT Creator Parasoft
-
-
-
-
-
-
-
+PROFESSIONAL 
+EXPERIENCE
 
 COMPANY: PEOPLE TECH GROUP
-
 CLIENT: GENERAL MOTORS | Software Engineer | June 2021 - Present
 Project is to develop Cluster Applications for Automotive Devices which are installed in a Light Motor Vehicles. In this project we have developed applications like Ex: Infopages, telltales, etc based of the client requirements using C++ Programming language and with QT Creator tool.
 Responsible for the Application Development, Unit Testing, and sanity testing of the Cluster application.
@@ -29,7 +28,6 @@ Working on reducing the SCA violations as per MISRAC++2012, MISRAC2008 and AUTOS
 Involed in fixing the raised bugs while Unit & Sanity testing.
 Generating Unit Testing Reports on Sprint-wise Basis.
 Sanity testing on every builds and reporting the issues.
-
 CLIENT: HYUNDAI MOBIS | Software Engineer | July 2020 - June 2021
 Building an environment and compiling the Embedded C code.
 Setting up the Environment on MAIST(UT) and VectorCast(IT)
@@ -38,30 +36,25 @@ Executing the Integration Test cases in VectorCast following Function/Function C
 Executing the uncovered code by writing the User test cases.
 Preparing the UTR/ITR (Unit Test Reports/Integration Test Reports) after completion of execution.
 Good Knowledge in Validation Process, Involved in Internal Review process
-
 COMPANY: COGNIZANT
 CLIENT: JOHNDEERE | Software Developer | March 2019 - July 2020
 Project is to develop Applications for Automotive Devices which are installed in the heavy vehicles and to perform Unit Testing. In this project we develop applications for different
 control interfaces like Settings and GPS interfaces like Navigation applications based on the specs using C++ Programming language and with Visual Studio tool.
 Understanding the HMI software Architecture.
-Performing Unit Testing testing on the infotainment application framework.
+Performing Unit Testing on the infotainment application framework.
 Involved in Fixing implementation related issues.
 Performing regression testing on customer requirement and reviewing design with updated requirements
 Addressing all reported Bugs and Involved in fixing bugs and enhancing features based on the requirements.
-Having working experience on Linux platform.
+Having working 
+experience
+ on Linux platform.
+
+EDUCATION
 
 2014 - 2018 | CVR College of Engineering, Hyderabad
 Bachelor of Tech - Electrical & Electronics Engineering - 80.65%
-
-
 201 - 2014 | Narayana Junior College, Hyderabad Intermediate - MPC - 74.9%
-
 2012 | Bhashyam Public School, Hyderabad SSC - State Board - 8.3CGPA
-
-
-
+DECLARATION
 I hereby declare that the above information and facts stated are true to the best of my knowledge.
-
-
-
 Chandra Sekhar Redy.K

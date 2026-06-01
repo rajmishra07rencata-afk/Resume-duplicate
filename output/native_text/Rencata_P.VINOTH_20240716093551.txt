@@ -1,189 +1,154 @@
-P.VINOTH 
-vinothpalaniraj@gmail.com 
-Cell :  9500292850. 
+P.VINOTH
+vinothpalaniraj@gmail.com
+Cell : 9500292850.
+
+EXPERIENCE
  
- 
-EXPERIENCE SUMMARY : 
- 
- Over all 4.9 years of experience as a Software Developer. 
- 2.5 Years of experience in angular. 
- 2.4 Years of experience in dot not. 
- 1 Month Notice Period. 
- 
-TECHNICAL SKILLS: 
- 
-Web Technologies 
- Angular 6,7,8 &  TypeScript, NodeJs 
-2.5 Years 
-Microsoft  Technologies 
- MVC , C# 
-2.4 Year 
-Database 
- SQL Server 
-           1 Year 
- MYSQL 
-           2.4 Years 
-Script Languages 
- JavaScript 
-           1 Year 
- JQuery 
-       1.5 Year 
-Web Design 
- HTML 5, CSS,Bootstrap 
-3.4 Years 
-Methodologies 
- Agile 
- 
- 
- 
-PROJECT DETAILS : 
- 
-Title: 1.  Electronics Lab Logs  
- 
- 
- 
- 
-            (Sep 2017 to Till date) 
- 
- Project for  machines maintenance process (Lab Instruments) . 
- To check quality of that machine for further more patient's testing and monitoring that machines 
-compliances. 
- Maintenance of cleaning machine activity. 
- Report generation for higher authority. 
- 
-Technologies and Tools used: 
- 
-Angular 8 , TypeScript 
- 
-NodeJs –Using for middleware 
- 
-MYSQL 
- 
-Using Bootstrap for front end UI Designing. 
- 
-Visual Code 
- 
- 
-Responsibilities 
- 
- Responsible for Handling Project and work integrating and assigning work to team 
-members. 
- Involving in Developing the new Enhancements 
- Fixing the Bugs and Build Release. 
- 
- 
-Title: 2.  Alpha Flex   
- 
- 
- 
-                                 (Oct 2016 to Sep 2017) 
- 
- Healthcare project to provide the effective environment for insurance claiming 
-application to customers and then application can be maintained by provider. Offline 
-functionality which can be managed by using web URL. 
- 
-Technologies and Tools used: 
- 
-MVC , C# 
- 
-SQL Server 
- 
-Using Bootstrap for front end UI Designing. 
- 
-Visual Studio 2015 
- 
-Responsibilities 
- 
- Involved in understanding the Live Scenario and functionality for an Application. 
- Fixing the Bugs and Build Release. 
- 
-Title:  3. Department of Productive System (DPS)  
- 
-(Apr 2015 to Sep 2016) 
- 
- This is web based application this project is a government project in Dubai. There is a 
-rule if we are starting a company for business or anything we should have NOC 
-certificate, which is called as approval certificate of our company. It is provided by DPS 
-in Dubai. Owner of a company applying NOC their own login for start the trade. 
-Government employees of DPS department approve / reject that request and maintenance 
-the financial statement. 
- 
-Technologies and Tools used: 
- 
-C# for the backend operations 
- 
-ASP.Net MVC 3 
- 
-Oracle-12c  and Microsoft SQL-Server-2008  for Database 
- 
-WCF Service used for Access a Data. 
- 
-Telerik kendo 3rd Party design(UI)and Reporting 
- 
-Visual Studio-2012, Telerik Reporting. 
- 
-Responsibilities 
- Involved in understanding the Live Scenario and functionality for an Application. 
- Responsible for coding to develop the Master Module and issue fixing. 
-  Implemented reports using telerik Report 
- 
- 
- 
-EXPERIENCE 
- 
- 
-Current company details 
- 
-Company Name 
-Alphind Software Solution Pvt Ltd. 
-Location 
-Chennai 
-Duration 
-Oct 2016 to Till Date 
-Designation 
-Software Developer 
- 
- 
-Previous company details 
- 
-Company Name 
-Sardonyx Technologies Pvt Ltd. 
-Location 
-Thanjavur 
-Duration 
-Apr 2015 to Sep 2016 
-Designation 
-SE (Software Engineer) 
- 
- 
-PERSONAL DETAILS 
- 
-Father’s Name  
- 
-:        
-P.Palaniraj. 
-Date of Birth  
- 
-:           9th Aug 1990. 
- 
-Native  
- 
-  
-: 
-Thanjavur. 
- 
-Nationality 
- 
- 
-: 
-Indian. 
-Languages know 
- 
-: 
-English , Tamil. 
-                 
- 
- 
- 
-Date :                                                                                                                                      Yours sincerely, 
- Place :  Chennai                                                                                                                               (P.Vinoth)
+SUMMARY
+ :
+
+ Over all 4.9 years of 
+experience
+ as a Software Developer.
+ 2.5 Years of 
+experience
+ in angular.
+ 2.4 Years of 
+experience
+ in dot not.
+ 1 Month Notice Period.
+
+TECHNICAL 
+SKILLS
+:
+
+Web Technologies
+ Angular 6,7,8 & TypeScript, NodeJs
+2.5 Years
+Microsoft Technologies
+ MVC , C#
+2.4 Year
+Database
+ SQL Server
+1 Year
+ MYSQL
+2.4 Years
+Script 
+Languages
+
+ JavaScript
+ JQuery
+1.5 Year
+Web Design
+ HTML 5, CSS,Bootstrap
+3.4 Years
+Methodologies
+ Agile
+
+PROJECT DETAILS :
+
+Title: 1. Electronics Lab Logs
+
+(Sep 2017 to Till date)
+
+ Project for machines maintenance process (Lab Instruments) .
+ To check quality of that machine for further more patient's testing and monitoring that machines
+compliances.
+ Maintenance of cleaning machine activity.
+ Report generation for higher authority.
+
+Technologies and Tools used:
+
+Angular 8 , TypeScript
+NodeJs -Using for middleware
+MYSQL
+Using Bootstrap for front end UI Designing.
+Visual Code
+
+Responsibilities
+
+ Responsible for Handling Project and work integrating and assigning work to team
+members.
+ Involving in Developing the new Enhancements
+ Fixing the Bugs and Build Release.
+
+Title: 2. Alpha Flex
+
+(Oct 2016 to Sep 2017)
+
+ Healthcare project to provide the effective environment for insurance claiming
+application to customers and then application can be maintained by provider. Offline
+functionality which can be managed by using web URL.
+
+MVC , C#
+SQL Server
+Visual Studio 2015
+
+ Involved in understanding the Live Scenario and functionality for an Application.
+
+Title: 3. Department of Productive System (DPS)
+
+(Apr 2015 to Sep 2016)
+
+ This is web based application this project is a government project in Dubai. There is a
+rule if we are starting a company for business or anything we should have NOC
+certificate, which is called as approval certificate of our company. It is provided by DPS
+in Dubai. Owner of a company applying NOC their own login for start the trade.
+Government employees of DPS department approve / reject that request and maintenance
+the financial statement.
+
+C# for the backend operations
+ASP.Net MVC 3
+Oracle-12c and Microsoft SQL-Server-2008 for Database
+WCF Service used for Access a Data.
+Telerik kendo 3rd Party design(UI)and Reporting
+Visual Studio-2012, Telerik Reporting.
+
+ Responsible for coding to develop the Master Module and issue fixing.
+ Implemented reports using telerik Report
+
+EXPERIENCE
+
+Current company details
+
+Company Name
+Alphind Software Solution Pvt Ltd.
+Location
+Chennai
+Duration
+Oct 2016 to Till Date
+Designation
+Software Developer
+
+Previous company details
+
+Sardonyx Technologies Pvt Ltd.
+Thanjavur
+Apr 2015 to Sep 2016
+SE (Software Engineer)
+
+PERSONAL DETAILS
+
+Father's Name
+
+:
+P.Palaniraj.
+Date of Birth
+
+: 9th Aug 1990.
+
+Native
+
+Thanjavur.
+
+Nationality
+
+Indian.
+
+Languages
+ know
+
+English , Tamil.
+
+Date : Yours sincerely,
+Place : Chennai (P.Vinoth)

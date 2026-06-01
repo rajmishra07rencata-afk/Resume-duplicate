@@ -1,19 +1,19 @@
 UDAYA KUMAR R
 3/586, Mugappair west, chennai-37 udaya5111998@gmail.com
 8778084419
-
-
-
 OB JECT I VE
-I seek challenging opportunities where I can fully use my skills for the success of the organization.
+I seek challenging opportunities where I can fully use my 
+skills
+ for the success of the organization.
 EX P ER I ENCE
 RENCATA
 Oct2022 - Mar2023
 Software Developer Trainee
-Worked on languages such as HTML,CSS, JAVASCRIPT,ANGULAR,C#,ASP.NET,SQL
+Worked on 
+languages
+ such as HTML,CSS, JAVASCRIPT,ANGULAR,C#,ASP.NET,SQL
 Sundaram Fasteners Oct2020 - May2022 NEEM
-Worked on stock overview, Issue posting, Quality assurance
-ED U CAT I ON
+Worked on stock overview, Issue posting, Quality assuranceED U CAT I ON
 Anna University
 2020
 B.E
@@ -21,7 +21,6 @@ B.E
 Velammal Mat.Hr.Sec.School
 2016
 HSC 80.33
-Velammal Mat.Hr.Sec.School
 2014
 SSLC 91.6
 P R OJECTS
@@ -30,9 +29,7 @@ Todo list app
 CERT I F I CAT E
 JAVASCRIPT in leanmall Cambridge English
 Spark Automation
-CAD/CAM Solutions TVS NEEM
-
-S K I L L S
+CAD/CAM Solutions TVS NEEMS K I L S
 HTML CSS
 JAVASCRIPT ANGULAR
 React C#

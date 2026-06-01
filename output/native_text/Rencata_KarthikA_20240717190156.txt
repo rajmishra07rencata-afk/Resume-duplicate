@@ -1,233 +1,172 @@
-1 
-Karthik A. 
-Software Engineer  
+1
+Karthik A.
+Software Engineer
 E-Mail: karthimother@gmail.com
-• 
-Having 4 Years of work experience in Full Stack Developer, Design, Development, 
-Unit Testing and Implementation of web-based applications. 
-• 
-Experience in Angular 5+7,9,14, ASP.NET, .Net Core (2.0), C#, SQL Server, MySQL, 
-Web Services, JavaScript, JQuery, Typescript, Ionic Framework and .Net Technologies. 
-• 
-Excellent understanding on Database concepts and DB design to provide faster and reliable 
-software. Creating Tables, Writing complex queries, Store Procedure, Trigger, Views 
-and Functions. 
-• 
-Good knowledge in UI technologies like (HTML5, CSS, Bootstrap, JavaScript, JQuery 
-and Angular with Angular Material design). 
-• 
-Knowledge in various control systems like TFS, Azure DevOps and GIT. 
-• 
-Good understanding of Agile and Waterfall development methodologies and best practices 
-around development. 
-• 
-Ability to learn quickly and apply new skills to existing problems 
-• 
-Strong domain Knowledge and expertise on Education Management System 
-• 
-Highly motivated, dependable troubleshooter and problem-solver. 
-• 
-Passion to learn new technologies, and deliver with quality and ensure the customer is 
-satisfied with the deliverables. 
- 
-Primary Skills 
-Angular5+,.Net Core,.Net Framework (C#,ASP.Net), Web Services, 
-Entity Framework, JQuery ,JavaScript, Typescript and Ionic Framework 
-Database 
-SQL Server2018/ 2015/2012/2008 and MySQL 
-Version Control 
-Azure DevOps,TFS and Git 
-IDE 
-Visual Studio 2015, 2017, 2019,2022 and Visual Studio Code 
-Reporting Tools 
-RDLC 
-Web Server Technologies 
-IIS with ASP.Net and Angular 5+ 
-Designing Tools 
-Photoshop CS3 
-Architecture Pattern 
-Three Tier Architecture 
-Operating System 
-Microsoft Windows Family and IOS 
-Process Model 
-Agile and Waterfall Model 
-Academic Details 
- 
- 
-• 
-MCA - from Sacred Heart College(Autonomous) Thiruvallur University 2019 with 77.39 % 
-• 
-BCA - from Tirupattur Arts and Science College Thiruvallur University 2016 with 79.00% 
-• 
-HSC - Government Higher Secondary School, Perambattu 2012 – 67.00 % 
-• 
-SSLC – Government Higher Secondary School, Perambattu 2010 – 70.00 % 
- 
- 
- 
- 
-Page 2 of 4 
-Organization 
-Location 
-Designation 
-Duration 
-Bosco Soft Technologies 
-Yelagiri, Vellore 
-Software 
-Engineer 
-September 2019 to September 
-2021 
-Sophista Software 
-Solutions Pvt Ltd. 
-Chennai, Anna Nagar, 
-TamilNadu 
-Software 
-Engineer 
-September 2021 to till now 
- 
- 
- 
- 
-1. USA – (Hospital & Pharmacy) 
- 
-Project title 
-USA – (Hospital & Pharmacy) 
-Duration 
-Sep 2021 – Still Now 
-Technologies 
-Angular 5+, Typescript, .Net Core, ASP.NET, SQL, Ajax, JavaScript 
-,JQuery and Web API 
-Role 
-Software Engineer 
- 
-Role and Responsibilities 
- 
-• 
-Working as Full Stack Developer in Angular5+, C#, Asp.Net Core and SQL. 
-• 
-Developing the single page application based on the design and functionality requirement with in 
-the deadline. 
-• 
-Implement the different pages by using different libraries and components based on requirements. 
-• 
-Manipulate the dynamic date and configuration between Front End and Database configuration 
-tables (SQL). 
-• 
-Good Knowledge of Create the Table, View, Store Procedure, Triggers and Functions in SQL. 
-• 
-Client feedback should be delivery on time. 
-• 
-Maintain code for TFS and Azure devops.(Check in & Check Out). 
- 
-2. HiGrade (College Automation) 
- 
-Project title 
-HiGrade 
-Duration 
-Sep 2019 – Sep 2021 
-Technologies 
-ASP.NET 2015, MSSQL 5.6, WCF, Ajax, JavaScript ,JQuery 
-Role 
-Software Engineer 
- 
-Description 
- 
-This is a web based upgraded version of college automation system (Desktop version) to manage functions of 
-a college of different departments. This maintains the college activities and provides profiles as output. HGR 
-system is having different modules like Student, Staff, Student Attendance, Staff Attendance, Academics, CIA, 
-NME, Fee. 
- 
- 
- 
- 
- 
- 
-Page 3 of 4 
- 
-Role and Responsibilities 
- 
-• 
-Develop high-level product specifications with attention to system integration and feasibility and 
-define all aspects of development from appropriate technology and workflow to coding standards. 
-• 
-Analyze, design and develop web applications and components to support business 
-requirement utilizing Asp.Net. Used various client side data validation JavaScript, JQuery 
-and Json. 
-• 
-Responsible for client side support. Responsible for all browser compatibility issues. 
-• 
-Client Feedback changes on Application Development Stage (Enhancement). 
-• 
-Deployment – To Update Web API and Web IT Site, UAT Site for Development Testing. 
- 
-3. Smart School Plus 
- 
-Project title 
-Smart School Plus 
-Duration 
-Sep 2019 - Sep-2021 
-Technology 
-ASP.NET 2015, MSSQL 5.6, WCF, Ajax, JavaScript and Jquery 
-Role 
-Software Engineer 
- 
-Description 
-This is a web-based solution to efficiently integrate, manage and speedup various functions of a school with 
-increased productivity, reduced cost and time. This unique regional and customizable application helps in 
-managing student and staff information; scheduling and managing timetable focusing on time and resource 
-utilization; maintaining examinations schedule; fixing invigilators, generating Progress Report and tracking 
-student’s performance; maintaining automated payroll, library, hostel, accounts, transport management and fee 
-collection. 
-Role and Responsibilities 
- 
-• 
-Creating requirement specification, Technical Document, Design Document and Implement 
-business Solution. 
-• 
-Analyze, design and develop web applications and components to support business 
-requirement utilizing Asp.Net. Used various client side data validation JavaScript, JQuery 
-and Json. 
-• 
-Involved in data base migration, data import and data export using SQL Server 
-Integration Services (SSIS). And Report generate to RDLC. 
-• 
-Responsible for client side support. Responsible for all browser compatibility issues. 
-• 
-Client Feedback changes on Application Development Stage (Enhancement). 
-• 
-Deployment – To Update Web API and Web IT Site, UAT Site for Development Testing. 
- 
- 
- 
- 
- 
- 
- 
-Page 4 of 4 
- 
-Name 
- 
-Mr. Karthik A 
-Father Name 
-Mr. Arumugam R 
-DOB 
- 
-05/07/1995 
-Gender 
-Male  
-Languages Known 
-English and Tamil (To Write, To Speak and To Read) 
-PAN 
-IPOPK5447A 
-Address 
-33(1),Kottavur(Village), 
-Perambattu (post), 
-Thirupathur (District) – 635652 
-Tamilnadu 
- 
- 
- 
-I hereby declare that all the above statements are true, complete and correct to the best of my 
-knowledge and belief. 
-                                                                                                          Yours truly, 
-                                                                                                                             [KARTHIK A]
+*
+Having 4 Years of work 
+experience
+ in Full Stack Developer, Design, Development,
+Unit Testing and Implementation of web-based applications.
+
+Experience
+ in Angular 5+7,9,14, ASP.NET, .Net Core (2.0), C#, SQL Server, MySQL,
+Web Services, JavaScript, JQuery, Typescript, Ionic Framework and .Net Technologies.
+Excellent understanding on Database concepts and DB design to provide faster and reliable
+software. Creating Tables, Writing complex queries, Store Procedure, Trigger, Views
+and Functions.
+Good knowledge in UI technologies like (HTML5, CSS, Bootstrap, JavaScript, JQuery
+and Angular with Angular Material design).
+Knowledge in various control systems like TFS, Azure DevOps and GIT.
+Good understanding of Agile and Waterfall development methodologies and best practices
+around development.
+Ability to learn quickly and apply new 
+skills
+ to existing problems
+Strong domain Knowledge and expertise on 
+Education
+ Management System
+Highly motivated, dependable troubleshooter and problem-solver.
+Passion to learn new technologies, and deliver with quality and ensure the customer is
+satisfied with the deliverables.
+
+Primary 
+Skills
+
+Angular5+,.Net Core,.Net Framework (C#,ASP.Net), Web Services,
+Entity Framework, JQuery ,JavaScript, Typescript and Ionic Framework
+Database
+SQL Server2018/ 2015/2012/2008 and MySQL
+Version Control
+Azure DevOps,TFS and Git
+IDE
+Visual Studio 2015, 2017, 2019,2022 and Visual Studio Code
+Reporting Tools
+RDLC
+Web Server Technologies
+IIS with ASP.Net and Angular 5+
+Designing Tools
+Photoshop CS3
+Architecture Pattern
+Three Tier Architecture
+Operating System
+Microsoft Windows Family and IOS
+Process Model
+Agile and Waterfall Model
+
+Academic
+ Details
+
+MCA - from Sacred Heart College(Autonomous) Thiruvallur University 2019 with 77.39 %
+BCA - from Tirupattur Arts and Science College Thiruvallur University 2016 with 79.00%
+HSC - Government Higher Secondary School, Perambattu 2012 - 67.00 %
+SSLC - Government Higher Secondary School, Perambattu 2010 - 70.00 %
+
+Page 2 of 4
+Organization
+Location
+Designation
+Duration
+Bosco Soft Technologies
+Yelagiri, Vellore
+Software
+Engineer
+September 2019 to September
+2021
+Sophista Software
+Solutions Pvt Ltd.
+Chennai, Anna Nagar,
+TamilNadu
+September 2021 to till now
+
+1. USA - (Hospital & Pharmacy)
+
+Project title
+USA - (Hospital & Pharmacy)
+Sep 2021 - Still Now
+Technologies
+Angular 5+, Typescript, .Net Core, ASP.NET, SQL, Ajax, JavaScript
+,JQuery and Web API
+Role
+
+Role and Responsibilities
+
+Working as Full Stack Developer in Angular5+, C#, Asp.Net Core and SQL.
+Developing the single page application based on the design and functionality requirement with in
+the deadline.
+Implement the different pages by using different libraries and components based on requirements.
+Manipulate the dynamic date and configuration between Front End and Database configuration
+tables (SQL).
+Good Knowledge of Create the Table, View, Store Procedure, Triggers and Functions in SQL.
+Client feedback should be delivery on time.
+Maintain code for TFS and Azure devops.(Check in & Check Out).
+
+2. HiGrade (College Automation)
+
+HiGrade
+Sep 2019 - Sep 2021
+ASP.NET 2015, MSSQL 5.6, WCF, Ajax, JavaScript ,JQuery
+
+Description
+
+This is a web based upgraded version of college automation system (Desktop version) to manage functions of
+a college of different departments. This maintains the college activities and provides profiles as output. HGR
+system is having different modules like Student, Staff, Student Attendance, Staff Attendance, Academics, CIA,
+NME, Fee.
+
+Page 3 of 4
+
+Develop high-level product specifications with attention to system integration and feasibility and
+define all aspects of development from appropriate technology and workflow to coding standards.
+Analyze, design and develop web applications and components to support business
+requirement utilizing Asp.Net. Used various client side data validation JavaScript, JQuery
+and Json.
+Responsible for client side support. Responsible for all browser compatibility issues.
+Client Feedback changes on Application Development Stage (Enhancement).
+Deployment - To Update Web API and Web IT Site, UAT Site for Development Testing.
+
+3. Smart School Plus
+
+Smart School Plus
+Sep 2019 - Sep-2021
+Technology
+ASP.NET 2015, MSSQL 5.6, WCF, Ajax, JavaScript and Jquery
+
+This is a web-based solution to efficiently integrate, manage and speedup various functions of a school with
+increased productivity, reduced cost and time. This unique regional and customizable application helps in
+managing student and staff information; scheduling and managing timetable focusing on time and resource
+utilization; maintaining examinations schedule; fixing invigilators, generating Progress Report and tracking
+student's performance; maintaining automated payroll, library, hostel, accounts, transport management and fee
+collection.
+
+Creating requirement specification, Technical Document, Design Document and Implement
+business Solution.
+Involved in data base migration, data import and data export using SQL Server
+Integration Services (SSIS). And Report generate to RDLC.
+
+Page 4 of 4
+
+Name
+
+Mr. Karthik A
+Father Name
+Mr. Arumugam R
+DOB
+
+05/07/1995
+Gender
+Male
+
+Languages
+ Known
+English and Tamil (To Write, To Speak and To Read)
+PAN
+IPOPK5447A
+Address
+33(1),Kottavur(Village),
+Perambattu (post),
+Thirupathur (District) - 635652
+
+I hereby declare that all the above statements are true, complete and correct to the best of my
+knowledge and belief.
+Yours truly,
+[KARTHIK A]

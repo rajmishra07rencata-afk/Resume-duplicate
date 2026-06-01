@@ -1,9 +1,15 @@
-SKILLS | EXPERTISE
+SKILLS
+ | EXPERTISE
 REACH OUT
+
 SUMMARY
+
 EDUCATION
+
 SUMMATION
+
 EXPERIENCE
+
 TEST ANALYST
 Java
 Selenium WebDriver
@@ -20,17 +26,19 @@ Windows Family and Linux
 MENAGA
 An accomplished Test Analyst with a
 strong technical foundation and a passion
-for 
-delivering 
-high-quality 
+for
+delivering
+high-quality
 software.
-Possessing excellent communication skills,
+Possessing excellent communication 
+skills
+,
 this professional effectively collaborates
-with 
-cross-functional 
-teams 
+with
+cross-functional
+teams
 and
-stakeholders to achieve project success. 
+stakeholders to achieve project success.
 menagag1811@gmail.com
 6383964233
 M.M.E.S Women'S Arts and
@@ -39,9 +47,11 @@ Diploma in Medical Laboratory
 Technology
 Experienced software test engineer with 3.8 years of expertise
 in Test Analyst.
-Hands-on experience in developing the framework from scratch
+Hands-on 
+experience
+ in developing the framework from scratch
 and maintaining test automation frameworks using Selenium
-WebDriver. 
+WebDriver.
 Worked with Rest Assured to test APIs that require different
 types of authentication mechanisms, such as basic
 authentication, token-based authentication OAuth.
@@ -56,9 +66,11 @@ Data Driven with cucumber from xlsx.
 Tech Vulcan Solutions India Private
 Limited, Bangalore
 Mar 2020 - Present
+
 PROJECTS
+
 musicMagpie
-E-Commerce                                                                                                                           Mar 2021 - Present
+E-Commerce Mar 2021 - Present
 musicMagpie is a prominent British-owned online retailer specializing in the purchase and sale of refurbished
 electronics and a wide range of second-hand items, including computer games, consoles, books, films, and
 music. The platform focuses on sustainability and affordability, providing customers with access to high-
@@ -93,6 +105,7 @@ Agile Development:
 Version Control:
 Reusable Components:
 Current Project
+
 Actively participated in key Agile ceremonies, including sprint planning, daily stand-up meetings, sprint
 reviews, and retrospectives, ensuring alignment with project goals and timelines.
 Facilitated team discussions to identify and resolve issues and blockers, fostering a collaborative and
@@ -105,7 +118,9 @@ Proficiently configured and customized JIRA workflows, issue types, and dashboar
 specific needs, enhancing project visibility and workflow efficiency.
 Applied Agile principles and methodologies to manage and prioritize product backlog items, optimizing
 project delivery and customer satisfaction.
-Committed to continuous learning and improvement of skills and knowledge related to Agile practices, JIRA,
+Committed to continuous learning and improvement of 
+skills
+ and knowledge related to Agile practices, JIRA,
 and JMeter, staying updated with industry best practices.
 Agile Ceremonies:
 Performance Testing:
@@ -114,12 +129,10 @@ JIRA Configuration:
 Agile Principles:
 Continuous Learning:
 RXR Realty
-Real Estate                                                                                                                         Mar 2020 - Feb 2021
+Real Estate Mar 2020 - Feb 2021
 RXR Realty is a prominent real estate and infrastructure owner, investor, operator, and developer
 headquartered in New York. The firm's extensive portfolio includes properties and development sites across
 the United States, with a strong focus on the dynamic real estate market in New York City.
 Project - 2
-Responsiblities
 DECLARATION
- I affirm that the information provided in this resume is true, complete, and up to date.
-                                                                                                                         MENAGA
+I affirm that the information provided in this resume is true, complete, and up to date.

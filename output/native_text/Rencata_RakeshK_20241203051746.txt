@@ -1,7 +1,9 @@
 Rakesh K
 Mobile no: +91-7207947978
 Rakeshkodimala1111@gmail.com
-Professional Summary
+Professional 
+Summary
+
 Proven ability to help organizations implement Scrum and Continuous improvement best practices.
 Expert at driving the adoption and enforcement of scrum rules, removing impediments, and fostering self-organization.
 Great understanding of all scrum guide values and safe organized on implementing the rules.
@@ -10,35 +12,49 @@ Adept at leveraging agile methods with business initiatives to deliver quantifia
 An accomplished servant leader capable of motivating, coaching, and mentoring across tier 1, 2 & 3 levels of an organization.
 An advocate for change, creating an environment of continuous improvement, challenging the status quo, and developing a compelling case for change.
 Exceptional problem solver with a keen ability to resolve technology issues, provide system enhancements, define, design, develop, and implement highly successful automated solutions, as well as find solutions where others have failed.
-
 Certification
 Certified Scrum Master.
+Key 
+Skills
 
-Key Skills
-Organizational skills 
-Time-management skills
-Technical and computer skills
+Organizational 
+skills
+
+Time-management 
+skills
+
+Technical and computer 
+skills
+
 Drive and self-motivation
-
-Professional Experience: -
-ACS Technologies 				   				                                July 2019 to Till Date
+Professional 
+Experience
+: -
+ACS Technologies July 2019 to Till Date
 Lead/Scrum Master
 Championed agile software development best practices and acted as a coach to the Scrum teams.
 Supported the Product Owner in grooming and maintaining the product backlog.
 Took responsibility for managing dependencies between the Scrum teams and others, collaborated within the Scrum Master network especially in regard to items necessary for product release.
 Gathered and reported Scrum team statistics to stakeholders.
-Built on the analysis and recorded experience of similar projects to construct better quality estimates.
+Built on the analysis and recorded 
+experience
+ of similar 
+projects
+ to construct better quality estimates.
 Assessed the Scrum Maturity of the team and organization.
 Motivating the team to work towards continuous improvement and deliver shippable product that deliver business value in every sprint.
 Coached the teams to higher levels of maturity, at a pace that is sustainable and comfortable for the team and organization.
-Communicated with other managers within the business and managed expectations for the projects.
+Communicated with other managers within the business and managed expectations for the 
+projects
+.
 Evaluated information radiators and Scrum issues on daily basis.
 Encouraged continuous improvement in engineering practices to improve code quality and delivery.
 Maintained relevant metrics to help the team monitor their performance
-
-Nisum Technologies 				   				                                Jan 2016 to June 2019
+Nisum Technologies Jan 2016 to June 2019
 Manual Tester
-Roles and Responsibilities:  
+
+Roles and Responsibilities
+:
 Analyzing the requirements from clients.
 Arranging Test Environment to execute the test cases.
 Conducting Review Meetings.
@@ -60,9 +76,11 @@ Developed Test Plan, Test Cases, and Test Scripts to follow Waterfall and Agile 
 Created functional test cases based on the software requirements.
 Report the defects to development group on periodic basis and retesting the defects.
 Involved in production support during the implementation phase.
+Freelance Trainer
+Worked as a trainer given 
+training
+ to students on Manual Testing, C Programing, basics of C++.
 
-Freelance Trainer 
-Worked as a trainer given training to students on Manual Testing, C Programing, basics of C++.
-
-Education:
+Education
+:
 MCA From Kakatiya University, 2012

@@ -1,172 +1,189 @@
+Mail: mobilevalid1@gmail.com
+Ph: 98654 40771
 MobileValid2
-1342, 8th Cross, J.P.Nagar 1st Phase, Bangalore – 560078|
+1342, 8th Cross, J.P.Nagar 1st Phase, Bangalore - 560078|
 Ph.: 98654 40771|Mail id: mobilevalid2@gmail.com
+Accomplished Associate Manager - Quality Assurance with more than 11 years 
+experience
+ in ETL/Data Warehouse/BI Testing and Application Testing seeking a career opportunity in a QA leadership role.
+PROFESSIONAL 
+SUMMARY
 
-Accomplished Associate Manager – Quality Assurance with more than 11 years experience in ETL/Data Warehouse/BI Testing and Application Testing seeking a career opportunity in a QA leadership role. 
+Associate Manager in Quality Assurance with more than 11 years relevant 
+experience
+ combining leadership with cutting-edge software delivery expertise.
+Proficient within STLC in Planning and Test Estimation, designing Test Strategy for large 
+projects
+, Defect Management and Resolution and Test Results Analysis. Strong troubleshooting and error analysis 
+skills
+.
+Delivery expertise using Agile Project Management, established project management and delivery models for medium-sized 
+projects
+.
+Managing the Finance group of 
+projects
+ in the client organization, providing leadership, technical and domain expertise and managing overall delivery of the QA team.
 
-PROFESSIONAL SUMMARY
-Associate Manager in Quality Assurance with more than 11 years relevant experience combining leadership with cutting-edge software delivery expertise. 
-Proficient within STLC in Planning and Test Estimation, designing Test Strategy for large projects, Defect Management and Resolution and Test Results Analysis. Strong troubleshooting and error analysis skills. 
-Delivery expertise using Agile Project Management, established project management and delivery models for medium-sized projects. 
-Managing the Finance group of projects in the client organization, providing leadership, technical and domain expertise and managing overall delivery of the QA team. 
-Experience in Requirements Gathering, Staffing of projects and Project Roadmap Definition. 
-Established record of leading QA teams in delivery of high-quality software. 
-Excellent knowledge of ETL/Data Warehouse testing, ETL Automation, BI/Report testing, negative, regression, system integration (SIT) and acceptance (UAT) testing. Working knowledge on Automation, Big Data, Analytics, and API testing. 
-Established and implemented best-practices within projects resulting in more efficient teams. 		
-Motivated leader with strong organizational skills and prioritization abilities. 
+Experience
+ in Requirements Gathering, Staffing of 
+projects
+ and Project Roadmap Definition.
+Established record of leading QA teams in delivery of high-quality software.
+Excellent knowledge of ETL/Data Warehouse testing, ETL Automation, BI/Report testing, negative, regression, system integration (SIT) and acceptance (UAT) testing. Working knowledge on Automation, Big Data, Analytics, and API testing.
+Established and implemented best-practices within 
+projects
+ resulting in more efficient teams.
+Motivated leader with strong organizational 
+skills
+ and prioritization abilities.
 Goal-oriented, dedicated to high levels of customer and stakeholder satisfaction and meeting aggressive business goals. High learning curve and passionate.
-Excellent verbal and written communication skills, strong ability to interact with executives, managers, teams and Subject Matter Experts. 
+Excellent verbal and written communication 
+skills
+, strong ability to interact with executives, managers, teams and Subject Matter Experts.
 
 SKILLS
 
+Test Estimation
+Project planning and staffing
+Test Strategy & Coverage
+Test Case Development
+Test Case Execution | Functional Requirements
+Functional & System Testing
+Regression & Negative Testing ETL/Data Warehouse TestingBI/Report/Analytics testing | Scripting & Documentation
+Defect/Bug Tracking
+Product Backlog Definition
+Managing entry/exit criteria for business
 Technical EXPERTISE
 Project Management: Rational Team Concert, JIRA
 Test Management and Reporting: HP Quality Center 10.0, HP Application Lifecycle Management 11, TFS, Microsoft Test Manager, Azure Devops
-Programming Languages: OOPS using Java, C, C#, Oracle PL/SQL, T-SQL,
+Programming 
+Languages
+: OOPS using Java, C, C#, Oracle PL/SQL, T-SQL,
 Operating Systems: LINUX, UNIX, Windows
 Database Management Systems: Oracle 9i, Oracle 10g, Oracle 11g, MS SQL Server 2008, MS SQL Server Parallel Data Warehouse (PDW), Azure Data Warehouse (ADW)
 Internet Technology: HTML, XML
-Tools and Utilities: TOAD 9, SQL Navigator, PL/SQL Developer, Oracle Application Express (Apex), MPI Stylus, MS Excel, MS Visio, MS Access, MS Visual Studio 2008. 
+Tools and Utilities: TOAD 9, SQL Navigator, PL/SQL Developer, Oracle Application Express (Apex), MPI Stylus, MS Excel, MS Visio, MS Access, MS Visual Studio 2008.
 ETL/Data Warehouse Test Automation: QuerySurge
+WORK 
+EXPERIENCE
 
-WORK EXPERIENCE
 Working as Associate Manager in Imaginea, Part of Accenture on a DW/ETL based process to streamline claim reconciliation, billing and revenue recognition for a US-based third-party insurance provider (July 2017 to present).
-This project implements a rule-based process to associate the claims processed by the client with the contracts between the client and insurance companies. This enables the Billing and Revenue Recognition projects to use precise data, thereby making the Finance organization more effective and prevent revenue leakage. The project serves as the repository for the business generated by contracts between the client and insurance companies and automates part of the business process followed by the Finance organization. 
-	Responsibilities:
-Lead the QA team in testing. 
-Interface with project team onshore and serve as primary point of contact for testing activities. 
-Test Estimation for short, near and long-term project objectives. 
+This project implements a rule-based process to associate the claims processed by the client with the contracts between the client and insurance companies. This enables the Billing and Revenue Recognition 
+projects
+ to use precise data, thereby making the Finance organization more effective and prevent revenue leakage. The project serves as the repository for the business generated by contracts between the client and insurance companies and automates part of the business process followed by the Finance organization.
+Responsibilities:
+Lead the QA team in testing.
+Interface with project team onshore and serve as primary point of 
+contact
+ for testing activities.
+Test Estimation for short, near and long-term project objectives.
 Develop short and long-term Test Strategy, provide a stable regression test framework.
 Test Planning
 Preparation of Test Data
 System and Integration testing
-Coordination with applications to ensure downstream testing and regression testing. 
-Logging defects in Microsoft Test Manager and track closure. 
-	Key Project Achievements:
-Established a highly efficient process for multiple functions within the portfolio of projects. 
-	
-Enabled previously unavailable steps in the revenue calculation process which prevents revenue leakage. 
-Developed reusable testing mechanisms which are used to implement robust regression test suite. 
-Implementing end-to-end test automation for the ETL process using QuerySurge. 
-Mentored junior team members to the high level of productivity and testing skill required to successfully implement releases in all stages of project development.  
-Set up automated test execution in production which enabled the business team to enhance the quality of data and triage issues with upstream systems. 
-	
-Worked as a Senior Quality Analyst in Imaginea, Part of Accenture on a BI project which reports compliance of the organization’s business to the CEO (Nov 2017 to Feb 2018). 
-This project implements reports in Microsoft Power BI to track the organization’s activity on claims processing such as setup of claims, timely contact of claimants and on-time notification. The testing scope of this project involves the validation of the dimensional model used to build reports and the data and UI validation of the reports.
-	Responsibilities:
-Test Planning
-Preparation of Test Data
-System and Integration testing
-Logging defects in Microsoft Test Manager and track closure. 
-	Key Project Achievements:
-Developed reusable testing techniques which covered majority of the data validation of the reports. 
-Completed testing the first release with high number of defects in quick time. 
-
+Coordination with applications to ensure downstream testing and regression testing.
+Logging defects in Microsoft Test Manager and track closure.
+Key Project 
+Achievements
+:
+Established a highly efficient process for multiple functions within the portfolio of 
+projects
+.
+Enabled previously unavailable steps in the revenue calculation process which prevents revenue leakage.
+Developed reusable testing mechanisms which are used to implement robust regression test suite.
+Implementing end-to-end test automation for the ETL process using QuerySurge.
+Mentored junior team members to the high level of productivity and testing skill required to successfully implement releases in all stages of project development.
+Set up automated test execution in production which enabled the business team to enhance the quality of data and triage issues with upstream systems.
+Worked as a Senior Quality Analyst in Imaginea, Part of Accenture on a BI project which reports compliance of the organization's business to the CEO (Nov 2017 to Feb 2018).
+This project implements reports in Microsoft Power BI to track the organization's activity on claims processing such as setup of claims, timely 
+contact
+ of claimants and on-time notification. The testing scope of this project involves the validation of the dimensional model used to build reports and the data and UI validation of the reports.
+Developed reusable testing techniques which covered majority of the data validation of the reports.
+Completed testing the first release with high number of defects in quick time.
 Worked as a Test Analyst in Infosys Ltd. on a Compliance Management product for a leading US-based payments organization (August 2015 till July 2016 in Bangalore, India)
-	This product is conceived by the client organization to help its clients with compliance and audit of company cards. The product provides the accounting departments of companies with information related to the usage of company cards, identifying transactions which might be outside business purposes. It also helps start-ups and small companies track their expenditure, thereby enabling them to take better decisions in organizing their budget.
-	Responsibilities:
-Lead the offshore team in ETL Testing. 
-Develop the automation framework to test the ETL portion of the product. 
+This product is conceived by the client organization to help its clients with compliance and audit of company cards. The product provides the accounting departments of companies with information related to the usage of company cards, identifying transactions which might be outside business purposes. It also helps start-ups and small companies track their expenditure, thereby enabling them to take better decisions in organizing their budget.
+Lead the offshore team in ETL Testing.
+Develop the automation framework to test the ETL portion of the product.
 Analyzing requirements during the requirement analysis phase and keep track of new, updated requirements.
-Preparation of Test Data
-System and Integration testing
-Coordination with applications to ensure downstream testing and regression testing. 
 Logging defects in HP ALM and track closure
-	Key Project Achievements:
-Successfully deployed the ETL Automation Test Framework comprising DB tables, Procedure, Trigger and a Java Application at minimum cost. 
-Led the initiative which improved data validation coverage through the automation framework. 
-Achieved 54% increase in test coverage on the existing tests. 
-
+Successfully deployed the ETL Automation Test Framework comprising DB tables, Procedure, Trigger and a Java Application at minimum cost.
+Led the initiative which improved data validation coverage through the automation framework.
+Achieved 54% increase in test coverage on the existing tests.
 Worked as a Test Analyst in Infosys Ltd. on a Data Warehouse project for a leading US-based Financial Services Company (October 2014 to March 2015 in Bangalore and June 2014 to September 2014 in Boston, MA)
-	This initiative involves re-pointing the reference and performance data of the organization’s database to a new source. The project involves data validation to ensure completeness, accuracy and minimal change from the existing system.
-	Responsibilities:
-Lead the onsite/offshore team in functional and Data Warehouse testing. 
+This initiative involves re-pointing the reference and performance data of the organization's database to a new source. The project involves data validation to ensure completeness, accuracy and minimal change from the existing system.
+Lead the onsite/offshore team in functional and Data Warehouse testing.
 Data Analysis and framing the requirements based on results of analysis.
-Preparation of Test Data
-System and Integration testing
-Coordination with applications to ensure downstream testing and regression testing. 
 Logging defects in HP Quality Center and track closure
-	Key Project Achievements:
-Led the team which achieved 100% quality with no defects in production for a very complex project with aggressive work-rate. 
-Implemented thorough automated analysis of existing data resulting in clear requirements for subsequent sprints. 
-Implemented automated data validation mechanisms on new data in the requirements phase of every sprint to deem the new data fit for consumption. 
-
+Led the team which achieved 100% quality with no defects in production for a very complex project with aggressive work-rate.
+Implemented thorough automated analysis of existing data resulting in clear requirements for subsequent sprints.
+Implemented automated data validation mechanisms on new data in the requirements phase of every sprint to deem the new data fit for consumption.
 Worked as a Test Analyst in Infosys Ltd. on a Data Warehouse project for a leading US-based Financial Services Company (December 2012 to May 2014 in Nashua, NH; Merrimack, NH; Boston, MA and January 2012 to December 2012 in Bangalore)
-	The Shared Data track in Data Architecture directly deals with additions and enhancements to the Strategic Advisors Inc. Database. Requests from multiple consumers of Equity, Fixed Income, Municipal bond and Corporate Action data are fulfilled by integrating the source data from external and internal vendors to the existing database. Enhancements on existing processes are taken up to serve the changing needs of Portfolio Advisors, Analysts,  Fund Managers, Operations Support and Maintenance groups who directly consume data from the SAI Database. The project also involves initiatives to address the technology debt of the client organization.
-	
-Responsibilities:
-Lead the onsite/offshore team in Functional and Data Warehouse testing. 
-Ensure timely completion of tasks in compliance with the overall schedule of the track. 
+The Shared Data track in Data Architecture directly deals with additions and enhancements to the Strategic Advisors Inc. Database. Requests from multiple consumers of Equity, Fixed Income, Municipal bond and Corporate Action data are fulfilled by integrating the source data from external and internal vendors to the existing database. Enhancements on existing processes are taken up to serve the changing needs of Portfolio Advisors, Analysts, Fund Managers, Operations Support and Maintenance groups who directly consume data from the SAI Database. The project also involves initiatives to address the technology debt of the client organization.
+Ensure timely completion of tasks in compliance with the overall schedule of the track.
 Requirement Analysis
-Preparation of Test Data
-System and Integration testing
-Coordination with applications to ensure downstream testing and regression testing. 
-Logging defects in HP Quality Center and track closure
-	
-Key Project Achievements:
-Implemented a prototype of Data Warehouse Test Automation Framework using PL SQL, subsequently implemented an automation regression framework using the prototype. 
+Implemented a prototype of Data Warehouse Test Automation Framework using PL SQL, subsequently implemented an automation regression framework using the prototype.
 Implemented automation of data validation in a large database migration initiative from Oracle 10g to Oracle 11g ensuring quality and completeness.
-Led the team which received the highest engagement level feedback. 
-Led the team which implemented validation techniques to increase coverage by 26% leading to high code quality. 
+Led the team which received the highest engagement level feedback.
+Led the team which implemented validation techniques to increase coverage by 26% leading to high code quality.
 Established mechanisms and processes to enhance productivity of team by reducing time required for execution and improve quality of delivery.
-
 Worked as a Test Engineer in Infosys Ltd. on an OLAP data warehouse project for a leading US-based Financial Services Company (April 2010 to December 2013 in Bangalore)
-The project is the creation of a Common Data Environment to store returns, pricing and holdings information of indices containing equity, fixed-income and high-income securities spanning geographical areas and industries. The business objective of the Common Data Environment is to have a centralized repository of index and fund related information for consumption by multiple user-groups. The project also involves adoption of benchmarks, holdings and returns from Common Data Environment to Asset Allocation Division’s primary operational database. 
-	Responsibilities:
-Requirement Analysis
+The project is the creation of a Common Data Environment to store returns, pricing and holdings information of indices containing equity, fixed-income and high-income securities spanning geographical areas and industries. The business 
+objective
+ of the Common Data Environment is to have a centralized repository of index and fund related information for consumption by multiple user-groups. The project also involves adoption of benchmarks, holdings and returns from Common Data Environment to Asset Allocation Division's primary operational database.
 Preparation of Integration Test Plan
-Preparation of Test Data
-System and Integration testing
-Coordination with applications to ensure downstream testing and regression testing. 
-Logging defects in HP Quality Center and track closure
-
-	Key Project Achievements:
 Ensured 100% test coverage
 Provided regular business-related reports to stakeholders.
 
-ACHIEVEMENTS 
-Planned and implemented mechanisms, tools and practices in testing and analysis within the team which vastly improved quality of delivery.
-Implemented Test Optimization techniques across projects resulting in high-quality software. 
-Implemented innovative solutions which resulted in savings of over $100,000 over a period of 2.5 years
-Guided and mentored team members towards their individual goals while going above and beyond team’s annual targets. 
-Analyzed, recommended and implemented appropriate Agile practices successfully within cross-functional teams. 
+ACHIEVEMENTS
 
-AWARDS AND RECOGNITION
-Won Team of the Month for December 2018 for quality of project deliverables. 
-Appreciated on multiple occasions by client organization for project delivery. 
-Led the QA team in the Project which won “Team of the Year” award in 2013 in the client organization. 
-Received organization-level award as a “Differentiator” for team’s performance in Jan 2014.
-Won individual unit-level awards repeatedly for performance, learning skills, attention to detail and testing skill. 
+Planned and implemented mechanisms, tools and practices in testing and analysis within the team which vastly improved quality of delivery.
+Implemented Test Optimization techniques across 
+projects
+ resulting in high-quality software.
+Implemented innovative solutions which resulted in savings of over $100,000 over a period of 2.5 years
+Guided and mentored team members towards their individual goals while going above and beyond team's annual targets.
+Analyzed, recommended and implemented appropriate Agile practices successfully within cross-functional teams.
+
+AWARDS
+ AND RECOGNITION
+Won Team of the Month for December 2018 for quality of project deliverables.
+Appreciated on multiple occasions by client organization for project delivery.
+Led the QA team in the Project which won "Team of the Year" award in 2013 in the client organization.
+Received organization-level award as a "Differentiator" for team's performance in Jan 2014.
+Won individual unit-level 
+awards
+ repeatedly for performance, learning 
+skills
+, attention to detail and testing skill.
 
 Education
-Visveswaraiah Technological University	Belgaum, India
-Bachelor of Engineering – Electronics & Communication	2005-2009
-Successfully completed B.E. in Dayananda Sagar College of Engineering, Bangalore securing First Class with Distinction and an aggregate of 71.52%. 
 
+Visveswaraiah Technological UniversityBelgaum, India
+Bachelor of Engineering - Electronics & Communication2005-2009
+Successfully completed B.E. in Dayananda Sagar College of Engineering, Bangalore securing First Class with Distinction and an aggregate of 71.52%.
 
 Certifications
+
 Internal - Capital Markets
-Internal – IVS Technology 101 - DotNet Elective
+Internal - IVS Technology 101 - DotNet Elective
 Internal - STAR INFOSCION CERTIFICATION
 Internal - IVS Technology TE Core 101
 Internal - Infosys Quality: Foundation Certification
 Internal - Equities Overview
-More than 25 digital badges earned on Percipio courses. 
+More than 25 digital badges earned on Percipio courses.
 Achieved high skill competency proficiency and technology quotient scores
-
-
 PERSONAL DETAILS
 Gender: Male
 Marital Status: Single
-Languages Known: English, Hindi, Kannada, Tamil
 
+Languages
+ Known: English, Hindi, Kannada, Tamil
 
 HOBBIES
+
 Reading
 Guitar
 Basketball
-
-
 Declaration
-I hereby certify that the information present in this document is accurate and true to the best of my knowledge. 
-3rd Dec, 2021								Abhijith Sridhar
+I hereby certify that the information present in this document is accurate and true to the best of my knowledge.
+3rd Dec, 2021Abhijith Sridhar

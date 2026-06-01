@@ -1,31 +1,62 @@
 S. RAJGANESH
-Email: rajganesh29@gmail.com	Contact no: 7299212131
-
+Email: rajganesh29@gmail.comContact no: 7299212131
 Lead Cyber Security Engineer
-Having almost 10 years of total experience in IT Field in which 4+ years of experience in Web application & API security testing, Network security analysis, VA|PT, Specialty in finding vulnerabilities for improving business efficiency and 2 Years of experience in Functionality testing (Manual and web accessibility).
+Having almost 10 years of total 
+experience
+ in IT Field in which 4+ years of 
+experience
+ in Web application & API security testing, Network security analysis, VA|PT, Specialty in finding vulnerabilities for improving business efficiency and 2 Years of 
+experience
+ in Functionality testing (Manual and web accessibility).
 Have been Completed Certified Ethical Hacker Certification (CEH 2020- v10) and Certified Azure Security Engineer (AZ-500).
-
 Responsibilities:
 Finding vulnerabilities in the web application, Server and API security. Report various vulnerabilities from Critical to low/informational level.
 Frequently Conducting Security Awareness Programs like Phishing Simulation test, Security Quiz and Awareness Presentation Program to all my employees.
 Have been a part of ISO 2700X Internal and Live Audit and Collected the proofs for security related documents every month.
-Interacting with developer’s team for better understanding for secure application development and help the further issue remediations.
-Experience with application analysis tools, and vulnerability scanners (burp suite, App scan, Nessus Tool, Nmap, ZAP etc.)
+Interacting with developer's team for better understanding for secure application development and help the further issue remediations.
+
+Experience
+ with application analysis tools, and vulnerability scanners (burp suite, App scan, Nessus Tool, Nmap, ZAP etc.)
 Preparing reports contain detailing assessment findings and recommendations.
-Hands-on experience on web and network testing on medical, HRMS and PCI applications. Doing Grey box testing.
-
+Hands-on 
+experience
+ on web and network testing on medical, HRMS and PCI applications. Doing Grey box testing.
 SKILL SET:
+Security Testing tools | Burp Suite, HCL APP Scan, ZAP, SQL Map, Nmap, Nessus, Go Phish, Kali Linux, Other Open-Source Tools
 
-EDUCATIONAL SUMMARY
+Certifications
+ | Certified Ethical Hacker (CEH-v10), Azure Security Engineer (AZ 500) and API Security Architect
+Programming Language | Dot Net and HTML (Basics)
+Operating System | Windows and Linux (kali)
+EDUCATIONAL 
+SUMMARY
 
-
-
+Qualification | Educational Institution
+BE (Electronic and Communication Engineering) | Anna University of technology (Coimbatore).
+84% - 2007-2011
 WORK EXPERIENCES
 Infotech System Integrators Pvt Ltd (Majullah Infotech)
-
+Duration | From May 2021 to Till Now
+Client Name | Infotech System Integrators Pvt Ltd
+Project Name | HRMS and Accounting (Multiple country sites under Infotech)
+Team Size | 4+1
+Role | Lead Cyber Security Engineer
+Environment/Tools | Website, Network, API's, Burp Suite, OWASP ZAP, Nmap, Nessus, Kali Linux, Go Phish, Other Open-Source Tools
 Northern Lights Technology Development
-
+Duration | From Nov 2015 to May 2021
+Client Name | Taylor Technology Services (TTS)
+Project Name | Web Applications (Multiple Sites under TTS)
+Team Size | 10
+Role | Information Security Analyst/Software testing
+Environment/Tools | Website, Network, API's, Burp Suite, HCL APP Scan, SQL Map, Nmap, Nessus (Report), Kali Linux, Other Open-Source Tools
 RRDONNELLEY - PRINTING
-Worked as “Graphic Designer” from Oct 2013 to Oct 2015.
+Worked as "Graphic Designer" from Oct 2013 to Oct 2015.
 DECATREND TECHNOLOGIES PVT LTD (CES Limited)
-Worked as “Junior Web/Graphic Designer” from May 2012 to Oct 2013.
+Worked as "Junior Web/Graphic Designer" from May 2012 to Oct 2013.
+
+Personal Information
+:
+Name | Rajganesh S
+DOB | 28/05/1990
+Relationship status | Married
+Permanent Address | 19/7 - Kalaignar Nagar Extn - 5, karungalpatty, Gugai, Salem-6

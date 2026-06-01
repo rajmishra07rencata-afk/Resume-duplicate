@@ -1,73 +1,91 @@
 AKHILA A
-Contact: +91-6281524724
+
+Contact
+: +91-6281524724
 Email:akhila.atesting@gmail.com
 
-
-Experience Summary:
-5+ years of Automation & Manual Software Testing experience in Functional (Web Application testing, Database testing, Desktop Application Testing) and Non-Functional (Availability, Usability, Reliability and Compatibility) testing types.
+Experience
+ 
+Summary
+:
+5+ years of Automation & Manual Software Testing 
+experience
+ in Functional (Web Application testing, Database testing, Desktop Application Testing) and Non-Functional (Availability, Usability, Reliability and Compatibility) testing types.
 Responsible for creating and maintaining both manual and automated test suites for the entire project
 Analyze requirements and user stories before the build, by collaborating with product owners.
 Actively participate in sprint planning to provide sizing for the testing stories of the sprint.
-Responsible for creating test scenarios for user stories and creating automation test suites using Python, python –behave framework.
+Responsible for creating test scenarios for user stories and creating automation test suites using Python, python -behave framework.
 Maintained the Regression test suite which should be run before every release, report any regression defects and get them fixed before the release.
 Used PYWINAUTO package in Python to automate the Microsoft Windows GUI.
 Used different tools like SWAPY, Inspect.exe tools to inspect the elements in Desktop Applications.
-Experience on working with dcmtk tool, AWS S3Bucket, CDAL, Deidentification UI (Desktop application), Lineage UI, IGT Data Lake, CDP UI 
-Reliability and Compatibility) testing types. And testing experience over a wide variety of banking applications.
+
+Experience
+ on working with dcmtk tool, AWS S3Bucket, CDAL, Deidentification UI (Desktop application), Lineage UI, IGT Data Lake, CDP UI
+Reliability and Compatibility) testing types. And testing 
+experience
+ over a wide variety of banking applications.
 Expertise in Software Testing Life Cycle (STLC), Defect Management Life Cycle, Software Development Life Cycle (SDLC) methodologies.
-Experience in developing Java Selenium Web driver test scripts and Test Frameworks using TestNG.
-Experience in Writing test scripts using Element locators, Web Driver methods, programming features and Executing Scripts using Selenium.
-Experience in API and Web service testing tools Postman and Rest Assured.
-Experience in Test Driven Development (TDD) and Behavioral Driven Framework (BDD) with
+
+Experience
+ in developing Java Selenium Web driver test scripts and Test Frameworks using TestNG.
+
+Experience
+ in Writing test scripts using Element locators, Web Driver methods, programming features and Executing Scripts using Selenium.
+
+Experience
+ in API and Web service testing tools Postman and Rest Assured.
+
+Experience
+ in Test Driven Development (TDD) and Behavioral Driven Framework (BDD) with
 Cucumber Tool
 In-depth knowledge of software testing process and practices, test case, and testing strategies.
 Knowledge in Behavioral Driven Framework (BDD) with cucumber tool.
-Ability to communicate effectively with outstanding project management skills.
+Ability to communicate effectively with outstanding project management 
+skills
+.
+Technical 
+Skills
 
+Skills
 
- Technical Skills	
+Programming/Scripting 
+Languages
+ | Core Java, python
+Testing Tools | Selenium Web driver, Eclipse, TestNG, JIRA, Postman, python-behave framework, SOAP UI , PyCharm, pytest, swapy, inspect.exe,RestAssured,Robot Framework,Python-selenium, Java selenium,pywinauto
+Project Lifecycle | STLC, SDLC
+Project Development/Management methodology | Agile, Scrum
 
+Education
 
-
-
-
- Education	
 B.Tech from JNTU Anantapur in 2016
+Professional 
+Summary
 
- Professional Summary	
-
-Company: Qualitest 
-Client    : Philips
+Company: Qualitest
+Client : Philips
 Department and Domain: Research & Healthcare Domain
 Role: Manual and Automation Tester
-Duration : FEB 2022- Till date 
+Duration : FEB 2022- Till date
 _________________________
 Project #1: HS GATEWAY
 Duration: Feb 2022 to June 2022
 Team size :4 Testers
 __________________________
-Project #2: CDP LINEAGE 
+Project #2: CDP LINEAGE
 Duration: Jul 2022 to Till Dec 2022
 Team Size: 1 Tester
 ___________________________
 Project #3: Deid Enhancement
 Duration: Sep 2022 to Till Dec 2022
-Team Size: 1 Tester
-__________________________
 Project #4: Clinical Data pipeline & Deidentification
 Duration: Jan 2023 to Till Dec 2023
-Team Size: 1 Tester
-__________________________
 Project #5: Lineage
 Duration: Aug 2023 to Till now
-Team Size: 1 Tester
-
-
-
 Responsibilities:
-   
-Simultaneously working on 2 projects as a single tester for both Manual and automation in the Team.
-Prepared automation test plan and developed automation framework (Python-Behave) in python by using PyCharm 
+Simultaneously working on 2 
+projects
+ as a single tester for both Manual and automation in the Team.
+Prepared automation test plan and developed automation framework (Python-Behave) in python by using PyCharm
 Initially for 1 month Worked in karate framework later changed all into python-behave framework as per project requirement.
 Worked closely with developers and project managers to clarify requirements, discuss release scope and features implementation details
 Used PYWINAUTO To automate the Windows applications.
@@ -80,21 +98,17 @@ Maintained/modified test plan and developed new test cases as new features were 
 Developed test plan and test cases for manual and automated testing.
 Conducted end to end testing before application released to production.
 Documented detailed results of testing.
-Defined appropriate test cases and test plans for assigned projects.
+Defined appropriate test cases and test plans for assigned 
+projects
+.
 Worked independently on assigned tasks and kept manager informed of project status and issues.
 Worked collaboratively with project management, developers, customer support, and other team members to identify bugs or other application programming issues.
-                                                                                                                                                                        
-
-                  
-
 Company: Talent Scout Management Solutions Pvt Ltd
-Client	: Accenture
-Project #1: MCG 
+Client: Accenture
+Project #1: MCG
 Project #2: Kohls
 Duration: Jan 2019- Feb 2022
 Team Size: 10
-
-Responsibilities:
 Developed and Executed Test plans, Test scenarios, Test cases, Test scripts for Manual and Automation Testing
 Performed various testing methods like Functional, Usability by creating automated scripts using selenium webdriver and manually.
 Developed Automation test scripts using Selenium WebDriver and java
@@ -104,7 +118,9 @@ Removed impediments and protected team members from interruptions and distractio
 Source to target data validation, record count validation, source to target mapping rules and transformation logic using SQL queries.
 Identification of Data Validation scenarios from the Technical Design Document.
 Involved in creating Manual Functional, User Interface, Regression, and Integration Test plans, Test Specifications and Test Scripts.
-Involved in defining end to end QA and Strategy for projects and participating in each phase of the project from requirement definition to user acceptance testing.
+Involved in defining end to end QA and Strategy for 
+projects
+ and participating in each phase of the project from requirement definition to user acceptance testing.
 Responsible for Mapping business requirements and translating these requirements into functional specifications and detailed test plans.
 Design and manage the processes and controls to ensure testing meets agreed quality standards and all relevant stakeholders have visibility of testing progress and quality.
 Preparing automation test plan and developing automation framework.
@@ -116,6 +132,5 @@ Complete involvement interacting with the client on change request queries resol
 Using SQL queries and preparing Bug reports.
 Conduct Internal and External Test Plan Walkthrough.
 Obtain Signoff for the Test Plans created.
-Identification of Data Validation scenarios from the Technical Design Document.
 Conduct User acceptance Test.
 Participate in Production Deployment and Provide Signoff. Support Integration testing.

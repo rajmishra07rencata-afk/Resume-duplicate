@@ -1,120 +1,110 @@
 Anandan.G
-Email ID       :   gunaanand9304@gmail.com
-Contact No  :  9176135061
+Email ID : gunaanand9304@gmail.com
 
-Experience Summary
-Technically sophisticated, resourceful, holding 3 years of experience in .NET MVC, Windows application, Single page application, Project Management and Issue Resolution.
+Contact
+ No : 9176135061
+
+Experience
+ 
+Summary
+
+Technically sophisticated, resourceful, holding 3 years of 
+experience
+ in .NET MVC, Windows application, Single page application, Project Management and Issue Resolution.
 Extensively worked with HTML, CSS, Bootstrap, JQUERY, JAVASCRIPT, Angular JS, JSON and AJAX
-Hands-on experience in React & Vue JS
+Hands-on 
+experience
+ in React & Vue JS
 Expertise in data base management using MS SQL server and PostgreSQL, framing the database tables and proficient in retrieving the data from the database
-Experience with Version Control tool like GIT
-Problem solver with a positive attitude, effective communication skills, good work ethics
-	and proven ability to be a good team player
+
+Experience
+ with Version Control tool like GIT
+Problem solver with a positive attitude, effective communication 
+skills
+, good work ethics
+and proven ability to be a good team player
 Dynamic worker interested to work on new technologies and new domains.
 My core area of skill is designing, customization, development, testing, integration, control and monitoring systems.
-
 Technical Skill Set
-Languages		:  C#, LINQ
-Expertise in		:  .NET MVC, Windows application, Single page application
-Web Technology		:   HTML5, Javascript, JQuery, Bootstrap, Angularjs, React JS & Vue basics
-Middle ware     	 	:   IBM MQ
-Web API			:    .Net web API
-Database		:   MS SQL, Postgresql
-Development Tools	:   Visual studio
-Version Control Systems	:   GIT
-Web Server                           :   IIS
-Tools			: Jenkin (build automation tool)
 
+Languages
+: C#, LINQ
+Expertise in: .NET MVC, Windows application, Single page application
+Web Technology: HTML5, Javascript, JQuery, Bootstrap, Angularjs, React JS & Vue basics
+Middle ware : IBM MQ
+Web API: .Net web API
+Database: MS SQL, Postgresql
+Development Tools: Visual studio
+Version Control Systems: GIT
+Web Server : IIS
+Tools: Jenkin (build automation tool)
 Educational Qualification
-Diploma - CT (2016) – Central Polytechnic College Taramani, Chennai (96%)
-SSLC (2013) – General Cariappa Hr Sec School saligramam, Chennai (94%)
-Employment History
+Diploma - CT (2016) - Central Polytechnic College Taramani, Chennai (96%)
+SSLC (2013) - General Cariappa Hr Sec School saligramam, Chennai (94%)
+
+Employment
+ History
 Junior Programmer, July 2016 to Sep 2018
 Vinayak Infotech - Chennai, Tamilnadu
-
 Software Developer, Sep 2018 to Present
 Pathfinder Enterprise Solutions Pvt Ltd - Chennai, Tamilnadu
-
 Project Details
 Project 1
-Project Name		:	Nxtnote
-Role			:	Developer  
-Technologies		:	Asp.net web forms, .Net windows application, HTML, jQuery
-Database 		: 	SQL Server 2012
+Project Name:Nxtnote
+Role:Developer
+Technologies:Asp.net web forms, .Net windows application, HTML, jQuery
+Database : SQL Server 2012
 Description:
-	Nxtnote is a product. It is used to conduct topic discussion / brainstorming workshop with multiple users at the same time. After discussion we can print the workshop discussed notes using the printer service windows application.
+Nxtnote is a product. It is used to conduct topic discussion / brainstorming workshop with multiple users at the same time. After discussion we can print the workshop discussed notes using the printer service windows application.
 Responsibilities:
- Responsibilities for developing new approaches in product.
+Responsibilities for developing new approaches in product.
 Bug fixing, support and maintenance.
-
 Project 2
-Project Name		:	iSafety
-Role			:	Developer and Database Admin  
-Technologies		:	Ionic, HTML5, Angular js, .Net web API
-Database		:	SQL Server 2016
-Description:
-	iSafety is the safety management system. It is also a product. The main objective of the product is establishing safety in industries. That automates all the functionalities in contraction industries thereby reducing manpower and paperwork. The main features of isafety are selfie attendance, multi-language support and real time reports.
-Responsibilities:
+Project Name:iSafety
+Role:Developer and Database Admin
+Technologies:Ionic, HTML5, Angular js, .Net web API
+Database:SQL Server 2016
+iSafety is the safety management system. It is also a product. The main 
+objective
+ of the product is establishing safety in industries. That automates all the functionalities in contraction industries thereby reducing manpower and paperwork. The main features of isafety are selfie attendance, multi-language support and real time reports.
 Responsibilities for developing new approaches in product
 Worked on stored procedure to retrieve data for analysis and input data.
 Worked on web api end points with business layers and data access layer
-
 Project 2.1
-Project Name		:	iSafety CRM
-Role			:	Developer
-Technologies		:	.Net 4.5, MVC, Linq,  Jquery
-Database 		: 	SQL server 2016
-Description:
-	iSafety CRM(Customer relationship management) is used to maintain customer data and involve businesses analysing customer interactions and improving customer relationship.
-Responsibilities:
- Responsibilities for developing new approaches in product.
- Design and development of user interface, business layers and data access layer.
-Worked on stored procedure to retrieve data for analysis and input data.
-
+Project Name:iSafety CRM
+Technologies:.Net 4.5, MVC, Linq, Jquery
+Database : SQL server 2016
+iSafety CRM(Customer relationship management) is used to maintain customer data and involve businesses analysing customer interactions and improving customer relationship.
+Design and development of user interface, business layers and data access layer.
 Project 3
-Project Name		:	Security System
-Role			:	Developer and Database Admin
-Technologies		:	.Net Windows Application, .Net Windows Service and IBM MQ
-Database 		: 	PostgreSQL 3
-Description:
-	It is security management system used to enforce security in harbour tollgate by using the human biometrics like fingerprint, face and iris. It is the combination of windows application, queueing system (IBM MQ) and windows service. Data transmission between windows application and windows service fully secured using the symmetric encryption (AES). 
-Responsibilities:
- Responsibilities for developing new approaches in product
- Design and development of user interface, business layers and data access layer
+Project Name:Security System
+Technologies:.Net Windows Application, .Net Windows Service and IBM MQ
+Database : PostgreSQL 3
+It is security management system used to enforce security in harbour tollgate by using the human biometrics like fingerprint, face and iris. It is the combination of windows application, queueing system (IBM MQ) and windows service. Data transmission between windows application and windows service fully secured using the symmetric encryption (AES).
+Design and development of user interface, business layers and data access layer
 Worked on stored procedure to retrieve data for analysis and input data
 SDK analyzation (card reader analyzation)
-
 Project 4
-Project Name		:	Proleaz (Retail Contract Management Syste)
-Role			:	Developer and Database Admin
-Technologies		:	HTML, CSS, Jquery, Angular JS, C#, ASP.Net MVC4
-Database 		: 	MS-SQL server 2014
-
-Description:
-	PROLEAZ is smart as it is seamless - Completely auto-integrated, the system allows for revenue calculation and rental sharing as dictated in the lease terms contract. PROLEAZ takes care of a fully automated data analysis system so that tracking of individual Retailer’s performance, analysing trends and gleaning meaningful insights into buying behaviour becomes easy and measurable. PROLEAZ manages end-to-end data pertaining to lease documents as well as monitoring the lease deadlines, extensions, renewals and approvals.
-Responsibilities:
- Understanding the product and customer requirements
-Design and development of user interface, business layers and data access layer
+Project Name:Proleaz (Retail Contract Management Syste)
+Technologies:HTML, CSS, Jquery, Angular JS, C#, ASP.Net MVC4
+Database : MS-SQL server 2014
+PROLEAZ is smart as it is seamless - Completely auto-integrated, the system allows for revenue calculation and rental sharing as dictated in the lease terms contract. PROLEAZ takes care of a fully automated data analysis system so that tracking of individual Retailer's performance, analysing trends and gleaning meaningful insights into buying behaviour becomes easy and measurable. PROLEAZ manages end-to-end data pertaining to lease documents as well as monitoring the lease deadlines, extensions, renewals and approvals.
+Understanding the product and customer requirements
 Implemented Digital signing
 Individually handle Utility computation & invoice modules
 Day-to-Day enhancement and support, Handling development activities.
-
-
-
-
-
-
 Personal Details
-Date of Birth		:    	04- Jun-1998
-Gender			:    	Male
-Marital Status		:   	Unmarried
-Father’s Name		:    	P.Gunasekaran (Late)
-Languages known	:	English, Tamil
-Nationality		:   	Indian
-Address                         	 :           1, Adam Street, Annammal nagar, Nerkundrem, Chennai – 600107
+Date of Birth: 04- Jun-1998
+Gender: Male
+Marital Status: Unmarried
+Father's Name: P.Gunasekaran (Late)
 
+Languages
+ known:English, Tamil
+Nationality: Indian
+Address : 1, Adam Street, Annammal nagar, Nerkundrem, Chennai - 600107
 Declaration
 I hereby declare that the information furnished above is true to the best of my knowledge.
 Date:
 Place:
-                                                                                                                           				         (Anandan G)
+(Anandan G)

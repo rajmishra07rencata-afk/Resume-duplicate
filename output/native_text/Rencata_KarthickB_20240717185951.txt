@@ -3,57 +3,58 @@ Karthick B
 karthickbaskar872001@gmail.com
 linkedin.com/in/karthickbaskar
 github.com/karthickibmsa
-Education
-S.A.Engineering College
+EducationS.A.Engineering College
 Tamilnadu, Chennai
 Bachelor of Information Technology
-Aug 2019 – May 2023
-• Cumulative GPA : 8.6/10.0
-• Relevant Coursework: Asp.Net , SqlServer , Angularjs , Html , Css , Problem Solving , Probability , Algorithms
+Aug 2019 - May 2023
+* Cumulative GPA : 8.6/10.0
+* Relevant Coursework: Asp.Net , SqlServer , Angularjs , Html , Css , Problem Solving , Probability , Algorithms
 Pathipaga Chemmal K Ganapathy Higher Sec School
-Tamilnadu, Chennai
 Higher Secondary in Computer Science
-June 2018 – Mar 2019
-• Cumulative Mark : 66 percent.
-Pathipaga Chemmal K Ganapathy Higher Sec School
-Tamilnadu, Chennai
+June 2018 - Mar 2019
+* Cumulative Mark : 66 percent.
 SSLC
-June 2016 – Mar 2017
-• Cumulative Mark : 91.2 percent.
-Work Experience
+June 2016 - Mar 2017
+* Cumulative Mark : 91.2 percent.
+Work 
+Experience
+
 FullStack Developer,Intern
 Sep 2022 - Present
 Aspire Systems
-Tamilnadu, Chennai
-• Worked on creating an end-to-end project CarRental App using Angular and Asp.Net
-• Worked on creating an end-to-end project on PayrollmanagementySystem using Asp.Net.Mvc
-• Knowledge in Github to push and pull the datas.
-• Worked on creating an JwtTokenBasedAuthentication , RoleBasedAuthentication using WebApi
-Technical Skills
-• Back End Technologies: Asp.Net , SqlServer , Basic in Java , WebApi
-• Front End Technologies: Angular , Html , Css
-• Tools: Swagger , GitHub , Postman
-• SoftSkill: ProblemSolving , Communication , Easily adopt Environment , Lead a team , Follow instructions, and
+* Worked on creating an end-to-end project CarRental App using Angular and Asp.Net
+* Worked on creating an end-to-end project on PayrollmanagementySystem using Asp.Net.Mvc
+* Knowledge in Github to push and pull the datas.
+* Worked on creating an JwtTokenBasedAuthentication , RoleBasedAuthentication using WebApi
+Technical 
+Skills
+
+* Back End Technologies: Asp.Net , SqlServer , Basic in Java , WebApi
+* Front End Technologies: Angular , Html , Css
+* Tools: Swagger , GitHub , Postman
+* SoftSkill: ProblemSolving , Communication , Easily adopt Environment , Lead a team , Follow instructions, and
 Get a job done on time.
+
 Projects
+
 Payroll Management System using Asp.Net.Mvc
 | Project Work
-• Developed an RoleBasedAuthentiation to give access to admin and user.
-• Entity Framework for creating migration then database will create.
-• Project helps to Manage the payment by Role of the employee.
-• Login Page with validation(for both server side and client side) using Form Authentication to identify user
+* Developed an RoleBasedAuthentiation to give access to admin and user.
+* Entity Framework for creating migration then database will create.
+* Project helps to Manage the payment by Role of the employee.
+* Login Page with validation(for both server side and client side) using Form Authentication to identify user
 and give authorize to the user , I used all the CRUD operation in this project with Entity framework,then
 used searching for filtering the employees and use filter like Action filter for tracking the user activity and
 Exception filter for handling the error and Global Exception for handling all the exception which are all occur
 in development mode
 Car Rental Application using Angular with WebApi
 | Current Project Work
-• Developed on JwtTokenBasedAuthentication to give access to admin and user.
-• Completed a Full stack Angular Application using Angular has FrontEnd and WebApi(Asp.Net with Code
+* Developed on JwtTokenBasedAuthentication to give access to admin and user.
+* Completed a Full stack Angular Application using Angular has FrontEnd and WebApi(Asp.Net with Code
 first Approach) has BackEnd with features like Offer Timeout for certain period of time and
 Availablity checking of the vechicles.
-• Developed Angular Application using WebApi with Code First Approach. and used Sql Server has Backend
+* Developed Angular Application using WebApi with Code First Approach. and used Sql Server has Backend
 Database.
 Declaration
-• I hereby confirm that the information given above is true to the best of my knowledge.
+* I hereby confirm that the information given above is true to the best of my knowledge.
 Karthick B (Chennai)

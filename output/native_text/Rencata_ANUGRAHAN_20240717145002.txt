@@ -4,18 +4,24 @@ Frontend Developer
 anusparrow24@gmail.com
 https://anugrahani.github.io/portfolio/
 Chennai
+
 SUMMARY
-Seeking a position to utilize my skills in IT industry that offers professional growth 
-while being resourceful and flexible. I wish to join your organization and to work with 
-maximum potential in an innovative, challenging environment which would result in 
+
+Seeking a position to utilize my 
+skills
+ in IT industry that offers professional growth
+while being resourceful and flexible. I wish to join your organization and to work with
+maximum potential in an innovative, challenging environment which would result in
 the benefit for the organization and self.
+
 EDUCATION
+
 Bachelor of Arts
 Annamalai University
 HSC
 Municipal Higher Secondary School
 SSLC
-St.Joseph’s Higher Secondary School,
+St.Joseph's Higher Secondary School,
 OPEN - SOURCE WORKS
 Business Website Development - (E-Commerce)
 https://anugrahani.github.io/e-commerce/
@@ -27,18 +33,28 @@ Created robust product catalog with sorting, searching, and a shopping cart for
 user convenience.
 Integrated user profiles for personalization, allowing users to view and edit
 information
-Employment-Focused Social Media - (LinkedIn)
+
+Employment
+-Focused Social Media - (LinkedIn)
 https://anugrahani.github.io/webpage-01/login.html
 Developed a full-featured web page using pure JavaScript, demonstrating strong
-programming skills.
-Enhanced user experience and data integrity through robust form validation
+programming 
+skills
+.
+Enhanced user 
+experience
+ and data integrity through robust form validation
 mechanisms.
-Implemented user-engaging features, including post viewing, posting, and profile
+Implemented user-engaging features, including post viewing, posting, and 
+profile
+
 management.
 Business Website Development
 https://anugrahani.github.io/responsive-webpage/
 Developed a responsive business website using HTML, CSS, and JavaScript.
-Designed sections for services, team, and contact information.
+Designed sections for services, team, and 
+contact
+ information.
 Implemented a newsletter subscription feature for user engagement
 STRENGTHS
 
@@ -49,30 +65,38 @@ Problem Solver
 Innovative approach to challenges
 
 Team Player
-Excellent collaboration skills
+Excellent collaboration 
+skills
+
 CORE TECHNOLOGIES
 HTML
 CSS
 JavaScript
 FRAMEWORKS & LIBRARIES
-ReactJs 
-Angular 
+ReactJs
+Angular
 TypeScript
 SASS
 MySQL
 Bootstrap5
 RxJS
 Redux
+
 SKILLS
+
 GitHub
 Responsive Design
 Version Control
+
 LANGUAGES
+
 Tamil
 native
 English
 Intermediate
-TRAINING / COURSES
+
+TRAINING
+ / COURSES
 Front-End Web Development
 Fabevy Technologies, Chennai
 07/2019 - 04/2022
@@ -80,4 +104,3 @@ Fabevy Technologies, Chennai
 06/2014 - 04/2016
 Cuddalore
 06/2012 - 04/2014
-Cuddalore

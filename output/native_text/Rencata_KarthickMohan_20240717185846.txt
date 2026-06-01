@@ -1,98 +1,119 @@
-Karthick Mohan 
-Software Engineer 
+Karthick Mohan
+Software Engineer
 Accomplished professional with expertise in planning, designing, and implementing high-quality websites.
 Skilled in java SpringBoot, Angular 11-14 and MySQL . Proven ability to quickly understand requirements,
-create innovative solutions, and complete projects within tight deadlines. 
-karthickmohan11799@gmail.com 
-7871519619 
-Tiruchirappalli, India 
-linkedin.com/in/karthickdev 
-EDUCATION 
-Bachelor of Engineering 
-Dhanalakshmi Srinivasan Institute of Technology 
-04/2017 - 04/2021,  
-Tiruchirappali,TamilNadu 
+create innovative solutions, and complete 
+projects
+ within tight deadlines.
+karthickmohan11799@gmail.com
+7871519619
+Tiruchirappalli, India
+linkedin.com/in/karthickdev
+
+EDUCATION
+
+Bachelor of Engineering
+Dhanalakshmi Srinivasan Institute of Technology
+04/2017 - 04/2021,
+Tiruchirappali,TamilNadu
 Computer Science
-Engineering 
-PERSONAL PROJECTS 
+Engineering
+PERSONAL 
+PROJECTS
+
 Hospital Management System | Angular 11-16
- (08/2023 - 08/2023) 
-Roles -Admin,Patient,Doctor 
+(08/2023 - 08/2023)
+Roles -Admin,Patient,Doctor
 Role Based Login - AuthGuard,Data sharing from one component to another
-using Behavior Subject,Bootstrap5,Swal Alert,Pagination,Ngb modal. 
-Established Http client requests using HttpClientModule. 
-https://github.com/karthickmohan99/Hospital_Management_Ng.git 
+using Behavior Subject,Bootstrap5,Swal Alert,Pagination,Ngb modal.
+Established Http client requests using HttpClientModule.
+https://github.com/karthickmohan99/Hospital_Management_Ng.git
 Hospital Management System | Spring Boot
- (08/2023 - 08/2023) 
-Models -Admin ,Appointment,Doctor,Patient,Schedule. 
+Models -Admin ,Appointment,Doctor,Patient,Schedule.
 Implement HTTP request handler methods to eﬃciently manage and
-respond to client-side HTTP requests. 
+respond to client-side HTTP requests.
 Implemented robust login validation, established Object-Relational Mapping
-(ORM) relationships across multiple tables. 
-https://github.com/karthickmohan99/HospitalManagement_SpringBoot.git 
-ATM Interface-Core Java (05/2023 - 05/2023) 
+(ORM) relationships across multiple tables.
+https://github.com/karthickmohan99/HospitalManagement_SpringBoot.git
+ATM Interface-Core Java (05/2023 - 05/2023)
 Design and Develop the ATM operations: Deposit | Withdraw | Transaction
-History and Transfer Money in Digital Bank Application. 
-https://github.com/karthickmohan99/ATMINterfaceInJava.git. 
+History and Transfer Money in Digital Bank Application.
+https://github.com/karthickmohan99/ATMINterfaceInJava.git.
 MERN Book Management -React JS and Express JS
- (11/2023 - 11/2023) 
+(11/2023 - 11/2023)
 CRUD Operations , Refresh Token Authentication with JWT,Axios
-Interceptors to handle refresh token Globally 
-https://github.com/karthickmohan99/MERN_CRUD.git 
-WORK EXPERIENCE 
-Junior Front End Developer 
-Dorustree Private Limited 
-02/2022 - 09/2022,  
-Tiruchirappalli,TamilNadu 
+Interceptors to handle refresh token Globally
+https://github.com/karthickmohan99/MERN_CRUD.git
+WORK 
+EXPERIENCE
+
+Junior Front End Developer
+Dorustree Private Limited
+02/2022 - 09/2022,
+Tiruchirappalli,TamilNadu
 Working on Educational Institute's Assessment Dashboard using
-Angular 14. 
+Angular 14.
 Responsible for implementing new features, Fixing existing Bugs
-and writing unit test cases Using Angular 11-14. 
-Built reusable components and libraries for future use. 
-Integrated third-party APIs into existing software. 
+and writing unit test cases Using Angular 11-14.
+Built reusable components and libraries for future use.
+Integrated third-party APIs into existing software.
 Participated in daily standup meetings with project stakeholders to
-discuss progress updates. 
+discuss progress updates.
 Used version control systems such as Git to manage source code
-repositories in a team environment. 
-SKILLS 
-Core Java 
-Hibernate 
-SpringBoot 
-MySQL 
-JavaScript 
-TypeScript 
-Angular 11-16 
-HTML5 
-CSS3 
-Bootstrap 
-GitHub 
-React Js 
-Figma 
-Canva 
-Postman 
-Mongo DB 
-Swagger 
-Express Js 
-ACHIEVEMENTS 
+repositories in a team environment.
+
+SKILLS
+
+Core Java
+Hibernate
+SpringBoot
+MySQL
+JavaScript
+TypeScript
+Angular 11-16
+HTML5
+CSS3
+Bootstrap
+GitHub
+React Js
+Figma
+Canva
+Postman
+Mongo DB
+Swagger
+Express Js
+
+ACHIEVEMENTS
+
 Best Transformation as an Employee
- (08/2022 - 08/2022) 
-Dorustree Private Limited: Self Development, Interpersonal Skills. 
-CERTIFICATES 
+(08/2022 - 08/2022)
+Dorustree Private Limited: Self Development, Interpersonal 
+Skills
+.
+CERTIFICATES
 Digital Academy | Java Full Stack
- (03/2023 - 08/2023) 
-EduBridge 
+(03/2023 - 08/2023)
+EduBridge
 Cognizant USA - Agile Methodology
- (12/2022 - 12/2022) 
-Cognizant 
-Digital Skills: User Experience Design
- (01/2023 - 01/2023) 
-Accenture 
-LANGUAGES 
-Tamil 
-Native or Bilingual Proﬁciency 
-English 
-Full Professional Proﬁciency 
-INTERESTS 
-Java Full Stack Development 
-Web Development. 
+(12/2022 - 12/2022)
+Cognizant
+Digital 
+Skills
+: User 
+Experience
+ Design
+(01/2023 - 01/2023)
+Accenture
+
+LANGUAGES
+
+Tamil
+Native or Bilingual Proﬁciency
+English
+Full Professional Proﬁciency
+
+INTERESTS
+
+Java Full Stack Development
+Web Development.
 Ui/Ux Design

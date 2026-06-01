@@ -1,125 +1,125 @@
-SQL Developer   
+SQL Developer
+
+CAREER 
+OBJECTIVE
+ :
+Seeking a challenging and growth oriented career in industry where I can get a chance to contribute
+my knowledge and 
+skills
+ to the organization and enhance my 
+experience
+ through continuous learning
+and teamwork.
+
+Experience
  
- 
-   
-CAREER OBJECTIVE :   
-Seeking a challenging and growth oriented career in industry where I can get a chance to contribute 
-my knowledge and skills to the organization and enhance my experience through continuous learning 
-and teamwork.   
-   
-Experience Summary :   
-⚫ 
-Having 2year experience in Database development as a SQL developer.   
-⚫ 
-Experience in Banking Domain   
-⚫ 
-A result-oriented professional with 2+ years of development experience in Data Warehousing using SQL.   
-⚫ 
-Experience in development, testing and implementation of Data Ware housing systems using SQL.   
-⚫ 
-Develop database application forms using MS Access in coordination with SQL tables and stored procedures.   
-⚫ 
-Interacting with Clients, Business Users, Project Leaders for understanding their requirements and convertin 
-business concept into optimized SQL Queries using SQL assistance and performing Data Analysis on SQL 
-Server platform.   
-⚫ 
-Extensive experience in writing stored procedures, functions and views.   
-⚫ 
-Extensive experience in writing and tuning complex sub queries, SQL, stored procedures, Joins,functions, and 
-triggers   
-⚫ 
-Good in learning quickly, problem-solving, communication skills, ability to work cooperatively in a team and 
-as an individual.   
-   
-Career Highlights :   
+Summary
+ :
+⚫
+Having 2year 
+experience
+ in Database development as a SQL developer.
+
+Experience
+ in Banking Domain
+A result-oriented professional with 2+ years of development 
+experience
+ in Data Warehousing using SQL.
+
+Experience
+ in development, testing and implementation of Data Ware housing systems using SQL.
+Develop database application forms using MS Access in coordination with SQL tables and stored procedures.
+Interacting with Clients, Business Users, Project Leaders for understanding their requirements and convertin
+business concept into optimized SQL Queries using SQL assistance and performing Data Analysis on SQL
+Server platform.
+Extensive 
+experience
+ in writing stored procedures, functions and views.
+Extensive 
+experience
+ in writing and tuning complex sub queries, SQL, stored procedures, Joins,functions, and
+triggers
+Good in learning quickly, problem-solving, communication 
+skills
+, ability to work cooperatively in a team and
+as an individual.
+
+Career Highlights :
 E-mail: jadhavarc@gmail.com
-Contact :+91-6384087777
+
+Contact
+ :+91-6384087777
 Archana J
-  
-   
-  
- 
-  
- Currently working with PCT consulting LLP, Pune as a SQL Developer from Dec 2021 to till date.   
-Project Summary :   
-1. Client:-BOB(Bank) (jun 2021 to July 2021)   
-Project Name : Dynamic Integrated Regulatory Reports   
-Role: Database Developer   
-Skills:MSSQL Server 2018, Oracle applications server 10g etc.   
-Environment: MSSQL Server 2018   
-Description:   
-⚫ 
-Writing store Procedure for dynamic table creation on certain financial triggers,views using MS SQL server.   
-⚫ 
-Worked on optimizing SQL Server performance, monitoring and queries tuning using Microsoft tools 
-Performance Monitor.   
-2. Client:-SBM (Bank) (Aug 2022 to till date)   
-Project Name : Dynamic Integrated Regulatory Reports   
-Role: Database Developer   
-Skills:MSSQL Server 2018, Oracle applications server 10g etc.   
-Environment: MSSQL Server 2018   
-Description: Explanation on process & flow of the CD Position Upload Screen   
-Responsibilities :   
-∆ writing store procedure for dynamic table creation on creatin financial triggers views using MS SQL sarover 
- 
-   
-ACADEMIC QUALIFICATIONS :   
-Degree   
-Institute/ College   
-University   
-Year Of Passing   
-MBA   
-ASM institute of management,   
- 
-Savitribai Phule Pune 
-University   
-2023 
-   Technical Skills   
-:   
-• 
-Database   
-: MS SQL 2018 Server   
-  
-   
-  
- 
-  
-• 
-Operating Platform : Windows 10 /8    
-• 
-RDBMS  
-• 
-Nodejs,  python, HTML 
-• 
-Software testing  
-         
- 
-COMPETENCIES:   
-• 
-Possess effective leadership, organizational and communication skills.   
-• 
-Ability to handle multiple task and Work under pressure and handle challengingprojects.   
-• 
-Accelerated learning capability &Adaptability.   
-• 
-Ability to manage multiple projects withindeadlines.   
-PERSONAL DETAILS:   
-Date of birth   
-26 May 1997   
-Language Known   
- English, Hindi, marathi. 
-Permanent Address   
-At/post - Mangrul tal- junnar Dist-Pune   
-Current Address   
-Fatima nagar (jagtap chauk) Pune, 411013   
-Nationality   
-Indian   
-DECLARATION:   
-I , Archana Fulchand Jadhav, here by affirm that all the details furnished above are true and correct 
-to the best of my knowledge and belief.   
-DATE:   
-PLACE : PUNE   
+
+Currently working with PCT consulting LLP, Pune as a SQL Developer from Dec 2021 to till date.
+Project 
+Summary
+ :
+1. Client:-BOB(Bank) (jun 2021 to July 2021)
+Project Name : Dynamic Integrated Regulatory Reports
+Role: Database Developer
+
+Skills
+:MSSQL Server 2018, Oracle applications server 10g etc.
+Environment: MSSQL Server 2018
+Description:
+Writing store Procedure for dynamic table creation on certain financial triggers,views using MS SQL server.
+Worked on optimizing SQL Server performance, monitoring and queries tuning using Microsoft tools
+Performance Monitor.
+2. Client:-SBM (Bank) (Aug 2022 to till date)
+Description: Explanation on process & flow of the CD Position Upload Screen
+Responsibilities :
+∆ writing store procedure for dynamic table creation on creatin financial triggers views using MS SQL sarover
+
+ACADEMIC
+ QUALIFICATIONS :
+Degree
+Institute/ College
+University
+Year Of Passing
+MBA
+ASM institute of management,
+
+Savitribai Phule Pune
+2023
+Technical 
+Skills
+
+:
+*
+Database
+: MS SQL 2018 Server
+
+Operating Platform : Windows 10 /8
+RDBMS
+Nodejs, python, HTML
+Software testing
+
+COMPETENCIES:
+Possess effective leadership, organizational and communication 
+skills
+.
+Ability to handle multiple task and Work under pressure and handle challengingprojects.
+Accelerated learning capability &Adaptability.
+Ability to manage multiple 
+projects
+ withindeadlines.
+PERSONAL DETAILS:
+Date of birth
+26 May 1997
+Language Known
+English, Hindi, marathi.
+Permanent Address
+At/post - Mangrul tal- junnar Dist-Pune
+Current Address
+Fatima nagar (jagtap chauk) Pune, 411013
+Nationality
+Indian
+DECLARATION:
+I , Archana Fulchand Jadhav, here by affirm that all the details furnished above are true and correct
+to the best of my knowledge and belief.
+DATE:
+PLACE : PUNE
 (
- 
+
 )
-Archana J

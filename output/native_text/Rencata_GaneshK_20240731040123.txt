@@ -1,68 +1,109 @@
-To strive for excellence, I would like to work in such an environment that will enhance my knowledge and career, where I can perform my management and technical skills per my strong caliber and efficiency and achieve success in both professional and personal life.
+Ganesh K E-mail: kganesh1378sss@gmail.com Security Operation Center (SOC) Analyst 
+Contact
+: 91+8555938482
 
-Having 10 years of professional experience in the IT industry, out of which I have 5 years of experience as a SOC analyst. My experience includes 5 years as a system administrator.
+Objective
 
-Professional experience in IT industry - Monitoring and Management of Network & Security solutions such as SIEM Solutions, SOC Operations, Vulnerability Management, Firewalls, IDS / IPS solutions, Email Protection, Web Application Firewalls, Endpoint EDR, DLP, Phishing Analysis, Malware Analysis.
+To strive for excellence, I would like to work in such an environment that will enhance my knowledge and career, where I can perform my management and technical 
+skills
+ per my strong caliber and efficiency and achieve success in both professional and personal life.
 
-
+Profile
+ 
+Summary
+:
+Having 10 years of professional 
+experience
+ in the IT industry, out of which I have 5 years of 
+experience
+ as a SOC analyst. My 
+experience
+ includes 5 years as a system administrator.
+Professional 
+experience
+ in IT industry - Monitoring and Management of Network & Security solutions such as SIEM Solutions, SOC Operations, Vulnerability Management, Firewalls, IDS / IPS solutions, Email Protection, Web Application Firewalls, Endpoint EDR, DLP, Phishing Analysis, Malware Analysis.
+Technical 
+Skills
+::
 Security Operational center Tools:
-
-•	SIEM				:  Microsoft Azure Sentinel, and IBM Qradar
-•	Network security			:  Firewall, IDS/IPS, WAF, Switches, and Routers.
-•	Email Security			:  Office 365, Proof point
-•	Vulnerability Assessment		:  Qualys and CrowdStrike
-•	EDR				:  CrowdStrike and Microsoft O365 defender
-•	Ticketing tool			:  Service Desk Plus, Service Now
-•	Cloud 				: Azure Active Directory, Microsoft Defender for Cloud  
-•	Knowledge on Kusto Query Language (KQL) (Language
-
-
+*SIEM: Microsoft Azure Sentinel, and IBM Qradar
+*Network security: Firewall, IDS/IPS, WAF, Switches, and Routers.
+*Email Security: Office 365, Proof point
+*Vulnerability Assessment: Qualys and CrowdStrike
+*EDR: CrowdStrike and Microsoft O365 defender
+*Ticketing tool: Service Desk Plus, Service Now
+*Cloud : Azure Active Directory, Microsoft Defender for Cloud
+*Knowledge on Kusto Query Language (KQL) (Language
+Technical 
+Certifications
+ ::
 Microsoft Certified: AZ500
 Microsoft Certified: SC200
+Professional 
+summary
+ :
+Total 5 years of 
+Experience
+ in analyzing the security alerts by following proper monitoring and with required incident response
+Steps.
 
-
-Total 5 years of Experience in analyzing the security alerts by following proper monitoring and with required incident response   
-                Steps.
-Experience in Monitoring and reporting of “Microsoft Azure Sentinel and IBM QRadar SIEM” Tools.
-Hands on experience with Content Hub, Data Connecters, Analytic rules.
+Experience
+ in Monitoring and reporting of "Microsoft Azure Sentinel and IBM QRadar SIEM" Tools.
+Hands on 
+experience
+ with Content Hub, Data Connecters, Analytic rules.
 Knowledge on Fine-tuning the rules in Log Analytics, Automation, Workbooks.
-Hands on experience with EDR tools CrowdStrike and O365 defender.
-Experience in the use of Qualys and CrowdStrike to perform the vulnerability assessment.
+Hands on 
+experience
+ with EDR tools CrowdStrike and O365 defender.
+
+Experience
+ in the use of Qualys and CrowdStrike to perform the vulnerability assessment.
 Handling P1 alerts and Providing RCA for the True Positive Alerts to the Client.
 Knowledge of KQL Language.
-Experience in monitoring Firewall, WAF, IDS/IPS.
-Experience in handling a various alerts related to Phishing mail attack, DLP related Alerts, Ransomware related attack, Brute force Attack; Dos and DDos attack Related, Malware attack etc.
-Experience in Creating the SOP Run books for the alerts triggered in SIEM.
-Experience in Preparing the Daily Status Report, Weekly Status Report and Monthly Status Reports.
-Hands on Experience in “Service Desk Plus” and “Service Now” Ticketing Tool.
+
+Experience
+ in monitoring Firewall, WAF, IDS/IPS.
+
+Experience
+ in handling a various alerts related to Phishing mail attack, DLP related Alerts, Ransomware related attack, Brute force Attack; Dos and DDos attack Related, Malware attack etc.
+
+Experience
+ in Creating the SOP Run books for the alerts triggered in SIEM.
+
+Experience
+ in Preparing the Daily Status Report, Weekly Status Report and Monthly Status Reports.
+Hands on 
+Experience
+ in "Service Desk Plus" and "Service Now" Ticketing Tool.
 Preparing Route Cause Analysis (RCA) reports for the high and critical priority alerts.
 Documenting the vulnerabilities, threats and prioritized for remediation plans.
 Handling Threat Hunting based on various advisory & Intelligence.
-
-
-
+Professional 
+Experience
+ :
 Worked as SOC Analyst in Aeries Technology, (https://aeriestechnology.com) Hyderabad from April 2022 to December 2023.
 Worked as Specialist at Fidelity National Financial India PVT Ltd, Bangalore from June, 2014 to April, 2022.
-
-Company 3: Aeries Technology Work Experience:
+Company 3: Aeries Technology Work 
+Experience
+:
 Project: Neustar Security Services SOC (April 2022 to December 2023)
 Job Responsibilities:
-
 Working as a Security Analyst for SOC 24*7 environments
 Using Cyber Security solution SIEM -Microsoft Azure Sentinel.
-Monitoring and Responding EDR Tools CrowdStrike and M365 Defender. 
+Monitoring and Responding EDR Tools CrowdStrike and M365 Defender.
 Created customized reports (Weekly/Bi-weekly/Monthly) in SIEM to take the necessary actions accordingly.
 Configuring Alerts for Log analytics workspace.
 Performing the health check of the servers
-Finding vulnerabilities in Applications, Servers, Product and Network solutions and remediating the vulnerabilities. 
+Finding vulnerabilities in Applications, Servers, Product and Network solutions and remediating the vulnerabilities.
 Trouble shooting of log source issues.
 Handling a various alerts related to Phishing mail attack, Ransomware related attack, Brute force attack, Dos attack related, Malware attack etc.
-Monitoring and analysis of events generated by various security and network tools like Firewalls, Proxy servers, AV, IPS/IDS, load balancer’s database, System Application, Cloud (Amazon, Azure and Google) Windows and Linux servers etc.
+Monitoring and analysis of events generated by various security and network tools like Firewalls, Proxy servers, AV, IPS/IDS, load balancer's database, System Application, Cloud (Amazon, Azure and Google) Windows and Linux servers etc.
 Working on Virus Total, IBM x-force exchange, Abuse ipdp, Cisco talos, MXTool,, Hybrid Analysis, Any run, Cisco umbrella
-Security Incident Response: Responsible for monitoring of security alerts. Analysis of logs generated by appliances, investigation, and assessment on whether the incident is false positive or False Negative.  
+Security Incident Response: Responsible for monitoring of security alerts. Analysis of logs generated by appliances, investigation, and assessment on whether the incident is false positive or False Negative.
 Worked to take preventive measures in major recent Ransomware attacks and provided security measures to the internal teams to avoid any security breach
 Worked along with client and created many such technical documents that is required from Security operations side and handed over the same to Client.
-Following end to end Incident Investigation and Incident Response process, ensuring to close the investigation within defined SLA.  
+Following end to end Incident Investigation and Incident Response process, ensuring to close the investigation within defined SLA.
 Escalation of security incidents to concerned teams and their management and follow-up for closure.
 Creating tickets in SDP tool and tracking the status of the incidents.
 Analysis of daily and monthly report for incident management and compliance.
@@ -70,13 +111,12 @@ Coordinating with Network team, Server team regarding activities and technical i
 Creating vulnerability and remedy reports and reporting them to users.
 Finding the Critical servers and application inventory from respective business owners and scheduling the scan weekly, monthly, and Quarterly basis.
 Knowledge sharing session with the team members whenever complex incident issue raised and lessons learned from other team members.
-
-Company 1: Fidelity National Financial India Pvt Ltd Work Experience:
- Project 2: Loan Case Service SOC (November 2018 to April 2022)
- Job Responsibilities:
-
+Company 1: Fidelity National Financial India Pvt Ltd Work 
+Experience
+:
+Project 2: Loan Case Service SOC (November 2018 to April 2022)
 Performing security check and following up incident response process for the triggered alert in the Microsoft Azure sentinel.
-Working on Microsoft Azure Sentinel SIEM dashboard for 3.9 years, analyzing logs and collecting IOC’s and checking in different open-source tools for the reputations and concluding benign or true positive.
+Working on Microsoft Azure Sentinel SIEM dashboard for 3.9 years, analyzing logs and collecting IOC's and checking in different open-source tools for the reputations and concluding benign or true positive.
 Performed email blocking and domain blocking followed up by proper phishing email analysis using sandboxing, Header analysis to verify the authentication process.
 Performed vulnerability assessment and helped in patching the critical vulnerabilities by working with the respective teams.
 Responsible for creating Monthly patching cycle.
@@ -85,36 +125,35 @@ Creating mail flow rules and policies over the exchange admin center to block/un
 Good at monitoring the firewall and fetching the logs on it and to analyze them.
 Responsible in preparing monthly and weekly status reports and presenting it to the respective clients and managers.
 Analyzing the alert from scratch to end by following proper investigation and take the necessary actions over it.
-
-Company 1: Fidelity National Financial India Pvt Ltd Work Experience:
 Project 1: Trustee Sale Guarantee (TSG) (June 2014 to November 2019)
-Job Responsibilities:
+*Assessing the stability, security, and scalability of installed Windows systems.
+*Discussing system and server upgrades with IT managers.
+*Installing or upgrading Windows systems and servers.
+*Providing technical support for staff and back-end system users.
+*Troubleshooting system and server errors.
+*Reviewing system error logs and user-reported errors.
+*Monitoring and updating the Windows codebase.
+*Managing user access.
+*Monitoring system performance.
+*Maintaining server architecture security and creating system backups.
+*Collaborating with other members of IT, to ensure that our services meet operations requirements for both
+Internal and external clients and ensuring that standards for consistent documentation are met.
+Educational Qualification
+Accomplished Bachelor's Degree (B.Com) with computer applications from Sri Venkateswara University (SEICOM Degree & PG Collage) in April 2011.
+Personal Details:
+Father's Name: K Subramanyam Reddy
+Nationality: Indian
+Marital Status: Married.
+Date of Birth: 14-July-1990.
 
-•	Assessing the stability, security, and scalability of installed Windows systems.
-•	Discussing system and server upgrades with IT managers.
-•	Installing or upgrading Windows systems and servers.
-•	Providing technical support for staff and back-end system users.
-•	Troubleshooting system and server errors.
-•	Reviewing system error logs and user-reported errors.
-•	Monitoring and updating the Windows codebase.
-•	Managing user access.
-•	Monitoring system performance.
-•	Maintaining server architecture security and creating system backups.
-•	Collaborating with other members of IT, to ensure that our services meet operations requirements for both  
-        Internal and external clients and ensuring that standards for consistent documentation are met.
-
-Accomplished Bachelor’s Degree (B.Com) with computer applications from Sri Venkateswara University (SEICOM Degree & PG Collage) in April 2011.
-
-
-Father’s Name		: K Subramanyam Reddy
-Nationality		: Indian
-Marital Status		: Married.
-Date of Birth		: 14-July-1990.
-Languages Known	: English, Telugu, Hindi and Kannada.
-Passport Number		: U2209223
-
-
-I hereby assure that the above provided information is true to the best of my knowledge and I bear responsibility for its correctness. 
-
-Date: 
-Location:												Ganesh K
+Languages
+ Known: English, Telugu, Hindi and Kannada.
+Passport Number: U2209223
+Declaration:
+I hereby assure that the above provided information is true to the best of my knowledge and I bear responsibility for its correctness.
+Date:
+Location:Ganesh K
+Ganesh K E-mail: kganesh1378sss@gmail.com
+Security Operation Center (SOC) Analyst 
+Contact
+: 91+8555938482

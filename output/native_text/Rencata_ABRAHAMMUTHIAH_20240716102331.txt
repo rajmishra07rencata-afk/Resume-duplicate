@@ -1,112 +1,122 @@
-ABRAHAM MUTHIAH 
-   +91 9940903920 | abrahammuthiah@gmail.com 
-Associate Developer 
-    Design, Development and Maintenance support 
+ABRAHAM MUTHIAH
++91 9940903920 | abrahammuthiah@gmail.com
+Associate Developer
+Design, Development and Maintenance support
+
+* Focused and self motivated developer over 3 years of 
+experience
+ in Web development.
+* 3.5 years of 
+experience
+ in Xamarin Cross Platform Mobile application development.
+* Known for excellent design and analytic 
+skills
+ - have worked in designing for new
+features in the development phase of 
+projects
+ and able to analyze and fix codes.
+* Excellent team player with strong interpersonal and communication 
+skills
+.
+* Interested to learn and work in latest and new technologies
+
+Technical 
+Skills
+
+Languages
+ & Web Technologies
+: C#, PHP
+Mobile App Development
+
+: C#, XAMARIN Forms, MVVM Pattern, XAML
+Scripting
+
+: Jquery, HTML, JavaScript, CSS,
+Software & Productivity tools
+: Visual Studio, Git, TFS,Firebug, jira
+Responsive CSS frameworks
+: Bootstrap framework
+Open Source CMS tool
+
+: Wordpress, Umbraco, Joomla,
+
+Professional 
+Experience
+
+Dedicated, Reliable & Smart
+Company:
+Conevo Technologies Pvt Ltd, Chennai. (From 21 April 2014 to 9 July 2019)
+Capestart Pvt Ltd, Nagercoil. (From 06 Feb 2020 to 6 July 2021)
+
+*
+ Dacke
+Client
+: Dacke
+Category
+: Cross Platform IOS Application
+Role
+
+: UI & Development for IOS App Release
+Environment : .Net C# with MVVM pattern, Xamarin Studio
+Description
+: Dacke Mobile application was a tool to site managers to register the inventory of
+Damaged/to be changed products. This application helps the site engineers to
+maintain the product records of an assigned project with a structured pattern and
+able to mark the products with the uniquely Identified label identifiers. The Site
+Manager/Supervisor can print these labels with HoneyWell LTE printers. The
+image capturing & file uploading options helps to know about the product in
+much detail manner.
+
+IdrottOnline
+: Riksidrottsförbundet
+: Cross Platform Mobile Application
+
+: UI & Development for 1stPhase Release
+: IdrottOnline is a common business system for Swedish sport and represents the
+base for all communication and administration between the member association
+and federation.
+
+Genero Sales Mobile
+: Genero Solutions AB
+
+: System Developer
+: Genero's sales app support encompasses the entire sales process via a mobile
+phone or tablet.
+
+Other Maintenance 
+projects
+
+* Visual Regio
+* Lots Umbraco
+* Abergsshop
+* Linumshop
+* Santerus
+
+Academic
  
-• Focused and self motivated developer over 3 years  of experience in Web development.  
-• 3.5 years of experience in Xamarin Cross Platform Mobile application development. 
-• Known for excellent design and analytic skills – have worked in designing for new 
-features in the development phase of projects and able to analyze and fix codes. 
-• Excellent team player with strong interpersonal and communication skills.  
-• Interested to learn and work in latest and new technologies 
- 
-Technical Skills 
-Languages & Web Technologies 
-:  C#, PHP 
-Mobile App Development 
- 
-:  C#, XAMARIN Forms, MVVM Pattern, XAML  
-Scripting 
- 
- 
- 
-: Jquery, HTML, JavaScript, CSS,  
-Software & Productivity tools 
-: Visual Studio, Git, TFS,Firebug, jira  
-Responsive CSS frameworks 
-: Bootstrap framework  
-Open Source CMS tool 
- 
-: Wordpress, Umbraco, Joomla,  
- 
-Professional Experience 
-Dedicated, Reliable & Smart 
-Company: 
-Conevo Technologies Pvt Ltd, Chennai. (From 21 April 2014 to 9 July 2019) 
-Company: 
-Capestart Pvt Ltd, Nagercoil. (From 06 Feb 2020 to 6 July 2021) 
- 
-• 
- Dacke 
-Client  
-: Dacke  
-Category 
-: Cross Platform IOS Application 
-Role 
- 
-: UI & Development for IOS App Release  
-Environment : .Net C# with MVVM pattern, Xamarin Studio  
-Description 
-: Dacke Mobile application was a tool to site managers to register the inventory of 
-Damaged/to be changed products. This application helps the site engineers to 
-maintain the product records of an assigned project with a structured pattern and 
-able to mark the products with the uniquely Identified label identifiers. The Site 
-Manager/Supervisor can print these labels with HoneyWell LTE printers. The 
-image capturing & file uploading options helps to know about the product in 
-much detail manner.  
-           
-• 
-IdrottOnline 
-Client  
-: Riksidrottsförbundet  
-Category 
-: Cross Platform Mobile Application 
-Role 
- 
-: UI & Development for 1stPhase Release  
-Environment : .Net C# with MVVM pattern, Xamarin Studio  
-Description 
-: IdrottOnline is a common business system for Swedish sport and represents the 
-base for all communication and administration between the member association 
-and federation. 
- 
-• 
-Genero Sales Mobile  
-Client  
-: Genero Solutions AB 
-Category 
-: Cross Platform Mobile Application  
-Role 
- 
-: System Developer 
-Environment : .Net C# with MVVM pattern, Xamarin Studio 
-Description 
-: Genero’s sales app support encompasses the entire sales process via a mobile 
-phone or tablet.                                               
- 
- 
-• 
-Other Maintenance projects 
-• Visual Regio 
-• Lots Umbraco  
-• Abergsshop  
-• Linumshop 
-• Santerus  
-Academic Profile  
-Electronics and Communication Engineer 
-Bachelor of Engineering, 06/10 to 05/14 – Joe Suresh College of Engineering Tirunelveli. 
-Graduated with an engineering degree under Electronics and Communication Engineering 
-department with a score of 6.2 CGPA  
-Higher Secondary Education, 06/08 to 03/10 – M.M Higher Secondary School, Idaikal, 
-Tirunelveli Dt. Passed with a score of 64.3 under Computer science  
-SSLC Education, 06/07 to 03/08 – C.M.M.L High School, Vadamalapuram, Tirunelveli Dt. 
-Passed with a score of 77.4 
-Personal Profile  
-Enthusiastic & perfectionist 
- 
-Abraham Muthiah, May 4th1993 - SankaranKovil.  
-Indian by Nationality, with a valid Indian passport numbering M7592772.  
-Tamil & English languages known to read write and speak. 
- 
- 
- (Abraham Muthiah)
+Profile
+
+Electronics and Communication Engineer
+Bachelor of Engineering, 06/10 to 05/14 - Joe Suresh College of Engineering Tirunelveli.
+Graduated with an engineering degree under Electronics and Communication Engineering
+department with a score of 6.2 CGPA
+Higher Secondary 
+Education
+, 06/08 to 03/10 - M.M Higher Secondary School, Idaikal,
+Tirunelveli Dt. Passed with a score of 64.3 under Computer science
+SSLC 
+Education
+, 06/07 to 03/08 - C.M.M.L High School, Vadamalapuram, Tirunelveli Dt.
+Passed with a score of 77.4
+Personal 
+Profile
+
+Enthusiastic & perfectionist
+
+Abraham Muthiah, May 4th1993 - SankaranKovil.
+Indian by Nationality, with a valid Indian passport numbering M7592772.
+Tamil & English 
+languages
+ known to read write and speak.
+
+(Abraham Muthiah)

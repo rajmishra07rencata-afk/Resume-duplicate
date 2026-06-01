@@ -1,132 +1,108 @@
-Name: G Ramakrishna 
-Designation: Security Analyst 
-Mobile No: +9193474 22714                                           
-Email:garapatirk87@gmail.com 
+Name: G Ramakrishna
+Designation: Security Analyst
+Mobile No: +9193474 22714
+Email:garapatirk87@gmail.com
+
+Profile
  
-Profile Summary 
- 
- 
-SIEM 
- 
-of work experience in Security Operations Center (SOC) with 
-demonstrated skills in Security Information and Event Management (SIEM) which include Security 
-Monitoring, Log Analysis, Deep Investigations on potential security events, Malware Analysis, Threat 
-Identification and Mitigation. 
- 
-VULNERABILITY MANAGEMENT 
- 
-Qualys VM–Primary tasks include Creating Sites, Asset groups and perform Scheduled and adhoc 
-scans for multiple client servers, sites, IP’s. Finding vulnerabilities and send to respective team to 
-remediate/fix the issue. 
- 
-Technical report generation for the scans completed. Preparing management report for specific clients. 
-Work on with basic troubleshooting techniques for the IP’s failed to scan. 
- 
-Perform vulnerability scans, both scheduled & on ad-hoc requests from the customers & follow the VM 
-life cycle/calendar. 
- 
-Coordinate with technology towers for the issue remediation and suggesting control measure to avoid 
-the same in future. 
- 
-Reaching out to server owner to check if latest patches are updated if the signatures are detected, 
-sharing Reports with clients. 
- 
-FIREWALLS 
- 
-Palo Alto - Experience in Monitoring Firewall Traffic for Packet level Analysis to identify threats 
-lurking on the Networks. 
- 
-Phish box Monitoring & checking URLs and IP Addresses for their reputation. 
- 
-Blocking the suspicious Links, Hyperlinks and their redirections & also verifying traffic to know which 
-application is accessing the URL. 
- 
-SOC ENVIRONMENT 
- 
-Worked on Threat Intelligence framework to alert clients on – latest and ongoing attacks, 
-emergency and scheduled patch releases from different vendors and security news. 
- 
-Worked on Security governance and compliance, dealt with user access review, approvalsand auditing’s 
-with respective compliant frame work, Good understanding of Networking Concepts, TCP/IP Protocol 
-Suite, OSI Model and Network devices like Switches, Routers, Bridges, Repeaters etc. 
- 
-Handled Security Incident Management from start to the end over multiple suspected and 
-identified attacks in the network, Phishing attacks etc. 
- 
- 
-Work Experience 
- 
-SECURITY ANALYST | SLIDO 
- Working as a Security Analyst at SLIDO from April 2019 to till date. 
- Worked as a Security Analyst at Luxus India Pvt Ltd from May 2018 to March 2019. 
- Worked as a System Administrator at Luxus India Pvt Ltd from June 2012 to March 2018. 
-Roles & Responsibilities 
- 
-SECURITY INFORMATION & EVENT MANAGEMENT | IBM QRADAR SIEM 
- 
-Monitoring, investigating and kicking off incident management for Offences/Alerts triggered on the 
-console. 
- 
-Creation and modification of QRadar Dashboards for a quick sneak peek into malicious activities. 
- 
-Generating custom and scheduled Reports based on client requirements. 
- 
-User Behavior Analytics monitoring to identifyInsiderThreats. 
- 
-Experience in working with Filters, Searches for investigating Historical Events. 
- 
-Integrationof new Log Sources into the SIEM Solution. 
- 
-Troubleshooting of Log Sources that don’t generate Logs into QRadar post integration. 
- 
-Identifying and designing the use cases that address specific enterprise needs. 
- 
-Evaluate existing standard content like use cases & fine tune to meet enterprise goals. 
- 
-Perform Health Checks of SIEM Tool and make sure it’s up and  running on alloccasions. 
- 
-Add and maintain SIEM users and permissions. 
- 
-Skillset | Tools & Technology 
- 
- 
-Security Information & Event Management–IBM QRadar Solution. 
- 
-Vulnerability Management–Qualys Guard (On-prem& CA). 
- 
-Intrusion Detection & Prevention Systems–Trend Micro Tipping Point. 
- 
-Firewall & Web Content Filtering–Palo Alto Networks. 
- 
-Threat Intelligence Platforms–Bright Cloud, IP Void, MX Toolbox, Virus Total, IBM X-Force 
-etc. 
- 
-User Behaviour Analytics – IBM UBA Tool. 
- 
-Report creation – PowerPoint, Excel, Word etc using Microsoft Office suite. 
- 
- 
- 
-Education 
- 
- Graduation in B.Sc Computer Science from Aditya Degree College affiliated to Andhra University, 
-Rajahmundry in 2007 
- Intermediate (MPC) from Sir Arthur Cotton Junior College, Rajahmundry in 2004 
- SSC from Z.P.H school, Rangampeta in 2002 
-Interests & Hobbies 
- 
- 
-Keeping myself abreast of modern-day Security Attacks and Cyber Crime and following the mitigative 
-plans and best practices. 
- 
-Love to involve in Group Discussions on today’s Security Posture, attend Session sand Open Mics to 
-understand and deploy new processes. 
- 
-Active member inTeamParties & Outings!! 
-Declaration 
- 
- 
-I hereby declare that all the details furnished in this document are true to the best of my knowledge..! 
- 
-                                                                   
-                                                                                               G. RamaKrishna
+Summary
+
+SIEM
+
+of work 
+experience
+ in Security Operations Center (SOC) with
+demonstrated 
+skills
+ in Security Information and Event Management (SIEM) which include Security
+Monitoring, Log Analysis, Deep Investigations on potential security events, Malware Analysis, Threat
+Identification and Mitigation.
+
+VULNERABILITY MANAGEMENT
+Qualys VM-Primary tasks include Creating Sites, Asset groups and perform Scheduled and adhoc
+scans for multiple client servers, sites, IP's. Finding vulnerabilities and send to respective team to
+remediate/fix the issue.
+Technical report generation for the scans completed. Preparing management report for specific clients.
+Work on with basic troubleshooting techniques for the IP's failed to scan.
+Perform vulnerability scans, both scheduled & on ad-hoc requests from the customers & follow the VM
+life cycle/calendar.
+Coordinate with technology towers for the issue remediation and suggesting control measure to avoid
+the same in future.
+Reaching out to server owner to check if latest patches are updated if the signatures are detected,
+sharing Reports with clients.
+
+FIREWALLS
+Palo Alto - 
+Experience
+ in Monitoring Firewall Traffic for Packet level Analysis to identify threats
+lurking on the Networks.
+Phish box Monitoring & checking URLs and IP Addresses for their reputation.
+Blocking the suspicious Links, Hyperlinks and their redirections & also verifying traffic to know which
+application is accessing the URL.
+
+SOC ENVIRONMENT
+Worked on Threat Intelligence framework to alert clients on - latest and ongoing attacks,
+emergency and scheduled patch releases from different vendors and security news.
+Worked on Security governance and compliance, dealt with user access review, approvalsand auditing's
+with respective compliant frame work, Good understanding of Networking Concepts, TCP/IP Protocol
+Suite, OSI Model and Network devices like Switches, Routers, Bridges, Repeaters etc.
+Handled Security Incident Management from start to the end over multiple suspected and
+identified attacks in the network, Phishing attacks etc.
+
+Work 
+Experience
+
+SECURITY ANALYST | SLIDO
+ Working as a Security Analyst at SLIDO from April 2019 to till date.
+ Worked as a Security Analyst at Luxus India Pvt Ltd from May 2018 to March 2019.
+ Worked as a System Administrator at Luxus India Pvt Ltd from June 2012 to March 2018.
+Roles & Responsibilities
+
+SECURITY INFORMATION & EVENT MANAGEMENT | IBM QRADAR SIEM
+Monitoring, investigating and kicking off incident management for Offences/Alerts triggered on the
+console.
+Creation and modification of QRadar Dashboards for a quick sneak peek into malicious activities.
+Generating custom and scheduled Reports based on client requirements.
+User Behavior Analytics monitoring to identifyInsiderThreats.
+
+Experience
+ in working with Filters, Searches for investigating Historical Events.
+Integrationof new Log Sources into the SIEM Solution.
+Troubleshooting of Log Sources that don't generate Logs into QRadar post integration.
+Identifying and designing the use cases that address specific enterprise needs.
+Evaluate existing standard content like use cases & fine tune to meet enterprise goals.
+Perform Health Checks of SIEM Tool and make sure it's up and running on alloccasions.
+Add and maintain SIEM users and permissions.
+
+Skillset | Tools & Technology
+
+Security Information & Event Management-IBM QRadar Solution.
+Vulnerability Management-Qualys Guard (On-prem& CA).
+Intrusion Detection & Prevention Systems-Trend Micro Tipping Point.
+Firewall & Web Content Filtering-Palo Alto Networks.
+Threat Intelligence Platforms-Bright Cloud, IP Void, MX Toolbox, Virus Total, IBM X-Force
+etc.
+User Behaviour Analytics - IBM UBA Tool.
+Report creation - PowerPoint, Excel, Word etc using Microsoft Office suite.
+
+Education
+
+ Graduation in B.Sc Computer Science from Aditya Degree College affiliated to Andhra University,
+Rajahmundry in 2007
+ Intermediate (MPC) from Sir Arthur Cotton Junior College, Rajahmundry in 2004
+ SSC from Z.P.H school, Rangampeta in 2002
+
+Interests
+ & 
+Hobbies
+
+Keeping myself abreast of modern-day Security Attacks and Cyber Crime and following the mitigative
+plans and best practices.
+Love to involve in Group Discussions on today's Security Posture, attend Session sand Open Mics to
+understand and deploy new processes.
+Active member inTeamParties & Outings!!
+Declaration
+
+I hereby declare that all the details furnished in this document are true to the best of my knowledge..!
+
+G. RamaKrishna

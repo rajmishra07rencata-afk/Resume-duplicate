@@ -1,110 +1,100 @@
-Vivek Sharma V 
-Senior Front-End Developer 
-• viveksharmav9198@gmail.com  
-     •+91 80124 35434                         • linkedin.com/in/vv-sharma/  
-Front-End Developer with 3 years of professional experience in User Interface Development across the 
-tech stack: HTML, CSS, Bootstrap, JavaScript, React, Redux, and Typescript. 
-SKILLS  
-______________________________________________________________________________________________ 
-Languages: HTML5, CSS3 (Sass, Less), JavaScript (ES6+), TypeScript. 
-Frameworks/Libraries/State Management: React.js, Angular, Redux. 
-Responsive Design: Bootstrap, Media Queries, Flexbox, CSS Grid. 
-Build Tools: Webpack, Babel, npm/yarn. 
-Version Control & Performance Optimization:  Git, Bitbucket, Lazy Loading, Code Splitting, Minification. 
-WORK EXPERIENCE  
-______________________________________________________________________________________________ 
-Eleviant CTG, Coimbatore - Senior Engineer - Software Development 
-       10/2021 – Present 
-An IT Firm providing service, consulting, and products. 
-Project: Modern Intranet Solution 
-Roles and Responsibilities: 
- 
-• 
-Collaborated with product managers to understand and define product requirements by 
-participating in product planning sessions and providing technical insights and feasibility 
-assessments. 
-• 
-Gathered requirement analysis and created a POC to understand the objectives of the 
-project outcome. 
-• 
-Developed and maintained a social intranet application using HTML, CSS, JavaScript, and 
-modern front-end frameworks and libraries, including React.js and Redux, to create 
-interactive and dynamic User Interfaces. 
-• 
-Integrated the Open AI with the social intranet application that helps the user to post the 
-contents as in their thoughts. 
-• 
-Developed a recognition awards application within an organization, which can be a 
-valuable initiative to acknowledge and reward employees for their contributions using 
-HTML, CSS, and libraries, including React and Redux. 
-• 
-Developed and maintained a website that would help managers and employees efficiently 
-manage timesheet operations for billable purposes with minimal manual interruption as a 
-part of a 2-person team. 
-• 
-Utilized TypeScript to enhance code quality and provide better development-time tooling. 
-• 
-Integrated RESTful APIs to retrieve and display dynamic data, improving overall application 
-functionality. 
-• 
-Conducted routine updates, security patches, and others website maintenance tasks like 
-Web Performance Monitoring and User Experience Optimization. 
-Achievements: 
-• 
+Vivek Sharma V
+Senior Front-End Developer
+* viveksharmav9198@gmail.com
+*+91 80124 35434 * linkedin.com/in/vv-sharma/
+Front-End Developer with 3 years of professional 
+experience
+ in User Interface Development across the
+tech stack: HTML, CSS, Bootstrap, JavaScript, React, Redux, and Typescript.
+
+SKILLS
+
+______________________________________________________________________________________________
+
+Languages
+: HTML5, CSS3 (Sass, Less), JavaScript (ES6+), TypeScript.
+Frameworks/Libraries/State Management: React.js, Angular, Redux.
+Responsive Design: Bootstrap, Media Queries, Flexbox, CSS Grid.
+Build Tools: Webpack, Babel, npm/yarn.
+Version Control & Performance Optimization: Git, Bitbucket, Lazy Loading, Code Splitting, Minification.
+WORK 
+EXPERIENCE
+
+Eleviant CTG, Coimbatore - Senior Engineer - Software Development
+10/2021 - Present
+An IT Firm providing service, consulting, and products.
+Project: Modern Intranet Solution
+
+Roles and Responsibilities
+:
+
+*
+Collaborated with product managers to understand and define product requirements by
+participating in product planning sessions and providing technical insights and feasibility
+assessments.
+Gathered requirement analysis and created a POC to understand the objectives of the
+project outcome.
+Developed and maintained a social intranet application using HTML, CSS, JavaScript, and
+modern front-end frameworks and libraries, including React.js and Redux, to create
+interactive and dynamic User Interfaces.
+Integrated the Open AI with the social intranet application that helps the user to post the
+contents as in their thoughts.
+Developed a recognition 
+awards
+ application within an organization, which can be a
+valuable initiative to acknowledge and reward employees for their contributions using
+HTML, CSS, and libraries, including React and Redux.
+Developed and maintained a website that would help managers and employees efficiently
+manage timesheet operations for billable purposes with minimal manual interruption as a
+part of a 2-person team.
+Utilized TypeScript to enhance code quality and provide better development-time tooling.
+Integrated RESTful APIs to retrieve and display dynamic data, improving overall application
+functionality.
+Conducted routine updates, security patches, and others website maintenance tasks like
+Web Performance Monitoring and User 
+Experience
+ Optimization.
+
+Achievements
+:
 Used React in the application that improves responsiveness because it loads as a single-
-page application and reduces the load time. 
-• 
-Used Redux for state management helps to maintain the data throughout the application 
-without repeated API calls and helps to update and reflect the data into the live site without 
-new API calls. 
-• 
-Introduced TypeScript to the codebase, reducing the number of runtime errors. 
- 
-Fingerprints Creative, Chennai – UI Developer 
-       
- 
- 
-     02/2021 – 09/2021 
-Creative Agency offering branding & advertising services to promote businesses. 
-Roles and Responsibilities: 
-• 
-Developed 5+ Responsive web applications using HTML, CSS, JavaScript with cross 
-platform performance. 
-• 
-Developed 10+ Customized and extended WordPress themes to match client designs and 
-functionality requirements, using HTML, CSS and JavaScript. 
-• 
-Partnered with 2 designer teams to take client wireframes from conception to 
-implementation. 
-• 
-Actively participated in back-end development tasks and successfully integrated front-end 
-application with back-end services. 
- 
-EDUCATION  
-______________________________________________________________________________________________ 
- 
-• 
-Master of Science in Information Technology (Integrated), College of Engineering Guindy, 
-Anna University, Chennai.  
- 
- 
- 
- 
-            CGPA: 6.76 | Sep 2023 
-• 
-Mount Zion Matriculation Higher Secondary School, Pudukkottai.   HSC: 79.83% | May 2015 
-• 
-Mount Zion Matriculation Higher Secondary School, Pudukkottai.    SSLC: 90.4% | May 2013 
- 
-OTHER EXPERIENCE  
-______________________________________________________________________________________________ 
- 
-• 
-Data Analyst (Internship), CDAC, Chennai. 
- 
- 
- 
-    12/2019 – 05/2020 
-• 
-Front-End Developer (Internship), RV Matrix Technology, Chennai.  
-    06/2018 – 11/2018
+page application and reduces the load time.
+Used Redux for state management helps to maintain the data throughout the application
+without repeated API calls and helps to update and reflect the data into the live site without
+new API calls.
+Introduced TypeScript to the codebase, reducing the number of runtime errors.
+
+Fingerprints Creative, Chennai - UI Developer
+
+02/2021 - 09/2021
+Creative Agency offering branding & advertising services to promote businesses.
+Developed 5+ Responsive web applications using HTML, CSS, JavaScript with cross
+platform performance.
+Developed 10+ Customized and extended WordPress themes to match client designs and
+functionality requirements, using HTML, CSS and JavaScript.
+Partnered with 2 designer teams to take client wireframes from conception to
+implementation.
+Actively participated in back-end development tasks and successfully integrated front-end
+application with back-end services.
+
+EDUCATION
+
+Master of Science in Information Technology (Integrated), College of Engineering Guindy,
+Anna University, Chennai.
+
+CGPA: 6.76 | Sep 2023
+Mount Zion Matriculation Higher Secondary School, Pudukkottai. HSC: 79.83% | May 2015
+Mount Zion Matriculation Higher Secondary School, Pudukkottai. SSLC: 90.4% | May 2013
+
+OTHER 
+EXPERIENCE
+
+Data Analyst (
+Internship
+), CDAC, Chennai.
+
+12/2019 - 05/2020
+Front-End Developer (
+Internship
+), RV Matrix Technology, Chennai.
+06/2018 - 11/2018

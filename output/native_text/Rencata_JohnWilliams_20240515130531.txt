@@ -1,32 +1,44 @@
 IBM Data Science
 Coursera
-Microsof Professional Program Certificate in Data Science 
-Microsof 
-Google Certified Professional Data Engineer 
+Microsof Professional Program Certificate in Data Science
+Microsof
+Google Certified Professional Data Engineer
 Google
-AWARDS & CERTIFICATIONS:
+
+AWARDS
+ & 
+CERTIFICATIONS
+:
 John Williams
 Data Scientist
 101-900-6543
 johnwilliams@gmail.com
-Certified data scientist with 8 years of experience in providing data-driven solutions to increase eﬀiency
-and accuracy. Achievements include updating data streaming processes for an 18% reduction in redundancy,
-as well as improving the accuracy of predicted prices by 10%. Highly skilled in data visualisation, 
-machine learning and natural processing. 
+Certified data scientist with 8 years of 
+experience
+ in providing data-driven solutions to increase eﬀiency
+and accuracy. 
+Achievements
+ include updating data streaming processes for an 18% reduction in redundancy,
+as well as improving the accuracy of predicted prices by 10%. Highly skilled in data visualisation,
+machine learning and natural processing.
 XYZ Technologies
-WORK EXPERIENCE
+WORK 
+EXPERIENCE
+
 2014-2019
 California
 GPA: 8.7
 Senior Data Scientist
 Tasks
-• Developed end-to-end machine learning prototypes and scaled them to run in production environments. Increased 
+* Developed end-to-end machine learning prototypes and scaled them to run in production environments. Increased
 eﬀiciency by 23%
-• Derived actionable insights from massive data sets with minimal support. 
-• Provided input into the collection of new data sources and the refinement of existing onces to improve analysis and 
-model development. 
+* Derived actionable insights from massive data sets with minimal support.
+* Provided input into the collection of new data sources and the refinement of existing onces to improve analysis and
+model development.
+
 Achievements
-• Applied data mining to analyze procurement processes resulting in savings of $420,000 a year. 
+
+* Applied data mining to analyze procurement processes resulting in savings of $420,000 a year.
 Machine Learning
 Data Visualization
 Data Mining
@@ -39,22 +51,31 @@ Leadership
 Risk Analyisis
 Time Management
 SKILLSET
-Technical Skills
-Sof Skills
+Technical 
+Skills
+
+Sof 
+Skills
+
 EDUCATION
+
 BSc in Statistics
 XYZ University
 07/2016-07/2019
 Courses: Probability and Statistics, Generalised Linear Models, Applied Statistics
-• Excelled in machine learning and data science coursework. 
-• President, AI club.
+* Excelled in machine learning and data science coursework.
+* President, AI club.
+
 Tumor detection using thermal images
-• Responsibility: Worked as a developer along with the team of three candidates. 
-• Technologies used: Python (NumPy, Pandas, Keras, Tensorflow, scikit-learn), SQL, Deep Learning algorithms. 
-• Model accuracy: 95%
+* Responsibility: Worked as a developer along with the team of three candidates.
+* Technologies used: Python (NumPy, Pandas, Keras, Tensorflow, scikit-learn), SQL, Deep Learning algorithms.
+* Model accuracy: 95%
+
 PROJECTS
+
 Technical Content Writing
 Space Exploration
 Badminton
 Swimming
-INTEREST AND HOBBIES
+INTEREST AND 
+HOBBIES

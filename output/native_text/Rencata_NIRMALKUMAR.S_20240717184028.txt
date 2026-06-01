@@ -1,439 +1,291 @@
-NIRMAL KUMAR.S 
-Native iOS(Swift) App Developer 
-Mob#: 91-7904469912 
-imnirmal.58@gmail.com 
- 
- 
-OBJECTIVE 
-Results-oriented software developer and research professional with 4.8 years of experienced and skilled 
-iPhone App Developer with a strong current background in industry technology. Proven ability to work 
-independently or as part of a team. Adept at technical troubleshooting and anticipating future potential 
-problems. Also, a versatile developer who ready to face challenging tasks in mobile application development 
-for IOS. 
- 
-WORK EXPERIENCE 
-COMPANY 
-DESIGNATION 
-DURATION 
-OBICS Software Services(OPC) 
-Pvt.Ltd,Chennai 
-Senior IOS Developer 
-July 2018 - Present 
-Ionixx Technologies Pvt.Ltd,Chennai 
-IOS Developer 
-March 2018 - July 2018 
-Chembian Technologies Pvt.Ltd, 
-Chennai 
-IOS & Android Developer 
-July 2015 -March 2018 
- 
- 
-CAREER ACCOMPLISHMENTS: 
-✓ Team Award for the Project “Knob” 
-✓ Certified IOS Developer – JPA Solutions  
-✓ Awarded Paper presented on “DIGITAL IMAGE PROCESSING” for noises removing in images and 
-videos 
-✓ Top Ranker in PG Anna University Examination 
- 
- 
- 
-CORE QUALIFICATIONS: 
-▪ Understanding of  iOS Architecture, Strong proficiency with Xcode IDE,SWIFT Design Patterns, 
-submitting Apps via itunesconnect to AppStore process. 
-▪ Worked in various projects in integration with web service APIs using URL Session, AFNetworking, 
-Threading(GCD) & Operation Queue, 
-▪ Experienced in using third party libraries Custom Animations, Charts, 
-▪ AFNetworking, SwifyJSON, Firebase for IOS etc. 
-▪ Offline Sync/Storage using CoreData, MapKit integration, Charts API integration(Bar Line, 
-PieChart..etc), AVKit video player for remote streaming, APNS Notifications, ARC(Memory 
-management), Dynamic (CollectionViews , TableViews, ScrollViews). 
-▪ Good knowledge in UI Designing to support for multiple screen devices using Autolayout, 
-AutoSizeClasses , Programmatic Design, Custom views using IB Designables& IB Inspectables, 
-Singleton, MVC, VIPER, KVC Design Patterns. 
- 
- 
-PROJECTS HANDLED IN OBICS Software Services(OPC) Pvt.Ltd : 
- 
-PROJECT 
-Title  
-Shaadi Matrimony (Not in live currently in development) 
- 
-Client 
-Obicss pvt Ltd (own product) 
-Technology 
-XCODE 10, Swift 4.2, URL Session, Collection & Tableviews, Push Notification, Core Data, 
-Normal and Group Chat ,PayU Money payment Integration & third party library cocoa pods 
-and etc .. 
-Role 
-Senior IOS Developer 
-Responsibilities 
-▪ Worked in features of Application. 
-▪ Involved in Requirement analysis, Attending scrum calls, Sending daily and weekly 
-status report and Sending build to the QA team 
-Description 
-This App features, 
-▪ See all recommendations for you in ‘My Matches’Express Interest to people you  
-▪ Edit your Desired Partner Profile to specify the kind of person you are looking for. Get 
-instant notifications about Interests and Accepts sent to you. 
-▪ You can also upgrade to premium membership to  
-▪ See Phone, Email of people you like to contact them. Send personalized messages. 
-Increase your profile’s visibility and responses. 
- 
- 
- 
- 
- 
- 
- 
- 
-CORE COMPETENCIES 
-Languages 
-Swift, JavaScript, Ionic Angular JS, HTML5, CSS, TSS 
-IOS Frame works and 
-Concepts 
-Auto Layout and Constraints, Size Classes, Story board, Programmatic Design, XIB 
-Design, APNS, NSURL Session, Extensions, Type casting, protocol and Delegate, 
-Generics, Rest API, XML and JSON parsing, and Cocoa pods  
-Design Patterns 
-MVC, MVVM, Viper, KVC Design Pattern, Functional, Protocol and Object Oriented 
-Thirty Party Integrations 
-Google and AppleMaps, Firebase Integration (OTP,Analytics,Login, Database and Push 
-notifications),Facebook, Twitter, Instagram login, Crashlytics, Insta bug, Swifty JSON and 
-other thirty party libraries like Alamofire 
-Payment Gateways 
-Razorpay, Paytm, PayUMoney,Paypal and Stripe SDK integration  
-Databases 
-SQLite Mobile, Core data, No SQL(Hybrid App) 
-Source Control and Tools 
-GitHUB, Source tree(bit bucket), JIRA, Mantis Bug tracker and Postman 
-Development Software’s 
-Xcode 10, Appcelerator Studio, ENIDE/NODE, Visual Studio Code 
-Operating System 
-Mac OS, iOS and Android 
-Other Technologies  
-Appcelerator JavaScript Frame work, Ionic Angular Frame work, Phone Gap and Xamarin 
- 
- 
-PROJECT 
-Title  
-Knob - Local Sharing Economy 
-Client 
-US Client- Seattle, LLC 
-Technology 
-XCODE 10, Swift 4, URL Session, Google Map Integration, Push Notification, Core Data, 
-Normal and Group Chat & third party library cocoa pods and etc .. 
-Role 
-Senior IOS Developer 
-Responsibilities 
-▪ Worked from END to END features of Application. 
-▪ To deliver libraries to multiple teams so that they consume the components in Agile 
-Methodology. 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect  
-Description 
-▪ Knob's community-created messaging channels connect people in local areas so they 
-can help each other get things done. 
-▪ Example: if you're giving away free items after Spring cleaning, broadcast your items 
-on the "free" channel to see if your neighbors are interested in them.  
-▪ On the other hand, if you want to listen to free-item broadcasts, just add "free" to your 
-channel list and wait for broadcasts to come in from people around you. The channels 
-you can create and broadcast on are up to you and the people in your local area! 
-We've added two default channels to get the conversation going: "free" and "public 
-square" - use these channels as you wish. 
-App Store Link 
+NIRMAL KUMAR.S
+Native iOS(Swift) App Developer
+Mob#: 91-7904469912
+imnirmal.58@gmail.com
+
+OBJECTIVE
+
+Results-oriented software developer and research professional with 4.8 years of experienced and skilled
+iPhone App Developer with a strong current background in industry technology. Proven ability to work
+independently or as part of a team. Adept at technical troubleshooting and anticipating future potential
+problems. Also, a versatile developer who ready to face challenging tasks in mobile application development
+for IOS.
+
+WORK 
+EXPERIENCE
+
+COMPANY
+DESIGNATION
+DURATION
+OBICS Software Services(OPC)
+Pvt.Ltd,Chennai
+Senior IOS Developer
+July 2018 - Present
+Ionixx Technologies Pvt.Ltd,Chennai
+IOS Developer
+March 2018 - July 2018
+Chembian Technologies Pvt.Ltd,
+Chennai
+IOS & Android Developer
+July 2015 -March 2018
+
+CAREER ACCOMPLISHMENTS:
+✓ Team Award for the Project "Knob"
+✓ Certified IOS Developer - JPA Solutions
+✓ Awarded Paper presented on "DIGITAL IMAGE PROCESSING" for noises removing in images and
+videos
+✓ Top Ranker in PG Anna University Examination
+
+CORE QUALIFICATIONS:
+▪ Understanding of iOS Architecture, Strong proficiency with Xcode IDE,SWIFT Design Patterns,
+submitting Apps via itunesconnect to AppStore process.
+▪ Worked in various 
+projects
+ in integration with web service APIs using URL Session, AFNetworking,
+Threading(GCD) & Operation Queue,
+▪ Experienced in using third party libraries Custom Animations, Charts,
+▪ AFNetworking, SwifyJSON, Firebase for IOS etc.
+▪ Offline Sync/Storage using CoreData, MapKit integration, Charts API integration(Bar Line,
+PieChart..etc), AVKit video player for remote streaming, APNS Notifications, ARC(Memory
+management), Dynamic (CollectionViews , TableViews, ScrollViews).
+▪ Good knowledge in UI Designing to support for multiple screen devices using Autolayout,
+AutoSizeClasses , Programmatic Design, Custom views using IB Designables& IB Inspectables,
+Singleton, MVC, VIPER, KVC Design Patterns.
+
+PROJECTS
+ HANDLED IN OBICS Software Services(OPC) Pvt.Ltd :
+
+PROJECT
+Title
+Shaadi Matrimony (Not in live currently in development)
+
+Client
+Obicss pvt Ltd (own product)
+Technology
+XCODE 10, Swift 4.2, URL Session, Collection & Tableviews, Push Notification, Core Data,
+Normal and Group Chat ,PayU Money payment Integration & third party library cocoa pods
+and etc ..
+Role
+Responsibilities
+▪ Worked in features of Application.
+▪ Involved in Requirement analysis, Attending scrum calls, Sending daily and weekly
+status report and Sending build to the QA team
+Description
+This App features,
+▪ See all recommendations for you in 'My Matches'Express Interest to people you
+▪ Edit your Desired Partner 
+Profile
+ to specify the kind of person you are looking for. Get
+instant notifications about 
+Interests
+ and Accepts sent to you.
+▪ You can also upgrade to premium membership to
+▪ See Phone, Email of people you like to 
+contact
+ them. Send personalized messages.
+Increase your 
+profile
+'s visibility and responses.
+
+CORE COMPETENCIES
+
+Languages
+
+Swift, JavaScript, Ionic Angular JS, HTML5, CSS, TSS
+IOS Frame works and
+Concepts
+Auto Layout and Constraints, Size Classes, Story board, Programmatic Design, XIB
+Design, APNS, NSURL Session, Extensions, Type casting, protocol and Delegate,
+Generics, Rest API, XML and JSON parsing, and Cocoa pods
+Design Patterns
+MVC, MVVM, Viper, KVC Design Pattern, Functional, Protocol and Object Oriented
+Thirty Party Integrations
+Google and AppleMaps, Firebase Integration (OTP,Analytics,Login, Database and Push
+notifications),Facebook, Twitter, Instagram login, Crashlytics, Insta bug, Swifty JSON and
+other thirty party libraries like Alamofire
+Payment Gateways
+Razorpay, Paytm, PayUMoney,Paypal and Stripe SDK integration
+Databases
+SQLite Mobile, Core data, No SQL(Hybrid App)
+Source Control and Tools
+GitHUB, Source tree(bit bucket), JIRA, Mantis Bug tracker and Postman
+Development Software's
+Xcode 10, Appcelerator Studio, ENIDE/NODE, Visual Studio Code
+Operating System
+Mac OS, iOS and Android
+Other Technologies
+Appcelerator JavaScript Frame work, Ionic Angular Frame work, Phone Gap and Xamarin
+
+Knob - Local Sharing Economy
+US Client- Seattle, LLC
+XCODE 10, Swift 4, URL Session, Google Map Integration, Push Notification, Core Data,
+Normal and Group Chat & third party library cocoa pods and etc ..
+▪ Worked from END to END features of Application.
+▪ To deliver libraries to multiple teams so that they consume the components in Agile
+Methodology.
+▪ Involved in Bug Fixing and Updating New Features
+▪ Uploaded App in App Store via iTunes connect
+▪ Knob's community-created messaging channels connect people in local areas so they
+can help each other get things done.
+▪ Example: if you're giving away free items after Spring cleaning, broadcast your items
+on the "free" channel to see if your neighbors are interested in them.
+▪ On the other hand, if you want to listen to free-item broadcasts, just add "free" to your
+channel list and wait for broadcasts to come in from people around you. The channels
+you can create and broadcast on are up to you and the people in your local area!
+We've added two default channels to get the conversation going: "free" and "public
+square" - use these channels as you wish.
+App Store Link
 https://itunes.apple.com/us/app/knob-local-sharing-
-economy/id1435564654#?platform=iphone 
- 
-PROJECTS HANDLED IN IONIXX TEHNOLOGIES Pvt.Ltd : 
- 
-PROJECT 
-Title 
-Gaadi Bazaar 
- 
-Client 
-US Client- Retail services 
-Technology 
-XCODE 9, Swift 4, URL Session, Push Notification, Core Data ,third party library cocoa 
-pods and etc .. 
-Role 
-Senior IOS Developer 
-Responsibilities 
-▪ Worked in features of Application. 
-▪ Involved in Requirement analysis, Attending scrum calls, Sending daily and weekly 
-status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-Description 
-▪ Gaadi bazaar is buying and selling of both old and new car models. 
-▪ It makes your vehicle buying experience comprehensive, convenient and conclusive 
-with the Gaadi.com app. 
-▪ Be it a used car, a new car or a motorcycle, this app provides you a holistic experience 
-including visual insight as well as user reviews. 
-▪ Get the most reliable information about prices, accessories, mileage, technical 
-specifications and features to save yourself the trouble of scanning multiple websites 
-and hopping across dealerships. Choose, compare and buy your vehicle from the 
-convenience of the revamped Gaadi bazaar app Responsibilities. 
-App Store Link 
-https://itunes.apple.com/in/app/gaadi-com/id1166579398?mt=8 
- 
- 
- 
- 
- 
-PROJECT 
-Title  
-Muster 
-Client 
-Ionixx Technologies 
-Technology 
-XCODE 9, Swift 4, URL Session, Google Map Integration,Geo location, Push 
-Notification, Core Data ,third party library cocoa pods and etc .. 
-Role 
-Senior IOS Developer 
-Responsibilities 
-▪ Worked from END to END features of Application. 
-▪ To deliver libraries to multiple teams so that they consume the components in 
-Agile Methodology. 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect  
-Description 
-▪ Muster is a location-based social discovery application.  
-▪ It allows your GPS to locate nearby restaurants and invite your friends (or fellow 
-Muster users). In short, it allows you to meet, greet and eat with other users in your 
-locality. Invite a person or a group of people to share a meal. Once your invite is 
-accepted, the chat option allows you to further discuss details about your plans for 
-the meal 
- 
-App Store Link 
-https://itunes.apple.com/in/app/muster/id1219587277?ls=1&mt=8 
- 
-PROJECTS HANDLED  IN CHEMBIAN TECHNOLOGIES Pvt.Ltd : 
- 
-PROJECT 
-Title  
-UCORSA – Ride Share 
-Client 
-EMJ Development ,LLC  ( USA, OMAHA 
-Technology 
-XCODE 9, Swift 3, URL Session, Google Map Integration, Push Notification & Chat 
-Integration using pub-nub data stream networking for driver to rider chat & third party 
-library cocoa pods and etc .. 
-Role 
-Senior IOS Developer 
-Responsibilities 
-▪  Worked in End to End features of Application. 
-▪ Involved in Requirement analysis, attending scrum calls, Sending daily and 
-weekly status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-Description 
-Ucorsa is an in-network rideshare App allows you to create carpooling networks with the 
-people . 
-Features :uRide , uDrive , uCarpool , create Group ,Ride History,Live GPS Track  of 
-Rides(Tracking Drivers), Rider – Driver & Vice versa Chat using PUBNUB Data 
-Streaming Network, Stripe Payment Support for two way payment system with help of 
-Stripe SDK 
-App Store Link 
-https://itunes.apple.com/us/app/ucorsa / id1140779836?ls=1&mt=8 
- 
- 
- 
- 
- 
-PROJECT 
-Title  
-Greenroots 
-Client 
-Vision Stream (Australia) 
-Technology 
-XCODE 9, Swift 3, URL Session, Push Notification, Core Data & third party library cocoa 
-pods and etc .. 
-Role 
-IOS Developer 
-Responsibilities 
-▪  Worked in some features of Application. 
-▪ Involved in Requirement analysis, attending scrum calls, sending daily and weekly 
-status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-Description 
-This app is almost like a stack overflow in which farmers used to post their queries 
-regarding farms and agricultural experts will reply them instantly giving solution to their 
-queries. Farmers and experts can chat with one another in real time using Firebase. 
- 
-App Store Link 
-https://itunes.apple.com/in/app/agro /id413485998?mt=8 
- 
-PROJECT 
-Title 
-Job Allocating System 
-Client 
-Know Cross 
-Technology 
-XCODE 9, Swift 3, URL Session, Google Map Integration, Push Notification, Core Data & 
-third party library cocoa pods and etc .. 
-Role 
-IOS Developer 
-Responsibilities 
-▪  Worked in features of Application. 
-▪ Involved in Requirement analysis, attending scrum calls, sending daily and weekly 
-status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-Description 
-Admin App: This app is for admin who used to assign task to workers. It’s used in star hotels 
-where there will be tasks to be performed belongs to different categories for example 
-housekeeping, engineering works, drop or pickup customers from mentioned source & 
-destination. Admin can view all the employees of different categories and assign them task. 
-Once the task is assigned, corresponding employee will receive the notification using Firebase 
-Cloud Messaging. 
-Worker App:  This app is for employees who going to perform the task. Once he receives 
-notification from admin he starts the work and timer will be started then he can mark it as 
-completed once the task is over. In between he can take break by clicking the break button and 
-resume later. Admin can view when the employee has started the work, when he completed it, 
-when he took break in real time using Firebase Real-time Database. 
-App Store Link 
-https://itunes.apple.com/us/app/housekeeping2/id1317776281?ls=1&mt=8 
- 
- 
- 
- 
- 
- 
- 
- 
-PROJECT 
-Title  
-ZION Z 
-Client 
-Vision Stream (Australia) 
-Technology 
-XCODE 9, Swift 3, URL Session, Google Map Integration, Push Notification, Core Data 
-& third party library cocoa pods and etc .. 
-Role 
-IOS Developer 
-Responsibilities 
-▪  Worked in some features of Application. 
-▪ Involved in Requirement analysis, attending scrum calls, sending daily and 
-weekly status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-• Description 
-▪ Zion (Z+) is also a Business Logic / Entity related App which includes Daily 
-Checklists, Site Maintenance, Work order management, Vision Stream Employee 
-Portal Access using barcode scanning, Forms (inspection) on site Review. 
-▪ Upload Photo checklist Forms with OFFLINE Sync Support.  But for Projects 
-Ericsson Expansion, Telstra Wireless, Ericsson. Zion (Z+) App is also available 
-only for Vision stream Employees (Priv). This will have forms from site info& 
-SHEQ & Photo checklists. 
-App Store Link 
-https://itunes.apple.com/us/app/zion-z/id1328793381?ls=1&mt=8 
- 
- 
-PROJECT 
-Tile  
-IMS (Inspection Management System) 
-Client 
-Vision Stream (Australia) 
-Technology 
-XCODE 9, Swift 3, URL Session, Push Notification, Core Data & third party library cocoa 
-pods and etc .. 
-Role 
-IOS Developer 
-Responsibilities 
-▪ Worked in features of Application. 
-▪ Involved in Requirement analysis, attending scrum calls, sending daily and weekly 
-status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-Description 
-Application which is used to inspect the building construction at each level of construction 
-process and prepare a checklist accordingly. 
-The checklist will differs according to the selected inspection type by the inspector. 
-For example, if the inspection is about Healthy and Safety then the checklist contains options 
-that checks whether the following things have been implemented: 
-1. First aid box 
-2. Medical centre facilities 
-3. Trained first aider/nurse 
-4. Safety signs in place 
-Likewise, each inspection type contains its unique checklist. Once the inspection is over all the 
-checklist data will be sent to the server. Also superior officer of the inspector will be notified 
-using Firebase Cloud Messaging that the inspection is over. 
- 
-App Store Link 
-https://itunes.apple.com/us/app/zinspector/id844600835?mt=8 
- 
- 
- 
- 
- 
- 
- 
-PROJECT 
-Tile  
-RMS (Rental Management System) 
- 
-Client 
-Vision Stream (Australia) 
-Technology 
-XCODE 9, Swift 3, URL Session, Push Notification, Core Data & third party library cocoa 
-pods and etc .. 
-Role 
-IOS Developer 
-Responsibilities 
-▪ Worked in features of Application. 
-▪ Involved in Requirement analysis, attending scrum calls, sending daily and weekly 
-status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-Description 
-          Owner App:  Owner of the house or apartment can view all the details about his tenant 
-including rental details. Notification will be sent to all the tenants on every month on the date 
-mentioned by owner in settings automatically. Can maintain payment due details of all the 
-tenants individually and other payment details. 
-    Tenant App:  Tenant can view all the payment history till date. This app includes Payment 
-Gateway using the official sdk provided by Stripe which makes money transfer between tenant 
-and owner so smarter and easier. 
- 
-App Store Link 
-https://itunes.apple.com/us/app/landlordy-property-management/id975031084?mt=8 
- 
-PROJECT 
-Tile  
-InstaTags - Get followers & likes with InstaTags for Instagram 
- 
-Client 
-Vision Stream (Australia) 
-Technology 
-XCODE 9, Swift 3, URL Session, Push Notification , Instagram official API used & third 
-party library cocoa pods and etc .. 
-Role 
-IOS Developer 
-Responsibilities 
-▪ Worked in features of Application. 
-▪ Involved in Requirement analysis, attending scrum calls, sending daily and weekly 
-status report and Sending build to the QA team 
-▪ Involved in Bug Fixing and Updating New Features 
-▪ Uploaded App in App Store via iTunes connect 
-Description 
-InstaTags - Get followers & likes with InstaTags for Instagram, Using available official 
-instagram API providing an efficient algorithm to get random instagram users, their random 
-posts & their medias to follow them & make them follow you back based on Instagram 
-Limitations 
-App Store Link 
+economy/id1435564654#?platform=iphone
+
+PROJECTS
+ HANDLED IN IONIXX TEHNOLOGIES Pvt.Ltd :
+
+Gaadi Bazaar
+
+US Client- Retail services
+XCODE 9, Swift 4, URL Session, Push Notification, Core Data ,third party library cocoa
+pods and etc ..
+▪ Gaadi bazaar is buying and selling of both old and new car models.
+▪ It makes your vehicle buying 
+experience
+ comprehensive, convenient and conclusive
+with the Gaadi.com app.
+▪ Be it a used car, a new car or a motorcycle, this app provides you a holistic 
+experience
+
+including visual insight as well as user reviews.
+▪ Get the most reliable information about prices, accessories, mileage, technical
+specifications and features to save yourself the trouble of scanning multiple websites
+and hopping across dealerships. Choose, compare and buy your vehicle from the
+convenience of the revamped Gaadi bazaar app Responsibilities.
+https://itunes.apple.com/in/app/gaadi-com/id1166579398?mt=8
+
+Muster
+Ionixx Technologies
+XCODE 9, Swift 4, URL Session, Google Map Integration,Geo location, Push
+Notification, Core Data ,third party library cocoa pods and etc ..
+▪ To deliver libraries to multiple teams so that they consume the components in
+Agile Methodology.
+▪ Muster is a location-based social discovery application.
+▪ It allows your GPS to locate nearby restaurants and invite your friends (or fellow
+Muster users). In short, it allows you to meet, greet and eat with other users in your
+locality. Invite a person or a group of people to share a meal. Once your invite is
+accepted, the chat option allows you to further discuss details about your plans for
+the meal
+
+https://itunes.apple.com/in/app/muster/id1219587277?ls=1&mt=8
+
+PROJECTS
+ HANDLED IN CHEMBIAN TECHNOLOGIES Pvt.Ltd :
+
+UCORSA - Ride Share
+EMJ Development ,LLC ( USA, OMAHA
+XCODE 9, Swift 3, URL Session, Google Map Integration, Push Notification & Chat
+Integration using pub-nub data stream networking for driver to rider chat & third party
+library cocoa pods and etc ..
+▪ Worked in End to End features of Application.
+▪ Involved in Requirement analysis, attending scrum calls, Sending daily and
+weekly status report and Sending build to the QA team
+Ucorsa is an in-network rideshare App allows you to create carpooling networks with the
+people .
+Features :uRide , uDrive , uCarpool , create Group ,Ride History,Live GPS Track of
+Rides(Tracking Drivers), Rider - Driver & Vice versa Chat using PUBNUB Data
+Streaming Network, Stripe Payment Support for two way payment system with help of
+Stripe SDK
+https://itunes.apple.com/us/app/ucorsa / id1140779836?ls=1&mt=8
+
+Greenroots
+Vision Stream (Australia)
+XCODE 9, Swift 3, URL Session, Push Notification, Core Data & third party library cocoa
+▪ Worked in some features of Application.
+This app is almost like a stack overflow in which farmers used to post their queries
+regarding farms and agricultural experts will reply them instantly giving solution to their
+queries. Farmers and experts can chat with one another in real time using Firebase.
+
+https://itunes.apple.com/in/app/agro /id413485998?mt=8
+
+Job Allocating System
+Know Cross
+XCODE 9, Swift 3, URL Session, Google Map Integration, Push Notification, Core Data &
+third party library cocoa pods and etc ..
+Admin App: This app is for admin who used to assign task to workers. It's used in star hotels
+where there will be tasks to be performed belongs to different categories for example
+housekeeping, engineering works, drop or pickup customers from mentioned source &
+destination. Admin can view all the employees of different categories and assign them task.
+Once the task is assigned, corresponding employee will receive the notification using Firebase
+Cloud Messaging.
+Worker App: This app is for employees who going to perform the task. Once he receives
+notification from admin he starts the work and timer will be started then he can mark it as
+completed once the task is over. In between he can take break by clicking the break button and
+resume later. Admin can view when the employee has started the work, when he completed it,
+when he took break in real time using Firebase Real-time Database.
+https://itunes.apple.com/us/app/housekeeping2/id1317776281?ls=1&mt=8
+
+ZION Z
+XCODE 9, Swift 3, URL Session, Google Map Integration, Push Notification, Core Data
+& third party library cocoa pods and etc ..
+* Description
+▪ Zion (Z+) is also a Business Logic / Entity related App which includes Daily
+Checklists, Site Maintenance, Work order management, Vision Stream Employee
+Portal Access using barcode scanning, Forms (inspection) on site Review.
+▪ Upload Photo checklist Forms with OFFLINE Sync Support. But for 
+Projects
+
+Ericsson Expansion, Telstra Wireless, Ericsson. Zion (Z+) App is also available
+only for Vision stream Employees (Priv). This will have forms from site info&
+SHEQ & Photo checklists.
+https://itunes.apple.com/us/app/zion-z/id1328793381?ls=1&mt=8
+
+Tile
+IMS (Inspection Management System)
+Application which is used to inspect the building construction at each level of construction
+process and prepare a checklist accordingly.
+The checklist will differs according to the selected inspection type by the inspector.
+For example, if the inspection is about Healthy and Safety then the checklist contains options
+that checks whether the following things have been implemented:
+1. First aid box
+2. Medical centre facilities
+3. Trained first aider/nurse
+4. Safety signs in place
+Likewise, each inspection type contains its unique checklist. Once the inspection is over all the
+checklist data will be sent to the server. Also superior officer of the inspector will be notified
+using Firebase Cloud Messaging that the inspection is over.
+
+https://itunes.apple.com/us/app/zinspector/id844600835?mt=8
+
+RMS (Rental Management System)
+
+Owner App: Owner of the house or apartment can view all the details about his tenant
+including rental details. Notification will be sent to all the tenants on every month on the date
+mentioned by owner in settings automatically. Can maintain payment due details of all the
+tenants individually and other payment details.
+Tenant App: Tenant can view all the payment history till date. This app includes Payment
+Gateway using the official sdk provided by Stripe which makes money transfer between tenant
+and owner so smarter and easier.
+
+https://itunes.apple.com/us/app/landlordy-property-management/id975031084?mt=8
+
+InstaTags - Get followers & likes with InstaTags for Instagram
+
+XCODE 9, Swift 3, URL Session, Push Notification , Instagram official API used & third
+party library cocoa pods and etc ..
+InstaTags - Get followers & likes with InstaTags for Instagram, Using available official
+instagram API providing an efficient algorithm to get random instagram users, their random
+posts & their medias to follow them & make them follow you back based on Instagram
+Limitations
 https://itunes.apple.com/in/app/get-followers-get-comments-for-
-instagram/id1145988000?mt=8 
+instagram/id1145988000?mt=8
+
  
- 
-   EDUCATION    
- 
-Course: M.E (Applied  Electronics) (2013 year of passing);  B.E.(ECE) (2011 year of 
-passing); 
-Institution:  B.E & M.E were done in JEC, Chennai; 
-Board:  Anna University; 
-Percentage:  M.E (8.47 CPGA);  B.E (69% First Class); 
- 
-   
-   DECLARATION    
- 
+EDUCATION
+
+Course: M.E (Applied Electronics) (2013 year of passing); B.E.(ECE) (2011 year of
+passing);
+Institution: B.E & M.E were done in JEC, Chennai;
+Board: Anna University;
+Percentage: M.E (8.47 CPGA); B.E (69% First Class);
+
+ DECLARATION
+
 I, hereby declare that the above particulars are true and correct to the best of my knowledge and belief

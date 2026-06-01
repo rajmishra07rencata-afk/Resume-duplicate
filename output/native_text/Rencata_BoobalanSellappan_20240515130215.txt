@@ -1,27 +1,123 @@
 Boobalan Sellappan
 .Net Developer (Full stack)
-Phone: (+91)98430-52670 								Email: toboobalan@gmail.com
+Phone: (+91)98430-52670 Email: toboobalan@gmail.com
+Professional 
+Summary
 
-Professional Summary
-Having 8 Years of experience in analysis, design and development of web applications and web services in Microsoft Visual Studio .Net IDE using ASP.Net, C#.Net, VB.Net, ADO.Net and SQL Server.
-Extensive experience in Database design, T-SQL, stored procedures, functions, views, triggers and cursor in Microsoft SQL Server.
+Having 8 Years of 
+experience
+ in analysis, design and development of web applications and web services in Microsoft Visual Studio .Net IDE using ASP.Net, C#.Net, VB.Net, ADO.Net and SQL Server.
+Extensive 
+experience
+ in Database design, T-SQL, stored procedures, functions, views, triggers and cursor in Microsoft SQL Server.
 Extensive knowledge in Project Life Cycle Development including requirement analysis, design, development, testing and support.
-Very good experience in SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS).
+Very good 
+experience
+ in SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS).
 Strong in SQL query tuning and complex stored procedures
 Good in Database programming with ADO.NET (MS SQL Server, DB2).
 Proficient in Object Oriented Programming (OOPS), Web Services, Web API, XML, CSS, HTML, AJAX, JavaScript and JQuery.
 Knowledge in HTML5, CSS3 and Bootstrap.
 Working knowledge of source control systems (VSS, TFS).
 Involved in UAT/production deployment
-A strong team player having excellent communication, presentation and organizing abilities with adequate leadership skills.
+A strong team player having excellent communication, presentation and organizing abilities with adequate leadership 
+skills
+.
 Effective in working independently and collaboratively within multiple teams.
-Experience in handling clients in terms of gathering requirement and update the project status. 
-Experience in handling small team.
 
-Technical Experience
+Experience
+ in handling clients in terms of gathering requirement and update the project status.
 
+Experience
+ in handling small team.
+Technical 
+Experience
 
-Work Experience
+Elements | Particulars
+Primary 
+Skills
+ | ASP .NET with VB and C#, SQL Server
+Design Pattern | MVC
+Operating Systems | WINDOWS
 
+Languages
+ | C# .NET, VB .NET
+Development Tools | Microsoft Visual Studio
+Web Technologies | HTML, JavaScript, JQuery, AJAX, XML, CSS, Angular JS, HTML5, CSS3 & Bootstrap
+Server Side Scripting | ASP.NET, ASP, Web-Services, WCF
+Database Connectivity | ADO .NET
+Databases | Microsoft SQL Server
+Reporting Tools | SQL Server Reporting Services (SSRS)
+ETL Tools | SQL Server Integration Services (SSIS)
+Domain Knowledge | Manufacturing, Online Travels Booking, Educational ERP
+Source Control | Visual Source Safe (VSS), Team Foundation Server (TFS), SVN
+Remote connectivity | Citrix, VPN
+Work 
+Experience
+
+Client: | NTT DATA - Hyster-Yale Group (HYG) | 2017 to 2019
+Project: | NOVO Dealer World
+Primary Responsibilities:
+Requirement analysis, design, development, testing and support for SSR.
+Involving in SQL Query performance tuning.
+Developed various kinds of reports using SSRS reports.
+Pull/Push data from one system to another using REST API.
+Involving in peer review and peer testing.
+Implement both application and database changes into UAT/production Environment.
+Co-ordinate with SQA for the review process
+Client: | NTT DATA - Hyster-Yale Group (HYG) | 2014 - 2017
+Project: | Dealer Business Plan
+Worked on CM tickets and production issues on priority basis.
+Developed SSIS packages to transfer data from one system to another.
+Developed functionality of data import and export.
+Implement both application and database changes into UAT and production Environment.
+Co-ordinate with SQA for the review process.
+Client: | NTT DATA - Hyster-Yale Group (HYG) | 2013 - 2014
+Project: | Email Scrape
+Converted the existing legacy windows application into Web application.
+Senior Developer involved in analysis the existing system and prepares technical specification.
+Development and implementation of functional enhancements.
+Rewrite the DB design and write complex stored procedure.
+Involved in peer review and peer testing.
+Client: | NTT DATA - Hyster-Yale Group (HYG) | 2012 - 2013
+Project: | Quotelog
+Developed SSRS reports.
+Involved in production implementation.
+Client: | NTT DATA - Jones Lang Lasalle (JLL) | 2012 - 2012
+Project: | eBase3aIndiaRollout
+DB design, preparation of IAD and Test Case document.
+Worked on complex CM Tickets.
+Involved in UAT and Production deployment.
+Client: | NTT DATA - NTT Data Japan | 2011 - 2012
+Project: | TAP (Test Automation aPpliance)
+Involved in development activities when the application started off as R & D from Phase1
+Involved in application design and DB design.
+Take care of complex functionality.
+Written Complex stored procedure.
+Requirement analysis, design, development, testing.
+Client: | NTT DATA - Hyster-Yale Group (HYG) | 2011 - 2011
+Project: | Material Price Management System (MPMS)
+Prepared Technical Design Documents and Test Cases
+Involved in writing complex SQL stored procedure and performance tuning.
+Prepared and implemented SSRS reports, SSIS packages and SQL Jobs.
+
+Experience
+ Details
+Employer:
+NTT DATA Global Delivery Services Pvt. Ltd.
+Designation:
+TECHNICAL SOLUTIONS ARCH. SR. SPECIALIST
+Duration:
+03-Jan-2011 to 11-Apr-2019 | Employer: | NTT DATA Global Delivery Services Pvt. Ltd. | Designation: | TECHNICAL SOLUTIONS ARCH. SR. SPECIALIST | Duration: | 03-Jan-2011 to 11-Apr-2019
+Employer: | NTT DATA Global Delivery Services Pvt. Ltd.
+Designation: | TECHNICAL SOLUTIONS ARCH. SR. SPECIALIST
+Duration: | 03-Jan-2011 to 11-Apr-2019
 
 Education
+
+Institution: | Sri Ramakrishna Mission Vidyalaya College of Arts and Science
+(Affiliated to Bharathiar University)
+Result/Degree: | 2007 - Master of Computer Application
+Institution: | Nehru Memorial College of Arts and Science
+(Affiliated to Bharthidasan University)
+Result/Degree: | 2004 - Bachelor of Science.(Computer Science)

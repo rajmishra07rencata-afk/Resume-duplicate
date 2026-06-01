@@ -1,50 +1,86 @@
-To work in a challenging and competitive environment and to use all the skills and competencies to achieve self-developmental as well as organizational goals.
+NAME : SANTHASEELAN.SE-MAIL : shanthsr24@gmail.comPHONE : 7358661039ADDRESS : NO. 5 a, Duraikannu salai, old pallavaram, Chennai-600117.
+CARRIER 
+OBJECTIVE
+:
 
+ACADEMIC
+ 
+PROFILE
+: To work in a challenging and competitive environment and to use all the 
+skills
+ and competencies to achieve self-developmental as well as organizational goals.
+COURSE | % | PASSED OUT YEARS | INSTITUTE/
+SCHOOL | UNIVERSITY/
+BOARD
+BE (ECE) | 62 | 2020 | Jerusalem college of engineering | Anna university
+Class XII | 71.2 | 2016 | St.Vincent Pallotines mat.hr.sec School | Stateaboard
+Class X | 87.2 | 2020 | Good shepherd mat.hr.sec.School | StateBoard
+TECHNICAL SKILL SET:
 
-
-Languages/Technologies:   CoreJava, Automation Testing.
-Development tools          :   Eclipse IDE, Selenium Webdriver-Eclipse.
-Version Control tool        :   GIT.
-Operating System            :   Windows 7,8,10.
-FrameWorks                     :   POM, JUnit, TestNG, Data Driven, BDD-Cucumber.
-Domain Knowledge         :   E-Commerce.
-
-
+Languages
+/Technologies: CoreJava, Automation Testing.
+Development tools : Eclipse IDE, Selenium Webdriver-Eclipse.
+Version Control tool : GIT.
+Operating System : Windows 7,8,10.
+FrameWorks : POM, JUnit, TestNG, Data Driven, BDD-Cucumber.
+Domain Knowledge : E-Commerce.
+PROFESSIONAL 
+SUMMARY
+:
 Trained Software Proficiency in Core Java.
-Good experience in Automation Testing using Selenium WebDriver with java Programming.
+Good 
+experience
+ in Automation Testing using Selenium WebDriver with java Programming.
 Good knowledge in taking X path in all ways.
-Experience on developing a framework using a design pattern- Page Object Model.
+
+Experience
+ on developing a framework using a design pattern- Page Object Model.
 Trained in working with BDD Framework using Cucumber tool.
-Good Experience in DataDriven framework.
-Excellent interpersonal skills,and ability to work in a new environment with others.
-Strong team player with good communication, analytical and problem solving skills.
-
-
-Certified Core Java and Software Testing Training in Green’s Technology
-
-
+Good 
+Experience
+ in DataDriven framework.
+Excellent interpersonal 
+skills
+,and ability to work in a new environment with others.
+Strong team player with good communication, analytical and problem solving 
+skills
+.
+CERTIFICATION:
+Certified Core Java and Software Testing 
+Training
+ in Green's Technology
+PROJECT WORK:
 Toxic Gas Detection and Monitoring in Sewage using NODEMCU.
 Description: This project describes about the safety system to overcome the gaseous hazards in sewage.
-
-
+WORKSHOPS AND INTERNSHIPS:
 Workshop on PCB Design and Fabrication at Jerusalem College of Engineering, Chennai.
-National level Workshop on IOT at Jerusalem College of Engineering, Chennai.
-
-
+CO-CURRICULAR AND VOLUNTEER ACTIVITIES:National level Workshop on IOT at Jerusalem College of Engineering, Chennai.
 Member of NSS in our college, along with that I have attended various camps and done many social services and also received best volunteer award.
 District level football player and college football team captain.
 Participated in various Inter college Tournaments for our college football team.
+PERSONAL DETAILS:
+Father's Name : A.Sathiyaseelan
+Mother's Name : S.RathiDevi
+Date Of Birth : 25-05-1999
+Gender : Male
+Nationality : Indian
 
+Languages
+ Known : English,Tamil.
+DECLARATION:
+I hereby declare that all the information furnished above are true to the best of my knowledge.
+Place: Chennai
+Date:
+(SANTHA SEELAN S)
+NAME : SANTHASEELAN.S
+E-MAIL : shanthsr24@gmail.com
+PHONE : 7358661039
+ADDRESS : NO. 5 a, Duraikannu salai,
+old pallavaram,
+Chennai-600117.
 
-       Father’s Name           : A.Sathiyaseelan
-       Mother’s Name         : S.RathiDevi
-       Date Of Birth              : 25-05-1999
-       Gender                        : Male
-       Nationality                  : Indian
-       Languages Known     : English,Tamil.     
-
+ACADEMIC
  
-          I hereby declare that all the information furnished above are true to the best of my knowledge.
-    Place: Chennai
-     Date:                                                                                                                                             
-                                                                                                                            (SANTHA SEELAN S)
+PROFILE
+:
+CO-CURRICULAR AND VOLUNTEER ACTIVITIES:

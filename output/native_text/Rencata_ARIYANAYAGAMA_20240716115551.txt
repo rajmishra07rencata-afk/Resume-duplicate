@@ -1,6 +1,11 @@
 Experience
+
 Education
-Skills Summary
+
+Skills
+ 
+Summary
+
 Language
 Expertise
 80%
@@ -10,7 +15,9 @@ I'm an experienced SQL programmer who
 constantly seeks out innovative solutions to
 everyday problems. In my three years in this
 industry, I've honed my analytical thinking ,
-collaboration skills, and I love working with a
+collaboration 
+skills
+, and I love working with a
 team.
 About Me
 aariyanayagam4@gmail.com
@@ -20,9 +27,8 @@ Chennai-India.
 Nov 2020 - Aug 2023.
 Bachelor of Engineering-Computer Science
 2016-2020 - 7.97 CGPA
-Chennai-India.
 English
-Tamil 
+Tamil
 MS-SQL Server
 Server Management
 DBA Activities
@@ -30,10 +36,10 @@ Report Designing
 GitLab
 Python
 ELIOR (Prefferred Meals System)
-       2020 - 2021
+2020 - 2021
 US based Food manufacturing company.
 Toyal America
-       2022 - 2023
+2022 - 2023
 US based metal manufacturing company.
 Ramco Institute Of Technology
 Higher Secondary Certificate-Computer Science
@@ -45,10 +51,13 @@ ARIYANAYAGAM A
 Critical Thinking
 Team Player
 Deadline Driven
-Other Skills
-Projects Worked / Working
+Other 
+Skills
+
+Projects
+ Worked / Working
 SOLV Energy
-       2021 - 2023
+2021 - 2023
 US based Solar panel manufacturing company.
 Department Worked
 ERP -Enterprise Resource Planning.

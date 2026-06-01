@@ -1,24 +1,32 @@
 SKILLS
+
 HOBBIES
-TECHNICAL SKILLS
+
+TECHNICAL 
+SKILLS
+
 AREA OF INTEREST
 PLACE : CUDDALORE
-CAREER OBJECTIVE
+CAREER 
+OBJECTIVE
+
 To become a part of an
 organization that uses my
 knowledge and capabilities
 to the maximum extent and
-to 
-move 
-up 
-in 
+to
+move
+up
+in
 position
-through 
-experience 
+through
+
+experience
+
 and
 constant improvement.
 GOKULAKRISHNAN.S
-NO 
+NO
 328,New Street
 Karamanikuppam
 Varakalpattu Post
@@ -29,21 +37,25 @@ gokulakrishnan612@gmail.com
 https://www.linkedin.com
 /in/gokulakrishnan-s-
 9530311ba
+
 EDUCATION
+
 DECLARATION
 CERTIFICATION
 PERSONAL TRAITS
 PERSONAL DETAILS
 2018 - 2019 HSC-
 PERCENTAGE
-(50%) 
+(50%)
 2016 - 2017
 SSLC-PERCENTAGE
-(60.2%) 
+(60.2%)
 Father'sname : Srinuvasan.S
 Mother's name : Kotteeswari.S
 Date of Birth : 27-01-2002
-Languages known : English,Tamil 
+
+Languages
+ known : English,Tamil
 B.TECH - INFORMATION TECHNOLOGY 2019 - 2023
 CGPA - 7.10
 KANCHI GLOBAL HR SEC SCHOOL
@@ -62,7 +74,7 @@ Leadership
 SQL and relational database provided by
 IBM on march 15 2023
 Databases for developers : Foundation
-provided by Oracle Dev Gym 
+provided by Oracle Dev Gym
 Oracle SQL provided by Greate Learning
 Academy on march 2023.
 B.TECH-INFORMATION

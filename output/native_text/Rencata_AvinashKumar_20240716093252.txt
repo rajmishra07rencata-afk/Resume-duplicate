@@ -1,79 +1,68 @@
-Avinash Kumar 
+Avinash Kumar
 avinashk2467@gmail.com
-+91-7488543918 
-H.No-54,Gali No-1,Panchsheel 
-Part-1,Faridabad Haryana 
-121003 
-EXPERIENCE 
-1. Features Techno Services Pvt.Ltd., Mehrauli, New 
-Delhi— As Jr. Dot Net Developer 
-July 2019 To 2020 
-Looking for a developer opportunity that will allow me to work 
-with an expert team of senior developers helping drive career 
-progression to more senior roles in future. 
-Ability to quickly understand Technologies. 
- 
-2.  ITDOSE INFOSYSTEMS PVT LTD,Noida Sector-6 as 
-a 
-Dot Net Developer -  02 May 2021 to Present 
-R.L.S.Y COLLEGE, Bettiah West Champaran— BCA 
-2018 
-B.S.E.B Board, Patna— 10+2 
-2012 
-B.S.E.B Board, Patna— 10th 
-2010 
-PROJECTS 
-Project School ERP—  
-This System Automates Basic School Processes, like Student’s 
-Registration, Marking Student Attendance, Fees, Time Table 
-Parents Dashboard, Mapping of Students-Class, Class-Teachers, 
-and Teachers-Subjects. Project was using Asp.Net Web Forms and 
-SQL Server as Database. 
-Laboratory Information & Management System- This 
-System Automates Laboratory Information processes like Patient 
-Registration, Sample Collection, Sample Receive, Machine Result 
-Entry, Patient Report Subjects. Project was using Asp.Net Web Forms 
-and MySQL as Database, Crystal Report. Present Time Some LIS 
-Website like TATA 1 MG, Oncquest , Yoda, Mahajan 
-diagnostics,Modern Diagnostic & Research Centre etc. 
-SKILLS 
-• 
-Visual Studio 2022  
-• 
-Visual Studio 2012 
-• 
-C# 
-• 
-ASP.NET 
-• 
-ASP.NET Web API 
-• 
-ASP.Net Core MVC 
-• 
-Windows Services 
-• 
-HTML 
-• 
-CSS 
-• 
-AJAX 
-• 
-JAVASCRIPT 
-• 
-JQUERY 
-• 
-JSON 
-• 
-CSS 
-• 
-GIT AND GITHUB 
-• 
-SQL SERVER 
-• 
-MY SQL 
-• 
-ADO.NET 
-• 
-WINDOWS 
-LANGUAGES 
++91-7488543918
+H.No-54,Gali No-1,Panchsheel
+Part-1,Faridabad Haryana
+121003
+
+EXPERIENCE
+
+1. Features Techno Services Pvt.Ltd., Mehrauli, New
+Delhi- As Jr. Dot Net Developer
+July 2019 To 2020
+Looking for a developer opportunity that will allow me to work
+with an expert team of senior developers helping drive career
+progression to more senior roles in future.
+Ability to quickly understand Technologies.
+
+2. ITDOSE INFOSYSTEMS PVT LTD,Noida Sector-6 as
+a
+Dot Net Developer - 02 May 2021 to Present
+R.L.S.Y COLLEGE, Bettiah West Champaran- BCA
+2018
+B.S.E.B Board, Patna- 10+2
+2012
+B.S.E.B Board, Patna- 10th
+2010
+
+PROJECTS
+
+Project School ERP-
+This System Automates Basic School Processes, like Student's
+Registration, Marking Student Attendance, Fees, Time Table
+Parents Dashboard, Mapping of Students-Class, Class-Teachers,
+and Teachers-Subjects. Project was using Asp.Net Web Forms and
+SQL Server as Database.
+Laboratory Information & Management System- This
+System Automates Laboratory Information processes like Patient
+Registration, Sample Collection, Sample Receive, Machine Result
+Entry, Patient Report Subjects. Project was using Asp.Net Web Forms
+and MySQL as Database, Crystal Report. Present Time Some LIS
+Website like TA 1 MG, Oncquest , Yoda, Mahajan
+diagnostics,Modern Diagnostic & Research Centre etc.
+
+SKILLS
+
+*
+Visual Studio 2022
+Visual Studio 2012
+C#
+ASP.NET
+ASP.NET Web API
+ASP.Net Core MVC
+Windows Services
+HTML
+CSS
+AJAX
+JAVASCRIPT
+JQUERY
+JSON
+GIT AND GITHUB
+SQL SERVER
+MY SQL
+ADO.NET
+WINDOWS
+
+LANGUAGES
+
 Hindi, English

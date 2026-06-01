@@ -1,105 +1,128 @@
-Executive Summary  
-An overall experience of 8 years 10 months in .NET development. Currently working in Innova solutions as Senior software developer and previously worked as projects- Associate at Cognizant, Chennai. 
-Core Strength in the area of Requirement analysis, Design and development of the modules understands the Client needs to build strategic partnerships between the stakeholders involved in the project. 
-Excellent analytic, technical, & leadership qualities. Handled two members’ team and responsible for deployment. 
-Worked on production support with clients through text and voice for the development projects. 
- 
-Professional Certifications:  
-Passed Microsoft Certification Professional Exam titled as “Microsoft .NET Framework 2.0 – Web Based Client Development”.  
-Completed a course titled as “Developing Web Applications using ASP.NET” and found my performance to be Excellent and the certification approved by The Academic Council of NIIT. 
-Areas of exposure and expertise:  
-Technologies: ASP.NET MVC, C#, ANGULAR 7, WEB API, JQUERY, JAVASCRIPT, WCF, ENTITY FRAMEWORK 
-Databases: MS SQL SERVER  
-Deployment: TFS build and release management 
-Education   
-MCA from Anna University, Coimbatore, India in 2010 with 84.9%. 
-B. Sc (Mathematics) from Periyar University, Tamilnadu, India 2007 with 75.75%. 
-Trainings attended  
-• I have attended a corporate training on Automation Anywhere 10.2.0 automation tool for 2 months in cognizant and done some test projects. 
- 
-Professional Experience   
-  
-  
-Project Experience:  
-Innova solutions India Pvt.Ltd.  	  	  	  	                                                Sep’2019 to till date  
+ARUN MATHIYALAGAN
+___________________________________________________________________________
+Email:arun.mathiyalagan@cognizant.com
+Associate - 
+Projects
+ Mobile#:9842048023
+Privileged & Confidential
+-
+1
+Executive 
+Summary
 
+An overall 
+experience
+ of 8 years 10 months in .NET development. Currently working in Innova solutions as Senior software developer and previously worked as 
+projects
+- Associate at Cognizant, Chennai.
+Core Strength in the area of Requirement analysis, Design and development of the modules understands the Client needs to build strategic partnerships between the stakeholders involved in the project.
+Excellent analytic, technical, & leadership qualities. Handled two members' team and responsible for deployment.
+Worked on production support with clients through text and voice for the development 
+projects
+.
+Professional 
+Certifications
+:
+Passed Microsoft Certification Professional Exam titled as "Microsoft .NET Framework 2.0 - Web Based Client Development".
+Completed a course titled as "Developing Web Applications using ASP.NET" and found my performance to be Excellent and the certification approved by The 
+Academic
+ Council of NIIT.
+Areas of exposure and expertise:
+Technologies: ASP.NET MVC, C#, ANGULAR 7, WEB API, JQUERY, JAVASCRIPT, WCF, ENTITY FRAMEWORK
+Databases: MS SQL SERVER
+Deployment: TFS build and release management
+
+Education
+
+MCA from Anna University, Coimbatore, India in 2010 with 84.9%.
+B. Sc (Mathematics) from Periyar University, Tamilnadu, India 2007 with 75.75%.
+Trainings attended
+* I have attended a corporate 
+training
+ on Automation Anywhere 10.2.0 automation tool for 2 months in cognizant and done some test 
+projects
+.
+Professional 
+Experience
+
+Organization | Industry | From | To | Role
+Innova solutions Pvt. Ltd. | IT | Sep 2019 | Till Date | Senior software developer
+Cognizant India Pvt.Ltd. | IT | Dec 2016 | Sep 2019 | Associate - 
+Projects
+
+Alten Calsoftlabs Pvt.Ltd. | IT | Feb'2014 | Dec'2016 | Senior software engineer
+Flexorbits web solutions | IT | Mar '2011 | Feb '2014 | Junior software engineer
+Project 
+Experience
+:
+Innova solutions India Pvt.Ltd. Sep'2019 to till date
 Project Name: Dental Connect Plus
-Project Description: Dental connect plus is an application to add corporation, location and its providers information. Feeding the data from MetLife to our application and they can manipulate the data based on their credentials. The modified data are sent back to us with the feed files daily. 
+Project Description: Dental connect plus is an application to add corporation, location and its providers information. Feeding the data from MetLife to our application and they can manipulate the data based on their credentials. The modified data are sent back to us with the feed files daily.
 Duration: Sep 2019 to till date
 About Client: MetLife
-Project Role: Web Developer  
+Project Role: Web Developer
 Environments: ASP.NET MVC, C#, WEB API, PostgreSQL
-
-  
-Cognizant India Pvt.Ltd.  	  	  	  	                                                Dec’2016 to till date  
-
-Project Name: Re-insurance Work Bench  
-Project Description: Re-insurance workbench is a responsive web application to interaction with under writer and he/she can create workflows and manage documents. 
+Cognizant India Pvt.Ltd. Dec'2016 to till date
+Project Name: Re-insurance Work Bench
+Project Description: Re-insurance workbench is a responsive web application to interaction with under writer and he/she can create workflows and manage documents.
 Duration: Jan 2019 to Sep 2019
-About Client: AXA XL is a subsidiary of global insurance and reinsurance company AXA. It is co-headquartered in Hamilton, Bermuda, and Stamford, Connecticut, United States, and has more than 100 offices on 6 continents.
-Project Role: Angular Developer  
+About Client: AXA XL is a subsidiary of global insurance and reinsurance company AXA. It is co-headquartered in Hamilton, Bermuda, and Stamford, Connecticut, United States, and has more than 100 offices on 6 continents.
+Project Role: Angular Developer
 Environments: ANGULAR 7, ASP.NET MVC, C#, WEB API, MS SQL Server
-
-Project Name: ReCAP    
+Project Name: ReCAP
 Project Description: ReCAP is a responsive web application to view the client performance, analytics dashboard and Qlik sense reports.
 Duration: Jan 2018 to Dec 2018
-About Client: AXA XL 
-Project Role: .NET Developer  
+About Client: AXA XL
+Project Role: .NET Developer
 Environments: ASP.NET MVC, C#, WEB API, MS SQL Server
-Project Name: Loanliner.com    
-Project Description: Projects are upgraded to 4.6 in order to support SQL Encryption which involves column Encryption. The projects are deployed using TFS build and release management in order to remove old deployment method using DCS. 
+Project Name: Loanliner.com
+Project Description: 
+Projects
+ are upgraded to 4.6 in order to support SQL Encryption which involves column Encryption. The 
+projects
+ are deployed using TFS build and release management in order to remove old deployment method using DCS.
 Duration: April 2017 to Dec 2017
-About Client: CUNA Mutual Group is a mutual insurance company that provides financial services to cooperatives, credit unions, their members, and other customers worldwide. It sells commercial and consumer insurance and protection products. 
-Project Role: .NET Developer  
-Environments: ASP.NET MVC, C#, MS SQL Server, Entity Framework 6, LINQ, TFS Build and Release.  
-  
+About Client: CUNA Mutual Group is a mutual insurance company that provides financial services to cooperatives, credit unions, their members, and other customers worldwide. It sells commercial and consumer insurance and protection products.
+Environments: ASP.NET MVC, C#, MS SQL Server, Entity Framework 6, LINQ, TFS Build and Release.
+Project Responsibilities:
+Upgraded the .NET framework and entity framework.
+Implemented the column encryption in database level and application level.
+Created the build & release for the 
+projects
+ and deployed in difference environments.
+Handling the Reporting issues.
+Involving in monitoring logs and production support issues.
 
-Project Responsibilities:   
-Upgraded the .NET framework and entity framework.  
-Implemented the column encryption in database level and application level.  
-Created the build & release for the projects and deployed in difference environments. 
-Handling the Reporting issues.  
-Involving in monitoring logs and production support issues.  
-  
-Training:   Automation Anywhere 10.2.0 
-Period:      December 5th, 2016 to March 30th, 2017 
-Roles and responsibilities: Analyzing the process requirements, automating the process and bug fixing 
- 
-  
-Alten Calsoftlabs (India) Private limited, Chennai 	 	 	Feb’2014 to Dec’2016  
-  
-Project Name: Healthland - Centriq  
+Training
+: Automation Anywhere 10.2.0
+Period: December 5th, 2016 to March 30th, 2017
 
-Project Description: It is a health care project for hospital maintenance. It includes the maintenance of Emergency department, clinic, and HR maintenance. In this project, hospital providers can handle and manipulate the information from patient admission to discharge and home medication. Implemented the HL7 concepts and involved in MU certifications. 
-Duration: Feb’2014 to Dec’2016  
-About Client: Healthland, Inc. provides healthcare information systems for rural and critical access hospitals in the United States. It develops electronic health record solutions for rural hospitals. The company’s software and services help customers to share patient information across care settings to coordinate treatment, improve patient outcomes, and drive patient satisfaction.  
-Project Role: Senior software engineer  
-Environments: ASP.NET MVC 5, WCF, AJAX, C#, MS SQL 2005, JQuery, WEBAPI.  
-  
-Project Responsibilities:   
-Analyzing the functional specification document to understand the business requirements which is provided by the clients.  
-Development of sub modules of Lab and pharmacy.  
-Analyzing & developing High Level Design Documents and Low-Level Design Documents.  
-Involved in database design and stored procedure performance improvement.  
-Involving in Production support issues and discussion with clients for incidents as well as tasks.  
-Involving in Peer review & UAT testing.  
-  
-Flexorbits web solutions private limited, Chennai 	 	 	 	Mar’2011 to Feb’2014  
- 
-Project Name: Constant-Relationship.  
-Project Description: Constant- Relationship is a connection tool to establish the CRM between insurance agents and clients. Using this product, the client used to send the information regarding their plans in their Insurance Product. This application consists of six modules are Address book, Group Emailer & individual Emailer, Auto E-mailer, History, Manager Statistics, Admin controls, Market Evaluator. 
-Duration: Mar’2011 to Feb’2014 
-About Client: Identity branding is the company providing the CRM with insurance agent and client.  
-Project Role: .NET Developer  
- 
-Project Responsibilities:   
-Involved in project estimation, technical writing, and database design, stored procedures, performance tuning and writing WCF service for client application. 
-Integrated the codes from local server to staging and production server. 
-Involved in online support for the client.  
-
+Roles and responsibilities
+: Analyzing the process requirements, automating the process and bug fixing
+Alten Calsoftlabs (India) Private limited, Chennai Feb'2014 to Dec'2016
+Project Name: Healthland - Centriq
+Project Description: It is a health care project for hospital maintenance. It includes the maintenance of Emergency department, clinic, and HR maintenance. In this project, hospital providers can handle and manipulate the information from patient admission to discharge and home medication. Implemented the HL7 concepts and involved in MU 
+certifications
+.
+Duration: Feb'2014 to Dec'2016
+About Client: Healthland, Inc. provides healthcare information systems for rural and critical access hospitals in the United States. It develops electronic health record solutions for rural hospitals. The company's software and services help customers to share patient information across care settings to coordinate treatment, improve patient outcomes, and drive patient satisfaction.
+Project Role: Senior software engineer
+Environments: ASP.NET MVC 5, WCF, AJAX, C#, MS SQL 2005, JQuery, WEBAPI.
+Analyzing the functional specification document to understand the business requirements which is provided by the clients.
+Development of sub modules of Lab and pharmacy.
+Analyzing & developing High Level Design Documents and Low-Level Design Documents.
+Involved in database design and stored procedure performance improvement.
+Involving in Production support issues and discussion with clients for incidents as well as tasks.
+Involving in Peer review & UAT testing.
+Flexorbits web solutions private limited, Chennai Mar'2011 to Feb'2014
+Project Name: Constant-Relationship.
+Project Description: Constant- Relationship is a connection tool to establish the CRM between insurance agents and clients. Using this product, the client used to send the information regarding their plans in their Insurance Product. This application consists of six modules are Address book, Group Emailer & individual Emailer, Auto E-mailer, History, Manager Statistics, Admin controls, Market Evaluator.
+Duration: Mar'2011 to Feb'2014
+About Client: Identity branding is the company providing the CRM with insurance agent and client.
+Involved in project estimation, technical writing, and database design, stored procedures, performance tuning and writing WCF service for client application.
+Integrated the codes from local server to staging and production server.
+Involved in online support for the client.
 Declaration:
-
 I hereby declare that all the details given above are true to the best of my knowledge and belief.
-
-Place: Chennai                                                         			     		
-Date:                                                                                            			(Arun Mathiyalagan)
+Place: Chennai
+Date: (Arun Mathiyalagan)

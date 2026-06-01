@@ -1,11 +1,23 @@
 PRATHYUSHA KAKUMANI
 Mobile no: +918106174381
 Email: prathyushakakumani7@gmail.com
-         
- To contribute to an organisation in an innovative way in order to become a key player in the company and feel satisfied with my perseverance while ensuring growth in my personal career.
+Career 
+Objective
 
+To contribute to an organisation in an innovative way in order to become a key player in the company and feel satisfied with my perseverance while ensuring growth in my personal career.
 
-
+Academic
+ Qualification
+Course | School/college | Board/University | Duration | Percentage/
+CGPA
+B Pharmacy | Nova College of Pharmaceutical 
+Education
+ and Research | JNTUH | 2017-2021 | 69%
+Intermediate | Sri Chaitanya junior College | Board of Intermediate | 2015-2017 | 95%S.S.C | Krishna Chaitanya High School | Board of Secondary 
+Education
+ | 2014-2015 | 7.8 CGPA
+Technical 
+skills
 
 Python : Introduction,Operators,Loops,Collection Classes,File Handling,Oops.
 Basics of C and C++
@@ -13,29 +25,34 @@ Django frameworks.
 Databases : SQL
 HTML,CSS,Java Script.
 
-
-
+Projects
 
 Formulation and Evaluation of Valsartan Oral Disintegrating Tablets
+Personal Strengths
+Good communication 
+skills
 
-
-Good communication skills
-Strong Analytical and problem solving skills.
+Strong Analytical and problem solving 
+skills
+.
 Working with patience
 Showing enthusiasm in knowing and learning new things
 Positive attitude and self confidence
-
+Accomplishments
 Received 2nd prize in Chess competition
 
-Fathers Name                  :       Kakumani Srinivasulu
-Mothers Name                :        Kakumani Vijaya Lakshmi 
-DOB                               :         07-04-2000
-Languages Known         :        Telugu, English, Hindi.
-Nationality                     :         Indian
-Address                          :         D.No:7-4-136,east kammapalem,kandukur,Nellore district, 
-                                                   AP - 523105
-Marital status                 :        unmarried
+Personal Information
+
+Fathers Name : Kakumani Srinivasulu
+Mothers Name : Kakumani Vijaya Lakshmi
+DOB : 07-04-2000
+
+Languages
+ Known : Telugu, English, Hindi.
+Nationality : Indian
+Address : D.No:7-4-136,east kammapalem,kandukur,Nellore district,
+AP - 523105
+Marital status : unmarried
 DECLARATION:
-                  I hereby declare that all the information provided by me is true and correct to the best of my knowledge.                                                                             
-                                                                                        
-                                                                                 K.Prathyusha
+I hereby declare that all the information provided by me is true and correct to the best of my knowledge.
+K.Prathyusha

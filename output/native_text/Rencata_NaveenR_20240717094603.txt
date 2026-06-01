@@ -4,10 +4,9 @@ A4, Swastik Appartments,
 Shankar nagar
 Salem - 636007, Tamil Nadu
 C O N T A C T
-P R O F I L E
-S K I L L S
+P R O F I L ES K I L S
 E D U C A T I O N
-W O R K  E X P E R I E N C E
+W O R K E X P E R I E N C E
 Manual and automation testing
 methodologies
 Core Java
@@ -30,18 +29,19 @@ reliability of software applications.
 Collaborated with software development teams to identify defects, troubleshoot
 issues, and provide timely solutions, resulting in improved product quality.
 Experienced in reading the test data from excel spreadsheet using TestNG Data
-provider. 
+provider.
 Interacted closely with developers, environment people, client, team manager,
 team lead and team members for feature issues and discussion.
 Actively participated in Agile sprints, daily stand-ups, and sprint planning
 meetings, ensuring alignment between testing efforts and project goals.
- June 2021 - Present
+June 2021 - Present
 Highly skilled and detail-oriented Automation Testing professional with 5 years of
-extensive experience in manual and automation testing. 
+extensive 
+experience
+ in manual and automation testing.
 Proficient in utilizing TestNG, Selenium Java, and POM frameworks to ensure
 efficient and effective software testing.
-N A V E E N  R
-S O F T W A R E  T E S T  E N G I N E E R
+N A V E N RS O F T W A R E T E S T E N G I N E R
 Software Test Engineer
 Veshcorp Technologies
 Created and executed manual test cases to verify the functionality and stability
@@ -61,6 +61,6 @@ JIRA
 Jenkins
 GitHub
 Postman
-A C C O M P L I S H S M E N T
+A C O M P L I S H S M E N T
 INFOSYS - INSTA AWARD
 September 2022

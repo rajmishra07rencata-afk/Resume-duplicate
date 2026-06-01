@@ -1,217 +1,151 @@
-VINAYAGAMOORTHY PALANISAMY 
+VINAYAGAMOORTHY PALANISAMY
+
+Designation:
+Lead Engineer
+Current Company:
+HCL Technology, Chennai (India)
+Looking for:
+Full Stack developer(MEAN stack Developer) or UI
+Developer for Angular 2+ version.
+Educational Qualification:
+MCA(Master of Computer Application)
+Mobile:
++91 9677799177
+Email:
+vinaikpm@gmail.com
+
+Experience
  
-Designation: 
-Lead Engineer 
-Current Company: 
-HCL Technology, Chennai (India) 
-   Looking for: 
-Full Stack developer(MEAN stack Developer) or UI   
-Developer for Angular 2+ version. 
-Educational Qualification: 
-MCA(Master of Computer Application) 
-Mobile: 
-+91 9677799177 
-Email: 
-vinaikpm@gmail.com 
+Summary
+
+
+Having 7 years of relevant 
+experience
+ in web development.
+Extensive knowledge in web technologies like HTML5, CSS3/LESS/SASS, Bootstrap, Material design,
+JavaScript, TypeScript, jQuery and Angular.
+My current project is Angular latest version of Angular 8.
+I had worked in Angular 2,5,6,7 and 8. And upcoming version of angular 9 features also up to date
+updated.
+Hands-on 
+experience
+ in working on Server Side development like nodejs and MongoDB.
+I have worked with different domains, including E-commerce, healthcare and entertainment.
+Worked on Agile and Waterfall model based 
+projects
+.
+The quality of good understanding the requirements before implementing it. Strong analytical and
+design 
+skills
+, I can deliver all my work with high quality and always an approachable person.
+Demonstrated ability to work independently, and the flexibility to adapt in an ever-changing
+business environment.
+
  
-  Experience Summary 
- 
- 
- 
-Having 7 years of relevant experience in web development. 
- 
-Extensive knowledge in web technologies like HTML5, CSS3/LESS/SASS, Bootstrap, Material design, 
-JavaScript, TypeScript, jQuery and Angular. 
- 
-My current project is Angular latest version of Angular 8. 
- 
-I had worked in Angular 2,5,6,7 and 8. And upcoming version of  angular 9 features also up to date 
-updated. 
- 
-Hands-on experience in working on Server Side development like nodejs and MongoDB. 
- 
-I have worked with different domains, including E-commerce, healthcare and entertainment. 
-Worked on Agile and Waterfall model based projects. 
- 
-The quality of good understanding the requirements before implementing it. Strong analytical and 
-design skills, I can deliver all my work with high quality and always an approachable person. 
- 
-Demonstrated ability to work independently, and the flexibility to adapt in an ever-changing 
-business environment. 
- 
-  Employment 
- 
- 
- 
-Presently working as a Senior software Engineer in HCL Technology, Chennai. 
- 
-Previously worked as a Application Development Software Engineer in Wintwin Technologies at 
-Chennai. 
- 
-  Work Experience 
- 
- 
- 
-Pixel perfect and Responsive UI development. 
- 
-Develop a internationalized web Application for Translate more than languages like French, German, 
-Dutch, Danish, Italian  and more using ngx- translate.  
- 
-Integrating front-end code with the backend services (RESTful services, JSON, XML). Also, I 
-developed rest services using Node JS and express JS. 
- 
-Used task runners like Grunt and Gulp in my projects. 
- 
-Good understanding of front-end optimization techniques and cross-browser compatibility. 
- 
-Strong Hands on experience on code debugging, API Testing and verifying Log files. 
- 
-Worked on agile methodology and waterfall model based projects. 
- 
-Reusable component development, Code optimization, bug fixes and Unit testing. 
- 
-Conducting the technical Interview with the candidates for UI / front end developer requirements. 
- 
-Created UI checklist document for the team members to following the coding standards. 
- 
-Coordinator for organizing team events like project team outing. 
- 
- 
- 
- 
- 
- 
- 
-  Education Details 
- 
- 
- 
-MCA – Madras University at Chennai (78%). 
- 
-BCA   – Sree Ragavendra Arts & Science Collage Chidambaram(75%). 
- 
-Schooling – Government Higher Secondary School at Chidambaram. 
- 
-  Technical Proficiency 
- 
- 
-Area of Interest 
-MEAN Stack Developer, Angular UI Developer, Node JS server side 
-developer.  
-Technologies 
-HTML5, CSS/CSS3, SASS, Bootstrap, JavaScript, TypeScript/ 
-Angular 2 to8, Nodejs and MongoDB. 
-Tools 
-Visual studio code, SVN, GIT, JIRA and Adobe Photoshop 
- 
- 
-  Project Details 
- 
- 
-1. EDWARDS Lifesciences, Feb 2019 – Till now. 
- 
-Client Name              : Edwards Lifesciences corporation. 
-Domain 
-: Health Care, 
-Technology Stack 
-: HTML5, CSS, SASS, Angular Material Design, ngx-translate, ngx- bootstrap, 
-Angular 8, Java sprint boot. 
- 
-Role and Responsibilities 
- 
-I worked on Angular 7 initially and then later we are migrating to Angular 8. 
- 
-I am the Only person to handle hole UI Side Development in this Project.  Only one UI Resource 
-in this project.   
- 
-I am playing roles on this projects are UI design, file structure, file maintenance, UI 
-development, Authentication ,REST API Integration and  unit testing.   
- 
-Used ngx-bootstrap and material design with Angular 8 for displaying and managing the 
-data in the UI. 
- 
-Using LazyLoading concept to Improving application performances. 
- 
-Project have 14 Language support. So I am using ngx-translate to solve this 14 language 
-support.  
- 
-Following code quality standards and karma, jasmine bug fixes to improve the code quality. 
- 
-Cross browser compatibility, cross platform support, Code optimization and Unit Testing. 
- 
-Worked on innovation ideas and its implementation. 
- 
-2. CARDIAC SCIENCE LCAED SERVER Device management software, Jun 2018 – Jan 2019. 
- 
-Client Name              : cardiac science corporation. 
-Domain 
-: Health Care 
-Technology Stack 
-: HTML5, CSS, SASS, Angular Material Design, ngx-translate, ngx- bootstrap, 
-Angular 7, Node JS and MongoDB 
- 
- 
- 
- 
- 
- 
-Role and Responsibilities 
- 
-I worked on Angular 7 and Node JS. 
- 
-I am the Only person to handle hole UI Side Development in this Project.  Only one UI Resource 
-in this project.   
- 
-I am playing roles on this projects are Wireframe design, file structure, file maintenance, UX 
-design, UI development, Authentication ,REST API Integration and  unit testing.   
- 
-Used ngx-bootstrap and material design with Angular 8 for displaying and managing the 
-data in the UI. 
- 
-I have created Restful web services using Node JS and Express JS. Created reusable 
-components and directives. 
- 
-Using LazyLoading concept to Improving application performances. 
- 
-Project have 14 Language support. So I am using ngx-translate to solve this 3 language 
-support.  
- 
-Following code quality standards and karma, jasmine bug fixes to improve the code quality. 
- 
-Cross browser compatibility, cross platform support, Code optimization and Unit Testing. 
- 
-Worked on innovation ideas and its implementation. 
- 
-3. NBCUniversal Campus, April 2017 – Jun 2018. 
- 
-Client Name 
-: NBCUniversal 
-Domain 
-: Entertainment / Media 
-Technology Stack 
-: HTML5, SASS, Bootstrap, JavaScript, material design, Angular 6 & Java. 
-Team Size                  : 140 
- 
-       Role and Responsibilities 
- 
-Worked as one of the UI developer to build a new web Application. started Angular 2 initially 
-and then later we are migrating to Angular 6 
- 
-Used ngx-bootstrap and material design with Angular 6 for displaying and managing the 
-data in the UI. 
- 
-I have created Restful web services using Node JS and Express JS. Created reusable 
-components and directives. 
- 
-Using LazyLoading concept to Improving application performances. 
- 
-Following code quality standards and karma, jasmine bug fixes to improve the code quality. 
- 
-Cross browser compatibility, cross platform support, Code optimization and Unit Testing. 
- 
-Worked on innovation ideas and its implementation. 
- 
- 
-  Declaration 
- 
+Employment
+
+Presently working as a Senior software Engineer in HCL Technology, Chennai.
+Previously worked as a Application Development Software Engineer in Wintwin Technologies at
+Chennai.
+
+Work 
+Experience
+
+Pixel perfect and Responsive UI development.
+Develop a internationalized web Application for Translate more than 
+languages
+ like French, German,
+Dutch, Danish, Italian and more using ngx- translate.
+Integrating front-end code with the backend services (RESTful services, JSON, XML). Also, I
+developed rest services using Node JS and express JS.
+Used task runners like Grunt and Gulp in my 
+projects
+.
+Good understanding of front-end optimization techniques and cross-browser compatibility.
+Strong Hands on 
+experience
+ on code debugging, API Testing and verifying Log files.
+Worked on agile methodology and waterfall model based 
+projects
+.
+Reusable component development, Code optimization, bug fixes and Unit testing.
+Conducting the technical Interview with the candidates for UI / front end developer requirements.
+Created UI checklist document for the team members to following the coding standards.
+Coordinator for organizing team events like project team outing.
+
+Education
+ Details
+
+MCA - Madras University at Chennai (78%).
+BCA - Sree Ragavendra Arts & Science Collage Chidambaram(75%).
+Schooling - Government Higher Secondary School at Chidambaram.
+
+Technical Proficiency
+
+Area of Interest
+MEAN Stack Developer, Angular UI Developer, Node JS server side
+developer.
+Technologies
+HTML5, CSS/CSS3, SASS, Bootstrap, JavaScript, TypeScript/
+Angular 2 to8, Nodejs and MongoDB.
+Tools
+Visual studio code, SVN, GIT, JIRA and Adobe Photoshop
+
+Project Details
+
+1. EDWARDS Lifesciences, Feb 2019 - Till now.
+
+Client Name : Edwards Lifesciences corporation.
+Domain
+: Health Care,
+Technology Stack
+: HTML5, CSS, SASS, Angular Material Design, ngx-translate, ngx- bootstrap,
+Angular 8, Java sprint boot.
+
+Role and Responsibilities
+I worked on Angular 7 initially and then later we are migrating to Angular 8.
+I am the Only person to handle hole UI Side Development in this Project. Only one UI Resource
+in this project.
+I am playing roles on this 
+projects
+ are UI design, file structure, file maintenance, UI
+development, Authentication ,REST API Integration and unit testing.
+Used ngx-bootstrap and material design with Angular 8 for displaying and managing the
+data in the UI.
+Using LazyLoading concept to Improving application performances.
+Project have 14 Language support. So I am using ngx-translate to solve this 14 language
+support.
+Following code quality standards and karma, jasmine bug fixes to improve the code quality.
+Cross browser compatibility, cross platform support, Code optimization and Unit Testing.
+Worked on innovation ideas and its implementation.
+
+2. CARDIAC SCIENCE LCAED SERVER Device management software, Jun 2018 - Jan 2019.
+
+Client Name : cardiac science corporation.
+: Health Care
+Angular 7, Node JS and MongoDB
+
+I worked on Angular 7 and Node JS.
+I am playing roles on this 
+projects
+ are Wireframe design, file structure, file maintenance, UX
+design, UI development, Authentication ,REST API Integration and unit testing.
+I have created Restful web services using Node JS and Express JS. Created reusable
+components and directives.
+Project have 14 Language support. So I am using ngx-translate to solve this 3 language
+
+3. NBCUniversal Campus, April 2017 - Jun 2018.
+
+Client Name
+: NBCUniversal
+: Entertainment / Media
+: HTML5, SASS, Bootstrap, JavaScript, material design, Angular 6 & Java.
+Team Size : 140
+
+Worked as one of the UI developer to build a new web Application. started Angular 2 initially
+and then later we are migrating to Angular 6
+Used ngx-bootstrap and material design with Angular 6 for displaying and managing the
+
+ Declaration
+
 I hereby declare that the information furnished above is true to the best of my knowledge.

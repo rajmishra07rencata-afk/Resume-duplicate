@@ -1,202 +1,177 @@
-RESUME 
- 
- 
- 
-Name: D. Infanta Glory 
-Email id: infantaglory@gmail.com 
-Mobile no: 9677107283 
- 
- 
- 
- 
-Career Objective 
-  
-To work in a challenging environment while adapting to new 
-technologies and effectively contribute to the growth of the organization with 
-my knowledge and skill. 
- 
-Technical Skills 
- 
- Manual Testing: 
-• Excellent in generating Scenarios/Test Cases. 
-• Good knowledge about SDLC/STLC. 
-• Good knowledge about V-model and waterfall model. 
-• Involved in sanity testing in every build. 
-• Involved in smoke testing in every test cycle. 
-• Involved in re-testing and Regression testing. 
-• Test cases execution and analyse results. 
-• Good knowledge about Agile methodologies. 
-• Good knowledge on Test plan and Test case Design Techniques. 
-• Good knowledge about user Functional testing, Acceptance 
-Testing, Unit Testing, System Testing, Integration Testing. 
-• Good knowledge about Non functional Testing and User 
-Acceptance Testing. 
- 
- 
-Agile Methodologies: 
-• Worked on agile methodology. 
-• Involved in sprint planning. 
-• Involved in scrum meeting. 
-• Involved in sprint retrospective meeting. 
- 
- 
-SELENIUM(AUTOMATION): 
-• Expertise in selenium Web driver 
-• Have work on identifying Dynamic Elements using X path. 
-• Handling Web Elements. 
-• Knowledge about chrome Browser and Mozilla Firefox. 
-• Extensively involved in creating Test Scripts and Automated Test Cases. 
-• Good Knowledge about AUTOIT. 
- 
- 
-JAVA: 
-• Good Knowledge about OOPS. 
-• Good Knowledge about Abstraction. 
-• Good Knowledge about Encapsulation. 
-• Good Knowledge about Polymorphism. 
-• Good Knowledge about Constructors and Arrays. 
- 
- 
-TOOLS & SKILLS: 
-• Manual Testing Methodology 
-• Test case template 
-• Agile Methodology 
-• Jira 
-• Maven 
-• Framework 
-• Jenkins 
-• Eclipse IDE. 
-• TestNG 
-• Selenium Web Driver 
-• Github 
-• SQL 
-• Core Java 
- 
-Academic Credentials 
-• 
-Completed Bachelor Degree in Electronics and communication 
-Engineering from Sri Venkateshwara Institute of Science and 
-Technology, Thiruvallur with 70.4% in the year of May 2016. 
-• 
-Completed Higher Secondary Education from St. Helen’s Girls 
-Higher Secondary School, St. Thomas Mount with 81.6% in the 
-year of Apirl 2012. 
-• 
-Completed Secondary School Education from St. Helen’s Girls 
-Higher Secondary School, St. Thomas Mount with 83.8% in the 
-year of April 2010. 
- 
-Certification: 
-Completed Manual Testing and Automation Testing course from 
-Qspiders Software Testing Institute. 
- 
-Professional Summary 
- 
-• 
-2.7 years of Experience in Software Testing in IT sector. [Manual 
-Testing and Automation Testing] 
-• 
-MAKO IT LAB – Role of Quality Analyst from Jan 2017 to May 2019 
-• 
-Currently work in Monospear Technologies Pvt. Ltd in the Role of Senior 
-Quality Analyst from Jan 2022 
- 
-Project Details: 
-Project – 1 
-       Project Name: ca.co.in 
- Description: 
-This project is developed as the next generation development 
-platform for online banking. It is more of a technology migration rather than 
-functional charges. Along with technology migration there are few functional 
-benefits that will be brought to the countries online banking systems i.e. To 
-standardize online banking functionalities & look and feel across countries (to the 
-extent possible) so the performance of online banking platform will be improved. 
-Which might provide better customers experience as 
- 
-well. To increase the number of customers signing up for online banking through 
-the online channel, thus reducing the amount of paperwork in the branch and to 
-improve user experience and strengthen the overall connection with the bank’s 
-online service leading to repeated use and stickiness 
- 
-Role and Responsibilities: As a Software Testing Engineer, I was Involved 
-in the following activities: 
-• 
-Preparing and documenting the test conditions and test cases. 
-• 
-Performed Manual Testing and created test cases including 
-Functional Test cases, Integration Test Cases and System Test 
-Cases. 
-• 
-Performed testing for the application and reported the defects 
-using QC tool. 
-• 
-Responsible for Sanity, Re-testing and Regression testing. 
-• 
-Validating changes made in DB (Backend) with Front 
-End Web Application 
-• 
-Testing the application in real-time and working with Agile Methods 
-• 
-Performed testing for the application and reported the defects using 
-JIRA Tool 
-• 
-Coordinating with the developers and QA to get the deliverable on track. 
- 
- 
- 
- 
-Project – 2: 
-Project Name: cd.co.in 
-Description: 
-The project purpose is testing the banking Application by using functional 
-testing methods and report the issues in development 
- 
-Description: 
-It is a web application which provides registered users to have more 
-secured banking possibilities and highly secured for transfer of funds from bank to 
-within and other banks. Here major catch of application is user can operate moving 
-to bank. The 
- 
-user gets notifications and alerts of transfer of funds to registered mobile and mail 
-address. In project we have provided multiple user options to use the account in 
-protected control manner which is done by the primary card/ account holder. 
- 
-Roles and responsibilities: As a Software Testing Engineer, I was involved 
-in the following activities 
-• 
-Performed manual Testing and created test cases including 
-Functional, system and compatibility. 
-• 
-Responsible for Sanity, Re-testing and Regression testing. 
-• 
-Validating changes made in DB (Backend) with Front 
-End Web Application 
-• 
-Testing the application in real-time and working with Agile Methods 
-• 
-Performed testing for the application and reported the defects using 
-JIRA Tool 
-• 
-Coordinating with the developers and QA to get the deliverable on track. 
- 
- 
-  Personal Profile 
- 
- 
- Gender 
-                                      - 
-Female 
-Husband’s Name 
--         C. Prakash 
-Nationality 
-- 
-Indian 
- 
- 
-I hereby declare that all the above details given by me are correct 
-and true according to my knowledge and belief. 
- 
- 
-Place: Chennai 
-Yours Sincerely, 
+RESUME
+
+Name: D. Infanta Glory
+Email id: infantaglory@gmail.com
+Mobile no: 9677107283
+
+Career 
+Objective
+
+To work in a challenging environment while adapting to new
+technologies and effectively contribute to the growth of the organization with
+my knowledge and skill.
+
+Technical 
+Skills
+
+Manual Testing:
+* Excellent in generating Scenarios/Test Cases.
+* Good knowledge about SDLC/STLC.
+* Good knowledge about V-model and waterfall model.
+* Involved in sanity testing in every build.
+* Involved in smoke testing in every test cycle.
+* Involved in re-testing and Regression testing.
+* Test cases execution and analyse results.
+* Good knowledge about Agile methodologies.
+* Good knowledge on Test plan and Test case Design Techniques.
+* Good knowledge about user Functional testing, Acceptance
+Testing, Unit Testing, System Testing, Integration Testing.
+* Good knowledge about Non functional Testing and User
+Acceptance Testing.
+
+Agile Methodologies:
+* Worked on agile methodology.
+* Involved in sprint planning.
+* Involved in scrum meeting.
+* Involved in sprint retrospective meeting.
+
+SELENIUM(AUTOMATION):
+* Expertise in selenium Web driver
+* Have work on identifying Dynamic Elements using X path.
+* Handling Web Elements.
+* Knowledge about chrome Browser and Mozilla Firefox.
+* Extensively involved in creating Test Scripts and Automated Test Cases.
+* Good Knowledge about AUTOIT.
+
+JAVA:
+* Good Knowledge about OOPS.
+* Good Knowledge about Abstraction.
+* Good Knowledge about Encapsulation.
+* Good Knowledge about Polymorphism.
+* Good Knowledge about Constructors and Arrays.
+
+TOOLS & 
+SKILLS
+:
+* Manual Testing Methodology
+* Test case template
+* Agile Methodology
+* Jira
+* Maven
+* Framework
+* Jenkins
+* Eclipse IDE.
+* TestNG
+* Selenium Web Driver
+* Github
+
+* SQL
+* Core Java
+
+Academic
+ Credentials
+*
+Completed Bachelor Degree in Electronics and communication
+Engineering from Sri Venkateshwara Institute of Science and
+Technology, Thiruvallur with 70.4% in the year of May 2016.
+Completed Higher Secondary 
+Education
+ from St. Helen's Girls
+Higher Secondary School, St. Thomas Mount with 81.6% in the
+year of Apirl 2012.
+Completed Secondary School 
+Education
+ from St. Helen's Girls
+Higher Secondary School, St. Thomas Mount with 83.8% in the
+year of April 2010.
+
+Certification:
+Completed Manual Testing and Automation Testing course from
+Qspiders Software Testing Institute.
+
+Professional 
+Summary
+
+2.7 years of 
+Experience
+ in Software Testing in IT sector. [Manual
+Testing and Automation Testing]
+MAKO IT LAB - Role of Quality Analyst from Jan 2017 to May 2019
+Currently work in Monospear Technologies Pvt. Ltd in the Role of Senior
+Quality Analyst from Jan 2022
+
+Project Details:
+Project - 1
+Project Name: ca.co.in
+ Description:
+This project is developed as the next generation development
+platform for online banking. It is more of a technology migration rather than
+functional charges. Along with technology migration there are few functional
+benefits that will be brought to the countries online banking systems i.e. To
+standardize online banking functionalities & look and feel across countries (to the
+
+extent possible) so the performance of online banking platform will be improved.
+Which might provide better customers 
+experience
+ as
+
+well. To increase the number of customers signing up for online banking through
+the online channel, thus reducing the amount of paperwork in the branch and to
+improve user 
+experience
+ and strengthen the overall connection with the bank's
+online service leading to repeated use and stickiness
+
+Role and Responsibilities: As a Software Testing Engineer, I was Involved
+in the following activities:
+Preparing and documenting the test conditions and test cases.
+Performed Manual Testing and created test cases including
+Functional Test cases, Integration Test Cases and System Test
+Cases.
+Performed testing for the application and reported the defects
+using QC tool.
+Responsible for Sanity, Re-testing and Regression testing.
+Validating changes made in DB (Backend) with Front
+End Web Application
+Testing the application in real-time and working with Agile Methods
+Performed testing for the application and reported the defects using
+JIRA Tool
+Coordinating with the developers and QA to get the deliverable on track.
+
+Project - 2:
+Project Name: cd.co.in
+The project purpose is testing the banking Application by using functional
+testing methods and report the issues in development
+
+It is a web application which provides registered users to have more
+
+secured banking possibilities and highly secured for transfer of funds from bank to
+within and other banks. Here major catch of application is user can operate moving
+to bank. The
+
+user gets notifications and alerts of transfer of funds to registered mobile and mail
+address. In project we have provided multiple user options to use the account in
+protected control manner which is done by the primary card/ account holder.
+
+Roles and responsibilities
+: As a Software Testing Engineer, I was involved
+in the following activities
+Functional, system and compatibility.
+
+Personal 
+Profile
+
+ Gender
+ -
+Female
+Husband's Name
+- C. Prakash
+Nationality
+Indian
+
+I hereby declare that all the above details given by me are correct
+and true according to my knowledge and belief.
+
+Place: Chennai
+Yours Sincerely,
 Date:

@@ -1,153 +1,104 @@
-Anilkumar Gubbala 
-IOS Developer 
-+91 9704968697 
-gubbala.anilkumar25@gmail.com 
- 
-SUMMARY 
- 
- 
- 
-• 
-I have 2 years of experience in IT , working as iOS Developer and User 
-Interface applications, integrating with various  Databases and Client-Server applications in 
-iPhone/iPad, iOS application development using  Swift, Cocoa Touch, UI Kit. 
- 
-• 
-2 years of  experience in iPhone &iPad application development and  
-Consuming REST Web Services and APIs. 
- 
-• 
-Proficient knowledge of Programming using Swift and good understanding of 
-Object Oriented Programming. 
- 
-• 
-Quick learner, excellent analytical, design and problem solving skills. 
- 
-• 
-Worked extensively on Xcode, Interface Builder and Instruments. 
- 
-• 
-Created and customised views, table views, tab bars and navigation bars which 
-are some basic functionality in a multi-view application. 
- 
-Frameworks:  UIKit. 
- 
-EDUCATION: 
- 
- 
-• 
- Degree from YBN university in 2020. 
- 
-• 
-diploma from DJR  college of engineering & technology in 2017 
- 
-WORK EXPERIENCE: 
-          
- 
-• 
-  Float Technology Solutions Private Limited April 2022 -  Present 
- 
-• 
-  Fusion Tech partners Feb 2021 to march 2022 
- 
-Project :- 1 
- 
-Title: Float Legal 
- 
-Role: iOS Developer 
- 
-Description: 
- 
-          Float Legal is a health domain application. It is USA product based application for attorney’s.  In 
-USA an accident occurs at any place the injured person will be contacting to lawyer. Then layer will be  
-legally processed to claim the insurance (vehicle / health) for recover his damage of vehicle and 
-himself.  This application helps to hold the attorneys details and there cases details and also 
-communicate with clients through this application. 
- 
-Responsibilities: 
- 
- 
-• 
-    Providing Support to the existed mobile Application. 
- 
-• 
-    Worked on Swift and Cocoa frameworks, X code and Storyboard for the 
-application at hand. 
- 
-• 
-    Used RESTFUL web services with JSON to download content from server. 
- 
-• 
-    Improve Speed and Functionality using Instruments and Analytics 
-Applications. 
- 
-• 
-    Improved response time for user by implementing NSOperations and created 
-dispatch queues using GCD for background tasks 
- 
-• 
-    Worked on developing the application that, it meets platform specific design 
-guidelines 
- 
-• 
-    Created custom Table Views and custom Table View Cells for user interface. 
- 
-• 
-    Localisation is implemented to view app  
- 
-• 
-    Designed UI effectively as per each user to identify the screen 
- 
-Environment: MAC OS X 10.11, Xcode -7.3, iOS 8.1 
- 
-Team Size: 3. 
- 
-Project :- 2 
- 
-Title: Float Care 
- 
-Role: iOS Developer 
- 
-Description: 
-       
-          Float Care is a health domain application  it is USA product based application for provider’s.  
-Here attorney  can refer the provider to the clients and also scheduled an appointment for his treatment.   
-This application helps to hold the  provider details and there cases details & appointments . And also 
-provider communicate with clients or attorney’s through this application 
-        
-  Responsibilities: 
- 
- 
-• 
-    Providing Support to the existed mobile Application 
- 
-• 
-    Worked on Swift and Cocoa frameworks, X code and Storyboard for the 
-application at hand 
- 
-• 
-    Used RESTFUL web services with JSON to download content from server 
- 
-• 
-    Improve Speed and Functionality using Instruments and Analytics 
-Applications. 
- 
-• 
-   Improved response time for user by implementing NSOperations and created 
-dispatch queues using GCD for background tasks 
- 
-• 
-   Worked on developing the application that, it meets platform specific design 
-guidelines 
- 
-• 
-   Created custom Table Views and custom Table View Cells for user interface. 
- 
-• 
-   Localisation is implemented to view app  
- 
-• 
-   Designed UI effectively as per each user to identify the screen     
-     
-Environment: MAC OS X 10.11, Xcode -7.3, iOS 8.1 
+Anilkumar Gubbala
+IOS Developer
++91 9704968697
+gubbala.anilkumar25@gmail.com
+
+SUMMARY
+
+*
+I have 2 years of 
+experience
+ in IT , working as iOS Developer and User
+Interface applications, integrating with various Databases and Client-Server applications in
+iPhone/iPad, iOS application development using Swift, Cocoa Touch, UI Kit.
+
+2 years of 
+experience
+ in iPhone &iPad application development and
+Consuming REST Web Services and APIs.
+
+Proficient knowledge of Programming using Swift and good understanding of
+Object Oriented Programming.
+
+Quick learner, excellent analytical, design and problem solving 
+skills
+.
+
+Worked extensively on Xcode, Interface Builder and Instruments.
+
+Created and customised views, table views, tab bars and navigation bars which
+are some basic functionality in a multi-view application.
+
+Frameworks: UIKit.
+
+EDUCATION
+:
+
+Degree from YBN university in 2020.
+
+diploma from DJR college of engineering & technology in 2017
+
+WORK 
+EXPERIENCE
+:
+
+Float Technology Solutions Private Limited April 2022 - Present
+
+Fusion Tech partners Feb 2021 to march 2022
+
+Project :- 1
+
+Title: Float Legal
+
+Role: iOS Developer
+
+Description:
+
+Float Legal is a health domain application. It is USA product based application for attorney's. In
+USA an accident occurs at any place the injured person will be contacting to lawyer. Then layer will be
+legally processed to claim the insurance (vehicle / health) for recover his damage of vehicle and
+himself. This application helps to hold the attorneys details and there cases details and also
+communicate with clients through this application.
+
+Responsibilities:
+
+Providing Support to the existed mobile Application.
+
+Worked on Swift and Cocoa frameworks, X code and Storyboard for the
+application at hand.
+
+Used RESTFUL web services with JSON to download content from server.
+
+Improve Speed and Functionality using Instruments and Analytics
+Applications.
+
+Improved response time for user by implementing NSOperations and created
+dispatch queues using GCD for background tasks
+
+Worked on developing the application that, it meets platform specific design
+guidelines
+
+Created custom Table Views and custom Table View Cells for user interface.
+
+Localisation is implemented to view app
+
+Designed UI effectively as per each user to identify the screen
+
+Environment: MAC OS X 10.11, Xcode -7.3, iOS 8.1
+
 Team Size: 3.
+
+Project :- 2
+
+Title: Float Care
+
+Float Care is a health domain application it is USA product based application for provider's.
+Here attorney can refer the provider to the clients and also scheduled an appointment for his treatment.
+This application helps to hold the provider details and there cases details & appointments . And also
+provider communicate with clients or attorney's through this application
+
+Providing Support to the existed mobile Application
+
+application at hand
+
+Used RESTFUL web services with JSON to download content from server

@@ -1,225 +1,179 @@
-ARUN KUMAR K 
+ARUN KUMAR K
+
+Mobile : +91 7010740257, 8489000307
+Email Id : arun.kumarasamy07.gmail.com
+
+CAREER 
+OBJECTIVE
+
+To be associate with an organization that emboldens my 
+skills
+ and abilities for the
+progress of the firm and to establish myself as a reliable resource for the organization.
+
+EXPERIENCE
  
-Mobile  : +91 7010740257, 8489000307 
-Email Id : arun.kumarasamy07.gmail.com 
- 
-CAREER OBJECTIVE 
- 
-To be associate with an organization that emboldens my skills and abilities for the 
-progress of the firm and to establish myself as a reliable resource for the organization. 
- 
-EXPERIENCE SUMMARY 
- 
-   3 years of experience in web development application in .Net technologies. 
-   Key areas worked ASP.NET, C#, ADO.NET, ASP.NET MVC, SQL SERVER, HTML, CSS. 
-   Ability to think independently and learn rapidly. 
-   Good analytical ability and leadership. 
- 
-PROFESSIONAL SUMMARY 
- 
- Working as a Software engineer in SourceHOV Pvt. Ltd. (Now Part of EXELA 
-TECHNOLOGIES), Guindy, Chennai. [From Jan 2016 – till date]. 
- Good knowledge in ASP.NET, C#, ADO.NET, ASP.NET MVC, SQL SERVER, HTML, CSS. 
- Ability to work well in both team environment and Individual environment. 
- 
-EDUCATION 
- 
-Class/Course 
-Name Of The 
-Institution 
+SUMMARY
+
+ 3 years of 
+experience
+ in web development application in .Net technologies.
+ Key areas worked ASP.NET, C#, ADO.NET, ASP.NET MVC, SQL SERVER, HTML, CSS.
+ Ability to think independently and learn rapidly.
+ Good analytical ability and leadership.
+
+PROFESSIONAL 
+SUMMARY
+
+ Working as a Software engineer in SourceHOV Pvt. Ltd. (Now Part of EXELA
+TECHNOLOGIES), Guindy, Chennai. [From Jan 2016 - till date].
+ Good knowledge in ASP.NET, C#, ADO.NET, ASP.NET MVC, SQL SERVER, HTML, CSS.
+ Ability to work well in both team environment and Individual environment.
+
+EDUCATION
+
+Class/Course
+Name Of The
+Institution
 University/B
-oard 
-Year Of 
-Passing 
-Marks Obtained 
-In % 
-M.E 
-COMPUTER 
-SCIENCE 
-Vidyaa Vikas College of 
-Engineering 
-Technology 
-Anna 
-University 
-2014 
-78 
-B.Tech 
-INFORMATION 
-TECHNOLOGY 
-Nandha Engineering 
-College, Erode 
-Anna 
-University 
-2012 
-72.6 
-HSC 
-Veveaham Higher 
-Secondary 
-School,Dharapuram 
-State Board 
-2008 
-80.3 
-SSLC 
-J.R.C Higher Secondary 
-School,Kothayam 
-State Board 
-2006 
-75 
- 
- 
- 
- 
- 
- 
- 
-TECHNICAL SKILLS 
- 
- Languages 
-: 
-C#. 
- Operating Systems 
-: 
-Windows XP, Windows 7. 
- Dot Net 
-Technologies 
-: 
-ASP.NET, ADO.NET, Web Services  
- Database 
-: 
-SQL Server 2008 
- Others 
-: 
-MSOffice 
- 
- 
-PROJECTS 
- 
-Description  
- 
-The Aim of this project is to validate fields of different kinds of forms. For eg. 
-Healthcare (HCFA Forms), Union Billing (UB Forms), Dental, Invoice Forms, etc. This 
-product mainly developed for validating each and every fields in the forms. With the 
-help of KomodoFCB Rule Manager, Bussiness rules will be created as per the customer 
-requirement which will be in the syntax of 
- 
-If.. then.. else. 
- 
-Responsibilities 
- 
+oard
+Year Of
+Passing
+Marks Obtained
+In %
+M.E
+COMPUTER
+SCIENCE
+Vidyaa Vikas College of
+Engineering
+Technology
+Anna
+University
+2014
+78
+B.Tech
+INFORMATION
+Nandha Engineering
+College, Erode
+2012
+72.6
+HSC
+Veveaham Higher
+Secondary
+School,Dharapuram
+State Board
+2008
+80.3
+SSLC
+J.R.C Higher Secondary
+School,Kothayam
+2006
+75
+
+TECHNICAL 
+SKILLS
+
  
-Playing role as Developer. 
- 
-Creating new functions for the business rules. 
- 
-Supporting configuration level issues. 
- 
-PROJECTS: 
- 
-PROJECT #1 
- 
-Description 
-Project Title 
-: 
-KomodoFCB Rule & Lookup Manager 
-Client Name 
-: 
-SourceHOV 
-Period 
-: 
-Jan 2016 to Dec 2016 
-Role 
-: 
-Developer 
-Technology Used & application 
-type 
-: 
-Asp.net, C#, SQL & Windows application. 
- 
-Description 
- 
-The created business rules will be invoked using the Web Services in another 
-application. Pre and Post validations will be there. Both validations will perform 
-separately in other applications by calling our Service URL. 
- 
-Responsibilities 
- 
- Developing the Web Service to support the functions by other applications 
-created in the Rule & Lookup Manager. 
- 
-Enhancements to perform the business rules faster in background. 
- 
- 
-PROJECT #2 
- 
-Description 
-Project Title 
-: 
-KomodoFCB BR Engine 
-Client Name 
-: 
-SourceHOV 
-Period 
-: 
-Jan 2017 to Present 
-Role 
-: 
-Developer and Maintenance. 
-Technology Used & 
-application type 
-: 
-Asp.net, C# & Web Services. 
- 
- 
-OTHER PROJECTS 
- 
-PROJECT #1 
- 
- 
-Project Title 
-: 
-     BCBSNC 
-Client Name 
-: 
-     Blue Cross and Blue Shield of North Carolina 
-Period 
-: 
-      April 2016 to till date 
-Role 
-: 
-Developer 
- 
-Description  
- 
-Mailroom will pick up from POBox Prep, Sort and scan documents. The scanned 
-document will be received in incoming location. OCR based doc identification will 
-be done. The batches will further be moved to E-sort application to sort the 
-documents. After sorting the document, a batch will be prepared and loaded into 
-the database. Batches will be downloaded to India for data capture. After 
-completion of Data capture, batches will move to US environment and post 
-process of reject, ANSI conversion, and collating of 837 file will be done. Images 
-will be submitted to DocDNA, 837 will be submitted to customer specified 
-location. 
- 
-PERSONAL PROFILE 
- 
- Name  
- 
-:    Arun kumar K 
- Date of Birth  
-:    15-05-1990 
- Father name  
-:     Mr. Kumarasamy K 
- Mother name  
-:     Mrs.Mayilathal K 
- 
-Declaration  
- 
-                 I do hereby declare that the above statements mentioned are true to the best 
-of my knowledge and belief.  
- 
- 
- 
- 
- 
- 
-                                                    Arunkumar K
+Languages
+
+:
+C#.
+ Operating Systems
+Windows XP, Windows 7.
+ Dot Net
+Technologies
+ASP.NET, ADO.NET, Web Services
+ Database
+SQL Server 2008
+ Others
+MSOffice
+
+PROJECTS
+
+Description
+
+The Aim of this project is to validate fields of different kinds of forms. For eg.
+Healthcare (HCFA Forms), Union Billing (UB Forms), Dental, Invoice Forms, etc. This
+product mainly developed for validating each and every fields in the forms. With the
+help of KomodoFCB Rule Manager, Bussiness rules will be created as per the customer
+requirement which will be in the syntax of
+
+If.. then.. else.
+
+Responsibilities
+
+
+Playing role as Developer.
+Creating new functions for the business rules.
+Supporting configuration level issues.
+
+PROJECTS
+:
+
+PROJECT #1
+
+Project Title
+KomodoFCB Rule & Lookup Manager
+Client Name
+SourceHOV
+Period
+Jan 2016 to Dec 2016
+Role
+Developer
+Technology Used & application
+type
+Asp.net, C#, SQL & Windows application.
+
+The created business rules will be invoked using the Web Services in another
+application. Pre and Post validations will be there. Both validations will perform
+separately in other applications by calling our Service URL.
+
+ Developing the Web Service to support the functions by other applications
+created in the Rule & Lookup Manager.
+Enhancements to perform the business rules faster in background.
+
+PROJECT #2
+
+KomodoFCB BR Engine
+Jan 2017 to Present
+Developer and Maintenance.
+Technology Used &
+application type
+Asp.net, C# & Web Services.
+
+OTHER 
+PROJECTS
+
+ BCBSNC
+Blue Cross and Blue Shield of North Carolina
+April 2016 to till date
+
+Mailroom will pick up from POBox Prep, Sort and scan documents. The scanned
+document will be received in incoming location. OCR based doc identification will
+be done. The batches will further be moved to E-sort application to sort the
+documents. After sorting the document, a batch will be prepared and loaded into
+the database. Batches will be downloaded to India for data capture. After
+completion of Data capture, batches will move to US environment and post
+process of reject, ANSI conversion, and collating of 837 file will be done. Images
+will be submitted to DocDNA, 837 will be submitted to customer specified
+location.
+
+PERSONAL 
+PROFILE
+
+ Name
+
+: Arun kumar K
+ Date of Birth
+: 15-05-1990
+ Father name
+: Mr. Kumarasamy K
+ Mother name
+: Mrs.Mayilathal K
+
+Declaration
+
+I do hereby declare that the above statements mentioned are true to the best
+of my knowledge and belief.
+
+Arunkumar K

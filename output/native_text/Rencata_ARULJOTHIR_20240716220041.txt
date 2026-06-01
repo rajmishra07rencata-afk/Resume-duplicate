@@ -1,69 +1,69 @@
-ARULJOTHI R 
-Quick Learner 
- 
-aruljothi1111@gmail.com 
+ARULJOTHI R
+Quick Learner
+
+aruljothi1111@gmail.com
 +91-7904259419
-CAREER OBJECTIVE 
-To obtain a position where, I utilize my skills for the growth of the company and to build my career 
-with challenging and creative set of environments. 
-EXPERIENCE 
-Techlivz software development pvt ltd – Web developer 
-DEC 2019 - PRESENT 
- Having 3 years of hands-on experience in Angular which includes HTML, CSS, JavaScript. 
- Working as an independent developer in start-up company handled different scenarios. 
- Easily able to turn UI/UX design into interactive responsive code.  
- Familiar with Angular material, semantic UI and bootstrap. 
-TECHNICAL SKILLS 
- 
- 
- 
- 
- 
- 
- 
-PROJECT DETAILS 
-1)  VIPSLINE 
-Role 
- 
- 
-: Web Developer 
-Organization  
-: Techlivz software development pvt ltd 
-Tools  
- 
-: Angular, HTML, CSS, JavaScript. 
-Description:   
-             Vipsline is a Salon Booking website (POS), which has both customer booking website and 
-partners website as separate. In this customer able to book salon appointments and partners able to 
-handle those appointments. Working in both websites in parallel to deliver the best product. 
-Scripting Language 
-JavaScript, jQuery, Angular, TypeScript 
-Web Technologies 
-HTML, CSS, Bootstrap, Semantic UI 
-Database 
-MySQL 
-Java Technologies  
-Core Java & Spring boot 
-IDE Tools/Tools 
-Git, VS code 
-Cloud 
-Basic knowledge on AWS, Microsoft Azure 
-Roles and Responsibilities: 
- 
-Had complete responsibility to convert UI/UX into responsive code and integration with Rest 
-Api’s. 
- 
-Working as an independent developer handled different critical scenarios. 
- 
-Working in Angular 6 familiar with angular materials and NPM packages. 
- 
-Having some knowledge on GIT. 
-EDUCATIONAL QUALIFICATION 
- 
-Bachelor of Engineering in Electronics and communication (7.8 CGPA), 2020 from Sri 
-Venkateswara college of engineering in Sriperumbudur. 
-Declaration 
-I hereby declare that the above mentioned information is accurate to the best of my knowledge. 
- 
-Date: 
+CAREER 
+OBJECTIVE
+
+To obtain a position where, I utilize my 
+skills
+ for the growth of the company and to build my career
+with challenging and creative set of environments.
+
+EXPERIENCE
+
+Techlivz software development pvt ltd - Web developer
+DEC 2019 - PRESENT
+ Having 3 years of hands-on 
+experience
+ in Angular which includes HTML, CSS, JavaScript.
+ Working as an independent developer in start-up company handled different scenarios.
+ Easily able to turn UI/UX design into interactive responsive code.
+ Familiar with Angular material, semantic UI and bootstrap.
+TECHNICAL 
+SKILLS
+
+PROJECT DETAILS
+1) VIPSLINE
+Role
+
+: Web Developer
+Organization
+: Techlivz software development pvt ltd
+Tools
+
+: Angular, HTML, CSS, JavaScript.
+Description:
+Vipsline is a Salon Booking website (POS), which has both customer booking website and
+partners website as separate. In this customer able to book salon appointments and partners able to
+handle those appointments. Working in both websites in parallel to deliver the best product.
+Scripting Language
+JavaScript, jQuery, Angular, TypeScript
+Web Technologies
+HTML, CSS, Bootstrap, Semantic UI
+Database
+MySQL
+Java Technologies
+Core Java & Spring boot
+IDE Tools/Tools
+Git, VS code
+Cloud
+Basic knowledge on AWS, Microsoft Azure
+
+Roles and Responsibilities
+:
+
+Had complete responsibility to convert UI/UX into responsive code and integration with Rest
+Api's.
+Working as an independent developer handled different critical scenarios.
+Working in Angular 6 familiar with angular materials and NPM packages.
+Having some knowledge on GIT.
+EDUCATIONAL QUALIFICATION
+Bachelor of Engineering in Electronics and communication (7.8 CGPA), 2020 from Sri
+Venkateswara college of engineering in Sriperumbudur.
+Declaration
+I hereby declare that the above mentioned information is accurate to the best of my knowledge.
+
+Date:
 Place: Chennai

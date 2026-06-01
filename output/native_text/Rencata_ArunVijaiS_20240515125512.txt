@@ -1,57 +1,102 @@
-M.C.A with around 8+ Years of experience in Software development in Web & Windows platform, built Design Patterns, been a Scrum  Master and implemented Agile.
+Arun Vijai S
+Page 1 of 1
+
+Experience
+ 
+Summary
+ M.C.A with around 8+ Years of 
+experience
+ in Software development in Web & Windows platform, built Design Patterns, been a Scrum Master and implemented Agile.
+Work 
+Summary
 
 Expertise in Finance, Travel, Healthcare, Image Processing and Automobile domains.
-Versatile experience in Fixed Cost/Time Projects, JIRA, SOLID principles and DB optimization.
+Versatile 
+experience
+ in Fixed Cost/Time 
+Projects
+, JIRA, SOLID principles and DB optimization.
 Used Agile Methodologies, Scrum Meetings, Project Plan, Estimation, Resource Planning, Task Allocation, Client Communication, API Certification, Sync Offshore and Onsite team
+Professional 
+Experience
 
+Worked as Software Dev Analyst for Paladin Software, Bangalore - Nov '19-Jan'20
+Worked as Project Lead Pranas Technologies, Coimbatore - Oct 17 to Jun 19
+Worked as Sr. Software Engineer for L&T Technology Services, Bengaluru-Jul '14-Sep'17.
+Worked as Sr. Software Engineer for SAI Innovation, Coimbatore - Jan '14 - Jun '14.
+Worked as Sr. Software Engineer for Pathfinder Business Analysis - Dec'11 to Jan'14
+Educational Qualification & 
+Certifications
 
-Worked as Software Dev Analyst for Paladin Software, Bangalore – Nov ’19-Jan’20
-Worked as Project Lead Pranas Technologies, Coimbatore – Oct 17 to Jun 19
-Worked as Sr. Software Engineer for L&T Technology Services, Bengaluru-Jul ’14-Sep’17.
-Worked as Sr. Software Engineer for SAI Innovation, Coimbatore – Jan ’14 – Jun ‘14.
-Worked as Sr. Software Engineer for Pathfinder Business Analysis – Dec‘11 to Jan‘14
+Qualification | Institute | Percentage | Year
+MCA | Sankara College of Science and Commerce, Coimbatore | 68.5% | 2001
+B.Sc Mathematics | PSG College of Arts & Science, Coimbatore | 66.0% | 1997
+H.S.C | Mani Higher Sec School, CBE | 83.5% | 1994S.S.L.C | MHSS, Coimbatore | 85.2% | 1992
+Development Tools | Microsoft Visual Studio 2015/17, Infragistics and Telerik
 
+Languages
+ & Technologies | C#, ASP.Net, .Net Core, MVC WebAPI, angular JS, MVVM & Entity Framework
+Version Control/PMS | SVN, TFS, JIRA, Perforce, Team City and Tortoise Workbench
+Other Tools | Docker, Autofac, Automapper, Bower, Nuget, GIT
+Technical 
+Skills
 
-
-
-
-
-
-
-
+Project Details
 Project 1:
-
-
-
-
-
+Project Name | Loan Management | Duration | From Nov 19
+Team Size | 14
+Description | The PoS Portal is used by private finance offices in US to process their loans and their related artifacts like Interest, Principal, Tax Rules. The types of loans with their respective terms and payment calculations , loan statements based on users, stores and customer were automated.
+Role | Coding, Testing, Communication, and Documentation of Process
+Technologies | C# ,MVC, .Net Core, web api, Visual Studio 2017,angular JS, Entity Framework
+Tools | Perforce, Team City and JIRA
 Project 2:
-
-
-
+Project Name | isPACS with AWS | Duration | Jun 19 - Nov 19
+Team Size | 10
+Description | isPACS is a medical imaging technology which processes scanned images received from modalities ( scan devices), in DICOM format into HL7. The data is transferred to servers and stored and processed further by various client. Advanced Workflow services is one such client, where the radiologists analyze the exam of the patient in first read and second read phases viewing the image in various angles and mark their review as normal/abnormal or repeat. The referring physician confirms on it.
+Role | Team Lead, Coding, Communication, and Documentation of Process
+Technologies | C# , .Net Core, WPF, SQL Server
+Tools | TFS, VS 2015, open fire, rhapsody
 Project 3:
-
-
-
-
-
+Project Name | Online Travel Portal | Duration | Oct '17 -Jun 19
+Team Size | 5
+Description | This is a Travel Management product to search, book, ticket, cancel the tickets for flights, hotel, cars, cruises with holiday packages. The product has different modules like B2B, B2C and B2E. The features are to be customized based on the requirement. The product uses various flight and hotel APIs like Sabre, TravelPort, Hotelbeds
+Role | As a Project Lead have to develop APIs ,do requirement Gathering, Coding, PMP, Estimation, Client Communication, and Delivery
+Technologies | C# , MVC Web API, angular JS ,Entity Framework
+Tools | VS 2013, VSS, Fluent, auto mapper, AutoFac, JIRA and SQL Server
 Project 4:
+Project Name | RM Tool | Duration | Aug 16 - May 17
+Description | The tool aims to facilitate the user in easily identifying the over allocated resources in a project. The data in MS Project file are read by the tool and further processed to display periodically and resource based information and highlighting the over allocated resources over a period.
+Technologies | C# , angular JS, AutoMapper, Autofac, bower, fluentvalidation
+Tools | TFS, VS 2015
 
+Personal Information
 
-      
+Date of Birth: 27 May 1977
+Fathers Name: Sivadas
+Marital Status: Married
 
+Languages
+: English, Tamil & Hindi
+Address: #M251, VOC Nagar, Ganapathy, Coimbatore 641006
+Mobile : 96208 96405
+Email: arunvijaisivadas@gmail.com
 
-
-Date of Birth		: 27 May 1977
+Experience
  
-Fathers Name	: Sivadas
+Summary
 
-Marital Status	: Married
+Work 
+Summary
 
-Languages		: English, Tamil & Hindi
+Professional 
+Experience
 
-Address		: #M251, VOC Nagar, Ganapathy, Coimbatore 641006
+Educational Qualification & 
+Certifications
 
-Mobile 		: 96208 96405 
+Technical 
+Skills
 
-Email			: arunvijaisivadas@gmail.com
+Project Details
+
+Personal Information

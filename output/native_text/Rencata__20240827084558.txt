@@ -1,33 +1,47 @@
 Skills
+
 Experience
+
 EDWARDS Lifesciences
 1/2/2019
 CARDIAC SCIENCE LCAED SERVER Device management software
 NBCUniversal Campus
+
 Projects
+
 ASP .NET
 MVC
 Web API
 SQL Server
 1/6/2018 - 1/1/2019
 1/4/2017 - 1/6/2015
-A technical writer who has gained some experience with companies often provides job training to newer writers.
+A technical writer who has gained some 
+experience
+ with companies often provides job 
+training
+ to newer writers.
 And, technical writers work with many different groups of people while developing content.
-A part of this training involves creating technical documents based on guidelines that the senior writers develop
-according to ongoing technical documents’ needs.
+A part of this 
+training
+ involves creating technical documents based on guidelines that the senior writers develop
+according to ongoing technical documents' needs.
 The guidelines themselves are an essential part of how technical writers work at their company. Depending on
 the hierarchy, they may also lead the company to create better, more efficient guidelines for future technical
-writers’ work efforts.
+writers' work efforts.
 Additionally, the content guidelines for any business need updating alongside changing business goals and
 requirements.
 Senior technical content strategists are the point people to better develop new guidelines to reflect new business
 goals as central technical communicators.
-If you’re interested in learning more about the technical writing skills, roles, and path to landing your dream
+If you're interested in learning more about the technical writing 
+skills
+, roles, and path to landing your dream
 technical writing job, then check out our Technical Writing Certification Course.
 TEST CONFIDENCE SCORE
 TCSD@gmail.com
 Phone: 1543334679
+
 Education
+
 Degree
 College
 Year
@@ -37,20 +51,24 @@ BCA
 Sree Ragavendra Arts &
 Science Collage Chidambaram
 Writing for the more technology-oriented technical areas is like any other form of industry-based writing. The only difference is
-the requirement for tech-savvy individuals in the writer’s position.
+the requirement for tech-savvy individuals in the writer's position.
 The computer science and information technology sector places writers within the systems design and analysis field. These
 writers are often closer to the system than most technical writers are to the subject they are writing on. This is because they
 take a deep dive into the system to articulate its specifics clearly. Most technical writers may not need to engage scientific and
 technical products so immediately.
 CS/IT writers are prime examples of content developers who can transform extremely complex industry jargon into
 understandable content for the masses.
-An example is Microsoft’s product description writers, who simplify their language to the point where people can still
+An example is Microsoft's product description writers, who simplify their language to the point where people can still
 understand the product without much software knowledge.
 Technical writers in computers and IT have a technical skill requirement that includes:
 Proven expertise with the systems
-Thorough understanding of computer science concepts along with some experience in IT systems administration
+Thorough understanding of computer science concepts along with some 
+experience
+ in IT systems administration
 Knowledge of the corporate IT sector and how modern companies leverage technology
 An ability to prepare technical material for both students and administrators
-Some experience in writing on CS/IT subjects either during the educational process or subsequent internships
+Some 
+experience
+ in writing on CS/IT subjects either during the educational process or subsequent internships
 Writing in computer science requires someone who has either worked directly as part of an IT department or has taken an
 eLearning course on how to write for the industry.

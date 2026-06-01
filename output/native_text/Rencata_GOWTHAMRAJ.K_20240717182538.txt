@@ -1,8 +1,8 @@
-GOWTHAM RAJ. K 	 			      Phone No : +91 6382767783.________                                             
-Oracle Plsql Developer		                  Email : gowthamraj.k1617@gmail.com 
-
-PROFESSIONAL SUMMARY:
-
+GOWTHAM RAJ. K Phone No : +91 6382767783.________
+Oracle Plsql Developer Email : gowthamraj.k1617@gmail.com
+PROFESSIONAL 
+SUMMARY
+:
 Competent Oracle PL/SQL Database Developer with a successful career spanning 4.2 years.
 Well-versed in the utilization of ORACLE 11g/12c developer tools for software development.
 Incident Resolution: In a 24/7 production support environment.
@@ -12,7 +12,9 @@ I am proficient in managing database tables using DDL operations like create, al
 Involved in using of DCL and TCL operations.
 I am well-versed in performing to create, alter and use database objects such as Tables, Constraints, number functions and Group functions .
 Tracking and analyzing the daily progress of tasks related to resolving various challenges and importing data.
-I am skilled in SQL languages SQL plus commands, Date function, Character function and Null function.
+I am skilled in SQL 
+languages
+ SQL plus commands, Date function, Character function and Null function.
 I possess extensive expertise in crafting intricate SQL queries that leverage various advanced functionalities such as Set operators, Aggregate functions, and Analytical functions etc.
 Utilized SQL loader to synchronize data between Flat files and the database tables,ensuring consistency and accuracy.
 Employing the Joins operation like Inner join, Outer joins, Self join,Cross joins etc. To retrieve data from multiple tables.
@@ -22,26 +24,26 @@ Expertly utilized the advanced capabilities of PL/SQL, such as Records, Collecti
 Developed complex queries like Stored procedures, Function and Packages for recursive usage.
 Utilized SQL Loader to efficiently ingest data from diverse flat files acquired from multiple facilities on a daily basis.
 I utilized the UTL file package and Bulk collect to efficiently load data from external files into my database.
-WORK EXPERIENCE:
-
-Working in Capella Infotech Solutions, Chennai from  Nov-2019 to till date as Senior Software Engineer.   
-
-TECHNICAL SKILLS:
-
-Operating Systems: Windows, UNIX 
+WORK 
+EXPERIENCE
+:
+Working in Capella Infotech Solutions, Chennai from Nov-2019 to till date as Senior Software Engineer.
+TECHNICAL 
+SKILLS
+:
+Operating Systems: Windows, UNIX
 Development Tools: SQL, PLSQL, UNIX
 Database: Oracle (11g, 12 c)
 Database Tools: SQL DEVELOPER, TOAD, SQL PLUS.
 PROJECT DETAILS:
-
 PROJECT-1:
 Company Name: Capella Infotech Solution
 Client: Barclays
 Designation: Oracle PL/SQL DEVELOPER
 Duration: June 2021 to Till date
 
-ROLES AND RESPONSIBILITIES: 
-
+ROLES AND RESPONSIBILITIES
+:
 Grasping the demands of our Internal Business Users.
 Created and implemented Database Schemas, Cursors and Triggers as part of the software development process.
 I have proficiently leveraged the advanced features of PL/SQL, such as utilizing Collections effectively and implementing Dynamic SQL.
@@ -49,53 +51,49 @@ Implemented Index optimization strategies to expedite data retrieval and bolster
 Monitored performance and changed performance requirements through application of Database tuning and performance optimization techniques.
 worked on packages using oracle tools like TOAD and SQLPLUS.
 Developing advanced PL/SQL Packages, Procedures, and Functions that cater to the complex and nuanced business requirements of the application.
-Experience with Performance Tuning for Oracle  using Explain Plan.
+
+Experience
+ with Performance Tuning for Oracle using Explain Plan.
 Creating PLSQL scripts to extract the data from the operational database into simple flat text files using UTL_FILE Package.
 Worked on Bulk Collect for better performance in reducing context switching between SQL and PL/SQL engines.
 Handled error using Exception Handling to display the error messages in the application.
 Involved in generating Explain Plan to check the cost of the query.
 Creating Dynamic SQL using Pragma Autonomous transaction to avoid mutating problem in database trigger
-I have Experience using Materialized view to execute query results.
+I have 
+Experience
+ using Materialized view to execute query results.
 Work with the advanced features of PL/SQL like collections, ref cursors and external tables.
 Utilize industry-standard tools, such as Oracle Forms and Report Builder, to proficiently develop PL/SQL database objects, reports, and forms, adhering to best practices and established conventions in the field.
-PROJECT DETAILS:
-
-PROJECT-2: 
-Company Name: Capella Infotech Solution
+PROJECT-2:
 Client: Northern Trust
-Designation: Oracle  SQL DEVELOPER
-Duration: Nov 2019 to Jun 2021 
-
-ROLES AND RESPONSIBILITIES:
-
-I have good knowledge  on DML operations like insert,update,delete and merge.
+Designation: Oracle SQL DEVELOPER
+Duration: Nov 2019 to Jun 2021
+I have good knowledge on DML operations like insert,update,delete and merge.
 Worked on the DDL operations like create, alter, truncate, drop and rename on the database tables.
 Involved in creation of Indexes to decrease the number of validations in the database.
 Performed Joins operation like inner join, outer joins, cross joins etc. to fetch the data from multiple tables.
 Involved in using of Subqueries like single row, multiple row etc., to increase the performance of the query.
 I have good knowledge in Views, Constraints and Sequence.
 I have written Logical Operators, Relational Operators and Group Functions.
-Involved in  using of Set Operators,Case and Decode.
+Involved in using of Set Operators,Case and Decode.
 Worked on Pseudo Columns and Null Functions.
 Involved in using of Materialized Views for better performances.
 I have created Synonyms and private Synonyms for tables to give access
 Data loads are been performed by using the sql loader, imports & utl files based on file formats.
 EDUCATIONAL QULIFICATION:
-PG: MBA (FM) 2013 – 56% Bharathiyar University, Coimbatore.
-UG:  BCOM (CA)  2010 – 57%  GOBI Arts and Science College, Gobi.
- 
-PERSONAL PROFILE:
-
-
+PG: MBA (FM) 2013 - 56% Bharathiyar University, Coimbatore.
+UG: BCOM (CA) 2010 - 57% GOBI Arts and Science College, Gobi.
+PERSONAL 
+PROFILE
+:
 NAME: Gowtham raj K
-FATHER’S NAME: Kanagaraj K
+FATHER'S NAME: Kanagaraj K
 GENDER: Male
-DATE OF BIRTH: 16/10/1989 
-LANGUAGES KNOWN: Tamil and English.
+DATE OF BIRTH: 16/10/1989
 
+LANGUAGES
+ KNOWN: Tamil and English.
 DECLARATION:
-
-	I hereby declare that all the statements made above are true to the best of my knowledge and belief.
-
-Place: Chennai.                                                                               GOWTHAM RAJ K
+I hereby declare that all the statements made above are true to the best of my knowledge and belief.
+Place: Chennai. GOWTHAM RAJ K
 Date:

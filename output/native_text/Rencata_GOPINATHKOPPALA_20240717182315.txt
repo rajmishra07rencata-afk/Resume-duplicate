@@ -1,74 +1,61 @@
-GOPINATH REDDY KOPPALA
+Professional 
+Experience
+:
 
+Projects
+ 
+Profile
+:
+Project 2:
+Project 4:
+GOPINATH REDDY KOPPALA
 18Th
 H.No: 33/11,
 Street, Nehru Colony,
-
-Palavanthangal, Chennai – 600114, Mobile: +91 9700172320
+Palavanthangal, Chennai - 600114, Mobile: +91 9700172320
 E mail: gopi11922@gmail.com
-
-
-
-
-Professional Summary:
-
-Having +9 years of extensive experience in design, development and implementation of software applications using Microsoft Technologies ASP.Net Core, MVC, C#.Net, Windows/Web Services, Web API, SQL Server, Entity Framework and LINQ.
+Professional 
+Summary
+:
+Having +9 years of extensive 
+experience
+ in design, development and implementation of software applications using Microsoft Technologies ASP.Net Core, MVC, C#.Net, Windows/Web Services, Web API, SQL Server, Entity Framework and LINQ.
 Exposure on all the phases of Software development life cycle which includes Requirement Study, Analysis, Design, Development and Integration
-Development skills in ASP.Net Core, MVC, Web API, C#.Net, ADO.Net, Entity Framework, HTML, XML, JavaScript, jQuery, Ajax, IIS, SQL Server, LINQ and Json.
+Development 
+skills
+ in ASP.Net Core, MVC, Web API, C#.Net, ADO.Net, Entity Framework, HTML, XML, JavaScript, jQuery, Ajax, IIS, SQL Server, LINQ and Json.
 Expertise in designing and developing databases using MS SQL Server Database Programming with Stored Procedures, Functions, Views, Triggers on SQL server, implementation of Database connectivity using ADO.Net.
 Experienced in all activities of Deployment of the web application on various hosting servers.
-
 Experienced in Ajax application implementations.
-
 Capable of providing timely solutions for technical/logical issues.
-
 Willing to walk extra mile to achieve excellence.
-
-
 Working as Assistant Technical Lead in Rencata, Chennai from 25th February 2022 to till date.
-
 Worked as Assistant Manager - Systems in Blue Dart Aviation Limited, Hyderabad from June 2006 to 24th February 2022.
 
-Education:
-
+Education
+:
 B.Sc. (Information Technology) from Sikkim Manipal University, Sikkim in 2004 with 58.00%.
-
 Intermediate in A.P.S.W.R Junior College, Chittoor (District), A.P in 2000 with 64.80%.
-
 SSC in Z.P. High School, Chittoor (District), A.P in 1998 - 60.50%.
-
-
-
-Technical Skills:
-
-Programming Languages	: C#.Net
-
-Technologies			      :  Asp.Net Core, MVC, Web API, EF, Windows/Web Services, C#.Net, 
-                                                            ADO.Net, LINQ
-
-Front-end Technologies	: HTML, CSS, Bootstrap
-
-Data Accessing Technologies	: ADO.Net, LINQ to SQL, Entity Framework
-
-Scripting Technologies	: JavaScript, jQuery
-
-Databases	: SQL Server 2008 R2+
-
-Operating System	: Windows and MAC
-
-Source Controls	: TFS, GIT
-
-Unit Testing	: MS Unit Test
-
+Technical 
+Skills
+:
+Programming 
+Languages
+: C#.Net
+Technologies : Asp.Net Core, MVC, Web API, EF, Windows/Web Services, C#.Net,
+ADO.Net, LINQ
+Front-end Technologies: HTML, CSS, Bootstrap
+Data Accessing Technologies: ADO.Net, LINQ to SQL, Entity Framework
+Scripting Technologies: JavaScript, jQuery
+Databases: SQL Server 2008 R2+
+Operating System: Windows and MAC
+Source Controls: TFS, GIT
+Unit Testing: MS Unit Test
 Project 1:
-
-
-Title	: CHL
-Environment	: ASP.NET MVC, C#.NET, Web API, JSON, jQuery, SQL Server 2017, Azure
-
-
+Title: CHL
+Environment: ASP.NET MVC, C#.NET, Web API, JSON, jQuery, SQL Server 2017, Azure
 Description:
-
 This is a Web based and multi tenant application.
 This helps to validate loan eligibility.
 Third party service integration
@@ -76,138 +63,67 @@ Loan rate lock submission against product.
 LTV, CLTV & DTI calculation handled based on the client requirement.
 Auto mail service integrated in loan service.
 File management and generation (PDF, XML, XLSX,..)
-
 Roles & Responsibilities:
-
-	This tool is used for handling all the stages of Mortgage loan capture and various report generated for customer analysis purpose and maintained in software. 
-	Analysis the task, Review the code and team co-ordination.
-	Designing the UI using HTML controls and developed the front-end using C#.Net and Asp.Net
-	Used SQL Server 2017 for Database Design.
-	Creating the tables, stored procedures and functions in back end with SQL Server 2017. 
-	Providing solutions during development to teams involved. 
-	Participating in team discussion, Planning and software development.
-	Overall Unit Testing, Integration Testing and Debugging.
-	
-
-Title	: Load and Trim
-Environment	: ASP.NET MVC, C#.NET, ADO.Net, JQuery, Ajax, Bootstrap, SQL Server 2017
-
-Description:
-
-Load and Trim application is used by Blue Dart Aviation Ltd. – India to maintain the aircraft balance. Based on the cargo loading position and weight, aircraft Center of Gravity will change. This CG should be within the limit as per the guidelines given by Boeing (Manufacturer).
-
+This tool is used for handling all the stages of Mortgage loan capture and various report generated for customer analysis purpose and maintained in software.
+Analysis the task, Review the code and team co-ordination.
+Designing the UI using HTML controls and developed the front-end using C#.Net and Asp.Net
+Used SQL Server 2017 for Database Design.
+Creating the tables, stored procedures and functions in back end with SQL Server 2017.
+Providing solutions during development to teams involved.
+Participating in team discussion, Planning and software development.
+Overall Unit Testing, Integration Testing and Debugging.
+Title: Load and Trim
+Environment: ASP.NET MVC, C#.NET, ADO.Net, JQuery, Ajax, Bootstrap, SQL Server 2017
+Load and Trim application is used by Blue Dart Aviation Ltd. - India to maintain the aircraft balance. Based on the cargo loading position and weight, aircraft Center of Gravity will change. This CG should be within the limit as per the guidelines given by Boeing (Manufacturer).
 All the validations implemented to balance the Aircraft as per the safety guidelines.
-
-	User can generate the reports like Pilot Master, CPM, LDM, Loading instructions and Load Sheet to Commander as per the format given by DGCA.
+User can generate the reports like Pilot Master, CPM, LDM, Loading instructions and Load Sheet to Commander as per the format given by DGCA.
 This application is tested and approved by Director General of Civil Aviation - India.
-
-Roles & Responsibilities:
-
 Developed entire application independently.
-
 Designing the UI using HTML, Bootstrap and Asp.Net MVC.
 .
 Reports created by using RDLC.
-
-Used SQL Server 2017 for Database Design.
-
-Creating the tables, stored procedures and functions in back end with SQL Server 2017.
-
-Providing solutions during development to teams involved.
-
 Over all Unit Testing and Unit test case created using NUnit Test case, Integration Testing and Debugging.
-
 Implementation and Support.
-
-
-Title	: e-Gate Pass
-Environment	: ASP.NET MVC, C#.NET, JQuery, Ajax, Bootstrap, SQL Server 2017
-
-
-Description:
-
+Title: e-Gate Pass
+Environment: ASP.NET MVC, C#.NET, JQuery, Ajax, Bootstrap, SQL Server 2017
 ate Pass application is used to prepare a gate pass for all the items which is sending to the vendor or other locations within Blue Dart Aviation Ltd.
-
 Various approval process implemented in this application.
-
 E-Mail alert provided against each approval process.
-
 Each gate pass transaction needs to follow the approval process as designed by the administrator.
-
 Each department/location can easily monitor outward/inward items status.
-
-User can generate various reports like Gate Pass status, Gate Pass Pending, Returnable/non- returnable, Summary and Gate Pass Pending reports against each department/location.
-
-Roles & Responsibilities:
-
-Designing the UI using HTML, Bootstrap and Asp.Net MVC.
-.
-Reports created by using RDLC.
-
-Used SQL Server 2017 for Database Design.
-
-Creating the tables, stored procedures and functions in back end with SQL Server 2017.
-
-Providing solutions during development to teams involved.
-
-Implementation and Support.
-
-
-Title	: Airline Type Rating Programme (ATRP)
-Environment	: ASP.NET, C#.NET, Entity Framework, JQuery, Ajax, SQL Server 2008
-
-Description:
-
-This Airline Type Rating Programme application developed for Blue Dart Aviation Ltd. - Flight Operations Training Department to conduct online examinations for Aircraft Commander and First Officers under Director General of Civil Aviation – India vigilance. After successful completion of this exam, commander/first officer can apply for their License.
-
+User can generate various reports like Gate Pass status, Gate Pass Pending, Returnable/non- returnable, 
+Summary
+ and Gate Pass Pending reports against each department/location.
+Title: Airline Type Rating Programme (ATRP)
+Environment: ASP.NET, C#.NET, Entity Framework, JQuery, Ajax, SQL Server 2008
+This Airline Type Rating Programme application developed for Blue Dart Aviation Ltd. - Flight Operations 
+Training
+ Department to conduct online examinations for Aircraft Commander and First Officers under Director General of Civil Aviation - India vigilance. After successful completion of this exam, commander/first officer can apply for their License.
 System MAC based validation provided to avoid unauthorized access.
-
 Administrator can monitor, which are all the desktops are having access to the application.
-
-	Administration can generate various reports like Exam Certificate, Tokens Report, Question Bank, User Reports and Exam Completion/Pending/Status Reports.
-This application is tested and approved by Director General of Civil Aviation - India.
-
-
-
-Roles & Responsibilities:
-
+Administration can generate various reports like Exam Certificate, Tokens Report, Question Bank, User Reports and Exam Completion/Pending/Status Reports.
 Designing the UI using HTML and Asp.Net.
-
 Report created using RDLC.
-
 Creating the tables, stored procedures and functions in back end with SQL Server 2008.
-
-Providing solutions during development to teams involved.
-
 Overall Unit Testing and Unit test case created using NUnit Test case, Integration Testing and Debugging.
-Awards:
+
+Awards
+:
 Received prestigious Employee of the Year award in 2020 from Blue Dart Aviation Limited, Chennai.
-
 Received Employee of the Year nominee award in 2019 from Blue Dart Aviation Limited, Chennai.
-
 Received Super Darter award in 2016 from Blue Dart Aviation Limited, Chennai for developing Airline Type Rating Programme application, which is approved by Director General of Civil Aviation (DGCA).
 Received Employee of the Year nominee award in 2011 from Blue Dart Aviation Limited, Hyderabad.
-
-
-
-Personal Profile:
-
-Name	:	Gopinath Reddy Koppala
-
-Father Name	:	Ramachandra Reddy K
-
-Mother Name	:	Subbamma K
-
-Date of Birth	:	04th June 1982
-Gender	:	Male
-
-Marital Status	:	Married
-
-Nationality	:	Indian
-
-Ready to Relocate	:	Yes
-
-Passport Number	:	M1072368
-
-Permanent Address	:	12-34, Koppalavari Palle,
+Personal 
+Profile
+:
+Name:Gopinath Reddy Koppala
+Father Name:Ramachandra Reddy K
+Mother Name:Subbamma K
+Date of Birth:04th June 1982
+Gender:Male
+Marital Status:Married
+Nationality:Indian
+Ready to Relocate:Yes
+Passport Number:M1072368
+Permanent Address:12-34, Koppalavari Palle,
 Kukkaraju Palle(Post), Thamballa Pallet(Mandal), Chittoor(District), Andhrapradesh - 517297

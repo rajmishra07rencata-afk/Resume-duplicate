@@ -1,13 +1,15 @@
 ARAVINDHAN S
-       SENIOR TEST ENGINEER
+SENIOR TEST ENGINEER
 Looking for an opportunity where I can focus on a challenging
 career in an organization which gives me a scope to update
 knowledge in every step. I must prove myself as a good team
 member and perform my duties with best abilities to deal with
-as many projects try my level best to get success.
+as many 
+projects
+ try my level best to get success.
 P R O F I L E
-P R O F E S S I O N A L  S U M M A R Y
-  Working as a Senior Test
+P R O F E S I O N A L S U M A R Y
+Working as a Senior Test
 Engineer in HCL Technologies
 from Aug 2018 to present.
 Core Java
@@ -22,60 +24,78 @@ Maven
 JIRA
 Jenkins
 API
-      (Postman & Rest Assured)
+(Postman & Rest Assured)
 +91 - 8838568429
 aravindhan9928@gmail.com
-         Chennai
+ Chennai
 C O N T A C T
 E D U C A T I O N
 KSR College of Engineering
 Bachelor of Mechanical
 Engineering
 2013 - 2017
-E X P E R I E N C E
-S K I L L S
-Having 5.5 years of IT experience in Manual, Automation
+E X P E R I E N C ES K I L S
+Having 5.5 years of IT 
+experience
+ in Manual, Automation
 and API Testing.
-Strong Experience in Automating Web Application Testing
-using Selenium WebDriver.  
+Strong 
+Experience
+ in Automating Web Application Testing
+using Selenium WebDriver.
 Expertise in Executing Selenium Test Cases and Reporting
-defects for regression automation suite. 
+defects for regression automation suite.
 Having good knowledge in JDBC Connection by writing
-SQL query to get the data from database. Good experience
+SQL query to get the data from database. Good 
+experience
+
 in following Page object Model designing approach and
 Page factory along with all its annotations, also followed
 singleton design pattern approach for page classes using
 page object manager which will be created in Test classes.
 Strong understanding of the SDLC and Agile-Scrum
 software development life cycles.
-Having good experience in Junit Framework and its
-annotations, Assertions. 
-Strong experience in annotations of TestNG, groupings,
+Having good 
+experience
+ in Junit Framework and its
+annotations, Assertions.
+Strong 
+experience
+ in annotations of TestNG, groupings,
 data-providers, parameterization, assertions and executing
 test cases using parallel browser and also re-execute the
-failed test cases and Data provider concepts.  
-Strong Experience in BDD Cucumber framework in
+failed test cases and Data provider concepts.
+Strong 
+Experience
+ in BDD Cucumber framework in
 Feature file, Step definition, Data tables and with
 cucumber tags and Hooks.
-Extensive Experience in Agile Methodologies and Scrum
-Processes, participating in Sprint meetings. 
+Extensive 
+Experience
+ in Agile Methodologies and Scrum
+Processes, participating in Sprint meetings.
 Proficient in using basic SQL queries to perform back end
 testing for data integrity.
 Smart professional with proven troubleshooting and
 debugging capabilities for resolving complex technical
 issues.
-Good experience in API testing performing GET, POST,
+Good 
+experience
+ in API testing performing GET, POST,
 PUT and DELETE functionalities in Postman and executed
 with Run Collection and having good knowledge in API
 Rest assured.
+
 CURRENT PROJECT: Diy.com
 Domain: E-Commerce
 Description:
-      Since 1969, B&Q have been helping customers in the UK create better homes and gardens. Find out
+Since 1969, B&Q have been helping customers in the UK create better homes and gardens. Find out
 more about B&Q, our parent company and why we are the largest home improvement and garden centre
-retailer in Europe. UK’s leading home improvement and garden living retailer, every year we help more than
+retailer in Europe. UK's leading home improvement and garden living retailer, every year we help more than
 20 million people to improve their homes and make life better.
-Roles and Responsibilities :
+
+Roles and Responsibilities
+ :
 Design, develop, and maintain complex and scalable automated test scripts. Architect and enhance
 automation frameworks to support advanced testing scenarios.
 Mentor and guide junior automation testers, conducting knowledge sharing sessions.
@@ -83,23 +103,27 @@ Analyze test coverage and recommend improvements to test suites. Participate in 
 reviews to ensure high-quality automation code. Execute automated tests and provide detailed analysis
 of test results.
 The automation testing was developed using Cucumber framework, POJO Class, POM, Data Driven.
-Prepare reusable methods to improve productivity and maintainability. 
+Prepare reusable methods to improve productivity and maintainability.
 Updating daily status on calls & Involved in Scrum ceremonies.
-Good Experience in Resolving conflicts and Involved in Push, Pull, Merge the source code from GIT.
+Good 
+Experience
+ in Resolving conflicts and Involved in Push, Pull, Merge the source code from GIT.
 Followed Agile/Scrum Methodologies for all of the project activities. Execution of API testing using
 POSTMAN.
 Performed the testing using GET, POST, PUT and DELETE functionalities in Postman and executed with
 Run Collection
-Identify areas where automation can enhance efficiency and effectiveness. Attend training to enhance
-automation skills.
+Identify areas where automation can enhance efficiency and effectiveness. Attend 
+training
+ to enhance
+automation 
+skills
+.
 PREVIOUS PROJECT: Lakeland Bank
 Domain: Banking
-Description:
-        Lakeland Bank is the wholly-owned subsidiary of Lakeland Bancorp, Inc. (NASDAQ:LBAI), which has
+Lakeland Bank is the wholly-owned subsidiary of Lakeland Bancorp, Inc. (NASDAQ:LBAI), which has
 over $10 billion in total assets. With an extensive branch network and commercial lending centers
 throughout New Jersey and Highland Mills, N.Y., the Bank continues to build on its infrastructure of
 financial strength, profitability, efficiency and quality service as it moves into the future.
-Roles and Responsibilities :
 Involved in Test Plan, design and deriving test data and creating and reviewing peers testcases and
 Executed the test cases.
 After test case execution, Bugs are raised in JIRA.
@@ -107,11 +131,11 @@ Preparing Defect Report and assigning the defects to developer to fix the defect
 Retesting the cases where defect has been raised and update the status.
 Used Maven to build and run the Selenium automation framework using TestNG.
 Involved in testing the application utilizing the Scrum (Agile)methodology.
-Participated in the all-Agile ceremonies – Sprint planning, daily Scrum meeting, Sprint review and Sprint
+Participated in the all-Agile ceremonies - Sprint planning, daily Scrum meeting, Sprint review and Sprint
 retrospective and Defects reporting and daily status report.
 Interaction with clients like giving demo and Prepare weekly status reports.
 Raise and track defects until closure and Re-test resolved defects.
 Declaration :
 I hereby declare that the information furnished above is true to the best of my knowledge.
 Place: Chennai
-Date:                                                                                                                              (ARAVINDHAN S )
+Date: (ARAVINDHAN S )

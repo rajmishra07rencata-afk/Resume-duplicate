@@ -1,223 +1,197 @@
-Chandru M 
-AMBUR TK, THIRUPATHUR District, 
-TN 635811. 
-8015060081 
-chandrumanoharan81@gmail.com 
- 
-Profile 
-I am passionate to develop reliable software service 
-with a 3 years of experience on efficient database 
-designing, performance optimization, unit & Integration 
-testing and maintaining documentation of application 
-releases and delivery. 
- 
-Skills 
- 
- 
-SQL: PostgreSQL, MySQL 
- 
-NOSQL: Elastic Search, Kibana, Logstash 
- 
-Programming: Java, Python 
- 
-Web Technology: HTML, CSS, Java Script 
- 
-Frameworks: React JS 
-Professional Experience 
-Senior Data Engineer 
-VINSINFO Pvt Ltd., Chennai 
-● Good Understanding on Business 
-Requirement 
-● Specialized in Stored Procedure/ User defined 
-functions 
-● Writing Stored Procedure for Android 
-application, Web Application and SASS. 
-● Integration of data from source to destination 
-using script 
-● Query Optimization and performing tuning 
-through indexing of tables. 
-● Creating partition table, fine tuning auto 
-Vaccum settings and Upgrade SQL version 
-on deprecation. 
-● Worked on Elastic Search for querying 
-ecommerce Data from Index and continuous 
-Integration from database to Elastic search 
-index using Logstash. 
-● Elastic search Query formation for 
-ecommerce search and retrieving filters. 
-Projects 
-Ecommerce Solution:               JAN 2022- Present 
-Team Size: 10 - 15 
- 
-Manage various business application and 
-integration application solution with 
-ecommerce platforms like Big Commerce, 
-Magento and Shopify. 
- 
-I was responsible for designing and 
-implementing the various database schemas. 
- 
-Writing optimistic SQL query with Store 
-Procedure or User Defined Function. 
- 
-Creating pipeline with ELK Stack for reliable 
-and customized searching experience. 
-Ecommerce Filter App: 
-Technology used: Elastic search, PostgreSQL, 
-Stored Procedure 
-Application provides ecommerce product filtering, 
-product search, suggestion and listing product 
-page. 
- 
-I am responsible for developing product 
-search, suggestion using Elastic Search 
- 
-Managing index settings and mappings on 
-Elastic Search. 
- 
-Writing DSL query of terms, query string, 
-aggregation and custom analyzer on index 
-settings. 
- 
-Monitoring cluster health of elastic search 
-index on Kibana 
- 
-Syncing Data from Database to elastic search 
-through Logstash configuration file with input, 
-filters and output. 
-Ecommerce Bopis App: 
-Technology used: PostgreSQL, Stored Procedure 
-Buy online or pick up in store on ecommerce. It 
-helps to buy online product and also pick up the 
-available product with available date time on 
-different store. 
- 
-I am responsible for manage inventory stocks 
-and warehouse stocks based different store 
-locations. 
- 
-Creating dashboard for store location and 
-warehouse stock levels, orders count 
- 
-Adding functionality for listing orders with 
-search on various parameter. 
-Ecommerce Auction App: 
-Technology used: PostgreSQL 
-It helps the ecommerce to show case the auction 
-products where customer can place bid and 
-managing auction products and approving bid 
- 
-I am responsible for deactivating expired 
-auctions. 
- 
-Managing Auction products and bid approval. 
- 
- 
-Ecommerce Bundle App: 
-Technology used: PostgreSQL 
-It helps the ecommerce to show case the product 
-as bundle and kits, where can buy product as 
-bundle and managing bundle or kits 
- 
-I am responsible for listing bundled orders. 
- 
-Managing list of product as bundle or kits with 
-bundle settings. 
-Ecommerce Integration: 
-Technology used: MySQl, PostgreSQL 
- 
-Integration of data from source system to 
-destination system 
- 
-I am responsible for defining intermediate 
-schema to extract and store data 
- 
-Transform the source data and manage to the 
-intermediate schema 
- 
-Loading the intermediate data to destination 
-system. 
-Navidok Mobile Application:  MAR 2021-DEC 2022 
-Team Size: 7 
-Technology used: PostgreSQL, Stored 
-Procedure, ReactJs 
-Application provides a social connection within 
-marine industry among ship owner, dock owner, 
-shipyards owner and supplier of ships 
-component, whereas ship owner navigate on sea 
-routes, get quotation of ship component from 
-various supplier on nearest dock. 
- 
-I am responsible for search functionality to get 
-nearby dock place based on lnautical miles. 
- 
-Manage vendor and their credit amount to 
-show their advertisement on user search with 
-respective location. 
- 
-Generating quotation for required paint or 
-anode calculation with respective ship size. 
- 
-Import functionality to manage ship details 
-and location details. 
-Go Wall: 
-Technology used: PostgreSQL, Stored Procedure 
-Web Application provides internal meeting of 
-organization, taking notes, duplicating meeting 
-with notes and draggable notes. 
- I am responsible for swapping the notes while 
-dragging 
- Creating copy of meeting with respective 
-notes. 
-Beagle Bay: 
-Technology used: PostgreSQL, Stored Procedure 
-This is the site reservation managing site 
-developed to book the available sites for the 
-campground. It includes both customer and 
-admin sections. The Module includes about 
-booking, reservations, check-in and check-out 
-process of the booked customers and also 
-maintaining the payment process while checkout. 
-Internal tools and Achievement 
-Technology used: Java Spring Boot, Themeleaf, 
-python, Flask 
- 
-Import Manager: Import details using excel file to 
-destination table which maps the header with 
-respective column. 
- 
-Excel Merger: Collect and Merge multiple excel 
-into single excel file removing duplicate based on 
-product SKU and Generate excel file based on 
-desired product SKU list.  
- 
-Sync Validator: List the all ES temp table with 
-respective ES temp table 
-Open Projects: 
-Technology used: HTML, CSS, JS 
- 
-Doggy Doggy: 
-https://chandrugokul.github.io/doggy/ 
- 
- 
-Pnkfarms: 
-https://chandrugokul.github.io/pnkfarms/ 
- 
- 
-Bulk Order Generator: 
-https://github.com/chandrugokul 
- 
-Education 
-Adhiyamaan College Of Engineering, Hosur TN 
- B.E Computer Science 8.41 CGPA 
-National Higher Secondary School, Gudiyatham, 
-Vellore 
- HSC - 81%  
- SSLC - 95% 
- 
-Declaration 
-I, hereby declare that all the information furnished 
-herein are true and correct to the best of my 
-knowledge. 
- 
+Chandru M
+AMBUR TK, THIRUPATHUR District,
+TN 635811.
+8015060081
+chandrumanoharan81@gmail.com
+
+Profile
+
+I am passionate to develop reliable software service
+with a 3 years of 
+experience
+ on efficient database
+designing, performance optimization, unit & Integration
+testing and maintaining documentation of application
+releases and delivery.
+
+Skills
+
+
+SQL: PostgreSQL, MySQL
+NOSQL: Elastic Search, Kibana, Logstash
+Programming: Java, Python
+Web Technology: HTML, CSS, Java Script
+Frameworks: React JS
+Professional 
+Experience
+
+Senior Data Engineer
+VINSINFO Pvt Ltd., Chennai
+● Good Understanding on Business
+Requirement
+● Specialized in Stored Procedure/ User defined
+functions
+● Writing Stored Procedure for Android
+application, Web Application and SASS.
+● Integration of data from source to destination
+using script
+● Query Optimization and performing tuning
+through indexing of tables.
+● Creating partition table, fine tuning auto
+Vaccum settings and Upgrade SQL version
+on deprecation.
+● Worked on Elastic Search for querying
+ecommerce Data from Index and continuous
+Integration from database to Elastic search
+index using Logstash.
+● Elastic search Query formation for
+ecommerce search and retrieving filters.
+
+Projects
+
+Ecommerce Solution: JAN 2022- Present
+Team Size: 10 - 15
+Manage various business application and
+integration application solution with
+ecommerce platforms like Big Commerce,
+Magento and Shopify.
+I was responsible for designing and
+implementing the various database schemas.
+Writing optimistic SQL query with Store
+Procedure or User Defined Function.
+Creating pipeline with ELK Stack for reliable
+and customized searching 
+experience
+.
+Ecommerce Filter App:
+Technology used: Elastic search, PostgreSQL,
+Stored Procedure
+Application provides ecommerce product filtering,
+product search, suggestion and listing product
+page.
+I am responsible for developing product
+search, suggestion using Elastic Search
+Managing index settings and mappings on
+Elastic Search.
+Writing DSL query of terms, query string,
+aggregation and custom analyzer on index
+settings.
+Monitoring cluster health of elastic search
+index on Kibana
+Syncing Data from Database to elastic search
+through Logstash configuration file with input,
+filters and output.
+Ecommerce Bopis App:
+Technology used: PostgreSQL, Stored Procedure
+Buy online or pick up in store on ecommerce. It
+helps to buy online product and also pick up the
+available product with available date time on
+different store.
+I am responsible for manage inventory stocks
+and warehouse stocks based different store
+locations.
+Creating dashboard for store location and
+warehouse stock levels, orders count
+Adding functionality for listing orders with
+search on various parameter.
+Ecommerce Auction App:
+Technology used: PostgreSQL
+It helps the ecommerce to show case the auction
+products where customer can place bid and
+managing auction products and approving bid
+I am responsible for deactivating expired
+auctions.
+Managing Auction products and bid approval.
+
+Ecommerce Bundle App:
+It helps the ecommerce to show case the product
+as bundle and kits, where can buy product as
+bundle and managing bundle or kits
+I am responsible for listing bundled orders.
+Managing list of product as bundle or kits with
+bundle settings.
+Ecommerce Integration:
+Technology used: MySQl, PostgreSQL
+Integration of data from source system to
+destination system
+I am responsible for defining intermediate
+schema to extract and store data
+Transform the source data and manage to the
+intermediate schema
+Loading the intermediate data to destination
+system.
+Navidok Mobile Application: MAR 2021-DEC 2022
+Team Size: 7
+Technology used: PostgreSQL, Stored
+Procedure, ReactJs
+Application provides a social connection within
+marine industry among ship owner, dock owner,
+shipyards owner and supplier of ships
+component, whereas ship owner navigate on sea
+routes, get quotation of ship component from
+various supplier on nearest dock.
+I am responsible for search functionality to get
+nearby dock place based on lnautical miles.
+Manage vendor and their credit amount to
+show their advertisement on user search with
+respective location.
+Generating quotation for required paint or
+anode calculation with respective ship size.
+Import functionality to manage ship details
+and location details.
+Go Wall:
+Web Application provides internal meeting of
+organization, taking notes, duplicating meeting
+with notes and draggable notes.
+ I am responsible for swapping the notes while
+dragging
+ Creating copy of meeting with respective
+notes.
+Beagle Bay:
+This is the site reservation managing site
+developed to book the available sites for the
+campground. It includes both customer and
+admin sections. The Module includes about
+booking, reservations, check-in and check-out
+process of the booked customers and also
+maintaining the payment process while checkout.
+Internal tools and Achievement
+Technology used: Java Spring Boot, Themeleaf,
+python, Flask
+Import Manager: Import details using excel file to
+destination table which maps the header with
+respective column.
+Excel Merger: Collect and Merge multiple excel
+into single excel file removing duplicate based on
+product SKU and Generate excel file based on
+desired product SKU list.
+Sync Validator: List the all ES temp table with
+respective ES temp table
+Open 
+Projects
+:
+Technology used: HTML, CSS, JS
+Doggy:
+https://chandrugokul.github.io/doggy/
+
+Pnkfarms:
+https://chandrugokul.github.io/pnkfarms/
+
+Bulk Order Generator:
+https://github.com/chandrugokul
+
+Education
+
+Adhiyamaan College Of Engineering, Hosur TN
+ B.E Computer Science 8.41 CGPA
+National Higher Secondary School, Gudiyatham,
+Vellore
+ HSC - 81%
+ SSLC - 95%
+
+Declaration
+I, hereby declare that all the information furnished
+herein are true and correct to the best of my
+knowledge.
+
 [Chandru M]

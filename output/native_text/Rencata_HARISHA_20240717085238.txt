@@ -1,119 +1,101 @@
-HARISH.A 
-Phone : +91 8608295032 
-Email : harish069999@gmail.com 
-Current Location: Chennai, India. 
- 
- 
- 
-Career Summary 
- 
-Overall 1.2+ years of experience in IT Industry.
- 
-I have been working in Production Support in Unix platform as a L2-Support in the 
+HARISH.A
+Phone : +91 8608295032
+Email : harish069999@gmail.com
+Current Location: Chennai, India.
+
+Career 
+Summary
+
+
+Overall 1.2+ years of 
+experience
+ in IT Industry.
+I have been working in Production Support in Unix platform as a L2-Support in the
 domain of core banking solution (CBS).
- 
-Hands-on experience Production, Test and Business copy server’s environments.
- 
-Hands-on experience in Production support for Bancs 24 CBS applications.
- 
-Handling various issues and fixing bugs related during EOD and SOD process for NABARD 
+Hands-on 
+experience
+ Production, Test and Business copy server's environments.
+Hands-on 
+experience
+ in Production support for Bancs 24 CBS applications.
+Handling various issues and fixing bugs related during EOD and SOD process for NABARD
 Banks.
- 
 Maintenance and Enhancement of Bancs24 core banking Applications.
- 
 Good Knowledge in Unix and Linux.
- 
 Export and Import loading data using SQL*Loader.
- 
 Scheduling Jobs and writing scripts in UNIX
- 
 Backend Report generation and Maintenance in Unix using Sqlplus to connect database.
- 
 Report sends through client server through FTP and SFTP.
- 
-Ability to support and maintain good support with the clients and Handling Issues of 
-Clients  within SLA.
-Technical Skills 
-Operations System : Windows server, Linux, and Unix 
-Tools 
-: Putty, Core-FTP and WinSCP 
+Ability to support and maintain good support with the clients and Handling Issues of
+Clients within SLA.
+Technical 
+Skills
+
+Operations System : Windows server, Linux, and Unix
+Tools
+: Putty, Core-FTP and WinSCP
+Domain
+: Banking Domain
 Domain 
-: Banking Domain 
-Domain Skills 
-: Production Support. 
- 
-Professional Experience 
-Company: Core Integra Consulting Services Pvt ltd. 
-#1 PROJECT: Customization and Implementation of BANCS 24 
-Client 
-: NABARD – District Central Co-operative Bank, PSCB, TNSCB and TAICO BANK. 
-Duration 
-: JUN-2022 to Till Date. 
-Designation: System Analyst 
-Module 
-: Production support. 
-Location 
-: Chennai. 
- 
-Description 
-Maintenance and customization of the banking software – TCS Bancs24 (Bank Automation & 
-Network Control System) for the implementation of the application in more than 1000+ branches 
-and 24 zones located all over Tamil Nadu and Pondicherry. 
-Responsibilities 
- 
-Hands-on experience Production, Test and Business copy server’s environments.
- 
-Hands-on experience in Production support for Bancs 24 CBS applications.
- 
-Handling various issues and fixing bugs arises during EOD and SOD process for NABARD 
-Banks.
- 
-Maintenance and Enhancement of Bancs24 core banking Applications.
- 
-Good Knowledge in Unix and Linux.
- 
-Export and Import loading data using SQL*Loader.
- 
+Skills
+
+: Production Support.
+
+Professional 
+Experience
+
+Company: Core Integra Consulting Services Pvt ltd.
+#1 PROJECT: Customization and Implementation of BANCS 24
+Client
+: NABARD - District Central Co-operative Bank, PSCB, TNSCB and TAICO BANK.
+Duration
+: JUN-2022 to Till Date.
+Designation: System Analyst
+Module
+Location
+: Chennai.
+
+Description
+Maintenance and customization of the banking software - TCS Bancs24 (Bank Automation &
+Network Control System) for the implementation of the application in more than 1000+ branches
+and 24 zones located all over Tamil Nadu and Pondicherry.
+Responsibilities
+Handling various issues and fixing bugs arises during EOD and SOD process for NABARD
+
 Scheduling Jobs and writing scripts in UNIX commands.
- 
-Backend Report generation and Maintenance in Unix using Sqlplus to connect database.
- 
 Sending reports to client server through FTP and SFTP.
- 
 Production support for Bancs and END OF THE DAY (EOD) activities
- 
 Production support for Bancs and START OF THE DAY (SOD) activities.
- 
 Importing and exporting backups to generate backdated reports.
- 
-Support production deployment activities and perform root-cause analysis of any issues 
+Support production deployment activities and perform root-cause analysis of any issues
 that arise post-deployment and provide quick solutions & fixes.
- 
 Handling various issues and fixing bugs related to EOD process.
- 
-Ability to support and maintain good rapport with the clients and Handling Issues of Clients 
+Ability to support and maintain good rapport with the clients and Handling Issues of Clients
 within SLA.
- 
 Good working knowledge in UNIX commands to send branch reports through SFTP.
+
  
-             Training: 
-          Certification 
+Training
+:
+ Certification
+
+Certificate Program in ADJP (Diploma in JAVA Programming).
  
- 
-Certificate Program in ADJP (Diploma in JAVA Programming).  
-            Education 
- 
-BE Computer Science and Engineering in Sri Manakula vinayagar Engineering college, Pondicherry 
-(Overall 7.9\10 CGPA) – 2021. 
- 
-HSC in Alpha Matric Higher Sec School-Pondicherry (69.8%) – 2017. 
- 
-SSLC in Petit Seminare Higher Sec School-Pondicherry (81.2%) – 2015. 
- 
-            Personal Profile 
- Father’s Name  :Ayyappan.D  
- Mother’s Name: Vidhyavadhi.G 
- Marital Status   : Un-Married  
- Languages         : English, Tamil                                                 
- DOB                     : 06.09.1999 
-          Nationality        : Indian.
+Education
+
+BE Computer Science and Engineering in Sri Manakula vinayagar Engineering college, Pondicherry
+(Overall 7.9\10 CGPA) - 2021.
+HSC in Alpha Matric Higher Sec School-Pondicherry (69.8%) - 2017.
+SSLC in Petit Seminare Higher Sec School-Pondicherry (81.2%) - 2015.
+
+Personal 
+Profile
+
+Father's Name :Ayyappan.D
+Mother's Name: Vidhyavadhi.G
+Marital Status : Un-Married
+
+Languages
+ : English, Tamil
+DOB : 06.09.1999
+Nationality : Indian.

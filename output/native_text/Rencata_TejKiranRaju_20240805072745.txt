@@ -1,55 +1,49 @@
 CURRICULUM VITAE
+K. Tej Kiran RajuEmail: tejkiran.k@gmail.comPhone: +91-9848563633
+CAREER 
+OBJECTIVE
 
-K. Tej Kiran Raju
-Email: tejkiran.k@gmail.com
-Phone: +91-9848563633
-	
-
-CAREER OBJECTIVE 
-                   
-To work in a challenging environment that will provide opportunities for learning, growth and at the same time enhance my knowledge and develop my communication & technical skills.
+To work in a challenging environment that will provide opportunities for learning, growth and at the same time enhance my knowledge and develop my communication & technical 
+skills
+.
 
 SUMMARY
+
 Installation and Upgradation of NMS applications , SolarWinds and Everest.
-configuration, management of SolarWinds Modules like NPM, NCM, SAM, and WPM 
-Strong technical qualifications primarily in IT Operations, Systems & Network Administration and Infrastructure Support. 
-Experience in Network set-up & Management, System Administration including Server Implementation & Administration, Disaster Recovery Management, Technology Support Scripting and Technical troubleshooting.
+configuration, management of SolarWinds Modules like NPM, NCM, SAM, and WPM
+Strong technical qualifications primarily in IT Operations, Systems & Network Administration and Infrastructure Support.
+
+Experience
+ in Network set-up & Management, System Administration including Server Implementation & Administration, Disaster Recovery Management, Technology Support Scripting and Technical troubleshooting.
 Working knowledge on Linux, Huawei, HP & Cisco L3 switches, Data Centre management.
 Installation and Upgradation of NMS applications, SolarWinds and Everest.
-Good communication, analytical, troubleshooting, technical & multitasking skills with good team spirit 
+Good communication, analytical, troubleshooting, technical & multitasking 
+skills
+ with good team spirit
 Functioned in ISP domain
 Skilled in areas like Change Management, Problem Management related Documentation.
-
-PROFESSIONAL EXPERIENCE:
-
-Hexaware Technologies, Chennai   
-                                                                         July 2022-Present 
-Role : Senior Technical Analyst 
-Project : Integrated Digital Monitoring 
-Client: Domestic and General 
+PROFESSIONAL 
+EXPERIENCE
+:
+Hexaware Technologies, Chennai
+July 2022-Present
+Role : Senior Technical Analyst
+Project : Integrated Digital Monitoring
+Client: Domestic and General
 Location: United Kingdom (UK)
-
-
 Responsibilities :
-
-Installation and Upgradation of Solar winds Modules like NPM, NCM, SAM, and WPM 
+Installation and Upgradation of Solar winds Modules like NPM, NCM, SAM, and WPM
 Expertise in Monitoring devices including servers and switches, Creating Reports and scheduling according to business requirement, Configuring Alerts
 Creating custom views for users. User access and permission management.
 Creating alerts to notify responsible departments in the event of issues related to their systems.
-Creating and monitoring  the journey’s via WPM
-
-
-Atria Convergence Technologies, Hyderabad                               		                                     Feb 2021 – May 2022
+Creating and monitoring the journey's via WPM
+Atria Convergence Technologies, Hyderabad Feb 2021 - May 2022
 Role: Senior Engineer-Network Monitoring System
- 
 Responsibilities:
-
 Installation and Upgradation of NMS applications whenever necessary.
 Expertise in Monitoring devices including servers and switches, Creating Reports and scheduling according to business requirement, Configuring Alerts.
 Basic understanding of Orion SAM and subsequent alerts mapping.
 Troubleshooting errors and configuration issues on all monitoring devices in the network.
-Creating alerts to notify responsible departments in the event of issues related to their systems.
-Creating custom views for users. User access and permission management.
 Working closely with other departments to provide them with current and historical statistics on their environments.
 Creating custom SQL reports.
 Managing Network devices through NCM.
@@ -61,17 +55,15 @@ Have knowledge on installation & configuration of CISCO-NCS-5501-SE Cisco-ME3600
 Have knowledge on configuring 802.1QinQ protocol on layer 3 devices
 Have knowledge on implementing of layer 2 technologies such as STP, VLAN Trunks, Ether channel, LACP,
 Have Knowledge on TCP/IP Model, Routing protocols, Switching, ACL, HSRP.
-
 Monitoring Tools: SolarWinds NPM, NCM and SAM; Check_MK; Everest
-
-Survey Sampling Hyderabad PVT. LTD                                	                       Mar 2017 – 31st Jan 2021
+Survey Sampling Hyderabad PVT. LTD Mar 2017 - 31st Jan 2021
 Role: System Support Specialist
-
-Responsibilities:
-As System Support Specialist of the Survey Sampling Network Operations Center (NOC), we are responsible for managing and maintaining all critical infrastructure systems and platforms that support the Global Tech Support 24x7 Operations. 
+As System Support Specialist of the Survey Sampling Network Operations Center (NOC), we are responsible for managing and maintaining all critical infrastructure systems and platforms that support the Global Tech Support 24x7 Operations.
 As a NOC Senior Analyst, need to create Monthly, Weekly & Daily Reports, from Solar winds and discusses the alerts which are unmonitored in Solar winds dash board, in daily techops call.
 Create a new wizard in Solarwinds as per the other team requirement.
-Experience with monitoring tools such as SolarWinds, NAGIOS, Dotcom, Pingdom, Datadog, Splunk Router Dashboard, Jenkins, File Share etc.
+
+Experience
+ with monitoring tools such as SolarWinds, NAGIOS, Dotcom, Pingdom, Datadog, Splunk Router Dashboard, Jenkins, File Share etc.
 Monitor and Provide timely response to all incidents, outages and performance alerts. Categorize issues for escalation to appropriate technical team
 Monitor a wide variety of information and network systems that include, but are not limited to telecommunications circuits, LAN/WAN systems, routers, switches, firewalls, VoIP systems, servers, storage, backup, operating systems and core applications
 Recognize, identify and prioritize incidents in accordance with customer business requirements, organizational policies and operational impact
@@ -87,22 +79,19 @@ Ability to work days, evenings, and weekends as required; 24x7 support
 EDUCATION
 
 Master of Science, Quality Management from the University of the West of Scotland UK in the year 2012.
-
-B.Tech (ECE) from VRS & YRN College of Eng. & Tech affiliated to JNTU in the year 2009. 
-                                                                                              
+B.Tech (ECE) from VRS & YRN College of Eng. & Tech affiliated to JNTU in the year 2009.
 PERSONAL DETAILS
+Fathers Name :K. J Raju
+Date of Birth:25-03-1987
+Gender:Male
+Marital Status :Married
 
-	Fathers Name		            :	K. J J Raju
-	Date of Birth			:	25-03-1987
-	Gender			:	Male
-	Marital Status		            :	Married 
-                         Hobbies                                  :          Watching Movies
-	Languages Known		:          Telugu, English, and Hindi
- Permanent Address		:          Tejkiran.k, H. No: 16-2-67/91, 
-C.B.C.I.D Officer’s Colony, Hydernagar,		Hyderabad.                         
-						           
-                         I do here by state that the above mentioned information is true to the best of my knowledge and belief.                                                                                       
+Hobbies
+ : Watching Movies
 
-
-
-                                                                                                                              (Tejkiran.k)
+Languages
+ Known: Telugu, English, and Hindi
+Permanent Address: Tejkiran.k, H. No: 16-2-67/91,
+C.B.C.I.D Officer's Colony, Hydernagar,Hyderabad.
+I do here by state that the above mentioned information is true to the best of my knowledge and belief.
+(Tejkiran.k)

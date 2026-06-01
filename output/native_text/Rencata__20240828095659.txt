@@ -1,5 +1,7 @@
 Skills
+
 Experience
+
 EDWARDS Lifesciences
 1/2/2019
 CARDIAC SCIENCE LCAED SERVER Device management software
@@ -13,7 +15,9 @@ Phone: 9840086052
 1/6/2018 - 1/1/2019
 1/4/2017 - 1/6/2015
 DotNetCV
+
 Education
+
 Degree
 College
 Year
