@@ -72,9 +72,7 @@ dmypy.json
 Thumbs.db
 desktop.ini
 
-# Environment variables
-.env
-.env.*
+
 
 # Logs
 *.log
