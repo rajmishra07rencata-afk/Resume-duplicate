@@ -447,10 +447,11 @@ class ResumeProcessor:
         try:
             if ext == ".pdf":
                 pdf_path = file_path
-            elif ext == ".docx":
-                pdf_path = self.convert_docx_to_pdf(file_path)
-            elif ext == ".doc":
-                pdf_path = self.convert_doc_to_pdf(file_path)
+
+            elif ext in [".doc", ".docx"]:
+                print("🔄 Converting using LibreOffice...")
+                pdf_path = self.convert_doc_to_pdf_libreoffice(file_path)
+
             else:
                 return {
                     "status": "failed",
@@ -458,6 +459,7 @@ class ResumeProcessor:
                     "reason": "Unsupported OCR file type",
                     "stage": "ocr_conversion",
                 }
+            
 
             images = PDFToImage.convert(pdf_path)
             if not images:
@@ -511,3 +513,30 @@ class ResumeProcessor:
                 "reason": "OCR returned empty text",
                 "stage": "ocr_empty",
             }
+
+    import subprocess
+    import tempfile
+
+    def convert_doc_to_pdf_libreoffice(self, path):
+        try:
+            output_dir = tempfile.gettempdir()
+
+            subprocess.run([
+                "soffice",
+                "--headless",
+                "--convert-to", "pdf",
+                "--outdir", output_dir,
+                path
+            ], check=True)
+
+            pdf_name = os.path.splitext(os.path.basename(path))[0] + ".pdf"
+            pdf_path = os.path.join(output_dir, pdf_name)
+
+            if not os.path.exists(pdf_path):
+                raise Exception("LibreOffice failed to create PDF")
+
+            return pdf_path
+
+        except Exception as e:
+            print(f"[LIBREOFFICE ERROR] {e}")
+            raise

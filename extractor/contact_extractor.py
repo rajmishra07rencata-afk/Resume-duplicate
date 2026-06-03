@@ -73,6 +73,15 @@ class ContactExtractor:
         if not text:
             return ""
 
+        # Fix broken gmail domains like gmai\nl.com or gmail .com
+        text = re.sub(
+            r'@g\s*m\s*a\s*i\s*l\s*[\n\r\s]*\.\s*c\s*o\s*m',
+            '@gmail.com',
+            text,
+            flags=re.IGNORECASE
+        )
+
+
         matches = cls.EMAIL_RE.finditer(text)
         emails = []
 
@@ -173,7 +182,7 @@ class ContactExtractor:
         )
 
         text = re.sub(
-            r'(\d)\s*\n\s*(\d)',
+            r'(\d{5})\s*\n\s*(\d{5})',
             r'\1\2',
             text
         )
